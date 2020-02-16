@@ -6,7 +6,7 @@ Welcome to my site! My name is Ken Myers and I have a passion for anything ident
 ## Follow me on social media, just look for @IDMKen:
 [Twitter](https://twitter.com/IDMKen)
 [LinkedIn](https://www.linkedin.com/in/idmken/)
-[Emai](mailto:mail@myers.guru)
+[Email](mailto:mail@myers.guru)
 
 ## Check out my talks and youtube videos.
-CyCon 3.0 - Resont, VA - February 2020 - "Somone's Borrowed my Identity!" | [Presentation](cycon30borrowedidentity.pptx)
+CyCon 3.0 - Resont, VA - February 2020 - "Somone's Borrowed my Identity!" | [Presentation](CyCon3.ppsx)

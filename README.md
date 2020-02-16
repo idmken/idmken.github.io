@@ -13,3 +13,5 @@ Need a speaker for identity management? Reach out!
 ## [Check out my blog posts](/blogs/blogs.md)
 
 ## [Check out my talks](/talks/talks.md)
+
+## [Check out my projects (coming soon :)

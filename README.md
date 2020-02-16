@@ -10,6 +10,6 @@ Need a speaker for identity management? Reach out!
 [LinkedIn](https://www.linkedin.com/in/idmken/){:target="_blank"}  
 [Email](mailto:mail@myers.guru){:target="_blank"}  
 
-## [Check out my blog posts](/blog/blogs.md){:target="_blank"}  
+## [Check out my blog posts](/blog/blogs.md)
 
-## [Check out my talks](/talks/talks.md){:target="_blank"}  
+## [Check out my talks](/talks/talks.md)

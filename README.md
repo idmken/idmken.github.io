@@ -9,4 +9,4 @@ Welcome to my site! My name is Ken Myers and I have a passion for anything ident
 [Email](mailto:mail@myers.guru)
 
 ## Check out my talks and youtube videos.
-CyCon 3.0 - Resont, VA - February 2020 - "Somone's Borrowed my Identity!" | [Presentation](CyCon3.ppsx)
+CyCon 3.0 - Resont, VA - February 2020 - "Somone's Borrowed my Identity!" | [Presentation](/talks/CyCon3.ppsx)

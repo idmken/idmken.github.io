@@ -5,11 +5,13 @@ Welcome to my site! My name is Ken Myers and I have a passion for anything ident
 Need a speaker for identity management? Reach out!
 
 ## Follow me on social media, just look for @IDMKen:
+
 [Twitter](https://twitter.com/IDMKen){:target="_blank"}  
 [LinkedIn](https://www.linkedin.com/in/idmken/){:target="_blank"}  
 [Email](mailto:mail@myers.guru){:target="_blank"}  
 
 ## Check out my talks.
+
 | Event | Location | Date | Title | Link (if available) |
 | ----- | -------- | ---- | ----- | ------------------- |
 | CyCon 3.0 | Reston, VA | February 2020 | "Somone's Borrowed my Identity!" | [Event Info / Presentation](/talks/2002-cycon3.md){:target="blank"}|

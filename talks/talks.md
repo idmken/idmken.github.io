@@ -1,6 +1,6 @@
 # Talks
 
-Previous speaking engagements with the presentation if I can share it. Reach out if you're interested in a topic.
+Previous and upcoming speaking engagements with the presentation if I can share it. Reach out if you're interested in a topic.
 
 | Event | Location | Date | Title | Link (if available) |
 | ----- | -------- | ---- | ----- | ------------------- |

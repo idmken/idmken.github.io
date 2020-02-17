@@ -4,7 +4,7 @@ Welcome to my site! My name is Ken Myers and I have a passion for anything ident
 
 Need a speaker for identity management? Reach out!
 
-## Follow me on social media, just look for @IDMKen:
+## Follow me on social media:
 
 [Twitter](https://twitter.com/IDMKen){:target="_blank"}  
 [LinkedIn](https://www.linkedin.com/in/idmken/){:target="_blank"}  

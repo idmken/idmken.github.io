@@ -13,4 +13,4 @@ Sources, articles or training to increase your IDM knowledge. All links are exte
 
 ## Guides
 
-1. [The Complete JSON Tutorial By: Dan E.](https://www.codewall.co.uk/the-complete-json-tutorial-quickly-learn-json/)
+1. [The Complete JSON Tutorial By: Dan Englishby](https://www.codewall.co.uk/the-complete-json-tutorial-quickly-learn-json/)

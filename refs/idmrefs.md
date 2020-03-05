@@ -14,3 +14,7 @@ Sources, articles or training to increase your IDM knowledge. All links are exte
 ## Guides
 
 1. [The Complete JSON Tutorial By: Dan Englishby](https://www.codewall.co.uk/the-complete-json-tutorial-quickly-learn-json/)
+
+## AWS
+
+1. [ABAC on AWS Tutoria By: AWS](https://docs.aws.amazon.com/IAM/latest/UserGuide/tutorial_attribute-based-access-control.html)

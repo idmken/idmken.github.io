@@ -1,6 +1,6 @@
 # Identity Management References
 
-Sources, articles or training to increase your IDM knowledge. All links are external links.
+Sources, articles or training to increase your IDM knowledge. I've read all articles or taken the taken and recommend it to others. All links are external links.
 
 ## Articles
 
@@ -14,8 +14,9 @@ Sources, articles or training to increase your IDM knowledge. All links are exte
 
 ## Guides
 
-1. [The Complete JSON Tutorial By: Dan Englishby](https://www.codewall.co.uk/the-complete-json-tutorial-quickly-learn-json/)
+1. [The Complete JSON Tutorial By: Dan Englishby](https://www.codewall.co.uk/the-complete-json-tutorial-quickly-learn-json/) #Great guide on how to understand and use JSON.
+2. [ABAC on AWS Tutorial By: AWS](https://docs.aws.amazon.com/IAM/latest/UserGuide/tutorial_attribute-based-access-control.html) #Want to try this out and see if you can do the same with tags on Azure.
 
-## AWS
-
-1. [ABAC on AWS Tutorial By: AWS](https://docs.aws.amazon.com/IAM/latest/UserGuide/tutorial_attribute-based-access-control.html)
+## Free IAM or IAM-Related Training
+1. [Okta Basics Curriculum by Okta (Six hours)](https://www.okta.com/training/okta-basics-curriculum/) #Solid Identity basics with how to deploy it in Okta.
+2. [MITRE ATT&CK for Cyber Threat Intelligence Training By MITRE (Four Hours)](https://attack.mitre.org/resources/training/cti/) #How to use MITRE ATT&CK.

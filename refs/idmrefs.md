@@ -18,4 +18,4 @@ Sources, articles or training to increase your IDM knowledge. All links are exte
 
 ## AWS
 
-1. [ABAC on AWS Tutoria By: AWS](https://docs.aws.amazon.com/IAM/latest/UserGuide/tutorial_attribute-based-access-control.html)
+1. [ABAC on AWS Tutorial By: AWS](https://docs.aws.amazon.com/IAM/latest/UserGuide/tutorial_attribute-based-access-control.html)

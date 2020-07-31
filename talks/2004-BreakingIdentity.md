@@ -1,7 +1,7 @@
 # ISACA Greater Washington DC Webinar
 Hosted by ISACA Greater Washington DC Chapter  
-February 15, 2020  
-Northern Virginia Community College  
+April 28, 2020 
+ISACA GWDC Cyber Workshops 2020
 [Event Details](https://isaca-gwdc.org/event/vcw-imazure/){:target="_blank"}  
 [Recording](https://isaca-gwdc.org/about/cyber-workshop-series-2020/){:target="_blank"}
 

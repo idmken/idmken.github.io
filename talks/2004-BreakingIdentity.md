@@ -2,7 +2,7 @@
 Hosted by ISACA Greater Washington DC Chapter  
 February 15, 2020  
 Northern Virginia Community College  
-[Event Details](https://isaca-gwdc.org/event/vcw-imazure/){:target="_blank"}
+[Event Details](https://isaca-gwdc.org/event/vcw-imazure/){:target="_blank"}  
 [Recording](https://isaca-gwdc.org/about/cyber-workshop-series-2020/){:target="_blank"}
 
 ## Breaking Into Identity Management with Azure

@@ -4,9 +4,7 @@ Welcome to my site! My name is Ken Myers and I have a passion for anything ident
 
 Need a speaker for identity management? Reach out! 
 
-[Twitter](https://twitter.com/IDMKen){:target="_blank"}  
-[LinkedIn](https://www.linkedin.com/in/idmken/){:target="_blank"}  
-[Email](mailto:mail@myers.guru){:target="_blank"}  
+[Twitter](https://twitter.com/IDMKen){:target="_blank"} | [LinkedIn](https://www.linkedin.com/in/idmken/){:target="_blank"} | [Email](mailto:mail@myers.guru){:target="_blank"}  
 
 ## [blog posts](/blogs/blogs.md)
 

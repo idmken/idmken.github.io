@@ -1,6 +1,6 @@
 # Blogs
 
-List of blog posts. Email or DM me for new ideas and topics.
+Reproduced here with source location.
 
 | Title | Topic | Date | Published Link | Local Link |
 | ----- | -------- | ---- | ------- | ----- |

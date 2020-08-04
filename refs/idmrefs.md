@@ -20,3 +20,4 @@ Sources, articles or training to increase your IDM knowledge. I've read all arti
 ## Free IAM or IAM-Related Training
 1. [Okta Basics Curriculum by Okta (Six hours)](https://www.okta.com/training/okta-basics-curriculum/){:target="_blank"} #Solid Identity basics with how to deploy it in Okta.
 2. [MITRE ATT&CK for Cyber Threat Intelligence Training By MITRE (Four Hours)](https://attack.mitre.org/resources/training/cti/){:target="_blank"} #How to use MITRE ATT&CK.
+3. [Introduction to Google Cloud Identity by Google on Coursera (Eight Hours)](https://www.coursera.org/learn/cloud-identity){:target="_blank"} #Free, but pay for the certificate. Good intro course on cloud identity management and specifically Google Cloud Directory, SSO, MDM, and security.

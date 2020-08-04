@@ -3,9 +3,9 @@ September 6, 2018
 
 # Worried About Regulatory Compliance with Cloud Data? Use a CASB
 
-Kenneth Myers
-September 6, 2018
-5 min read
+Kenneth Myers  
+September 6, 2018  
+5 min read  
 
 As IT evolves to incorporate virtual and serverless interfaces, more enterprises are operating in multicloud environments. Unfortunately, corporate users operating in such environments often and unknowingly risk causing data security breaches when moving corporate data between enterprise environments when no protections and policies are in place to stop data migration or loss, as well as when accessing corporate data with personal devices. However, cloud access security brokers (CASBs) can help organizations govern access and security to cloud-based data.
 
@@ -34,10 +34,3 @@ Some of the top concerns from our clients with multicloud environments pertain t
 - Identifies abnormal behavior – A CASB gives an enterprise visibility into its multicloud environment to provide a centralized view of user behavior, which helps identify attributes of a potential breach, use of compromised credentials or other signs of a potential compromise.
 
 Within the Protiviti IAM framework, CASBs span the what-you-can-access components of data stores and security services, access and risk management, and authorization. While CASBs aren’t meant to replace current IAM components, they can supplement implementations for greater visibility into cloud use. They essentially act more like a glue between IAM components to help enterprises ensure strong access-control and data-security policy.
-
-For more information, please contact:
-
-Samitha Amarasiri, Managing Director
-Technology Consulting – Security & Privacy
-samitha.amarasiri@protiviti.com
-Connect on LinkedIn

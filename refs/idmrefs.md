@@ -18,6 +18,6 @@ Sources, articles or training to increase your IDM knowledge. I've read all arti
 2. [ABAC on AWS Tutorial By: AWS](https://docs.aws.amazon.com/IAM/latest/UserGuide/tutorial_attribute-based-access-control.html){:target="_blank"} #Want to try this out and see if you can do the same with tags on Azure.
 
 ## Free IAM or IAM-Related Training
-1. [Okta Basics Curriculum by Okta (Six hours)](https://www.okta.com/training/okta-basics-curriculum/){:target="_blank"} #Solid Identity basics with how to deploy it in Okta.
-2. [MITRE ATT&CK for Cyber Threat Intelligence Training By MITRE (Four Hours)](https://attack.mitre.org/resources/training/cti/){:target="_blank"} #How to use MITRE ATT&CK.
+1. [Okta Basics Curriculum by Okta (Six hours)](https://www.okta.com/training/okta-basics-curriculum-for-workforce-identity/){:target="_blank"} #Free for customers. Solid Identity basics with how to deploy them on Okta.
+2. [MITRE ATT&CK for Cyber Threat Intelligence Training By MITRE (Four Hours)](https://attack.mitre.org/resources/training/cti/){:target="_blank"} #How to use MITRE ATT&CK which includes identity-based attack vectors.
 3. [Introduction to Google Cloud Identity by Google on Coursera (Eight Hours)](https://www.coursera.org/learn/cloud-identity){:target="_blank"} #Free content and hands-on training with trial GCP account. Pay if you want a certificate. Good intro course on cloud identity management and specifically Google Cloud Directory, SSO, MDM, and security.

@@ -1,7 +1,7 @@
 # ISACA Greater Washington DC National Security Conference 2020
 Hosted by ISACA Greater Washington DC Chapter  
-November 17, 2020 
-Half-Day Virtual Conference
+November 17, 2020   
+Half-Day Virtual Conference  
 [Event Details](https://isaca-gwdc.org/event/national-security-technology-conference-2020/#.X8pj2Y9Uvlw){:target="_blank"}  
 
 ## Master of Ceremonies

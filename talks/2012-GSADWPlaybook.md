@@ -9,3 +9,9 @@ Webinar Event
 Join us for this webinar to learn more about how the GSA Digital Worker Credentialing Handbook is helping user’s better understand procedural requirements, adjudications, and appeals of GSA employees, applicants, appointees, volunteers, and affiliates. This webinar is hosted by the ATARC Robotic Process Automation Project Team, as part of the artificial Intelligence and Data Analytics Working Group at ATARC.
 
 [Download Presentation](2012-GSADWPlaybook.pdf)
+
+## Press Related to Event
+
+[GSA Helping Agenices Overcome 'Mental Barrier' Fielding Unattended Bots - Federal News Network](https://federalnewsnetwork.com/artificial-intelligence/2020/12/gsa-helping-agencies-overcome-mental-barrier-fielding-unattended-bots/){:target="_blank"}
+
+[GSA Looks to Release Handbook on RPA Monitoring, Access MGMT - ExeutiveGov By GovCon|Daily](https://www.executivegov.com/2020/12/gsa-looks-to-release-handbook-on-rpa-monitoring-access-mgmt/){:target="_blank"}

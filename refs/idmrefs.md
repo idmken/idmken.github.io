@@ -8,10 +8,12 @@ Sources, articles or training to increase your IDM knowledge. I've read all arti
 ## Articles / Standards / Frameworks
 
 ### 2020
-1. [You Need Multiple SAML IDP Signing Keys](https://www.stackallocated.com/blog/2020/saml-idp-no-shared-keys/){:target="_blank"} ***Great article on the risk in SAML signing keys and also contains a market analysis.***
+1. [You Need Multiple SAML IDP Signing Keys By: Hans via Hansblog](https://www.stackallocated.com/blog/2020/saml-idp-no-shared-keys/){:target="_blank"} ***Great article on the risk in SAML signing keys and also contains a market analysis.***
 2. [Implementing Zero Trust with Microsoft Azure: Identity and Access Management (1 of 6) By: TJ Banasik via Azure Gov Blog (15 min read)](https://devblogs.microsoft.com/azuregov/implementing-zero-trust-with-microsoft-azure-identity-and-access-management-1-of-6/){:target="_blank"}
 3. [Attacking Azure, Azure AD, and Introducing PowerZure By: Ryan Hausknecht via SpectorOps (14 min read)](https://posts.specterops.io/attacking-azure-azure-ad-and-introducing-powerzure-ca70b330511a){:target="_blank"}
 4. [The Public Sector Profile of the Pan-Canadian Trust Framework (PCTF-CCP) By: Government of Canada (2 hour read)](https://canada-ca.github.io/PCTF-CCP/){:target="_blank"} ***Identity frameworks are an interesting way to see how identity is used in other sectors and cultures. This one is designed to map identity and business processes in Canada. It also helps map those processes to other international frameworks such as eIDAS, FATF, and UNCITRAL.***
+5. [What Is SMS Authentication and Is It Secure? By: Teju Shyamsundar via Okta Blog](https://www.okta.com/blog/2020/10/sms-authentication/){:target="_blank"} ***Nice synopsis of the proc/cons of SMS-based authentication. NIST did discourage it's use but walked it back.***
+6. [Microsoft Windows Certificate Path Validation in Bridge CA and Cross-Certification Environments By Siddarth Adukia via Microsoft Tech Community](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/certificate-path-validation-in-bridge-ca-and-cross-certification/ba-p/1128610){:target="_blank"} ***PKI path building an validation is always tricky depending on the library. CAPI2 uses a unique logic.***
 
 ### 2019
 1. [Introduction to Self-Soverign Identity By: Juin Chiu via Medium (11 min read)](https://medium.com/unitychain/intro-to-ssi-7cdac15251a7){:target="_blank"}

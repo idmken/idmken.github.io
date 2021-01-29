@@ -3,9 +3,9 @@ January 13, 2021
 
 # Are You Securing Your Digital Workforce?
 
-January 13, 2021
-Daria Medved, Deputy Director, Emerging Technologies, 
-Ken Myers, IT Specialist 
+January 13, 2021 <br>
+Daria Medved, Deputy Director, Emerging Technologies <br>
+Ken Myers, IT Specialist <br>
 Post filed in: Emerging Technology
 
 ## What’s A Digital Workforce?

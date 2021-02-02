@@ -13,5 +13,3 @@ Join us for this webinar to learn more about how the GSA Digital Worker Credenti
 ## Press Related to Event
 
 [GSA Helping Agenices Overcome 'Mental Barrier' Fielding Unattended Bots - Federal News Network](https://federalnewsnetwork.com/artificial-intelligence/2020/12/gsa-helping-agencies-overcome-mental-barrier-fielding-unattended-bots/){:target="_blank"}
-
-[GSA Looks to Release Handbook on RPA Monitoring, Access MGMT - ExeutiveGov By GovCon Daily](https://www.executivegov.com/2020/12/gsa-looks-to-release-handbook-on-rpa-monitoring-access-mgmt/){:target="_blank"}

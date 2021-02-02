@@ -4,7 +4,7 @@ Reproduced here with source location.
 
 | Title | Topic | Date | Published Link | Local Link |
 | ----- | -------- | ---- | ------- | ----- |
-| Are You Securing Your Digital Workforce? | Automated Technology Identity Management Playbook | January 2021 | [GSA Blog](https://www.gsa.gov/blog/2021/01/13/are-you-securing-your-digital-workforce){:target="_blank"} | [GitHub](2101-digitalworkforce.md) |
+| Are You Securing Your Digital Workforce? | Automated Technology Identity Management Playbook | January 2021 | [GSA Blog](https://www.gsa.gov/blog/2021/01/13/are-you-securing-your-digital-workforce){:target="_blank"} | [GitHub](2101-GSADWPlaybook.md) |
 | Federal Identities and Zero Trust | Potential changes from OMB Memo 19-17 | October 2019 | [ISACA GWDC Blog](https://isaca-gwdc.org/federal-identities-and-zero-trust/){:target="_blank"} | [GitHub](1910-fedidandzerotrust.md) | 
 | A Holistic Approach to Data Loss Prevention | How to plan a comprehensive data loss prevention strategy | October 2019 | [Protiviti Technology Blog](https://tcblog.protiviti.com/2019/10/14/a-holistic-approach-to-data-loss-prevention/){:target="_blank"} | [GitHub](1910-dlpplan.md) |
 | Cloud Security in Financial Services – Are you Cloud First or Cloud Averse? | Cloud security is not a “set it and forget it approach.” | June 2019 | [Protiviti Technology Blog](https://tcblog.protiviti.com/2019/06/14/cloud-security-in-financial-services-are-you-cloud-first-or-cloud-averse/){:target="_blank"} | [GitHub](1906-financialcloudsecurity.md) | 

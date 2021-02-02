@@ -3,7 +3,7 @@ January 13, 2021
 
 # Press Related to Blog Post
 
-[GSA Creates Digital Worker Identity Mgmt Guide - ExecutiveGov By GovCon Daily | February 1, 2021](https://www.executivegov.com/2021/02/gsa-creates-digital-worker-identity-mgmt-guide/){:target="_blank"}
+[GSA Creates Digital Worker Identity Mgmt Guide - ExecutiveGov By GovCon Daily - February 1, 2021](https://www.executivegov.com/2021/02/gsa-creates-digital-worker-identity-mgmt-guide/){:target="_blank"}
 
 # Are You Securing Your Digital Workforce?
 

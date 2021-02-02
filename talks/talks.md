@@ -4,7 +4,7 @@ Previous and upcoming speaking engagements with the presentation if I can share 
 
 | Event | Location | Date | Title | Link (if available) |
 | ----- | -------- | ---- | ----- | ------------------- |
-| ATARC Robotic Process Automation Project Team | Webinar | December 2020 | GSA Digital Worker Identity Handbook | [Event Info / Presentaion / Recording](2012-ATARCDWPlaybook.md) |
+| ATARC Robotic Process Automation Project Team | Webinar | December 2020 | GSA Digital Worker Identity Handbook | [Event Info / Presentaion / Recording / Press](2012-ATARCDWPlaybook.md) |
 | ISACA GWDC National Security Conference 2020 | Virtual | November 2020 | Master of Ceremonies | [Event Info](2011-ISACAGWDCNatSec.md)
 | ISACA GWDC Cyber Workshop 2020 | Webinar | April 2020 | Breaking into identity Management with Azure! | [Event Info / Presentation / Recording](2004-BreakingIdentity.md) |
 | CyCon 3.0 Conference | Reston, VA | February 2020 | Somone's Borrowed my Identity! | [Event Info / Presentation](2002-cycon3.md) |

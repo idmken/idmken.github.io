@@ -1,12 +1,8 @@
 # Welcome!!
 
-Welcome to my site! My name is Ken Myers and I have a passion for anything identity management. Our physical and digital identities are at the center of everything we do. From meeting new people, to buying stuff online, and even trying to gain access to an application at work.
+Welcome to my site! My name is Ken Myers and I have a passion for anything identity and access management. Our physical and digital identities are at the center of everything we do. 
 
-I'm using this to capture anything IAM related. Articles I write or others, IAM training, and my talks and published papers.
-
-Need a speaker for identity management? Reach out! 
-
-[Twitter](https://twitter.com/IDMKen){:target="_blank"} | [LinkedIn](https://www.linkedin.com/in/idmken/){:target="_blank"} | [Email](mailto:mail@myers.guru){:target="_blank"}  
+I'm using this site to capture anything IAM related as well as my own work in the field.
 
 ## [blog posts](/blogs/blogs.md)
 
@@ -17,3 +13,7 @@ Need a speaker for identity management? Reach out!
 ## [useful IDM references](/refs/idmrefs.md)
 
 ## Check out my projects (coming soon :)
+
+Need a speaker for identity and access management or cloud access security? Reach out! 
+
+[Twitter](https://twitter.com/IDMKen){:target="_blank"} | [LinkedIn](https://www.linkedin.com/in/idmken/){:target="_blank"} | [Email](mailto:mail@myers.guru){:target="_blank"}  

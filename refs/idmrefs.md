@@ -1,6 +1,6 @@
 # Identity Management References
 
-Sources, articles or training to increase our Identity and Access Management knowledge. I've read all articles or taken the training and recommend it to others. All links are external links and ordered with latest find on top. I use this as both a way to share information and also a way to keep track of good content.
+Sources, articles or training to increase our Identity and Access Management knowledge. I've read all articles or taken the training and recommend it to others. Recommendation is not an endorsement of a product but more "oh, here's an article on the thing we talked about". All links are external links and ordered with latest find on top. I use this as both a way to share information and also a way to keep track of good content.
 
 ## In the Queue
 1. [ABAC on AWS Tutorial By: AWS](https://docs.aws.amazon.com/IAM/latest/UserGuide/tutorial_attribute-based-access-control.html){:target="_blank"} ***Want to try this out and see if you can do the same with tags on Azure.***

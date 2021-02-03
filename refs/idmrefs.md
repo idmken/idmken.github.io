@@ -21,7 +21,9 @@ Sources, articles or training to increase our Identity and Access Management kno
 2. [Alert (AA21-008A) - Detecting Post-Compromise Threat Activity in Microsoft Cloud Environments By: DHS CISA (20 min read)](https://us-cert.cisa.gov/ncas/alerts/aa21-008a){:target="_blank"} ***Excellent write-up and tools to identify compromised Microsoft federation systems.***
 1. [Golden SAML: Newly Discovered Attack Technique Forges Authentication to Cloud Apps By: CyberArk (15 min read)](https://www.cyberark.com/resources/threat-research-blog/golden-saml-newly-discovered-attack-technique-forges-authentication-to-cloud-apps){:target="_blank"} ***Similar to Golden ticket attacks but specific to SAML key compromises.***
 
-## Frameworks
+## Frameworks and Standards
+2. [NIST Special Publication 800-63 Revision 3 Digital Identity Guidelines By: NIST (3.5 hour read)](https://pages.nist.gov/800-63-3/sp800-63-3.html){:target="_blank"} ***The digital identity bible for federal government agencies. A major upgrade to 800-63-3 evolving to three separate identity, authenticator, and federation levels.***
+  - [NIST SPECIAL PUBLICATION 800-63-3 IMPLEMENTATION RESOURCES By: NIST (2 hour read)](https://www.nist.gov/system/files/documents/2020/07/02/SP-800-63-3-Implementation-Resources_07012020.pdf){:target="_blank"} ***Accompanying guide to 800-63-3 on implementing the normative requirements of 800-63-3.***
 1. [The Public Sector Profile of the Pan-Canadian Trust Framework (PCTF-CCP) By: Government of Canada (2 hour read)](https://canada-ca.github.io/PCTF-CCP/){:target="_blank"} ***Identity frameworks are an interesting way to see how identity is used in other sectors and cultures. This one is designed to map identity and business processes in Canada. It also helps map those processes to other international frameworks such as eIDAS, FATF, and UNCITRAL.***
 
 ## Guides

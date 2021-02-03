@@ -12,6 +12,8 @@ Need a speaker for identity management? Reach out!
 
 ## [talks](/talks/talks.md)
 
+## [published papers](/papers/papers.md)
+
 ## [useful IDM references](/refs/idmrefs.md)
 
 ## Check out my projects (coming soon :)

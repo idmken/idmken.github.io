@@ -1,4 +1,4 @@
-Reproduced here from [LinkedIn](https://www.linkedin.com/pulse/help-im-sinking-kenneth-myers/){:target="_blank"}  
+Reproduced here from [LinkedIn](https://www.linkedin.com/pulse/help-im-sinking-kenneth-myers/){:target="_blank"}{:rel="noopener noreferrer"} 
 
 # Help! I'm Sinking! Three Tips for an Empty Inbox  
 Kenneth Myers  

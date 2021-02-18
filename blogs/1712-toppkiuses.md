@@ -5,7 +5,7 @@ Kenneth Myers
 December 4, 2017
 5 min read
 
-Public Key Infrastructure or PKI has been around for more than twenty years (thirty?!?) and just like any twenty-year-old, it may have finally found its home with device protection. When PKI first hit the scene, it was revolutionary. A way to share information without sharing the same secret key with multiple people (An excellent primer on PKI is on Khan Academy https://www.khanacademy.org/computing/computer-science/cryptography/modern-crypt/v/diffie-hellman-key-exchange-part-1){:target="_blank"}{:rel="noopener noreferrer"} . 
+Public Key Infrastructure or PKI has been around for more than twenty years (thirty?!?) and just like any twenty-year-old, it may have finally found its home with device protection. When PKI first hit the scene, it was revolutionary. A way to share information without sharing the same secret key with multiple people (An excellent primer on PKI is on [Khan Academy](https://www.khanacademy.org/computing/computer-science/cryptography/modern-crypt/v/diffie-hellman-key-exchange-part-1){:target="_blank"}{:rel="noopener noreferrer"}) . 
 
 It had a private key which only the owner would "know" and a public key which they used to share information. The secret in the sauce lay in that the numbers or keys were so big it would be almost impossible for either a person or computer to guess the two and decipher a message. I like the Khan Academy example of using colors for everyone who is either new to PKI or a fan of analogies (me!).
 

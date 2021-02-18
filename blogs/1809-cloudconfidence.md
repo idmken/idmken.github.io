@@ -1,4 +1,5 @@
 Reproduced here from the [Protiviti Technology Blog](https://tcblog.protiviti.com/2018/09/06/worried-about-regulatory-compliance-with-cloud-data-use-a-casb/){:target="_blank"}{:rel="noopener noreferrer"}
+
 September 6, 2018
 
 # Worried About Regulatory Compliance with Cloud Data? Use a CASB

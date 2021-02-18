@@ -1,4 +1,5 @@
-Reproduced here from the [Protiviti Technology Blog](https://tcblog.protiviti.com/2019/06/14/cloud-security-in-financial-services-are-you-cloud-first-or-cloud-averse/){:target="_blank"}  
+Reproduced here from the [Protiviti Technology Blog](https://tcblog.protiviti.com/2019/06/14/cloud-security-in-financial-services-are-you-cloud-first-or-cloud-averse/){:target="_blank"}{:rel="noopener noreferrer"}
+
 June 14, 2019
 
 # Cloud Security in Financial Services – Are you Cloud First or Cloud Averse?

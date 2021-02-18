@@ -2,7 +2,7 @@
 Hosted by ISACA Greater Washington DC Chapter  
 November 17, 2020   
 Half-Day Virtual Conference  
-[Event Details](https://isaca-gwdc.org/event/national-security-technology-conference-2020/#.X8pj2Y9Uvlw){:target="_blank"}  
+[Event Details](https://isaca-gwdc.org/event/national-security-technology-conference-2020/#.X8pj2Y9Uvlw){:target="_blank"}{:rel="noopener noreferrer"}
 
 ## Master of Ceremonies
 Join us for the Virtual National Security Technology Conference 2020 on November 19th. Information system confidentiality, integrity and accessibility of national security and defense agencies are paramount to advance our Nation’s interests. Join us at the National Security Information Technology Conference to learn about initiatives from select agencies that have been demonstrating being efficient and effective custodians of taxpayer resources.

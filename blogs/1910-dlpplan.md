@@ -1,4 +1,5 @@
-Reproduced here from the [Protiviti Technology Blog](https://tcblog.protiviti.com/2019/10/14/a-holistic-approach-to-data-loss-prevention/){:target="_blank"}  
+Reproduced here from the [Protiviti Technology Blog](https://tcblog.protiviti.com/2019/10/14/a-holistic-approach-to-data-loss-prevention/){:target="_blank"}{:rel="noopener noreferrer"}
+
 October 14, 2019
 
 # A Holistic Approach to Data Loss Prevention

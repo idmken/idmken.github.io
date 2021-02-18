@@ -4,8 +4,8 @@ June 14, 2019
 
 # Cloud Security in Financial Services – Are you Cloud First or Cloud Averse?
 
-Kenneth Myers  
-Nate Smolenski  
+Kenneth Myers, Protiviti  
+Nate Smolenski, Netskope  
 June 14, 2019  
 8 min read
 

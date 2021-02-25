@@ -1,6 +1,6 @@
 # Blogs
 
-Reproduced here with source location.
+Articles or blog posts where I've written material. Reproduced here with source location.
 
 | Title | Topic | Date | Published Link | Local Link |
 | ----- | -------- | ---- | ------- | ----- |

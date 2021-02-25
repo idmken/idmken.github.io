@@ -4,6 +4,7 @@ Reproduced here with source location.
 
 | Title | Topic | Date | Published Link | Local Link |
 | ----- | -------- | ---- | ------- | ----- |
+| Are We Federated Yet? | Single Sign-On | February 2021 | [GSA Blog](https://www.gsa.gov/blog/2021/02/25/are-we-federated-yet){:target="_blank"}{:rel="noopener noreferrer"} | [GitHub](2102-GSAESSOPlaybook.md) |
 | Are You Securing Your Digital Workforce? | Digital Worker Identity Management | January 2021 | [GSA Blog](https://www.gsa.gov/blog/2021/01/13/are-you-securing-your-digital-workforce){:target="_blank"}{:rel="noopener noreferrer"} | [GitHub](2101-GSADWPlaybook.md) |
 | Federal Identities and Zero Trust | Zero Trust | October 2019 | [ISACA GWDC Blog](https://isaca-gwdc.org/federal-identities-and-zero-trust/){:target="_blank"}{:rel="noopener noreferrer"} | [GitHub](1910-fedidandzerotrust.md) | 
 | A Holistic Approach to Data Loss Prevention | Data Loss Prevention (DLP) | October 2019 | [Protiviti Technology Blog](https://tcblog.protiviti.com/2019/10/14/a-holistic-approach-to-data-loss-prevention/){:target="_blank"}{:rel="noopener noreferrer"} | [GitHub](1910-dlpplan.md) |

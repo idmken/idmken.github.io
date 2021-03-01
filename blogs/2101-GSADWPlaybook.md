@@ -1,8 +1,12 @@
 Reproduced here from the [GSA Blog](https://www.gsa.gov/blog/2021/01/13/are-you-securing-your-digital-workforce){:target="_blank"}{:rel="noopener noreferrer"}
 
-January 13, 2021
+## Press Related to Blog Post
+
+[GSA Creates Digital Worker Identity Mgmt Guide By: ExecutiveGov By GovCon Daily - February 1, 2021](https://www.executivegov.com/2021/02/gsa-creates-digital-worker-identity-mgmt-guide/){:target="_blank"}{:rel="noopener noreferrer"}
 
 # Are You Securing Your Digital Workforce?
+
+January 13, 2021
 
 ## What’s A Digital Workforce?
 
@@ -25,7 +29,3 @@ This playbook is iterative and agencies are encouraged to collaborate, share bes
 [Identity, Credential, and Access Management subcommittee (ICAMSC)](https://login.max.gov/cas/login?service=https%3A%2F%2Fcommunity.max.gov%2Flogin.action%3Fos_destination%3D%252Fpages%252Fviewpage.action%253FpageId%253D234815732){:target="_blank"}{:rel="noopener noreferrer"}
 [Robotic Process Automation Community of Practice](https://digital.gov/communities/rpa/){:target="_blank"}{:rel="noopener noreferrer"}
 [Artificial Intelligence Community of Practice](https://digital.gov/communities/artificial-intelligence/){:target="_blank"}{:rel="noopener noreferrer"}
-
-## Press Related to Blog Post
-
-[GSA Creates Digital Worker Identity Mgmt Guide By: ExecutiveGov By GovCon Daily - February 1, 2021](https://www.executivegov.com/2021/02/gsa-creates-digital-worker-identity-mgmt-guide/){:target="_blank"}{:rel="noopener noreferrer"}

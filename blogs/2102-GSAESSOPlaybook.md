@@ -1,8 +1,12 @@
 Reproduced here from the [GSA Blog](https://www.gsa.gov/blog/2021/02/25/are-we-federated-yet){:target="_blank"}{:rel="noopener noreferrer"}
 
-February 25, 2021
+## Press Related to Blog Post
+
+[GSA Releases Single Sign-On Playbook for Federal Agencies By: ExecutiveGov By GovCon Daily - February 25, 2021](https://www.executivegov.com/2021/02/gsa-releases-single-sign-on-playbook-for-federal-agencies/){:target="_blank"}{:rel="noopener noreferrer"}
 
 # Are We Federated Yet?
+
+February 25, 2021
 
 GSA’s Office of Government-wide Policy is pleased to announce a new Enterprise Single Sign-on Playbook. This playbook is for identity program managers and enterprise and application architects interested in modernizing their agency’s access management systems for internal or external applications. Single sign-on, or SSO, allows agencies to centralize application access for employees and contractors, ultimately allowing for federated access with other federal executive agencies.
 

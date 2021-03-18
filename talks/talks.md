@@ -4,10 +4,10 @@ Previous and upcoming speaking engagements with the presentation if I can share 
 
 | Event | Location | Date | Title | More Info |
 | ----- | -------- | ---- | ----- | --------- |
-| ATARC Webinar | Webinar | April 2021 | Identity-Centric Security: The New Agency Perimeter | [Event Info](2105-ATARCIdentity.md)
+| ATARC Webinar | Webinar | April 2021 | Identity-Centric Security: The New Agency Perimeter | [Event Info](2104-ATARCIdentity.md)
 | Defense Strategies Institute (DSI) Identity Management Symposium 2021 | Alexandria, VA | April 2021 (Invited) | GSA Digital Worker Identity Playbook | [Event Info](2104-DSIIDMGSADWPlaybook.md)
 | ISACA GWDC Cyber Workshop 2021 | Webinar | December 2020 | GSA Digital Worker Identity Playbook | [Event Info](2012-VCWGSADWPlaybook.md)
-| ATARC Robotic Process Automation Project Team | Webinar | December 2020 | GSA Digital Worker Identity Handbook | [Event Info / Presentaion / Recording / Press](2012-ATARCDWPlaybook.md) |
+| ATARC Robotic Process Automation Project Team | Webinar | December 2020 | GSA Digital Worker Identity Handbook | [Event Info / Presentation / Recording / Press](2012-ATARCDWPlaybook.md) |
 | ISACA GWDC National Security Conference 2020 | Virtual | November 2020 | Master of Ceremonies | [Event Info](2011-ISACAGWDCNatSec.md)
 | ISACA GWDC Cyber Workshop 2020 | Webinar | April 2020 | Breaking into identity Management with Azure! | [Event Info / Presentation / Recording](2004-BreakingIdentity.md) |
 | CyCon 3.0 Conference | Reston, VA | February 2020 | Somone's Borrowed my Identity! | [Event Info / Presentation](2002-cycon3.md) |

@@ -10,7 +10,7 @@ I'm using this site to capture anything IAM related as well as my own work in th
 
 ## [published papers](/papers/papers.md)
 
-## [useful IDM references](/refs/idmrefs.md)
+## [useful IAM references](/refs/idmrefs.md)
 
 ## [Identity and Access Management Competency Model Dissertation](/dissertation/idmwp.md)
 

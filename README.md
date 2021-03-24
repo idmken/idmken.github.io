@@ -12,7 +12,7 @@ I'm using this site to capture anything IAM related as well as my own work in th
 
 ## [useful IDM references](/refs/idmrefs.md)
 
-## Check out my projects (coming soon :)
+## [Identity and Access Management Workforce Planning Dissertation](/dissertation/idmwp.md)
 
 Need a speaker for identity and access management or cloud access security? Reach out! 
 

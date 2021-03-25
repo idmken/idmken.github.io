@@ -2,7 +2,8 @@
 
 This page captures the progress of my dissertation of an identity and access managment competency model.
 
-_**I've modified my original research topic which was focusd on a competency model on the U.S. Federal Government to a generic competency model based on cybersecurity workforce planning developed and implemented by the U.S. Federal Government.**_
+List of dissertation modification:
+1. 03/2021 - My original research topic was focusd on a competency model for the U.S. Federal Government. I've modified it to a generic competency model based on cybersecurity workforce planning developed and implemented by the U.S. Federal Government.
 
 # Where have all the Identirati gone? An Identity and Access Management Competency Model
 

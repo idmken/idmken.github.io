@@ -2,6 +2,8 @@
 
 This page captures the progress of my dissertation of an identity and access managment competency model.
 
+_**I've modified my original research topic which was focusd on a competency model on the U.S. Federal Government to a generic competency model based on cybersecurity workforce planning developed and implemented by the U.S. Federal Government.**_
+
 # Where have all the Identirati gone? An Identity and Access Management Competency Model
 
 The purpose of my research is to establish identity and access management work roles, tasks, knowledge, and skills aligned with a competency model to help organizations hire, train, and retain Identity and Access Management professionals.

@@ -8,7 +8,7 @@ March 21, 2021
 Table of Contents
 1. [Reflecting on Research](#reflecting-on-research)<br>
     i. [Historical Background](#historical-background)<br>
-    ii. [Contemproary Context](#contemporary-context)<br>
+    ii. [Contemporary Context](#contemporary-context)<br>
     iii. [Theories and Concepts](#theories-and-concepts)<br>
     iv. [Previous Research and Limitations](#previous-research-and-limitations)<br>
     v. [Significance of the Issue](#significance-of-the-issue)
@@ -28,9 +28,9 @@ Research Questions:
 | # | Relevant points to include in relation to your own research topic | Key references |
 | -- | -------------- | ------------------ |
 | 1 | Obama Administration wrote a Federal Cybersecurity Workforce Strategy	| Donovan, S., Cobert, B., Daniel, M., and Scott, T. (2016, July 16). Strengthening the Federal Cybersecurity Workforce. The White House President Barack Obama. [https://obamawhitehouse.archives.gov/](https://obamawhitehouse.archives.gov/blog/2016/07/12/strengthening-federal-cybersecurity-workforce){:target=”_blank”}{:rel=”noopener noreferrer”}|
-| 2| There are wide variations in the quality and security of identification used to gain access to secure facilities where there is potential for terrorist attacks. In order to eliminate these variations, U.S. policy is to enhance security, increase Government efficiency, reduce identity fraud, and protect personal privacy by establishing a mandatory, Government-wide standard for secure and reliable forms of identification issued by the Federal Government to its employees and contractors (including contractor employees). This directive mandates a federal standard for secure and reliable forms of identification. | White House. (2020, April 23). Homeland security presidential directive 12. Department of Homeland Security. https://www.dhs.gov/{:target=”_blank”}{:rel=”noopener noreferrer”}|
+| 2| There are wide variations in the quality and security of identification used to gain access to secure facilities where there is potential for terrorist attacks. In order to eliminate these variations, U.S. policy is to enhance security, increase Government efficiency, reduce identity fraud, and protect personal privacy by establishing a mandatory, Government-wide standard for secure and reliable forms of identification issued by the Federal Government to its employees and contractors (including contractor employees). This directive mandates a federal standard for secure and reliable forms of identification. | White House. (2020, April 23). Homeland security presidential directive 12. Department of Homeland Security. [https://www.dhs.gov/](https://www.dhs.gov/homeland-security-presidential-directive-12){:target=”_blank”}{:rel=”noopener noreferrer”}|
 
-## Contemproary Context 
+## Contemporary Context 
 
 | # | Relevant points to include in relation to your own research topic | Key references |
 | -- | -------------- | ------------------ |
@@ -47,12 +47,12 @@ Research Questions:
 | 3 | Federal government identity and access management reference architecture | General Services Administration (GSA). (2020). Federal Identity, Credential, and Access Management Architecture. Retrieved on October 11, 2020, [https://arch.idmanagement.gov/](https://arch.idmanagement.gov/){:target=”_blank”}{:rel=”noopener noreferrer”} |
 | 4 | Zero trust identity approaches | Rose, S., Borchert, O., Mitchell, S., & Connelly, S. (2020). Zero trust architecture. NIST Special Publication, 800(207), 1–50. [https://doi.org/10.6028/nist.sp.800-207](https://doi.org/10.6028/nist.sp.800-207){:target=”_blank”}{:rel=”noopener noreferrer”} |
 | 5 | Cybersecurity curricula | Association for Computing Machinery, IEEE Computer Society, Association for Information Systems Special Interest Group on Security, & International Federation for Information Processing Technical Committee on Information Security Education. (2015). Cybersecurity curricula 2017. [https://cybered.hosting.acm.org/wp/](https://cybered.hosting.acm.org/wp/){:target=”_blank”}{:rel=”noopener noreferrer”} |
-| 6 | NIST Cybersecurity Framework Protect Category for Identity Management and Access Control | NIST. (2018). Framework for improving critical infrastructure cybersecurity version 1.1. [https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.04162018.pdf](https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.04162018.pdf){:target=”_blank”}{:rel=”noopener noreferrer”} |
+| 6 | NIST Cybersecurity Framework Protect Category for Identity Management and Access Control | NIST. (2018). Framework for improving critical infrastructure cybersecurity version 1.1. [https://nvlpubs.nist.gov/](https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.04162018.pdf){:target=”_blank”}{:rel=”noopener noreferrer”} |
 | 7 | DHS CDM Phase 2 – Identity – Trust, behave, cred, and privilege | DHS. (2018). PRIVMGMT: The First Step Toward CDM Phase 2 Capabilities. [https://us-cert.cisa.gov/](https://us-cert.cisa.gov/sites/default/files/cdm_files/FNR_CPM_OTH_NovWebinarSlides.pdf){:target=”_blank”}{:rel=”noopener noreferrer”} |
 | 8 | CYBOK version 1.0 | University of Bristol. (2020). CyBOK version 1.0. CYBOK. [https://www.cybok.org/knowledgebase/](https://www.cybok.org/knowledgebase/){:target=”_blank”}{:rel=”noopener noreferrer”} |
 | 9 | IDPRO BOK | IDPro. (2020, December 16). IDPro’s Body of Knowledge. [https://idpro.org/body-of-knowledge/](https://idpro.org/body-of-knowledge/){:target=”_blank”}{:rel=”noopener noreferrer”} |
 
-## Previous research and it’s limitations
+## Previous Research and Limitations
 
 | # | Relevant points to include in relation to your own research topic | Key references |
 | -- | -------------- | ------------------ |

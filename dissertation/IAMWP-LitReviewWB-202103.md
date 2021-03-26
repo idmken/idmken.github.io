@@ -3,9 +3,9 @@ School of Technology and Business<br>
 Marymount University<br>
 March 21, 2021
 
-## Literature Review Workbook
+# Literature Review Workbook
 
-Table of Contents
+## Table of Contents
 1. [Reflecting on Research](#reflecting-on-research)<br>
     i. [Historical Background](#historical-background)<br>
     ii. [Contemporary Context](#contemporary-context)<br>
@@ -23,7 +23,7 @@ Research Questions:
 2.	What are the foundational identity and access management architecture areas?
 3.	How can a curriculum incorporate identity and access management training modules into a broader cybersecurity program?
 
-[Return To Top](#)
+[Return To Table of Contents](#table-of-contents)
 
 ## Historical Background 
 
@@ -32,6 +32,8 @@ Research Questions:
 | 1 | Obama Administration wrote a Federal Cybersecurity Workforce Strategy	| Donovan, S., Cobert, B., Daniel, M., and Scott, T. (2016, July 16). Strengthening the Federal Cybersecurity Workforce. The White House President Barack Obama. [https://obamawhitehouse.archives.gov/](https://obamawhitehouse.archives.gov/blog/2016/07/12/strengthening-federal-cybersecurity-workforce){:target=”_blank”}{:rel=”noopener noreferrer”}|
 | 2| There are wide variations in the quality and security of identification used to gain access to secure facilities where there is potential for terrorist attacks. In order to eliminate these variations, U.S. policy is to enhance security, increase Government efficiency, reduce identity fraud, and protect personal privacy by establishing a mandatory, Government-wide standard for secure and reliable forms of identification issued by the Federal Government to its employees and contractors (including contractor employees). This directive mandates a federal standard for secure and reliable forms of identification. | White House. (2020, April 23). Homeland security presidential directive 12. Department of Homeland Security. [https://www.dhs.gov/](https://www.dhs.gov/homeland-security-presidential-directive-12){:target=”_blank”}{:rel=”noopener noreferrer”}|
 
+[Return To Table of Contents](#table-of-contents)
+
 ## Contemporary Context 
 
 | # | Relevant points to include in relation to your own research topic | Key references |
@@ -39,6 +41,8 @@ Research Questions:
 | 1 | Success in [both public health and cybersecurity] ultimately depends not only on technical progress but on reaching a political agreement about the relative value of some public good in comparison to other societal values and the institutions granted authority to resolve conflicts (along with the methods they might use). | Schneider, F. B., & Mulligan, D. K. (2011). A Doctrinal Thesis. IEEE Security & Privacy Magazine, 9(4), 3–4. [https://doi.org/10.1109/msp.2011.76](https://doi.org/10.1109/msp.2011.76 ){:target=”_blank”}{:rel=”noopener noreferrer”} |
 | 2 | The Office of Management and Budget requires all agencies to implement a specific identity architecture called the Federal Identity, Credential, and Access Management Architecture. | (OMB). (2019). Enabling Mission Delivery through Improved Identity, Credential, and Access Management. Office of Management and Budget Memo Series. [https://www.whitehouse.gov/](https://www.whitehouse.gov/wp-content/uploads/2019/05/M-19-17.pdf){:target=”_blank”}{:rel=”noopener noreferrer”} |
 | 3 | Of the seven domains required by CISSP, Domain 5 is Identity and Access Management | ISC2. (2021). CISSP – the world’s premier cybersecurity certification. ICS2. [https://www.isc2.org/](https://www.isc2.org/Certifications/CISSP){:target=”_blank”}{:rel=”noopener noreferrer”} |
+
+[Return To Table of Contents](#table-of-contents)
 
 ## Theories and Concepts
 
@@ -54,6 +58,8 @@ Research Questions:
 | 8 | CYBOK version 1.0 | University of Bristol. (2020). CyBOK version 1.0. CYBOK. [https://www.cybok.org/knowledgebase/](https://www.cybok.org/knowledgebase/){:target=”_blank”}{:rel=”noopener noreferrer”} |
 | 9 | IDPRO BOK | IDPro. (2020, December 16). IDPro’s Body of Knowledge. [https://idpro.org/body-of-knowledge/](https://idpro.org/body-of-knowledge/){:target=”_blank”}{:rel=”noopener noreferrer”} |
 
+[Return To Table of Contents](#table-of-contents)
+
 ## Previous Research and Limitations
 
 | # | Relevant points to include in relation to your own research topic | Key references |
@@ -67,6 +73,8 @@ Research Questions:
 | 7 | First of all, for the inconsistent implementation, someone who is familiar with the protocol specification and has a well understanding of cryptography and information security should be recruited. | Tan, Y., Li, W., Yin, J., & Deng, Y. (2020). A universal decentralized authentication and authorization protocol based on Blockchain. 2020 International Conference on Cyber-Enabled Distributed Computing and Knowledge Discovery (CyberC), 7–14. [https://doi.org/10.1109/cyberc49757.2020.00012](https://doi.org/10.1109/cyberc49757.2020.00012){:target=”_blank”}{:rel=”noopener noreferrer”} |
 | 8 | Our ontological network for the cybersecurity ecosystem is not based off current market trends and behaviors. Further research needs to be done with empirical data from the field. When translating the private sector into KSATs, this came with some subjectivity. We used multiple coders for validation, there is still room for interpretation. | Kim, K., Smith, J., Yang, T. A., & Kim, D. J. (2018). An exploratory analysis on cybersecurity ecosystem utilizing the NICE framework. 2018 National Cyber Summit (NCS), 1–7. [https://doi.org/10.1109/ncs.2018.00006](https://doi.org/10.1109/ncs.2018.00006){:target=”_blank”}{:rel=”noopener noreferrer”} |
 
+[Return To Table of Contents](#table-of-contents)
+
 ## Significance of the Issue
 
 | # | Relevant points to include in relation to your own research topic | Key references |
@@ -78,6 +86,8 @@ Research Questions:
 | 5 | In the past few weeks, we’ve been witnessing one of the most elaborate supply-chain attacks unfold with a threat actor that infected SolarWinds Orion source code and used the update process to get to around 18,000 victims all around the globe. One of the most (if not the most) innovative techniques used in this attack, now known as Solorigate, is the “Golden SAML” technique. | Reiner, S. (2020, December 29). Golden SAML revisited: The solorigate connection. CyberArk. [https://www.cyberark.com/](https://www.cyberark.com/resources/threat-research-blog/golden-saml-revisited-the-solorigate-connection){:target=”_blank”}{:rel=”noopener noreferrer”} |
 | 6 | Knowledge-Based Verification Poses Risks, but Alternative Techniques Have Been Developed That Are More Secure. | GAO. (2019). Federal agencies need to strengthen online identity verification processes (No. 19–288). [https://www.gao.gov/](https://www.gao.gov/assets/700/699581.pdf){:target=”_blank”}{:rel=”noopener noreferrer”} |
 | 7 | RPs do not always implement OAuth 2.0 correctly; as a result, many real-world OAuth 2.0 and OpenID Connect systems are vulnerable to attack. | Li, W., & Mitchell, C. J. (2020). User Access Privacy in OAuth 2.0 and OpenID Connect. 2020 IEEE European Symposium on Security and Privacy Workshops (EuroS&PW), 664–672. [https://doi.org/10.1109/eurospw51379.2020.00095](https://doi.org/10.1109/eurospw51379.2020.00095){:target=”_blank”}{:rel=”noopener noreferrer”} |
+
+[Return To Table of Contents](#table-of-contents)
   
 ## Tracking and Recording Search Results
 
@@ -91,3 +101,5 @@ Research Questions:
 | Gale	| cybersecurity AND workforce AND planning | 0 | 03/6/2021 |
 | Gale	| cybersecurity AND workforce AND planning | 2 | 3/19/2021 |
 | IEE Computer Society	| cybersecurity AND workforce AND competency | 19 | 3/20/2021 |
+
+[Return To Table of Contents](#table-of-contents)

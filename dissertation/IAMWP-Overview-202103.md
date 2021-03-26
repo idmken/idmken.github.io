@@ -1,3 +1,5 @@
+**3/2021 - My original research topic was focusd on a competency model for the U.S. Federal Government. I’ve modified it to a generic competency model based on cybersecurity workforce planning developed and implemented by the U.S. Federal Government.**
+
 Kenneth Myers <br>
 School of Technology and Innovation<br>
 Marymount University

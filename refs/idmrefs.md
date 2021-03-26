@@ -4,8 +4,9 @@ Sources, articles or training to increase our Identity and Access Management kno
 
 ## In the Queue
 - [ABAC on AWS Tutorial By: AWS](https://docs.aws.amazon.com/IAM/latest/UserGuide/tutorial_attribute-based-access-control.html){:target="_blank"}{:rel="noopener noreferrer"} ***Want to try this out and see if you can do the same with tags on Azure.***
+- [Chesney on Cybersecurity Law, Policy, and Institutions v3.0 - March 2020](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3547103){:target="_blank"}{:rel="noopener noreferrer"} ***Comprehensive eCasebook on the interwined nature of the legal and policy questions associated with cybersecurity.***
 
-### Articles
+## Articles
 - [The Beer Drinker’s Guide to SAML By: Greg Seader via Duo Blog (15 min read)](https://duo.com/blog/the-beer-drinkers-guide-to-saml){:target="_blank"}{:rel="noopener noreferrer"} ***Easier to read and understand than the SAML standard.***
 - [You Need Multiple SAML IDP Signing Keys By: Hans via Hansblog (10 min read)](https://www.stackallocated.com/blog/2020/saml-idp-no-shared-keys/){:target="_blank"}{:rel="noopener noreferrer"} ***Great article on the risk in SAML signing keys and also contains a market analysis.***
 - [Implementing Zero Trust with Microsoft Azure: Identity and Access Management (1 of 6) By: TJ Banasik via Azure Gov Blog (15 min read)](https://devblogs.microsoft.com/azuregov/implementing-zero-trust-with-microsoft-azure-identity-and-access-management-1-of-6/){:target="_blank"}{:rel="noopener noreferrer"}
@@ -28,6 +29,9 @@ Sources, articles or training to increase our Identity and Access Management kno
 - [NIST Special Publication 800-63 Revision 3 Digital Identity Guidelines By: NIST (3.5 hour read)](https://pages.nist.gov/800-63-3/sp800-63-3.html){:target="_blank"}{:rel="noopener noreferrer"} ***The digital identity bible for federal government agencies. A major upgrade to 800-63-2 evolving to three separate identity, authenticator, and federation levels.***
   - [NIST SPECIAL PUBLICATION 800-63-3 IMPLEMENTATION RESOURCES By: NIST (2 hour read)](https://www.nist.gov/system/files/documents/2020/07/02/SP-800-63-3-Implementation-Resources_07012020.pdf){:target="_blank"}{:rel="noopener noreferrer"} ***Accompanying guide to 800-63-3 on implementing the normative requirements of 800-63-3.***
 - [The Public Sector Profile of the Pan-Canadian Trust Framework (PCTF-CCP) By: Government of Canada (2 hour read)](https://canada-ca.github.io/PCTF-CCP/){:target="_blank"}{:rel="noopener noreferrer"} ***Identity frameworks are an interesting way to see how identity is used in other sectors and cultures. This one is designed to map identity and business processes in Canada. It also helps map those processes to other international frameworks such as eIDAS, FATF, and UNCITRAL.***
+
+## Academic Papers
+Coming soon!
 
 ## Guides
 - [Selecting Secure Multi-factor Authentication Solutions By: NSA (25 min read)](https://media.defense.gov/2020/Sep/22/2002502665/-1/-1/0/CSI_MULTIFACTOR_AUTHENTICATION_SOLUTIONS_UOO17091520.PDF){:target="_blank"}{:rel="noopener noreferrer"} ***Good overview on authenticators and how some modern solutions stack up to NIST 800-63-3B requirements.***

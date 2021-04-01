@@ -17,9 +17,7 @@ Moderator:
 - Kiersten Patton | Working Group Program Manager, ATARC
 
 Panelists:
-- Nicole Ballard | Manager, Identity & Access Management, Sandia National Laboratories (pending agency approval)
+- Nicole Ballard | Manager, Identity & Access Management, Sandia National Laboratories
 - Kenneth Myers | Chief Federal ICAM Architect, General Services Administration
-- Ashley Rozier | Identity and Access Management Branch Lead, Defense Information Systems Agency (invited)
-- Brandon Iske | Chief Engineer, Security Enablers, Defense Information Systems Agency (pending agency approval)
 - Sean Applegate | Chief Technology Officer, SwishData Corporation
 - Josh Brodbent | Director, Public Sector Solutions Engineering, BeyondTrust

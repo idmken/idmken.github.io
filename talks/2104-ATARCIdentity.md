@@ -14,10 +14,10 @@ During this webinar, we’ll discuss:
 - Who, what, where, when, and why for prioritization of PIM
 
 Moderator: 
-- Kiersten Patton | Working Group Program Manager, ATARC
+- Tom Suder, Founder and CEO @ ATARC
 
 Panelists:
-- Nicole Ballard | Manager, Identity & Access Management, Sandia National Laboratories
-- Kenneth Myers | Chief Federal ICAM Architect, General Services Administration
-- Sean Applegate | Chief Technology Officer, SwishData Corporation
-- Josh Brodbent | Director, Public Sector Solutions Engineering, BeyondTrust
+- Nicole Ballard, Manager, Identity & Access Management @ Sandia National Laboratories
+- Kenneth Myers, Chief Federal ICAM Architect @ General Services Administration
+- Sean Applegate, Chief Technology Officer @ SwishData Corporation
+- Josh Brodbent, Director, Public Sector Solutions Engineering @ BeyondTrust

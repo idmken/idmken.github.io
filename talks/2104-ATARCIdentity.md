@@ -22,3 +22,6 @@ Panelists:
 - Kenneth Myers, Chief Federal ICAM Architect @ General Services Administration
 - Sean Applegate, Chief Technology Officer @ SwishData Corporation
 - Josh Brodbent, Director, Public Sector Solutions Engineering @ BeyondTrust
+
+## Press Related to Event
+[Fed Officials Preach Standardizing Both Data Architecture, Processes via Meritalk on April 5th](https://www.meritalk.com/articles/fed-officials-preach-standardizing-both-data-architecture-processes/){:target="_blank"}{:rel="noopener noreferrer"}

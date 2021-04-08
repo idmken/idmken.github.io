@@ -5,7 +5,7 @@ Previous and upcoming speaking engagements with the presentation if I can share 
 | Title | Event | Location | Date | More Info |
 | ----- | ----- | -------- | ---- | --------- |
 | GSA Digital Worker Identity Playbook | Defense Strategies Institute (DSI) Identity Management Symposium 2021 | Alexandria, VA | April 2021 (Invited) | [Event Info](2104-DSIIDMGSADWPlaybook.md) |
-| Identity-Centric Security: The New Agency Perimeter | ATARC Webinar | Webinar | April 2021 | [Event Info](2104-ATARCIdentity.md) |
+| Identity-Centric Security: The New Agency Perimeter | ATARC Webinar | Webinar | April 2021 | [Event Info / Recording / Press](2104-ATARCIdentity.md) |
 | GSA Digital Worker Identity Playbook | ISACA GWDC Cyber Workshop 2021 | Webinar | December 2020 | [Event Info](2012-VCWGSADWPlaybook.md) |
 | GSA Digital Worker Identity Playbook | ATARC Robotic Process Automation Project Team | Webinar | December 2020 | [Event Info / Recording / Press](2012-ATARCDWPlaybook.md) |
 | Master of Ceremonies | ISACA GWDC National Security Conference 2020 | Virtual | November 2020 | [Event Info](2011-ISACAGWDCNatSec.md) |

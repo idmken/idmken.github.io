@@ -1,0 +1,30 @@
+# list of dissertation references
+
+# Lit Review Category
+# Historical Background - Describe the sequence of events or policy changes which led to the current situation.
+# Contemporary Context - Current topics and debate in the field.
+# Theories and Concepts - Introduce current theories and concepts you draw on to provide direction for your research.
+# Relevant Terminology - Introduce reader to the variety of ways a term has been defined and interpreted and how you will use it in your research.
+# Previous Research and Limitations - Identify gaps in previous research where your research will fill.
+# Significance of the Issue - Emphasize how your research is necessary.
+
+- ref number: 3
+  argumentstep: 
+  smallref:
+  cite:
+  relevantpoint:
+  litreviewcategory:
+  
+- ref number: 2
+  argumentstep: 
+  smallref: White House, 2020
+  cite: White House. (2020, April 23). Homeland security presidential directive 12. Department of Homeland Security. [https://www.dhs.gov/](https://www.dhs.gov/homeland-security-presidential-directive-12){:target=”_blank”}{:rel=”noopener noreferrer”}
+  relevantpoint: There are wide variations in the quality and security of identification used to gain access to secure facilities where there is potential for terrorist attacks. In order to eliminate these variations, U.S. policy is to enhance security, increase Government efficiency, reduce identity fraud, and protect personal privacy by establishing a mandatory, Government-wide standard for secure and reliable forms of identification issued by the Federal Government to its employees and contractors (including contractor employees). This directive mandates a federal standard for secure and reliable forms of identification.
+  litreviewcategory: Historical Background
+  
+- ref number: 1
+  argumentstep: 
+  smallref: Donovan et al., 2016
+  cite: Donovan, S., Cobert, B., Daniel, M., and Scott, T. (2016, July 16). Strengthening the Federal Cybersecurity Workforce. The White House President Barack Obama. [https://obamawhitehouse.archives.gov/](https://obamawhitehouse.archives.gov/blog/2016/07/12/strengthening-federal-cybersecurity-workforce){:target=”_blank”}{:rel=”noopener noreferrer”}
+  relevantpoint: Obama Administration wrote a Federal Cybersecurity Workforce Strategy
+  litreviewcategory: Historical Background

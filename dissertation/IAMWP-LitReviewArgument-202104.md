@@ -19,14 +19,34 @@ Mind map depicting my literature review structure generated with [LucidChart](ht
 
 ## Literature Review Argument Steps
 
-1. A majority of breach attack vectors are caused by a broken identity and access management process.
+**Step 1. A majority of breach attack vectors are caused by a broken identity and access management process**
 
 | Argument Steps | Relevant References |
-| 
+| -------------- | ------------------- |
+|                |                     |
 
-2. Identity and access management processes are a part of many cybersecurity frameworks.
-3. Cybersecurity frameworks are used to build cybersecurity workforce models.
-4. Cybersecurity workforce models identify identity and access management tasks spread across multiple roles, but do not identify specific identity and access management roles.
-5. Specific identity and access management roles are needed to implement identity and access management processes to prevent breaches.
+**Step 2. Identity and access management processes are a part of many cybersecurity frameworks**
+
+| Argument Steps | Relevant References |
+| -------------- | ------------------- |
+|                |                     |
+
+**Step 3. Cybersecurity frameworks are used to build cybersecurity workforce models**
+
+| Argument Steps | Relevant References |
+| -------------- | ------------------- |
+|                |                     |
+
+**Step 4. Cybersecurity workforce models identify identity and access management tasks spread across multiple roles, but do not identify specific identity and access management roles**
+
+| Argument Steps | Relevant References |
+| -------------- | ------------------- |
+|                |                     |
+
+**Step 5. Specific identity and access management roles are needed to implement identity and access management processes to prevent breaches**
+
+| Argument Steps | Relevant References |
+| -------------- | ------------------- |
+|                |                     |
 
 [Return To Table of Contents](#table-of-contents)

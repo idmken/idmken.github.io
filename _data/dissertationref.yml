@@ -8,12 +8,26 @@
 # Previous Research and Limitations - Identify gaps in previous research where your research will fill.
 # Significance of the Issue - Emphasize how your research is necessary.
 
+- ref number: 5
+  argumentstep: 
+  smallref: Schneider et al., 2011
+  cite: Schneider, F. B., & Mulligan, D. K. (2011). A Doctrinal Thesis. IEEE Security & Privacy Magazine, 9(4), 3–4. [https://doi.org/10.1109/msp.2011.76](https://doi.org/10.1109/msp.2011.76 ){:target=”_blank”}{:rel=”noopener noreferrer”}
+  relevantpoint: Success in [both public health and cybersecurity] ultimately depends not only on technical progress but on reaching a political agreement about the relative value of some public good in comparison to other societal values and the institutions granted authority to resolve conflicts (along with the methods they might use).
+  litreviewcategory: 
+
+- ref number: 4
+  argumentstep: 
+  smallref: OMB, 2019
+  cite: OMB. (2019). Enabling Mission Delivery through Improved Identity, Credential, and Access Management. Office of Management and Budget Memo Series. [https://www.whitehouse.gov/](https://www.whitehouse.gov/wp-content/uploads/2019/05/M-19-17.pdf){:target=”_blank”}{:rel=”noopener noreferrer”}
+  relevantpoint: The Office of Management and Budget requires all agencies to implement a specific identity architecture called the Federal Identity, Credential, and Access Management Architecture. 
+  litreviewcategory: Contemporary Context
+
 - ref number: 3
   argumentstep: 
-  smallref:
-  cite:
-  relevantpoint:
-  litreviewcategory:
+  smallref: ISC2, 2021
+  cite: ISC2. (2021). CISSP – the world’s premier cybersecurity certification. ICS2. [https://www.isc2.org/](https://www.isc2.org/Certifications/CISSP){:target=”_blank”}{:rel=”noopener noreferrer”}
+  relevantpoint: Of the seven domains required by CISSP, Domain 5 is Identity and Access Management
+  litreviewcategory: Contemporary Context
   
 - ref number: 2
   argumentstep: 

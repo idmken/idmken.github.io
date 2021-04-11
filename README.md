@@ -1,7 +1,3 @@
----
-layout: base
-title: Home
----
 
 # Welcome!!
 

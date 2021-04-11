@@ -7,7 +7,11 @@ April 11, 2021
 
 ## Table of Contents
 1. [Literature Review Mind Map](#literature-review-mind-map)<br>
-2. [Literature Review Argument Steps](#literature-review-argument-steps)
+2. [Literature Review Argument Steps](#literature-review-argument-steps)</br>
+    I. [Step 1 - Breaches Caused By IAM Processes](step-1)
+    II. [Step 2 - IAM Processes are in Cyber Frameworks](step-2)
+    III. [Step 3 - Cyber Frameworks are used to Build Workforce Models](step-3)
+    IV. [Step 4 - Cyber Workforce Models do not identity IAM Roles](step-4)
 
 ## Literature Review Mind Map
 
@@ -19,21 +23,27 @@ Mind map depicting my literature review structure generated with [LucidChart](ht
 
 ## Literature Review Argument Steps
 
-**Step 1. A majority of breach attack vectors are caused by a broken identity and access management process**
+### Step 1
+
+**A majority of breach attack vectors are caused by a broken identity and access management process**
 
 | Argument Steps | Relevant References |
 | -------------- | ------------------- |
 | Breaches caused by identity processes | Verizon, 2020; NSA, 2020; Reiner, 2020; Li et al., 2020 |
+</br>
 
-**Step 2. Identity and access management processes are a part of many cybersecurity frameworks**
+### Step 2
+
+**Identity and access management processes are a part of many cybersecurity frameworks**
 
 | Argument Steps | Relevant References |
 | -------------- | ------------------- |
 | Cybersecurity Curricula  | University of Bristol, 2020; ACM et al., 2017 |
 | IAM Knowledge and Terms | IDPro, 2020 |
 | Cybersecurity Architecture | Rose et al., 2020; GSA, 2021; NIST, 2018; DHS, 2018 |
+</br>
 
-**Step 3. Cybersecurity frameworks are used to build cybersecurity workforce models**
+### Step 3. Cybersecurity frameworks are used to build cybersecurity workforce models
 
 | Argument Steps | Relevant References |
 | -------------- | ------------------- |
@@ -42,14 +52,14 @@ Mind map depicting my literature review structure generated with [LucidChart](ht
 | Operational Needs | Vo et al., 2017; Tan et al. 2020; Gordon, 2016 |
 | Workforce Frameworks | Petersen et al., 2020; Furnell, 2020 |
 
-**Step 4. Cybersecurity workforce models identify identity and access management tasks spread across multiple roles, but do not identify specific identity and access management roles**
+### Step 4. Cybersecurity workforce models identify identity and access management tasks spread across multiple roles, but do not identify specific identity and access management roles
 
 | Argument Steps | Relevant References |
 | -------------- | ------------------- |
 | Lack of IAM Roles | Schneider et al., 2011; OMB, 2019; ISC2, 2021 |
 | Talent Gap | GAO, 2019; Costello et al., 2020; Ritchey, 2014 | 
 
-**Step 5. Specific identity and access management roles are needed to implement identity and access management processes to prevent breaches**
+### Step 5. Specific identity and access management roles are needed to implement identity and access management processes to prevent breaches
 
 | Argument Steps | Relevant References |
 | -------------- | ------------------- |

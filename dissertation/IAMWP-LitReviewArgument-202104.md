@@ -77,7 +77,7 @@ Specific IAM roles are needed to reduce breaches exploiting an IAM process.
 ## Literature Review Section Structure
 
 2.0 Literature Review</br>
-2.1 Literature Synopsis</<br>
+2.1 Literature Synopsis</br>
 2.2 Adversary Tactics, Techniques, and Common Attack Vectors</br>
 2.3 Defend Against Attacks using Cybersecurity Frameworks</br>
 2.4 Build your Cybersecurity Team</br>

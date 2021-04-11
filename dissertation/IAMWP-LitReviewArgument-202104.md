@@ -79,12 +79,11 @@ Specific IAM roles are needed to reduce breaches exploiting an IAM process.
 2.0 Literature Review</br>
 2.1 Literature Synopsis</<br>
 2.2 Adversary Tactics, Techniques, and Common Attack Vectors</br>
-2.3 Defending Attacks using Cybersecurity Frameworks</br>
-2.4 Building your Cybersecurity Team</br>
-    2.4.1 Align your cybersecurity team with your cybersecurity framework</br>
-    2.4.2 Define specific roles for each major framework area</br>
-    2.4.3 Align adversary tactics and techniques to responsible roles</br>
-2.5 Example: Defining an IAM competency model to reduce IAM-related attack vectors</br>
-2.6 Research Contributions</br>
+2.3 Defend Against Attacks using Cybersecurity Frameworks</br>
+2.4 Build your Cybersecurity Team</br>
+    2.4.1 Align your Cybersecurity Team with your Cybersecurity Framework</br>
+    2.4.2 Define Specific Roles for Each Major Framework Area</br>
+    2.4.3 Align Adversary Tactics and Techniques to Responsible Roles</br>
+2.5 Research Contributions</br>
 
 [Return To Table of Contents](#table-of-contents)

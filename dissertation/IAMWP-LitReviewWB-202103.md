@@ -19,9 +19,16 @@ March 21, 2021
 My Research Topic: **Where have all the Identirati gone? An Identity and Access Management Competency Model**
 
 Research Questions:
-1.	With the importance of Identity and Access Management identified with its own OMB memo 2019, why doesn’t the U.S. government have identity and access management work roles and competencies?
-2.	What are the foundational identity and access management architecture areas?
-3.	How can a curriculum incorporate identity and access management training modules into a broader cybersecurity program?
+1.	What are the foundational identity and access management architecture areas?
+2.	How can a curriculum incorporate identity and access management training modules into a broader cybersecurity program?
+3.	With the importance of Identity and Access Management identified with its own OMB memo 2019, why doesn’t the U.S. government have identity and access management work roles and competencies?
+
+Literature Review Argument Steps:
+1. A majority of breach attack vectors are caused by a broken identity and access management process.
+2. Identity and access management processes are a part of many cybersecurity frameworks implemented to protect data and prevent breaches.
+3. Cybersecurity workforce models are structued around implementing cybersecurity frameworks.
+4. Cybersecurity workforce models identify identity and access management tasks but do not identify identity and access management roles.
+5. Identity and access management roles are needed to implement identity and access management processes to prevent breaches.
 
 [Return To Table of Contents](#table-of-contents)
 

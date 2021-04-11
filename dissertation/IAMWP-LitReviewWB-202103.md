@@ -1,10 +1,3 @@
-{% assign categories = "" | split: "" %}
-{% for lit in site.data.dissertationref %}
-  {% assign categoryName = lit.litreviewcategory | strip %}
-  {% assign categories = categories | push: categoryName | uniq | sort %}
-{% endfor %}
-{% assign categories = categories | uniq | sort %}
-
 Kenneth Myers<br>
 School of Technology and Business<br>
 Marymount University<br>
@@ -20,7 +13,6 @@ March 21, 2021
     iv. [Previous Research and Limitations](#previous-research-and-limitations)<br>
     v. [Significance of the Issue](#significance-of-the-issue)
 2. [Tracking and Recording Search Results](#tracking-and-recording-search-results)
-3. [Literature Review Argument Steps](#literature-review-argument-steps)
 
 ## Reflecting on Research
 
@@ -34,46 +26,6 @@ My Research Topic: **Where have all the Identirati gone? An Identity and Access 
 [Return To Table of Contents](#table-of-contents)
 
 ### Historical Background
-
-<div class="usa-width-one-fourth">
-  <fieldset class="usa-fieldset-inputs guides-filter">
-    <legend>Literature Review Categories</legend>
-    <ul class="usa-unstyled-list">
-      {% for category in categories %}
-      <li>
-        <input class="guides-filter-category" id="category-{{ category | slugify }}" type="checkbox" name="categories" value="{{ category }}" checked>
-        <label for="category-{{ category | slugify }}">{{ category }}</label>
-      </li>
-      {% endfor %}
-    </ul>
-  </fieldset>
-</div>
-
-<div class="usa-width-three-fourths">
-  <table class="usa-table-borderless">
-    <thead class="usa-sr-only">
-      <tr>
-        <th id="lit-table-heading-point" scope="col">Relevant Point</th>
-        <th id="lit-table-heading-ref" scope="col">Key References</th>
-      </tr>
-    </thead>
-    <tbody>
-      {% for category in categories %}
-        <tr class="lit-table-category-heading" data-category="{{ category }}">
-          <th colspan="2" class="lit-table-heading" id="lit-table-heading-{{ category | slugify }}"><b>{{ category }} Category</b></th>
-        </tr>
-        {% for lit in site.data.dissertationref %}
-          {% if lit.litreviewcategory == category %}
-            <tr class="lit-table-row" data-category="{{ lit.litreviewcategory }}">
-              <td headers="lit-table-heading-{{ category | slugify }} lit-table-heading-name">{{ lit.relevantpoint }}</td>
-              <td headers="lit-table-heading-{{ category | slugify }} lit-table-heading-description">{{ lit.cite}}</td>
-            </tr>
-          {% endif %}
-        {% endfor %} <!--lit-->
-      {% endfor %}<!--category-->
-    </tbody>
-  </table>
-</div>
 
 | # | Relevant points to include in relation to your own research topic | Key references |
 | -- | -------------- | ------------------ |
@@ -152,11 +104,4 @@ My Research Topic: **Where have all the Identirati gone? An Identity and Access 
 
 [Return To Table of Contents](#table-of-contents)
 
-## Literature Review Argument Steps
 
-**Literature Review Argument Steps:**
-1. A majority of breach attack vectors are caused by a broken identity and access management process.
-2. Identity and access management processes are a part of many cybersecurity frameworks.
-3. Cybersecurity frameworks are used to build cybersecurity workforce models.
-4. Cybersecurity workforce models identify identity and access management tasks spread across multiple roles, but do not identify identity and access management roles.
-5. Specific identity and access management roles are needed to implement identity and access management processes to prevent breaches.

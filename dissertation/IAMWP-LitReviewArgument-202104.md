@@ -8,10 +8,12 @@ April 11, 2021
 ## Table of Contents
 1. [Literature Review Mind Map](#literature-review-mind-map)<br>
 2. [Literature Review Argument Steps](#literature-review-argument-steps)</br>
-    I. [Step 1 - Breaches Caused By IAM Processes](step-1)
-    II. [Step 2 - IAM Processes are in Cyber Frameworks](step-2)
-    III. [Step 3 - Cyber Frameworks are used to Build Workforce Models](step-3)
-    IV. [Step 4 - Cyber Workforce Models do not identity IAM Roles](step-4)
+    [Step 1 - Majority of breaches use an IAM process as an attack vector](step-1)</br>
+    [Step 2 - IAM processes are implemented using cybersecurity frameworks](step-2)</br>
+    [Step 3 - Cyber frameworks are used to build cybersecurity workforce models](step-3)</br>
+    [Step 4 - Cybersecurity workforce models do not identify specific IAM roles](step-4)</br>
+    [Step 5 - Specific IAM roles are needed to reduce breaches exploting an IAM process](step-5)
+3. [Literature Review Section Structure](#literature-review-section-structure)
 
 ## Literature Review Mind Map
 
@@ -25,25 +27,26 @@ Mind map depicting my literature review structure generated with [LucidChart](ht
 
 ### Step 1
 
-**A majority of breach attack vectors are caused by a broken identity and access management process**
+A majority of breach attack vectors exploit an identity and access management (IAM) processes.
 
 | Argument Steps | Relevant References |
 | -------------- | ------------------- |
 | Breaches caused by identity processes | Verizon, 2020; NSA, 2020; Reiner, 2020; Li et al., 2020 |
-</br>
+| Adversary Tactics and Techniques | MITRE, 2021 |
 
 ### Step 2
 
-**Identity and access management processes are a part of many cybersecurity frameworks**
+Identity and access management processes are implemented using a cybersecurity framework.
 
 | Argument Steps | Relevant References |
 | -------------- | ------------------- |
 | Cybersecurity Curricula  | University of Bristol, 2020; ACM et al., 2017 |
 | IAM Knowledge and Terms | IDPro, 2020 |
 | Cybersecurity Architecture | Rose et al., 2020; GSA, 2021; NIST, 2018; DHS, 2018 |
-</br>
 
-### Step 3. Cybersecurity frameworks are used to build cybersecurity workforce models
+### Step 3
+
+Cybersecurity frameworks are used to build cybersecurity workforce models.
 
 | Argument Steps | Relevant References |
 | -------------- | ------------------- |
@@ -52,17 +55,36 @@ Mind map depicting my literature review structure generated with [LucidChart](ht
 | Operational Needs | Vo et al., 2017; Tan et al. 2020; Gordon, 2016 |
 | Workforce Frameworks | Petersen et al., 2020; Furnell, 2020 |
 
-### Step 4. Cybersecurity workforce models identify identity and access management tasks spread across multiple roles, but do not identify specific identity and access management roles
+### Step 4
+
+Cybersecurity workforce models identify IAM tasks spread across multiple roles, but do not identify specific IAM roles.
 
 | Argument Steps | Relevant References |
 | -------------- | ------------------- |
 | Lack of IAM Roles | Schneider et al., 2011; OMB, 2019; ISC2, 2021 |
 | Talent Gap | GAO, 2019; Costello et al., 2020; Ritchey, 2014 | 
 
-### Step 5. Specific identity and access management roles are needed to implement identity and access management processes to prevent breaches
+### Step 5
+
+Specific IAM roles are needed to reduce breaches exploiting an IAM process.
 
 | Argument Steps | Relevant References |
 | -------------- | ------------------- |
 | IAM Workforce Strategy | Donovan et al., 2016; White House, 2021  |
+
+[Return To Table of Contents](#table-of-contents)
+
+## Literature Review Section Structure
+
+2.0 Literature Review</br>
+2.1 Literature Synopsis</<br>
+2.2 Adversary Tactics, Techniques, and Common Attack Vectors</br>
+2.3 Defending Attacks using Cybersecurity Frameworks</br>
+2.4 Building your Cybersecurity Team</br>
+    2.4.1 Align your cybersecurity team with your cybersecurity framework</br>
+    2.4.2 Define specific roles for each major framework area</br>
+    2.4.3 Align adversary tactics and techniques to responsible roles</br>
+2.5 Example: Defining an IAM competency model to reduce IAM-related attack vectors</br>
+2.6 Research Contributions</br>
 
 [Return To Table of Contents](#table-of-contents)

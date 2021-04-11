@@ -11,7 +11,7 @@ April 11, 2021
 
 ## Literature Review Mind Map
 
-Picture depicting my literature review structure.
+Mind map depicting my literature review structure generated with [LucidChart](https://www.lucidchart.com/pages/){:target="_blank"}{:rel="noopener noreferrer"}.
 
 [![A mind map depicting major review areas with references mapped to each major review area.](../../assets/litreviewmindmap.png)](../../assets/litreviewmindmap.png){:target="_blank"}{:rel="noopener noreferrer"}
   

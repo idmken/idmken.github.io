@@ -1,1 +1,17 @@
 theme: jekyll-theme-architect
+
+# Site Navigation
+primary_navigation:
+  - name: Home
+    url: /
+  - name: blogs
+    url: /blogs/blogs
+  - name: talks
+    url: /talks/talks
+  - name: papers
+    url: /papers/papers
+  - name: refs
+    url: /refs/idmrefs
+  - name: dissertation
+    url: /dissertation/idmwp
+    

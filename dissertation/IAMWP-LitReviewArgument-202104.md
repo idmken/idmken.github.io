@@ -23,30 +23,36 @@ Mind map depicting my literature review structure generated with [LucidChart](ht
 
 | Argument Steps | Relevant References |
 | -------------- | ------------------- |
-|                |                     |
+| Breaches caused by identity processes | Verizon, 2020; NSA, 2020; Reiner, 2020; Li et al., 2020 |
 
 **Step 2. Identity and access management processes are a part of many cybersecurity frameworks**
 
 | Argument Steps | Relevant References |
 | -------------- | ------------------- |
-|                |                     |
+| Cybersecurity Curricula  | University of Bristol, 2020; ACM et al., 2017 |
+| IAM Knowledge and Terms | IDPro, 2020 |
+| Cybersecurity Architecture | Rose et al., 2020; GSA, 2021; NIST, 2018; DHS, 2018 |
 
 **Step 3. Cybersecurity frameworks are used to build cybersecurity workforce models**
 
 | Argument Steps | Relevant References |
 | -------------- | ------------------- |
-|                |                     |
+| Workforce Building | Kim et al., 2018; Hoffman et al., 2012 |
+| Academic Programs | Knowles et al., 2017; Cabaj et al., 2018; Sharma et al., 2015 |
+| Operational Needs | Vo et al., 2017; Tan et al. 2020; Gordon, 2016 |
+| Workforce Frameworks | Petersen et al., 2020; Furnell, 2020 |
 
 **Step 4. Cybersecurity workforce models identify identity and access management tasks spread across multiple roles, but do not identify specific identity and access management roles**
 
 | Argument Steps | Relevant References |
 | -------------- | ------------------- |
-|                |                     |
+| Lack of IAM Roles | Schneider et al., 2011; OMB, 2019; ISC2, 2021 |
+| Talent Gap | GAO, 2019; Costello et al., 2020; Ritchey, 2014 | 
 
 **Step 5. Specific identity and access management roles are needed to implement identity and access management processes to prevent breaches**
 
 | Argument Steps | Relevant References |
 | -------------- | ------------------- |
-|                |                     |
+| IAM Workforce Strategy | Donovan et al., 2016; White House, 2021  |
 
 [Return To Table of Contents](#table-of-contents)

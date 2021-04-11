@@ -61,7 +61,7 @@ Cybersecurity workforce models identify IAM tasks spread across multiple roles, 
 
 | Argument Steps | Relevant References |
 | -------------- | ------------------- |
-| Lack of IAM Roles | Schneider et al., 2011; OMB, 2019; ISC2, 2021 |
+| Need for IAM Roles | Schneider et al., 2011; OMB, 2019; ISC2, 2021 |
 | Talent Gap | GAO, 2019; Costello et al., 2020; Ritchey, 2014 | 
 
 ### Step 5

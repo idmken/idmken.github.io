@@ -1,3 +1,8 @@
+---
+layout: base
+title: Home
+---
+
 # Welcome!!
 
 Welcome to my site! My name is Ken Myers and I have a passion for anything identity and access management. Our physical and digital identities are at the center of everything we do. 

@@ -1,3 +1,10 @@
+{% assign categories = "" | split: "" %}
+{% for lit in site.data.dissertationref %}
+  {% assign categoryName = lit.litreviewcategory | strip %}
+  {% assign categories = categories | push: categoryName | uniq | sort %}
+{% endfor %}
+{% assign categories = categories | uniq | sort %}
+
 Kenneth Myers<br>
 School of Technology and Business<br>
 Marymount University<br>
@@ -26,7 +33,47 @@ My Research Topic: **Where have all the Identirati gone? An Identity and Access 
 
 [Return To Table of Contents](#table-of-contents)
 
-## Historical Background 
+### Historical Background
+
+<div class="usa-width-one-fourth">
+  <fieldset class="usa-fieldset-inputs guides-filter">
+    <legend>Literature Review Categories</legend>
+    <ul class="usa-unstyled-list">
+      {% for category in categories %}
+      <li>
+        <input class="guides-filter-category" id="category-{{ category | slugify }}" type="checkbox" name="categories" value="{{ category }}" checked>
+        <label for="category-{{ category | slugify }}">{{ category }}</label>
+      </li>
+      {% endfor %}
+    </ul>
+  </fieldset>
+</div>
+
+<div class="usa-width-three-fourths">
+  <table class="usa-table-borderless">
+    <thead class="usa-sr-only">
+      <tr>
+        <th id="lit-table-heading-point" scope="col">Relevant Point</th>
+        <th id="lit-table-heading-ref" scope="col">Key References</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for category in categories %}
+        <tr class="lit-table-category-heading" data-category="{{ category }}">
+          <th colspan="2" class="lit-table-heading" id="lit-table-heading-{{ category | slugify }}"><b>{{ category }} Category</b></th>
+        </tr>
+        {% for lit in site.data.dissertationref %}
+          {% if lit.litreviewcategory == category %}
+            <tr class="lit-table-row" data-category="{{ lit.litreviewcategory }}">
+              <td headers="lit-table-heading-{{ category | slugify }} lit-table-heading-name">{{ lit.relevantpoint }}</td>
+              <td headers="lit-table-heading-{{ category | slugify }} lit-table-heading-description">{{ lit.cite}}</td>
+            </tr>
+          {% endif %}
+        {% endfor %} <!--lit-->
+      {% endfor %}<!--category-->
+    </tbody>
+  </table>
+</div>
 
 | # | Relevant points to include in relation to your own research topic | Key references |
 | -- | -------------- | ------------------ |
@@ -35,7 +82,7 @@ My Research Topic: **Where have all the Identirati gone? An Identity and Access 
 
 [Return To Table of Contents](#table-of-contents)
 
-## Contemporary Context 
+### Contemporary Context 
 
 | # | Relevant points to include in relation to your own research topic | Key references |
 | -- | -------------- | ------------------ |
@@ -45,7 +92,7 @@ My Research Topic: **Where have all the Identirati gone? An Identity and Access 
 
 [Return To Table of Contents](#table-of-contents)
 
-## Theories and Concepts
+### Theories and Concepts
 
 | # | Relevant points to include in relation to your own research topic | Key references |
 | --- | -------------- | ------------------ |
@@ -61,7 +108,7 @@ My Research Topic: **Where have all the Identirati gone? An Identity and Access 
 
 [Return To Table of Contents](#table-of-contents)
 
-## Previous Research and Limitations
+### Previous Research and Limitations
 
 | # | Relevant points to include in relation to your own research topic | Key references |
 | -- | -------------- | ------------------ |
@@ -76,7 +123,7 @@ My Research Topic: **Where have all the Identirati gone? An Identity and Access 
 
 [Return To Table of Contents](#table-of-contents)
 
-## Significance of the Issue
+### Significance of the Issue
 
 | # | Relevant points to include in relation to your own research topic | Key references |
 | -- | -------------- | ------------------ |

@@ -13,22 +13,16 @@ March 21, 2021
     iv. [Previous Research and Limitations](#previous-research-and-limitations)<br>
     v. [Significance of the Issue](#significance-of-the-issue)
 2. [Tracking and Recording Search Results](#tracking-and-recording-search-results)
+3. [Literature Review Argument Steps](#literature-review-argument-steps)
 
 ## Reflecting on Research
 
 My Research Topic: **Where have all the Identirati gone? An Identity and Access Management Competency Model**
 
-Research Questions:
+**Research Questions:**
 1.	What are the foundational identity and access management architecture areas?
 2.	How can a curriculum incorporate identity and access management training modules into a broader cybersecurity program?
 3.	With the importance of Identity and Access Management identified with its own OMB memo 2019, why doesn’t the U.S. government have identity and access management work roles and competencies?
-
-Literature Review Argument Steps:
-1. A majority of breach attack vectors are caused by a broken identity and access management process.
-2. Identity and access management processes are a part of many cybersecurity frameworks implemented to protect data and prevent breaches.
-3. Cybersecurity workforce models are structued around implementing cybersecurity frameworks.
-4. Cybersecurity workforce models identify identity and access management tasks but do not identify identity and access management roles.
-5. Identity and access management roles are needed to implement identity and access management processes to prevent breaches.
 
 [Return To Table of Contents](#table-of-contents)
 
@@ -110,3 +104,12 @@ Literature Review Argument Steps:
 | IEE Computer Society	| cybersecurity AND workforce AND competency | 19 | 3/20/2021 |
 
 [Return To Table of Contents](#table-of-contents)
+
+## Literature Review Argument Steps
+
+**Literature Review Argument Steps:**
+1. A majority of breach attack vectors are caused by a broken identity and access management process.
+2. Identity and access management processes are a part of many cybersecurity frameworks.
+3. Cybersecurity frameworks are used to build cybersecurity workforce models.
+4. Cybersecurity workforce models identify identity and access management tasks spread across multiple roles, but do not identify identity and access management roles.
+5. Specific identity and access management roles are needed to implement identity and access management processes to prevent breaches.

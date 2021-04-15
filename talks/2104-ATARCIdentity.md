@@ -24,6 +24,6 @@ Panelists:
 - Josh Brodbent, Director, Public Sector Solutions Engineering @ BeyondTrust
 
 ## Press Related to Event
-1. [Fed Officials Preach Standardizing Both Data Architecture, Processes via Meritalk on April 5th](https://www.meritalk.com/articles/fed-officials-preach-standardizing-both-data-architecture-processes/){:target="_blank"}{:rel="noopener noreferrer"}
-2. [Cloud access management guidance is coming from the Office of Governmentwide Policy via FedScoop on April 2](https://www.fedscoop.com/cloud-access-management-guidance-ogp/){:target="_blank"}{:rel="noopener noreferrer"}
+1. [Cloud access management guidance is coming from the Office of Governmentwide Policy via FedScoop on April 2](https://www.fedscoop.com/cloud-access-management-guidance-ogp/){:target="_blank"}{:rel="noopener noreferrer"}
+2. [Fed Officials Preach Standardizing Both Data Architecture, Processes via Meritalk on April 5th](https://www.meritalk.com/articles/fed-officials-preach-standardizing-both-data-architecture-processes/){:target="_blank"}{:rel="noopener noreferrer"}
 3. [GSA's Government-wide Policy Office Eyes Updated Guidance on Identity Risk Management via ExecutiveGov on April 5](https://www.executivegov.com/2021/04/gsas-governmentwide-policy-office-eyes-updated-guidance-on-identity-risk-management/){:target="_blank"}{:rel="noopener noreferrer"}

@@ -4,7 +4,7 @@ Previous and upcoming speaking engagements with the presentation if I can share 
 
 | Title | Event | Location | Date | More Info |
 | ----- | ----- | -------- | ---- | --------- |
-| Machine Identities at Scale (Invited) | Venafi Global Summit 2021 | Virtual | May 2021 | [Event Info](2105-VenafiSummit.md)
+| CISO Roundtable: Automating Machine Identity Management at Scale (Invited) | Machine Identity Management Global Summit 2021 | Virtual | May 2021 | [Event Info](2105-VenafiSummit.md)
 GSA Digital Worker Identity Playbook | Defense Strategies Institute (DSI) Identity Management Symposium 2021 | Alexandria, VA | April 2021 | [Event Info](2104-DSIIDMGSADWPlaybook.md) |
 | Identity-Centric Security: The New Agency Perimeter | ATARC Webinar | Webinar | April 2021 | [Event Info / Recording / Press](2104-ATARCIdentity.md) |
 | GSA Digital Worker Identity Playbook | ISACA GWDC Cyber Workshop 2021 | Webinar | December 2020 | [Event Info](2012-VCWGSADWPlaybook.md) |

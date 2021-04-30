@@ -1,9 +1,9 @@
 # #87 - IAM Workforce Planning with Ken Myers
-Hosted by Identity at the Center Podcast<br>
-April 5, 2021<br>
-Podcast<br> 
-[Event Details](https://www.identityatthecenter.com/){:target="_blank"}{:rel="noopener noreferrer"}</br>
-[Recording](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9jNWZlZmNjL3BvZGNhc3QvcnNz/episode/YWYwNDM3ZGItYTI1Mi00MmZhLTk5OWEtODFiNmMzMzUwODhj?sa=X&ved=0CAUQkfYCahcKEwjolPTjl6bwAhUAAAAAHQAAAAAQAQ){:target="_blank"}{:rel="noopener noreferrer"}
+Hosted by Identity at the Center Podcast  
+April 5, 2021  
+Podcast  
+[Event Details](https://www.identityatthecenter.com/){:target="_blank"}{:rel="noopener noreferrer"}  
+[Recording](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9jNWZlZmNjL3BvZGNhc3QvcnNz/episode/YWYwNDM3ZGItYTI1Mi00MmZhLTk5OWEtODFiNmMzMzUwODhj?sa=X&ved=0CAUQkfYCahcKEwjolPTjl6bwAhUAAAAAHQAAAAAQAQ){:target="_blank"}{:rel="noopener noreferrer"}  
 
 ## Identity at the Center #87 - IAM Workforce Planning with Ken Myers
 Jim and Jeff talk with Ken Myers who is pursuing a doctorate that is focused on developing an IAM competency model. We talk about his research that includes how to hire, train, and retain IAM professionals.

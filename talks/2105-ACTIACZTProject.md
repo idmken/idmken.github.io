@@ -1,8 +1,8 @@
 # Briefing on Zero Trust Project
-Hosted by ACT-IAC <br>
-May 6, 2021 <br>
-Webinar <br> 
-[Event Details](https://www.actiac.org/act-iac-event/act-iac-zero-trust-briefing){:target="_blank"}{:rel="noopener noreferrer"} </br>
+Hosted by ACT-IAC  
+May 6, 2021  
+Webinar  
+[Event Details](https://www.actiac.org/act-iac-event/act-iac-zero-trust-briefing){:target="_blank"}{:rel="noopener noreferrer"}  
 
 ## Briefing on Zero Trust Project
 Join ACT-IAC and the Cybersecurity COI for an informative program on Zero Trust. At the meeting, you will hear from the ACT-IAC Zero Trust project team about their work related to potential federal agency adoption of zero trust security and modernizing cybersecurity.

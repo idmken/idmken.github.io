@@ -1,6 +1,6 @@
 # Machine Identity Management Global Summit 2021
 Hosted by Venafi <br>
-May 10 - 12<br>
+May 10 - 12 <br>
 Virtual <br> 
 [Event Details](https://hopin.com/events/machine-identity-management-summit2021){:target="_blank"}{:rel="noopener noreferrer"}
 
@@ -8,7 +8,7 @@ Virtual <br>
 
 May 10 11:05AM–11:50AM
 
-STAGE # 2 | CISO Roundtable: Automating Machine Identity Management at Scale
+STAGE # 2 - CISO Roundtable: Automating Machine Identity Management at Scale
 
 Panelists: 
 - Susan Koski, CISO at PNC; 

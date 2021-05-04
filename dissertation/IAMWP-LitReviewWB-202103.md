@@ -95,7 +95,7 @@ My Research Topic: **Where have all the Identirati gone? An Identity and Access 
 | Name of the catalogue, database, search engine, or social bookmarking site | Key word searches conducted, or tags used | Results of search | Date of search |
 | ---------------- | ---------------- | -------------- | -------------- |
 | IEEE Computer Society	| “identity management” AND “competency” AND year=2015-2021 | 9 | 02/18/2021 |
-| IEE Computer Society | cybersecurity AND workforce |	20 | 02/20/2021 |
+| IEEE Computer Society | cybersecurity AND workforce |	20 | 02/20/2021 |
 | ACM |	[All: cybersecurity] AND [All: workforce] AND [All: planning] AND [Publication Date: Past 5 years] AND [Publication Type: Journals] | 19 | 02/20/2021 |
 | Proquest Peer-Reviewed | "cybersecurity workforce" AND planning | 15 | 03/2/2021 |
 | EBSCO	| cybersecurity AND workforce AND planning | 2 | 03/2/2021 |

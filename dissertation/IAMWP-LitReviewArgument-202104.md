@@ -6,14 +6,14 @@ April 11, 2021
 # Literature Review Structure
 
 ## Table of Contents
-1. [Literature Review Mind Map](#literature-review-mind-map)<br>
-2. [Literature Review Argument Steps](#literature-review-argument-steps)
-    [Step 1 - Majority of breaches use an IAM process as an attack vector](step-1)
-    [Step 2 - IAM processes are implemented using cybersecurity frameworks](step-2)
-    [Step 3 - Cyber frameworks are used to build cybersecurity workforce models](step-3)
-    [Step 4 - Cybersecurity workforce models do not identify specific IAM roles](step-4)
-    [Step 5 - Specific IAM roles are needed to reduce breaches exploting an IAM process](step-5)
-3. [Literature Review Section Structure](#literature-review-section-structure)
+1. [Literature Review Mind Map](#literature-review-mind-map)  
+2. [Literature Review Argument Steps](#literature-review-argument-steps)  
+    [Step 1 - Majority of breaches use an IAM process as an attack vector](#step-1)  
+    [Step 2 - IAM processes are implemented using cybersecurity frameworks](#step-2)  
+    [Step 3 - Cyber frameworks are used to build cybersecurity workforce models](#step-3)  
+    [Step 4 - Cybersecurity workforce models do not identify specific IAM roles](#step-4)  
+    [Step 5 - Specific IAM roles are needed to reduce breaches exploting an IAM process](#step-5)  
+3. [Literature Review Section Structure](#literature-review-section-structure)  
 
 ## Literature Review Mind Map
 

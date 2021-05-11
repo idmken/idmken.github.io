@@ -4,15 +4,15 @@ May 10 - 12 <br>
 Virtual <br> 
 [Event Details](https://hopin.com/events/machine-identity-management-summit2021){:target="_blank"}{:rel="noopener noreferrer"}
 
-## CISO Roundtable: Automating Machine Identity Management at Scale
+## ICAM Strategy and Machine Identity Management Maturity in the Public Sector
 
-May 10 11:05AM–11:50AM
+May 11 09:15 AM–10:00 AM Eastern
 
-STAGE # 2 - CISO Roundtable: Automating Machine Identity Management at Scale
+Join federal CISOs and Aaron Aubrecht for an interactive discussion on ICAM strategy, zero trust and the impact of the SolarWinds breach on the public sector.
 
-Panelists: 
-- Susan Koski, CISO at PNC; 
-- Kevin McKenzie, CISO at Dollar Tree; 
-- Kenneth Myers, Chief Federal ICAM Architect at the General Services Administration (GSA) (Invited)
+Panelists:
+- Alma Cole, Chief Information Security Officer (CISO) at Customs and Border Protection (CBP); 
+- Rocco Zingaro, Solutions Architect at Optiv; 
+- Kenneth Myers, Chief Federal ICAM Architect at the General Services Administration Office of Government-wide Policy
 
-Moderated by Mike Dodson, VP of Worldwide Customer Security Strategy, Venafi
+Moderated by Aaron Aubrecht, VP of Worldwide Customer Security Strategy, Venafi

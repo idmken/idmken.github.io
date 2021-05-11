@@ -4,7 +4,7 @@ Previous and upcoming speaking engagements with the presentation if I can share 
 
 | Title | Event | Location | Date | More Info |
 | ----- | ----- | -------- | ---- | --------- |
-| CISO Roundtable: Automating Machine Identity Management at Scale (Invited) | Machine Identity Management Global Summit 2021 | Webinar | May 2021 | [Event Info](2105-VenafiSummit.md)
+| ICAM Strategy and Machine Identity Management Maturity in the Public Sector | Venafi Machine Identity Management Global Summit 2021 | Webinar | May 2021 | [Event Info](2105-VenafiSummit.md)
 | Briefing on Zero Trust Project | ACT-IAC Event | Webinar | May 2021 | [Event Info](2105-ACTIACZTProject.md) |
 | IAM Workforce Planning with Ken Myers | Identity at the Center Podcast | Podcast | April 2021 | [Event Info](2104-IATCPodcast.md) |
 | GSA Digital Worker Identity Playbook | Defense Strategies Institute (DSI) Identity Management Symposium 2021 | Webinar | April 2021 | [Event Info](2104-DSIIDMGSADWPlaybook.md) |

@@ -2,8 +2,8 @@
 
 Previous and upcoming speaking engagements with the presentation if I can share it. Reach out if you're interested in a topic.
 
-| Title | Event | Location | Date | More Info |
-| ----- | ----- | -------- | ---- | --------- |
+| Session Title or Role | Event Name | Location | Date | More Info |
+| --------------------- | ---------- | -------- | ---- | --------- |
 | ICAM Strategy and Machine Identity Management Maturity in the Public Sector | Venafi Machine Identity Management Global Summit 2021 | Webinar | May 2021 | [Event Info](2105-VenafiSummit.md)
 | Briefing on Zero Trust Project | ACT-IAC Event | Webinar | May 2021 | [Event Info](2105-ACTIACZTProject.md) |
 | IAM Workforce Planning with Ken Myers | Identity at the Center Podcast | Podcast | April 2021 | [Event Info](2104-IATCPodcast.md) |

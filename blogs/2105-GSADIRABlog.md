@@ -2,7 +2,8 @@ Reproduced here from the [GSA Blog](https://www.gsa.gov/blog/2021/05/13/managing
 
 # Managing digital identity risk
 
-May 13, 2021
+May 13, 2021  
+By: Ken Myers, Chief Federal ICAM Architect, and Sandra Hall, Program Analyst
 
 GSA’s Office of Government-wide Policy is here to help federal agencies implement a digital identity risk assessment process. We’ve helped agencies identify and implement entire risk assessment processes or streamline portions of existing processes or tools.
 

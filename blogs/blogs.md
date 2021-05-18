@@ -4,6 +4,7 @@ Articles or blog posts where I'm the author or co-author. Reproduced here with s
 
 | Title | Topic | Date | Role | Published Link | Local Link |
 | ----- | -------- | ---- | ----- | ------ | ----- |
+| Managing Digital Identity Risk | Digital Identity Risk Management | May 2021 | Co-Author | [GSA Blog](https://www.gsa.gov/blog/2021/05/13/managing-digital-identity-risk){:target="_blank"}{:rel="noopener noreferrer"} | [Github](2105-GSADIRABlog.md) |
 | Are We Federated Yet? | Single Sign-On | February 2021 | Author | [GSA Blog](https://www.gsa.gov/blog/2021/02/25/are-we-federated-yet){:target="_blank"}{:rel="noopener noreferrer"} | [GitHub](2102-GSAESSOPlaybook.md) |
 | Are You Securing Your Digital Workforce? | Digital Worker Identity Management | January 2021 | Co-Author | [GSA Blog](https://www.gsa.gov/blog/2021/01/13/are-you-securing-your-digital-workforce){:target="_blank"}{:rel="noopener noreferrer"} | [GitHub](2101-GSADWPlaybook.md) |
 | Federal Identities and Zero Trust | Zero Trust | October 2019 | Author | [ISACA GWDC Blog](https://isaca-gwdc.org/federal-identities-and-zero-trust/){:target="_blank"}{:rel="noopener noreferrer"} | [GitHub](1910-fedidandzerotrust.md) | 

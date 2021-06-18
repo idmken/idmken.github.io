@@ -4,46 +4,23 @@
 From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
 [FR Doc No: 08-140]
 
-
-
 [[Page 5271]]
 
 -----------------------------------------------------------------------
-
-Part II
-
-
-
-
-
-Department of Homeland Security
-
-
-
-
-
+Part II - Department of Homeland Security
 -----------------------------------------------------------------------
-
-
 
 6 CFR Part 37
 
+Minimum Standards for Driver's Licenses and Identification Cards  Acceptable by Federal Agencies for Official Purposes; Final Rule
 
-
-Minimum Standards for Driver's Licenses and Identification Cards 
-Acceptable by Federal Agencies for Official Purposes; Final Rule
-
-Federal Register / Vol. 73, No. 19 / Tuesday, January 29, 2008 / 
-Rules and Regulations
+Federal Register / Vol. 73, No. 19 / Tuesday, January 29, 2008 / Rules and Regulations
 
 [[Page 5272]]
 
-
 -----------------------------------------------------------------------
 
-DEPARTMENT OF HOMELAND SECURITY
-
-Office of the Secretary
+DEPARTMENT OF HOMELAND SECURITY - Office of the Secretary
 
 6 CFR Part 37
 
@@ -51,8 +28,7 @@ Office of the Secretary
 RIN 1601-AA37
 
 
-Minimum Standards for Driver's Licenses and Identification Cards 
-Acceptable by Federal Agencies for Official Purposes
+Minimum Standards for Driver's Licenses and Identification Cards Acceptable by Federal Agencies for Official Purposes
 
 AGENCY: Office of the Secretary, DHS.
 
@@ -60,27 +36,7 @@ ACTION: Final rule.
 
 -----------------------------------------------------------------------
 
-SUMMARY: The Department of Homeland Security is establishing minimum 
-standards for State-issued driver's licenses and identification cards 
-that Federal agencies would accept for official purposes on or after 
-May 11, 2008, in accordance with the REAL ID Act of 2005. This rule 
-establishes standards to meet the minimum requirements of the REAL ID 
-Act of 2005. These standards involve a number of aspects of the process 
-used to issue identification documents, including: Information and 
-security features that must be incorporated into each card; application 
-information to establish the identity and immigration status of an 
-applicant before a card can be issued; and physical security standards 
-for facilities where driver's licenses and applicable identification 
-cards are produced. This final rule also provides a process for States 
-to seek an additional extension of the compliance deadline to May 11, 
-2011, by demonstrating material compliance with the core requirements 
-of the Act and this rule. Finally, taking into consideration the 
-operational burdens on State Departments of Motor Vehicles, this rule 
-extends the enrollment time period to allow States determined by DHS to 
-be in compliance with the Act to replace all licenses intended for 
-official purpose with REAL ID-compliant cards by December 1, 2014 for 
-people born after December 1, 1964, and by December 1, 2017 for those 
-born on or before December 1, 1964.
+SUMMARY: The Department of Homeland Security is establishing minimum standards for State-issued driver's licenses and identification cards that Federal agencies would accept for official purposes on or after May 11, 2008, in accordance with the REAL ID Act of 2005. This rule establishes standards to meet the minimum requirements of the REAL ID Act of 2005. These standards involve a number of aspects of the process used to issue identification documents, including: Information and security features that must be incorporated into each card; application information to establish the identity and immigration status of an applicant before a card can be issued; and physical security standards for facilities where driver's licenses and applicable identification cards are produced. This final rule also provides a process for States to seek an additional extension of the compliance deadline to May 11, 2011, by demonstrating material compliance with the core requirements of the Act and this rule. Finally, taking into consideration the operational burdens on State Departments of Motor Vehicles, this rule extends the enrollment time period to allow States determined by DHS to be in compliance with the Act to replace all licenses intended for official purpose with REAL ID-compliant cards by December 1, 2014 for people born after December 1, 1964, and by December 1, 2017 for those born on or before December 1, 1964.
 
 DATES: Effective Date: This rule is effective March 31, 2008. The 
 incorporation by reference of certain publications listed in the rule 

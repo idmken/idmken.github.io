@@ -2,7 +2,8 @@
 Hosted by ATARC and SailPoint <br>
 June 24, 2021 <br>
 Virtual <br> 
-[Event Details](https://atarc.org/event/privilege-protection-identity-security/){:target="_blank"}{:rel="noopener noreferrer"}
+[Event Details](https://atarc.org/event/privilege-protection-identity-security/){:target="_blank"}{:rel="noopener noreferrer"}  
+[Recording](https://www.youtube.com/watch?v=EbbJ7VPxUys&t=1s){:target="_blank"}{:rel="noopener noreferrer"}
 
 ## Panel: The Journey to Zero Trust: Start with Privilege Protection & Identity Security
 

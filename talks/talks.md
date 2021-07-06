@@ -4,7 +4,8 @@ Previous and upcoming speaking engagements with the presentation if I can share 
 
 | Session Title or Role | Event Name | Location | Date | More Info |
 | --------------------- | ---------- | :--------: | :----: | --------- |
-| The Journey to Zero Trust | ATARC/SailPoint Webinar | Webinar | June 2021 | [Event Info](210624-SailPointZT.md) |
+| The President's Cybersecurity Executive Order: Achieve Zero Trust and Strong MFA | Yubico BrightTalk |  Webinar | June 2021 | [Event Info / Recording](2106-Yubico.md)
+| The Journey to Zero Trust | ATARC/SailPoint Webinar | Webinar | June 2021 | [Event Info](2106-SailPointZT.md) |
 | ICAM Strategy and Machine Identity Management Maturity in the Public Sector | Venafi Machine Identity Management Global Summit 2021 | Webinar | May 2021 | [Event Info](2105-VenafiSummit.md) |
 | Zero Trust Project Briefing | ACT-IAC Event | Webinar | May 2021 | [Event Info](2105-ACTIACZTProject.md) |
 | IAM Workforce Planning with Ken Myers | Identity at the Center Podcast | Podcast | April 2021 | [Event Info](2104-IATCPodcast.md) |

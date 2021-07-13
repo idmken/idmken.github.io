@@ -6,6 +6,9 @@ Sources, articles or training to increase our Identity and Access Management kno
 - [ABAC on AWS Tutorial By: AWS](https://docs.aws.amazon.com/IAM/latest/UserGuide/tutorial_attribute-based-access-control.html){:target="_blank"}{:rel="noopener noreferrer"} ***Want to try this out and see if you can do the same with tags on Azure.***
 - [Chesney on Cybersecurity Law, Policy, and Institutions v3.0 - March 2020](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3547103){:target="_blank"}{:rel="noopener noreferrer"} ***Comprehensive eCasebook on the interwined nature of the legal and policy questions associated with cybersecurity.***
 
+## Webinars and Videos
+- [How to architect an identity management strategy in AWS](https://pages.awscloud.com/awsmp-h2-sec-digital-workspace-iam-ty.html){:target="_blank"}{:rel="noopener noreferrer"} ***Great one hour webinar on best identity practices from AWS Well-Architected Framework with #Okta and #0Auth examples at the end.***
+
 ## Articles
 - [The Beer Drinker’s Guide to SAML By: Greg Seader via Duo Blog (15 min read)](https://duo.com/blog/the-beer-drinkers-guide-to-saml){:target="_blank"}{:rel="noopener noreferrer"} ***Easier to read and understand than the SAML standard.***
 - [You Need Multiple SAML IDP Signing Keys By: Hans via Hansblog (10 min read)](https://www.stackallocated.com/blog/2020/saml-idp-no-shared-keys/){:target="_blank"}{:rel="noopener noreferrer"} ***Great article on the risk in SAML signing keys and also contains a market analysis.***

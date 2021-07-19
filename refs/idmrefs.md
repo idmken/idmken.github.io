@@ -19,6 +19,13 @@ Sources, articles or training to increase our Identity and Access Management kno
 - [Introduction to Self-Soverign Identity By: Juin Chiu via Medium (11 min read)](https://medium.com/unitychain/intro-to-ssi-7cdac15251a7){:target="_blank"}{:rel="noopener noreferrer"} ***Interesting concepts.***
 - [Azure AD Connect for Red Teamers By: Adam Chest via XPNSec (10 min read)](https://blog.xpnsec.com/azuread-connect-for-redteam/){:target="_blank"}{:rel="noopener noreferrer"}
 
+### Articles Related to Achieving NIST 800-63-3 Levels
+- [NIST Special Publication 800-63 Revision 3 Digital Identity Guidelines By: NIST (3.5 hour read)](https://pages.nist.gov/800-63-3/sp800-63-3.html){:target="_blank"}{:rel="noopener noreferrer"} ***The digital identity bible for federal government agencies. A major upgrade to 800-63-2 evolving to three separate identity, authenticator, and federation levels.***
+- [NIST SPECIAL PUBLICATION 800-63-3 IMPLEMENTATION RESOURCES By: NIST (2 hour read)](https://www.nist.gov/system/files/documents/2020/07/02/SP-800-63-3-Implementation-Resources_07012020.pdf){:target="_blank"}{:rel="noopener noreferrer"} ***Accompanying guide to 800-63-3 on implementing the normative requirements of 800-63-3.***
+- [ForgeRock and NIST Special Publication 800-63-3 By: ForgeRock (25 min read)](https://www.forgerock.com/resources/whitepaper/forgerock-nist-sp-800-63-3){:target="_blank"}{:rel="noopener noreferrer"}
+- [Achieving National Institute of Standards and Technology Authenticator Assurance Levels with the Microsoft Identity Platform By: Microsoft (25 min Read)](https://azure.microsoft.com/mediahandler/files/resourcefiles/microsoft-nist/Achieving%20NIST%20Authentication%20Assurance%20Levels%20with%20the%20Microsoft%20Identity%20Platform.pdf){:target="_blank"}{:rel="noopener noreferrer"} **How to achieve NIST 800-63-3 levels using Azure AD.**
+- [Selecting Secure Multi-factor Authentication Solutions By: NSA (25 min read)](https://media.defense.gov/2020/Sep/22/2002502665/-1/-1/0/CSI_MULTIFACTOR_AUTHENTICATION_SOLUTIONS_UOO17091520.PDF){:target="_blank"}{:rel="noopener noreferrer"} ***Good overview on authenticators and how some modern solutions stack up to NIST 800-63-3B requirements.***
+
 ### Articles Related to Federation Attacks and Golden SAML
 - [Detecting Abuse of Authentication Mechanisms By: National Security Agency](https://media.defense.gov/2020/Dec/17/2002554125/-1/-1/0/AUTHENTICATION_MECHANISMS_CSA_U_OO_198854_20.PDF){:target="_blank"}{:rel="noopener noreferrer"} ***Government resource specific to AD FS and Azure.***
   - [Best practices for securing Active Directory Federation Services By: Microsoft](https://docs.microsoft.com/en-us/windows-server/identity/ad-fs/deployment/best-practices-securing-ad-fs){:target="_blank"}{:rel="noopener noreferrer"}  ***Straight from the source.***
@@ -29,16 +36,12 @@ Sources, articles or training to increase our Identity and Access Management kno
   - [Golden SAML Revisited: The Solorigate Connection By: Shaked Reiner via CyberArk Blog](https://www.cyberark.com/resources/threat-research-blog/golden-saml-revisited-the-solorigate-connection){:target="_blank"}{:rel="noopener noreferrer"} ***Follow-up post.***
 
 ## Frameworks and Standards
-- [NIST Special Publication 800-63 Revision 3 Digital Identity Guidelines By: NIST (3.5 hour read)](https://pages.nist.gov/800-63-3/sp800-63-3.html){:target="_blank"}{:rel="noopener noreferrer"} ***The digital identity bible for federal government agencies. A major upgrade to 800-63-2 evolving to three separate identity, authenticator, and federation levels.***
-  - [NIST SPECIAL PUBLICATION 800-63-3 IMPLEMENTATION RESOURCES By: NIST (2 hour read)](https://www.nist.gov/system/files/documents/2020/07/02/SP-800-63-3-Implementation-Resources_07012020.pdf){:target="_blank"}{:rel="noopener noreferrer"} ***Accompanying guide to 800-63-3 on implementing the normative requirements of 800-63-3.***
 - [The Public Sector Profile of the Pan-Canadian Trust Framework (PCTF-CCP) By: Government of Canada (2 hour read)](https://canada-ca.github.io/PCTF-CCP/){:target="_blank"}{:rel="noopener noreferrer"} ***Identity frameworks are an interesting way to see how identity is used in other sectors and cultures. This one is designed to map identity and business processes in Canada. It also helps map those processes to other international frameworks such as eIDAS, FATF, and UNCITRAL.***
 
 ## Academic Papers
 Coming soon!
 
 ## Guides
-- [Achieving National Institute of Standards and Technology Authenticator Assurance Levels with the Microsoft Identity Platform By: Microsoft (25 min Read)](https://azure.microsoft.com/mediahandler/files/resourcefiles/microsoft-nist/Achieving%20NIST%20Authentication%20Assurance%20Levels%20with%20the%20Microsoft%20Identity%20Platform.pdf)**How to achieve NIST 800-63-3 levels using Azure AD.**
-- [Selecting Secure Multi-factor Authentication Solutions By: NSA (25 min read)](https://media.defense.gov/2020/Sep/22/2002502665/-1/-1/0/CSI_MULTIFACTOR_AUTHENTICATION_SOLUTIONS_UOO17091520.PDF){:target="_blank"}{:rel="noopener noreferrer"} ***Good overview on authenticators and how some modern solutions stack up to NIST 800-63-3B requirements.***
 - [The Complete JSON Tutorial By: Dan Englishby (20 min read)](https://www.codewall.co.uk/the-complete-json-tutorial-quickly-learn-json/){:target="_blank"}{:rel="noopener noreferrer"} #**Great guide on how to understand and use JSON. JSON format is used by cloud-based identity vendors to either share information or write access policies.***
 
 ## Free IAM or IAM-Related Training

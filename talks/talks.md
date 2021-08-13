@@ -6,6 +6,7 @@ Previous and upcoming speaking engagements with the presentation if I can share 
 
 | Session Title or Role | Event Name | Format | Location | Date | More Info |
 | --------------------- | ---------- | :----: | :------: | :--: | --------- |
+| Identity at GSA | AFCEA FedID 2021 Symposium | Panel | Conference | August 2021 | [Event Info](2108-Fedid.md)
 | The President's Cybersecurity Executive Order: Achieve Zero Trust and Strong MFA | Yubico BrightTalk |  Panel | Webinar | June 2021 | [Event Info / Recording](2106-Yubico.md)
 | The Journey to Zero Trust | ATARC/SailPoint Event | Panel | Webinar | June 2021 | [Event Info](2106-SailPointZT.md) |
 | ICAM Strategy and Machine Identity Management Maturity in the Public Sector | Venafi Machine Identity Management Global Summit 2021 | Panel | Webinar | May 2021 | [Event Info](2105-VenafiSummit.md) |

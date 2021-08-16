@@ -45,6 +45,11 @@ Coming soon!
 - [The Complete JSON Tutorial By: Dan Englishby (20 min read)](https://www.codewall.co.uk/the-complete-json-tutorial-quickly-learn-json/){:target="_blank"}{:rel="noopener noreferrer"} #**Great guide on how to understand and use JSON. JSON format is used by cloud-based identity vendors to either share information or write access policies.***
 
 ## Free IAM or IAM-Related Training
+- [Microsoft SC-300 Learning Modules - Microsoft Identity and Access Administrator (Eight Hours)](https://docs.microsoft.com/en-us/learn/browse/?terms=sc-300){:target="_blank"}{:rel="noopener noreferrer"} ***The Microsoft Identity and Access Administrator designs, implements, and operates an organization’s identity and access management systems by using Azure Active Directory (Azure AD).  This is same course I used to pass the SC-300. I also used the MeasureUp practice test.***
 - [Okta Basics Curriculum by Okta (Six hours)](https://www.okta.com/training/okta-basics-curriculum-for-workforce-identity/){:target="_blank"}{:rel="noopener noreferrer"} ***Free for customers and developers. You can get a free developer account. Solid identity basics with how to deploy them on Okta.***
 - [MITRE ATT&CK for Cyber Threat Intelligence Training By MITRE (Four Hours)](https://attack.mitre.org/resources/training/cti/){:target="_blank"}{:rel="noopener noreferrer"} ***How to use MITRE ATT&CK which includes identity-based attack vectors.***
 - [Introduction to Google Cloud Identity by Google on Coursera (Eight Hours)](https://www.coursera.org/learn/cloud-identity){:target="_blank"}{:rel="noopener noreferrer"} ***Free content and hands-on training with trial GCP account. Pay if you want a certificate. Good intro course on cloud identity management and specifically Google Cloud Directory, SSO, MDM, and security.***
+- [Keycloak Overview (One Hour)](https://www.katacoda.com/keycloak){:target="_blank"}{:rel="noopener noreferrer"} ***Basic overview of Keycloak including realms, user management, and application integration.***
+
+## Identity Certifications
+Coming Soon! Identity-specific certifications.

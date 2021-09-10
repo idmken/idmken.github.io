@@ -4,6 +4,8 @@ Articles or blog posts where I'm the author or co-author. Reproduced here with s
 
 | Title | Topic | Date | Role | Published Link | Local Link |
 | ----- | -------- | ---- | ----- | ------ | ----- |
+| White House Releases Draft Federal Zero Trust Strategy | Zero Trust | September 2021 | Author | [ISACA GWDC Blog](https://isaca-gwdc.org/2021-draft-federal-zero-trust-strategy/){:target="_blank"}{:rel="noopener noreferrer"} | [Github](2109-gwdcfedztastrategy.md) |
+| How GSA worked with stakeholders to improve federal ID website usability | Federal ICAM | August 2021 | Author | [GSA Blog](https://www.gsa.gov/blog/2021/08/31/how-gsa-worked-with-stakeholders-to-improve-federal-id-website-usability){:target="_blank"}{:rel="noopener noreferrer"} | [Github](2108-GSAIDMGovBlog.md) |
 | Managing Digital Identity Risk | Digital Identity Risk Management | May 2021 | Co-Author | [GSA Blog](https://www.gsa.gov/blog/2021/05/13/managing-digital-identity-risk){:target="_blank"}{:rel="noopener noreferrer"} | [Github](2105-GSADIRABlog.md) |
 | Are We Federated Yet? | Single Sign-On | February 2021 | Author | [GSA Blog](https://www.gsa.gov/blog/2021/02/25/are-we-federated-yet){:target="_blank"}{:rel="noopener noreferrer"} | [GitHub](2102-GSAESSOPlaybook.md) |
 | Are You Securing Your Digital Workforce? | Digital Worker Identity Management | January 2021 | Co-Author | [GSA Blog](https://www.gsa.gov/blog/2021/01/13/are-you-securing-your-digital-workforce){:target="_blank"}{:rel="noopener noreferrer"} | [GitHub](2101-GSADWPlaybook.md) |

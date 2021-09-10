@@ -23,7 +23,7 @@ A literature review is a scholarly source review related to a specific topic. It
 
 [Literature Review Structure - April 11, 2021](IAMWP-ch2-LitReviewArgument-202104.md)
 
-[Literature Review - May 4, 2021](IAMWP-ch2-202104.md)
+[Literature Review - May 4, 2021](IAMWP-ch2-202105.md)
 
 ## Chapter 3
 

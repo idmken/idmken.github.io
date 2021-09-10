@@ -19,11 +19,11 @@ Coming soon!
 
 A literature review is a scholarly source review related to a specific topic. It provides an overview of the historical background, contemporary context, theories and concepts, previous research and limitations or gaps, and significanc of the issue being research. My literature review was adapted from [**The Literature Review: A Step-by-Step Guide for Students (SAGE Study Skills Series) by Ridley**](https://www.amazon.com/Literature-Review-Step-Step-Students/dp/1446201430/ref=pd_lpo_14_t_0/141-5825669-0250349?_encoding=UTF8&pd_rd_i=1446201430&pd_rd_r=519270a8-c143-4def-9b02-c153a52cae99&pd_rd_w=yJF2F&pd_rd_wg=4N1TU&pf_rd_p=337be819-13af-4fb9-8b3e-a5291c097ebb&pf_rd_r=MAZXGWSSCK99FXCE77YH&psc=1&refRID=MAZXGWSSCK99FXCE77YH){:target=”_blank”}{:rel=”noopener noreferrer”}
 
-[Literature Review Workbook - March 21, 2021](IAMWP-LitReviewWB-202103.md)
+[Literature Review Workbook - March 21, 2021](IAMWP-ch2-LitReviewWB-202103.md)
 
-[Literature Review Structure - April 11, 2021](IAMWP-LitReviewArgument-202104.md)
+[Literature Review Structure - April 11, 2021](IAMWP-ch2-LitReviewArgument-202104.md)
 
-Literature Review - Coming Soon!
+[Literature Review - May 4, 2021](IAMWP-ch2-202104.md)
 
 ## Chapter 3
 

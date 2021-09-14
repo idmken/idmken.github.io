@@ -12,7 +12,6 @@ Join this Sept 14 Yubico roundtable discussion hosted by Jeff Phillips, VP Publi
 
 Panelists:
 - Jeremy Grant, Managing Director, Venable (former NIST)
-- Ross Norduft, Senior Director Cyber Security Services, Venable (former OMB)
 - Kenneth Myers, Chief Federal ICAM Architect at the General Services Administration Office of Government-wide Policy
 
 Moderated by Jeff Phillips, Vice President Public Sector, Yubico.

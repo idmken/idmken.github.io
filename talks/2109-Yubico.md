@@ -2,7 +2,7 @@
 Hosted by Yubico <br>
 September 14, 2021 <br>
 Webinar <br> 
-[Event Details and Recording](https://www.brighttalk.com/webcast/15793/505254?utm_campaign=channel-feed&utm_source=brighttalk-portal&utm_medium=web){:target="_blank"}{:rel="noopener noreferrer"}
+[Event Details and Recording](https://www.brighttalk.com/webcast/15793/505254){:target="_blank"}{:rel="noopener noreferrer"}
 
 ## Panel: President Biden’s Cybersecurity Executive Order 14028: Where are we now?
 

@@ -6,6 +6,9 @@ Previous and upcoming speaking engagements with the presentation if I can share 
 
 | Session Title or Role | Event Name | Format | Location | Date |
 | --------------------- | ---------- | :----: | :------: | :--: |
+| [Working Together for Privacy Protection: The Importance of Identity Management](2112-atarc.md) | ATARC/Ping Identity Event | Panelist | Webinar | December 2021 |
+| [The Adventure Map: Implementing Zero Trust](2111-actiac.md) | 2021 ACT-IAC Imagination | Panelist | Hybrid Conference (Hershey, PA) | November 2021 | 
+| [International Use Cases for Digital Identity](2110-keio.md) | 11th Keio International Cybersecurity Symposium | Moderator | Virtual Symposium (Tokyo, Japan) | October 2021|
 | [President Biden’s Cybersecurity Executive Order 14028: Where are we now?](2109-Yubico.md) | Yubico BrightTalk | Panelist | Webinar | September 2021 |
 | [Identity at GSA](2108-Fedid.md) | AFCEA FedID 2021 Symposium | Panelist | Virtual Conference | August 2021 |
 | [The President's Cybersecurity Executive Order: Achieve Zero Trust and Strong MFA](2106-Yubico.md) | Yubico BrightTalk |  Panelist | Webinar | June 2021 |

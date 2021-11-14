@@ -1,0 +1,531 @@
+# NIST NICE Cybersecurity Abilities
+
+---
+-
+    aId: A0001
+    abilityDescription: Ability to identify systemic security issues based on the analysis of vulnerability and configuration data.
+-
+    aId: A0002
+    abilityDescription: Ability to match the appropriate knowledge repository technology for a given application or environment.
+-
+    aId: A0003
+    abilityDescription: Ability to determine the validity of technology trend data.
+-
+    aId: A0004
+    abilityDescription: Ability to develop curriculum that speaks to the topic at the appropriate level for the target audience.
+-
+    aId: A0005
+    abilityDescription: Ability to decrypt digital data collections.
+-
+    aId: A0006
+    abilityDescription: Ability to prepare and deliver education and awareness briefings to ensure that systems, network, and data users are aware of and adhere to systems security policies and procedures.
+-
+    aId: A0007
+    abilityDescription: Ability to tailor code analysis for application-specific concerns.
+-
+    aId: A0008
+    abilityDescription: 'Ability to apply the methods, standards, and approaches for describing, analyzing, and documenting an organization''s enterprise information technology (IT) architecture (e.g., Open Group Architecture Framework [TOGAF], Department of Defense Architecture Framework [DoDAF], Federal Enterprise Architecture Framework [FEAF]).'
+-
+    aId: A0009
+    abilityDescription: Ability to apply supply chain risk management standards.
+-
+    aId: A0010
+    abilityDescription: Ability to analyze malware.
+-
+    aId: A0011
+    abilityDescription: Ability to answer questions in a clear and concise manner.
+-
+    aId: A0012
+    abilityDescription: Ability to ask clarifying questions.
+-
+    aId: A0013
+    abilityDescription: Ability to communicate complex information, concepts, or ideas in a confident and well-organized manner through verbal, written, and/or visual means. 
+-
+    aId: A0014
+    abilityDescription: Ability to communicate effectively when writing.
+-
+    aId: A0015
+    abilityDescription: Ability to conduct vulnerability scans and recognize vulnerabilities in security systems.
+-
+    aId: A0016
+    abilityDescription: Ability to facilitate small group discussions.
+-
+    aId: A0017
+    abilityDescription: Ability to gauge learner understanding and knowledge level.
+-
+    aId: A0018
+    abilityDescription: Ability to prepare and present briefings.
+-
+    aId: A0019
+    abilityDescription: Ability to produce technical documentation.
+-
+    aId: A0020
+    abilityDescription: Ability to provide effective feedback to students for improving learning.
+-
+    aId: A0021
+    abilityDescription: Ability to use and understand complex mathematical concepts (e.g., discrete math).
+-
+    aId: A0022
+    abilityDescription: Ability to apply principles of adult learning.
+-
+    aId: A0023
+    abilityDescription: Ability to design valid and reliable assessments.
+-
+    aId: A0024
+    abilityDescription: Ability to develop clear directions and instructional materials.
+-
+    aId: A0025
+    abilityDescription: Ability to accurately define incidents, problems, and events in the trouble ticketing system.
+-
+    aId: A0026
+    abilityDescription: Ability to analyze test data.
+-
+    aId: A0027
+    abilityDescription: 'Ability to apply an organization''s goals and objectives to develop and maintain architecture.'
+-
+    aId: A0028
+    abilityDescription: Ability to assess and forecast manpower requirements to meet organizational objectives.
+-
+    aId: A0029
+    abilityDescription: Ability to build complex data structures and high-level programming languages.
+-
+    aId: A0030
+    abilityDescription: Ability to collect, verify, and validate test data.
+-
+    aId: A0031
+    abilityDescription: Ability to conduct and implement market research to understand government and industry capabilities and appropriate pricing.
+-
+    aId: A0032
+    abilityDescription: Ability to develop curriculum for use within a virtual environment.
+-
+    aId: A0033
+    abilityDescription: Ability to develop policy, plans, and strategy in compliance with laws, regulations, policies, and standards in support of organizational cyber activities.
+-
+    aId: A0034
+    abilityDescription: Ability to develop, update, and/or maintain standard operating procedures (SOPs).
+-
+    aId: A0035
+    abilityDescription: Ability to dissect a problem and examine the interrelationships between data that may appear unrelated.
+-
+    aId: A0036
+    abilityDescription: Ability to identify basic common coding flaws at a high level.
+-
+    aId: A0037
+    abilityDescription: Ability to leverage best practices and lessons learned of external organizations and academic institutions dealing with cyber issues.
+-
+    aId: A0038
+    abilityDescription: Ability to optimize systems to meet enterprise performance requirements.
+-
+    aId: A0039
+    abilityDescription: Ability to oversee the development and update of the life cycle cost estimate.
+-
+    aId: A0040
+    abilityDescription: Ability to translate data and test results into evaluative conclusions.
+-
+    aId: A0041
+    abilityDescription: Ability to use data visualization tools (e.g., Flare, HighCharts, AmCharts, D3.js, Processing, Google Visualization API, Tableau, Raphael.js).
+-
+    aId: A0042
+    abilityDescription: Ability to develop career path opportunities.
+-
+    aId: A0043
+    abilityDescription: Ability to conduct forensic analyses in and for both Windows and Unix/Linux environments.
+-
+    aId: A0044
+    abilityDescription: Ability to apply programming language structures (e.g., source code review) and logic.
+-
+    aId: A0045
+    abilityDescription: Ability to evaluate/ensure the trustworthiness of the supplier and/or product.
+-
+    aId: A0046
+    abilityDescription: Ability to monitor and assess the potential impact of emerging technologies on laws, regulations, and/or policies.
+-
+    aId: A0047
+    abilityDescription: Ability to develop secure software according to secure software deployment methodologies, tools, and practices.
+-
+    aId: A0048
+    abilityDescription: Ability to apply network security architecture concepts including topology, protocols, components, and principles (e.g., application of defense-in-depth).
+-
+    aId: A0049
+    abilityDescription: Ability to apply secure system design tools, methods and techniques.
+-
+    aId: A0050
+    abilityDescription: Ability to apply system design tools, methods, and techniques, including automated systems analysis and design tools.
+-
+    aId: A0051
+    abilityDescription: Ability to execute technology integration processes.
+-
+    aId: A0052
+    abilityDescription: Ability to operate network equipment including hubs, routers, switches, bridges, servers, transmission media, and related hardware.
+-
+    aId: A0053
+    abilityDescription: Ability to determine the validity of workforce trend data.
+-
+    aId: A0054
+    abilityDescription: Ability to apply the Instructional System Design (ISD) methodology.
+-
+    aId: A0055
+    abilityDescription: Ability to operate common network tools (e.g., ping, traceroute, nslookup).
+-
+    aId: A0056
+    abilityDescription: Ability to ensure security practices are followed throughout the acquisition process.
+-
+    aId: A0057
+    abilityDescription: Ability to tailor curriculum that speaks to the topic at the appropriate level for the target audience.
+-
+    aId: A0058
+    abilityDescription: Ability to execute OS command line (e.g., ipconfig, netstat, dir, nbtstat).
+-
+    aId: A0059
+    abilityDescription: 'Ability to operate the organization''s LAN/WAN pathways.'
+-
+    aId: A0060
+    abilityDescription: Ability to build architectures and frameworks.
+-
+    aId: A0061
+    abilityDescription: Ability to design architectures and frameworks.
+-
+    aId: A0062
+    abilityDescription: Ability to monitor measures or indicators of system performance and availability.
+-
+    aId: A0063
+    abilityDescription: Ability to operate different electronic communication systems and methods (e.g., e-mail, VOIP, IM, web forums, Direct Video Broadcasts).
+-
+    aId: A0064
+    abilityDescription: Ability to interpret and translate customer requirements into operational capabilities. 
+-
+    aId: A0065
+    abilityDescription: Ability to monitor traffic flows across the network.
+-
+    aId: A0066
+    abilityDescription: Ability to accurately and completely source all data used in intelligence, assessment and/or planning products.
+-
+    aId: A0067
+    abilityDescription: Ability to adjust to and operate in a diverse, unpredictable, challenging, and fast-paced work environment.
+-
+    aId: A0068
+    abilityDescription: Ability to apply approved planning development and staffing processes.
+-
+    aId: A0069
+    abilityDescription: Ability to apply collaborative skills and strategies.
+-
+    aId: A0070
+    abilityDescription: Ability to apply critical reading/thinking skills.
+-
+    aId: A0071
+    abilityDescription: Ability to apply language and cultural expertise to analysis.
+-
+    aId: A0072
+    abilityDescription: Ability to clearly articulate intelligence requirements into well-formulated research questions and data tracking variables for inquiry tracking purposes.
+-
+    aId: A0073
+    abilityDescription: Ability to clearly articulate intelligence requirements into well-formulated research questions and requests for information.
+-
+    aId: A0074
+    abilityDescription: Ability to collaborate effectively with others.
+-
+    aId: A0076
+    abilityDescription: Ability to coordinate and collaborate with analysts regarding surveillance requirements and essential information development.
+-
+    aId: A0077
+    abilityDescription: Ability to coordinate cyber operations with other organization functions or support activities.
+-
+    aId: A0078
+    abilityDescription: Ability to coordinate, collaborate and disseminate information to subordinate, lateral and higher-level organizations.
+-
+    aId: A0079
+    abilityDescription: Ability to correctly employ each organization or element into the collection plan and matrix.
+-
+    aId: A0080
+    abilityDescription: Ability to develop or recommend analytic approaches or solutions to problems and situations for which information is incomplete or for which no precedent exists.
+-
+    aId: A0081
+    abilityDescription: Ability to develop or recommend planning solutions to problems and situations for which no precedent exists.
+-
+    aId: A0082
+    abilityDescription: Ability to effectively collaborate via virtual teams.
+-
+    aId: A0083
+    abilityDescription: Ability to evaluate information for reliability, validity, and relevance.
+-
+    aId: A0084
+    abilityDescription: Ability to evaluate, analyze, and synthesize large quantities of data (which may be fragmented and contradictory) into high quality, fused targeting/intelligence products.
+-
+    aId: A0085
+    abilityDescription: Ability to exercise judgment when policies are not well-defined.
+-
+    aId: A0086
+    abilityDescription: Ability to expand network access by conducting target analysis and collection to identify targets of interest.
+-
+    aId: A0087
+    abilityDescription: Ability to focus research efforts to meet the customer’s decision-making needs.
+-
+    aId: A0088
+    abilityDescription: Ability to function effectively in a dynamic, fast-paced environment.
+-
+    aId: A0089
+    abilityDescription: Ability to function in a collaborative environment, seeking continuous consultation with other analysts and experts—both internal and external to the organization—to leverage analytical and technical expertise.
+-
+    aId: A0090
+    abilityDescription: Ability to identify external partners with common cyber operations interests.
+-
+    aId: A0091
+    abilityDescription: Ability to identify intelligence gaps.
+-
+    aId: A0092
+    abilityDescription: Ability to identify/describe target vulnerability.
+-
+    aId: A0093
+    abilityDescription: Ability to identify/describe techniques/methods for conducting technical exploitation of the target.
+-
+    aId: A0094
+    abilityDescription: Ability to interpret and apply laws, regulations, policies, and guidance relevant to organization cyber objectives.
+-
+    aId: A0095
+    abilityDescription: Ability to interpret and translate customer requirements into operational action.
+-
+    aId: A0096
+    abilityDescription: Ability to interpret and understand complex and rapidly evolving concepts.
+-
+    aId: A0097
+    abilityDescription: Ability to monitor system operations and react to events in response to triggers and/or observation of trends or unusual activity. 
+-
+    aId: A0098
+    abilityDescription: Ability to participate as a member of planning teams, coordination groups, and task forces as necessary.
+-
+    aId: A0099
+    abilityDescription: Ability to perform network collection tactics, techniques, and procedures to include decryption capabilities/tools.
+-
+    aId: A0100
+    abilityDescription: Ability to perform wireless collection procedures to include decryption capabilities/tools.
+-
+    aId: A0101
+    abilityDescription: Ability to recognize and mitigate cognitive biases which may affect analysis.
+-
+    aId: A0102
+    abilityDescription: Ability to recognize and mitigate deception in reporting and analysis.
+-
+    aId: A0103
+    abilityDescription: Ability to review processed target language materials for accuracy and completeness.
+-
+    aId: A0104
+    abilityDescription: Ability to select the appropriate implant to achieve operational goals.
+-
+    aId: A0105
+    abilityDescription: Ability to tailor technical and planning information to a customer’s level of understanding.
+-
+    aId: A0106
+    abilityDescription: Ability to think critically.
+-
+    aId: A0107
+    abilityDescription: Ability to think like threat actors.
+-
+    aId: A0108
+    abilityDescription: Ability to understand objectives and effects.
+-
+    aId: A0109
+    abilityDescription: Ability to utilize multiple intelligence sources across all intelligence disciplines.
+-
+    aId: A0110
+    abilityDescription: Ability to monitor advancements in information privacy laws to ensure organizational adaptation and compliance.
+-
+    aId: A0111
+    abilityDescription: Ability to work across departments and business units to implement organization’s privacy principles and programs, and align privacy objectives with security objectives. 
+-
+    aId: A0112
+    abilityDescription: Ability to monitor advancements in information privacy technologies to ensure organizational adaptation and compliance.
+-
+    aId: A0113
+    abilityDescription: Ability to determine whether a security incident violates a privacy principle or legal standard requiring specific legal action.
+-
+    aId: A0114
+    abilityDescription: Ability to develop or procure curriculum that speaks to the topic at the appropriate level for the target.
+-
+    aId: A0115
+    abilityDescription: Ability to work across departments and business units to implement organization’s privacy principles and programs, and align privacy objectives with security objectives.
+-
+    aId: A0116
+    abilityDescription: Ability to prioritize and allocate cybersecurity resources correctly and efficiently.
+-
+    aId: A0117
+    abilityDescription: Ability to relate strategy, business, and technology in the context of organizational dynamics.
+-
+    aId: A0118
+    abilityDescription: Ability to understand technology, management, and leadership issues related to organization processes and problem solving.
+-
+    aId: A0119
+    abilityDescription: Ability to understand the basic concepts and issues related to cyber and its organizational impact.
+-
+    aId: A0120
+    abilityDescription: Ability to share meaningful insights about the context of an organization’s threat environment that improve its risk management posture.
+-
+    aId: A0121
+    abilityDescription: Ability to design incident response for cloud service models.
+-
+    aId: A0122
+    abilityDescription: Ability to design capabilities to find solutions to less common and more complex system problems.
+-
+    aId: A0123
+    abilityDescription: Ability to apply cybersecurity and privacy principles to organizational requirements (relevant to confidentiality, integrity, availability, authentication, non-repudiation).
+-
+    aId: A0124
+    abilityDescription: Ability to establish and maintain automated security control assessments
+-
+    aId: A0125
+    abilityDescription: Ability to author a privacy disclosure statement based on current laws.
+-
+    aId: A0126
+    abilityDescription: Ability to track the location and configuration of networked devices and software across departments, locations, facilities and, potentially, supporting business functions.
+-
+    aId: A0127
+    abilityDescription: Ability to deploy continuous monitoring technologies and tools.
+-
+    aId: A0128
+    abilityDescription: Ability to apply techniques for detecting host and network-based intrusions using intrusion detection technologies.
+-
+    aId: A0129
+    abilityDescription: Ability to ensure information security management processes are integrated with strategic and operational planning processes.
+-
+    aId: A0130
+    abilityDescription: Ability to ensure that senior officials within the organization provide information security for the information and systems that support the operations and assets under their control.
+-
+    aId: A0131
+    abilityDescription: Ability to ensure the organization has adequately trained personnel to assist in complying with security requirements in legislation, Executive Orders, policies, directives, instructions, standards, and guidelines.
+-
+    aId: A0132
+    abilityDescription: Ability to coordinate with senior leadership of an organization to provide a comprehensive, organization-wide, holistic approach for addressing risk—an approach that provides a greater understanding of the integrated operations of the organization.
+-
+    aId: A0133
+    abilityDescription: Ability to coordinate with senior leadership of an organization to develop a risk management strategy for the organization providing a strategic view of security-related risks for the organization.
+-
+    aId: A0134
+    abilityDescription: Ability to coordinate with senior leadership of an organization to facilitate the sharing of risk-related information among authorizing officials and other senior leaders within the organization.
+-
+    aId: A0135
+    abilityDescription: Ability to coordinate with senior leadership of an organization to provide oversight for all risk management-related activities across the organization to help ensure consistent and effective risk acceptance decisions.
+-
+    aId: A0136
+    abilityDescription: Ability to coordinate with senior leadership of an organization to ensure that authorization decisions consider all factors necessary for mission and business success.
+-
+    aId: A0137
+    abilityDescription: Ability to coordinate with senior leadership of an organization to provide an organization-wide forum to consider all sources of risk (including aggregated risk) to organizational operations and assets, individuals, other organizations, and the Nation.
+-
+    aId: A0138
+    abilityDescription: Ability to coordinate with senior leadership of an organization to promote cooperation and collaboration among authorizing officials to include authorization actions requiring shared responsibility.
+-
+    aId: A0139
+    abilityDescription: Ability to coordinate with senior leadership of an organization to ensure that the shared responsibility for supporting organizational mission/business functions using external providers of systems, services, and applications receives the needed visibility and is elevated to the appropriate decision-making authorities.
+-
+    aId: A0140
+    abilityDescription: Ability to coordinate with senior leadership of an organization to identify the organizational risk posture based on the aggregated risk from the operation and use of the systems for which the organization is responsible.
+-
+    aId: A0141
+    abilityDescription: Ability to work closely with authorizing officials and their designated representatives to help ensure that an organization-wide security program is effectively implemented resulting in adequate security for all organizational systems and environments of operation.
+-
+    aId: A0142
+    abilityDescription: Ability to work closely with authorizing officials and their designated representatives to help ensure that security considerations are integrated into programming/planning/budgeting cycles, enterprise architectures, and acquisition/system development life cycles.
+-
+    aId: A0143
+    abilityDescription: Ability to work closely with authorizing officials and their designated representatives to help ensure that organizational systems and common controls are covered by approved security plans and possess current authorizations.
+-
+    aId: A0144
+    abilityDescription: Ability to work closely with authorizing officials and their designated representatives to help ensure that security-related activities required across the organization are accomplished in an efficient, cost-effective, and timely manner.
+-
+    aId: A0145
+    abilityDescription: Ability to work closely with authorizing officials and their designated representatives to help ensure that there is centralized reporting of security-related activities.
+-
+    aId: A0146
+    abilityDescription: Ability to establish the rules for appropriate use and protection of the information and retains that responsibility even when the information is shared with or provided to other organizations.
+-
+    aId: A0147
+    abilityDescription: Ability to approve security plans, memorandums of agreement or understanding, plans of action and milestones, and determine whether significant changes in the systems or environments of operation require reauthorization.
+-
+    aId: A0148
+    abilityDescription: Ability to serve as the primary liaison between the enterprise architect and the systems security engineer and coordinates with system owners, common control providers, and system security officers on the allocation of security controls as system-specific, hybrid, or common controls.
+-
+    aId: A0149
+    abilityDescription: Ability, in close coordination with system security officers, advise authorizing officials, chief information officers, senior information security officers, and the senior accountable official for risk management/risk executive (function), on a range of security-related issues (e.g. establishing system boundaries; assessing the severity of weaknesses and deficiencies in the system; plans of action and milestones; risk mitigation approaches; security alerts; and potential adverse effects of identified vulnerabilities).
+-
+    aId: A0150
+    abilityDescription: Ability to conduct systems security engineering activities (NIST SP 800-160).
+-
+    aId: A0151
+    abilityDescription: Ability to capture and refine security requirements and ensure that the requirements are effectively integrated into the component products and systems through purposeful security architecting, design, development, and configuration.
+-
+    aId: A0152
+    abilityDescription: Ability to employ best practices when implementing security controls within a system including software engineering methodologies; system and security engineering principles; secure design, secure architecture, and secure coding techniques.
+-
+    aId: A0153
+    abilityDescription: Ability to coordinate their security-related activities with security architects, senior information security officers, system owners, common control providers, and system security officers.
+-
+    aId: A0154
+    abilityDescription: Ability to conduct a comprehensive assessment of the management, operational, and technical security controls and control enhancements employed within or inherited by a system to determine the effectiveness of the controls (i.e., the extent to which the security controls are implemented correctly, operating as intended, and producing the desired outcome with respect to meeting the security requirements for the system).
+-
+    aId: A0155
+    abilityDescription: Ability to provide an assessment of the severity of weaknesses or deficiencies discovered in the system and its environment of operation and recommend corrective actions to address identified vulnerabilities.
+-
+    aId: A0156
+    abilityDescription: Ability to prepare the final security assessment report containing the results and findings from the assessment.
+-
+    aId: A0157
+    abilityDescription: Ability to assesses a security plan to help ensure that the plan provides a set of security controls for the system that meet the stated security requirements.
+-
+    aId: A0158
+    abilityDescription: Ability to ensure that functional and security requirements are appropriately addressed in a contract and that the contractor meets the functional and security requirements as stated in the contract.
+-
+    aId: A0159
+    abilityDescription: Ability to interpret the information collected by network tools (e.g. Nslookup, Ping, and Traceroute).
+-
+    aId: A0160
+    abilityDescription: Ability to translate, track, and prioritize information needs and intelligence collection requirements across the extended enterprise.
+-
+    aId: A0161
+    abilityDescription: Ability to integrate information security requirements into the acquisition process; using applicable baseline security controls as one of the sources for security requirements; ensuring a robust software quality control process; and establishing multiple sources (e.g., delivery routes, for critical system elements).
+-
+    aId: A0162
+    abilityDescription: Ability to ensure information system security, acquisition personnel, legal counsel, and other appropriate advisors and stakeholders are participating in decision making from system concept definition/review and are involved in, or approve of, each milestone decision through the entire system life cycle for systems.
+-
+    aId: A0163
+    abilityDescription: Ability to interpret Communications Security (COMSEC) terminology, guidelines and procedures.
+-
+    aId: A0164
+    abilityDescription: Ability to identify the roles and responsibilities for appointed Communications Security (COMSEC) personnel.
+-
+    aId: A0165
+    abilityDescription: Ability to manage Communications Security (COMSEC) material accounting, control and use procedure.
+-
+    aId: A0166
+    abilityDescription: Ability to identify types of Communications Security (COMSEC) Incidents and how they’re reported.
+-
+    aId: A0167
+    abilityDescription: Ability to recognize the importance of auditing Communications Security (COMSEC) material and accounts.
+-
+    aId: A0168
+    abilityDescription: Ability to Identify the requirements of In-Process accounting for Communications Security (COMSEC).
+-
+    aId: A0170
+    abilityDescription: Ability to identify critical infrastructure systems with information communication technology that were designed without system security considerations.
+-
+    aId: A0171
+    abilityDescription: Ability to conduct training and education needs assessment.
+-
+    aId: A0172
+    abilityDescription: Ability to set up a physical or logical sub-networks that separates an internal local area network (LAN) from other untrusted networks.
+-
+    aId: A0173
+    abilityDescription: Ability to recognize that changes to systems or environment can change residual risks in relation to risk appetite.
+-
+    aId: A0174
+    abilityDescription: Ability to find and navigate the dark web using the TOR network to locate markets and forums.
+-
+    aId: A0175
+    abilityDescription: Ability to examine digital media on multiple operating system platforms.
+-
+    aId: A0176
+    abilityDescription: Ability to maintain databases. (i.e., backup, restore, delete data, transaction log files, etc.).
+-
+    aId: A0177
+    abilityDescription: Ability to recognize the unique aspects of the Communications Security (COMSEC) environment and hierarchy.
+-
+    aId: A0178
+    abilityDescription: Ability to leverage collection methodologies to meet organization objectives.

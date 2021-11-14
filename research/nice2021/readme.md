@@ -12,18 +12,18 @@ nice_domains.yml
 
 # Work Roles
 
-nice_workRoles.yml incliudes a workRoleID which is a unique ID per work role.
+workRoleID = Unique ID per work role.
 
 niceRole_sp-rsk-001.yml
 
 # Knowledge, Skills, Abilities, and Tasks (KSAT)
 
-nice_knowledge.yml
-nice_skills.yml
-nice_abilities.yml
-nice_tasks.yml
+nice_knowledge.yml  
+nice_skills.yml  
+nice_abilities.yml  
+nice_tasks.yml  
 
-kId = Knowledge ID
-sId = Skill ID
-aId = Ability ID
-tId = Task ID
+kId = Knowledge ID  
+sId = Skill ID  
+aId = Ability ID  
+tId = Task ID  

@@ -1,0 +1,1785 @@
+# NIST NICE Cybersecurity Knowledge Statements
+
+---
+-
+    kId: K0001
+    knowledgeDescription: Knowledge of computer networking concepts and protocols, and network security methodologies. 
+-
+    kId: K0002
+    knowledgeDescription: Knowledge of risk management processes (e.g., methods for assessing and mitigating risk).
+-
+    kId: K0003
+    knowledgeDescription: Knowledge of laws, regulations, policies, and ethics as they relate to cybersecurity and privacy. 
+-
+    kId: K0004
+    knowledgeDescription: Knowledge of cybersecurity and privacy principles.
+-
+    kId: K0005
+    knowledgeDescription: Knowledge of cyber threats and vulnerabilities. 
+-
+    kId: K0006
+    knowledgeDescription: Knowledge of specific operational impacts of cybersecurity lapses.
+-
+    kId: K0007
+    knowledgeDescription: Knowledge of authentication, authorization, and access control methods.
+-
+    kId: K0008
+    knowledgeDescription: Knowledge of applicable business processes and operations of customer organizations.
+-
+    kId: K0009
+    knowledgeDescription: Knowledge of application vulnerabilities.
+-
+    kId: K0010
+    knowledgeDescription: Knowledge of communication methods, principles, and concepts that support the network infrastructure.
+-
+    kId: K0011
+    knowledgeDescription: Knowledge of capabilities and applications of network equipment including routers, switches, bridges, servers, transmission media, and related hardware.
+-
+    kId: K0012
+    knowledgeDescription: Knowledge of capabilities and requirements analysis.
+-
+    kId: K0013
+    knowledgeDescription: Knowledge of cyber defense and vulnerability assessment tools and their capabilities.
+-
+    kId: K0014
+    knowledgeDescription: Knowledge of complex data structures.
+-
+    kId: K0015
+    knowledgeDescription: Knowledge of computer algorithms.
+-
+    kId: K0016
+    knowledgeDescription: Knowledge of computer programming principles 
+-
+    kId: K0017
+    knowledgeDescription: Knowledge of concepts and practices of processing digital forensic data.
+-
+    kId: K0018
+    knowledgeDescription: Knowledge of encryption algorithms 
+-
+    kId: K0019
+    knowledgeDescription: Knowledge of cryptography and cryptographic key management concepts 
+-
+    kId: K0020
+    knowledgeDescription: Knowledge of data administration and data standardization policies.
+-
+    kId: K0021
+    knowledgeDescription: Knowledge of data backup and recovery.
+-
+    kId: K0022
+    knowledgeDescription: Knowledge of data mining and data warehousing principles.
+-
+    kId: K0023
+    knowledgeDescription: Knowledge of database management systems, query languages, table relationships, and views.
+-
+    kId: K0024
+    knowledgeDescription: Knowledge of database systems.
+-
+    kId: K0025
+    knowledgeDescription: Knowledge of digital rights management.
+-
+    kId: K0026
+    knowledgeDescription: Knowledge of business continuity and disaster recovery continuity of operations plans.
+-
+    kId: K0027
+    knowledgeDescription: 'Knowledge of organization''s enterprise information security architecture.'
+-
+    kId: K0028
+    knowledgeDescription: 'Knowledge of organization''s evaluation and validation requirements.'
+-
+    kId: K0029
+    knowledgeDescription: 'Knowledge of organization''s Local and Wide Area Network connections.'
+-
+    kId: K0030
+    knowledgeDescription: Knowledge of electrical engineering as applied to computer architecture (e.g., circuit boards, processors, chips, and computer hardware).
+-
+    kId: K0031
+    knowledgeDescription: Knowledge of enterprise messaging systems and associated software.
+-
+    kId: K0032
+    knowledgeDescription: Knowledge of resiliency and redundancy.
+-
+    kId: K0033
+    knowledgeDescription: Knowledge of host/network access control mechanisms (e.g., access control list, capabilities lists).
+-
+    kId: K0034
+    knowledgeDescription: Knowledge of network services and protocols interactions that provide network communications.
+-
+    kId: K0035
+    knowledgeDescription: Knowledge of installation, integration, and optimization of system components.
+-
+    kId: K0036
+    knowledgeDescription: Knowledge of human-computer interaction principles.
+-
+    kId: K0037
+    knowledgeDescription: Knowledge of Security Assessment and Authorization process.
+-
+    kId: K0038
+    knowledgeDescription: Knowledge of cybersecurity and privacy principles used to manage risks related to the use, processing, storage, and transmission of information or data.
+-
+    kId: K0039
+    knowledgeDescription: Knowledge of cybersecurity and privacy principles and methods that apply to software development.
+-
+    kId: K0040
+    knowledgeDescription: Knowledge of vulnerability information dissemination sources (e.g., alerts, advisories, errata, and bulletins).
+-
+    kId: K0041
+    knowledgeDescription: Knowledge of incident categories, incident responses, and timelines for responses.
+-
+    kId: K0042
+    knowledgeDescription: Knowledge of incident response and handling methodologies.
+-
+    kId: K0043
+    knowledgeDescription: Knowledge of industry-standard and organizationally accepted analysis principles and methods.
+-
+    kId: K0044
+    knowledgeDescription: Knowledge of cybersecurity and privacy principles and organizational requirements (relevant to confidentiality, integrity, availability, authentication, non-repudiation).
+-
+    kId: K0045
+    knowledgeDescription: Knowledge of information security systems engineering principles (NIST SP 800-160).
+-
+    kId: K0046
+    knowledgeDescription: Knowledge of intrusion detection methodologies and techniques for detecting host and network-based intrusions.
+-
+    kId: K0047
+    knowledgeDescription: Knowledge of information technology (IT) architectural concepts and frameworks.
+-
+    kId: K0048
+    knowledgeDescription: Knowledge of Risk Management Framework (RMF) requirements.
+-
+    kId: K0049
+    knowledgeDescription: Knowledge of information technology (IT) security principles and methods (e.g., firewalls, demilitarized zones, encryption). 
+-
+    kId: K0050
+    knowledgeDescription: Knowledge of local area and wide area networking principles and concepts including bandwidth management.
+-
+    kId: K0051
+    knowledgeDescription: Knowledge of low-level computer languages (e.g., assembly languages).
+-
+    kId: K0052
+    knowledgeDescription: Knowledge of mathematics (e.g. logarithms, trigonometry, linear algebra, calculus, statistics, and operational analysis).
+-
+    kId: K0053
+    knowledgeDescription: Knowledge of measures or indicators of system performance and availability.
+-
+    kId: K0054
+    knowledgeDescription: Knowledge of current industry methods for evaluating, implementing, and disseminating information technology (IT) security assessment, monitoring, detection, and remediation tools and procedures utilizing standards-based concepts and capabilities.
+-
+    kId: K0055
+    knowledgeDescription: Knowledge of microprocessors.
+-
+    kId: K0056
+    knowledgeDescription: Knowledge of network access, identity, and access management (e.g., public key infrastructure, Oauth, OpenID, SAML, SPML).
+-
+    kId: K0057
+    knowledgeDescription: Knowledge of network hardware devices and functions.
+-
+    kId: K0058
+    knowledgeDescription: Knowledge of network traffic analysis methods.
+-
+    kId: K0059
+    knowledgeDescription: Knowledge of new and emerging information technology (IT) and cybersecurity technologies.
+-
+    kId: K0060
+    knowledgeDescription: Knowledge of operating systems.
+-
+    kId: K0061
+    knowledgeDescription: Knowledge of how traffic flows across the network (e.g., Transmission Control Protocol [TCP] and Internet Protocol [IP], Open System Interconnection Model [OSI], Information Technology Infrastructure Library, current version [ITIL]).
+-
+    kId: K0062
+    knowledgeDescription: Knowledge of packet-level analysis.
+-
+    kId: K0063
+    knowledgeDescription: Knowledge of parallel and distributed computing concepts.
+-
+    kId: K0064
+    knowledgeDescription: Knowledge of performance tuning tools and techniques.
+-
+    kId: K0065
+    knowledgeDescription: Knowledge of policy-based and risk adaptive access controls.
+-
+    kId: K0066
+    knowledgeDescription: Knowledge of Privacy Impact Assessments.
+-
+    kId: K0067
+    knowledgeDescription: Knowledge of process engineering concepts.
+-
+    kId: K0068
+    knowledgeDescription: Knowledge of programming language structures and logic.
+-
+    kId: K0069
+    knowledgeDescription: Knowledge of query languages such as SQL (structured query language).
+-
+    kId: K0070
+    knowledgeDescription: Knowledge of system and application security threats and vulnerabilities (e.g., buffer overflow, mobile code, cross-site scripting, Procedural Language/Structured Query Language [PL/SQL] and injections, race conditions, covert channel, replay, return-oriented attacks, malicious code).
+-
+    kId: K0071
+    knowledgeDescription: Knowledge of remote access technology concepts.
+-
+    kId: K0072
+    knowledgeDescription: Knowledge of resource management principles and techniques.
+-
+    kId: K0073
+    knowledgeDescription: Knowledge of secure configuration management techniques. (e.g., Security Technical Implementation Guides (STIGs), cybersecurity best practices on cisecurity.org).
+-
+    kId: K0074
+    knowledgeDescription: Knowledge of key concepts in security management (e.g., Release Management, Patch Management).
+-
+    kId: K0075
+    knowledgeDescription: Knowledge of security system design tools, methods, and techniques.
+-
+    kId: K0076
+    knowledgeDescription: Knowledge of server administration and systems engineering theories, concepts, and methods.
+-
+    kId: K0077
+    knowledgeDescription: Knowledge of server and client operating systems.
+-
+    kId: K0078
+    knowledgeDescription: Knowledge of server diagnostic tools and fault identification techniques.
+-
+    kId: K0079
+    knowledgeDescription: Knowledge of software debugging principles.
+-
+    kId: K0080
+    knowledgeDescription: Knowledge of software design tools, methods, and techniques.
+-
+    kId: K0081
+    knowledgeDescription: Knowledge of software development models (e.g., Waterfall Model, Spiral Model).
+-
+    kId: K0082
+    knowledgeDescription: Knowledge of software engineering.
+-
+    kId: K0083
+    knowledgeDescription: Knowledge of sources, characteristics, and uses of the organization’s data assets.
+-
+    kId: K0084
+    knowledgeDescription: Knowledge of structured analysis principles and methods.
+-
+    kId: K0086
+    knowledgeDescription: Knowledge of system design tools, methods, and techniques, including automated systems analysis and design tools.
+-
+    kId: K0087
+    knowledgeDescription: Knowledge of system software and organizational design standards, policies, and authorized approaches (e.g., International Organization for Standardization [ISO] guidelines) relating to system design.
+-
+    kId: K0088
+    knowledgeDescription: Knowledge of systems administration concepts.
+-
+    kId: K0089
+    knowledgeDescription: Knowledge of systems diagnostic tools and fault identification techniques.
+-
+    kId: K0090
+    knowledgeDescription: Knowledge of system life cycle management principles, including software security and usability.
+-
+    kId: K0091
+    knowledgeDescription: Knowledge of systems testing and evaluation methods.
+-
+    kId: K0092
+    knowledgeDescription: Knowledge of technology integration processes.
+-
+    kId: K0093
+    knowledgeDescription: Knowledge of telecommunications concepts (e.g., Communications channel, Systems Link Budgeting, Spectral efficiency, Multiplexing).
+-
+    kId: K0094
+    knowledgeDescription: Knowledge of the capabilities and functionality associated with content creation technologies (e.g., wikis, social networking, content management systems, blogs).
+-
+    kId: K0095
+    knowledgeDescription: Knowledge of the capabilities and functionality associated with various technologies for organizing and managing information (e.g., databases, bookmarking engines).
+-
+    kId: K0096
+    knowledgeDescription: Knowledge of the capabilities and functionality of various collaborative technologies (e.g., groupware, SharePoint).
+-
+    kId: K0097
+    knowledgeDescription: Knowledge of the characteristics of physical and virtual data storage media.
+-
+    kId: K0098
+    knowledgeDescription: Knowledge of the cyber defense Service Provider reporting structure and processes within one’s own organization.
+-
+    kId: K0100
+    knowledgeDescription: Knowledge of the enterprise information technology (IT) architecture.
+-
+    kId: K0101
+    knowledgeDescription: Knowledge of the organization’s enterprise information technology (IT) goals and objectives.
+-
+    kId: K0102
+    knowledgeDescription: Knowledge of the systems engineering process.
+-
+    kId: K0103
+    knowledgeDescription: Knowledge of the type and frequency of routine hardware maintenance.
+-
+    kId: K0104
+    knowledgeDescription: Knowledge of Virtual Private Network (VPN) security.
+-
+    kId: K0105
+    knowledgeDescription: Knowledge of web services (e.g., service-oriented architecture, Simple Object Access Protocol, and web service description language).
+-
+    kId: K0106
+    knowledgeDescription: Knowledge of what constitutes a network attack and a network attack’s relationship to both threats and vulnerabilities.
+-
+    kId: K0107
+    knowledgeDescription: Knowledge of Insider Threat investigations, reporting, investigative tools and laws/regulations.
+-
+    kId: K0108
+    knowledgeDescription: Knowledge of concepts, terminology, and operations of a wide range of communications media (computer and telephone networks, satellite, fiber, wireless).
+-
+    kId: K0109
+    knowledgeDescription: Knowledge of physical computer components and architectures, including the functions of various components and peripherals (e.g., CPUs, Network Interface Cards, data storage).
+-
+    kId: K0110
+    knowledgeDescription: Knowledge of adversarial tactics, techniques, and procedures.
+-
+    kId: K0111
+    knowledgeDescription: Knowledge of network tools (e.g., ping, traceroute, nslookup) 
+-
+    kId: K0112
+    knowledgeDescription: Knowledge of defense-in-depth principles and network security architecture.
+-
+    kId: K0113
+    knowledgeDescription: Knowledge of different types of network communication (e.g., LAN, WAN, MAN, WLAN, WWAN).
+-
+    kId: K0114
+    knowledgeDescription: Knowledge of electronic devices (e.g., computer systems/components, access control devices, digital cameras, digital scanners, electronic organizers, hard drives, memory cards, modems, network components, networked appliances, networked home control devices, printers, removable storage devices, telephones, copiers, facsimile machines, etc.).
+-
+    kId: K0115
+    knowledgeDescription: Knowledge that technology that can be exploited.
+-
+    kId: K0116
+    knowledgeDescription: Knowledge of file extensions (e.g., .dll, .bat, .zip, .pcap, .gzip).
+-
+    kId: K0117
+    knowledgeDescription: Knowledge of file system implementations (e.g., New Technology File System [NTFS], File Allocation Table [FAT], File Extension [EXT]).
+-
+    kId: K0118
+    knowledgeDescription: Knowledge of processes for seizing and preserving digital evidence.
+-
+    kId: K0119
+    knowledgeDescription: Knowledge of hacking methodologies.
+-
+    kId: K0120
+    knowledgeDescription: Knowledge of how information needs and collection requirements are translated, tracked, and prioritized across the extended enterprise.
+-
+    kId: K0121
+    knowledgeDescription: Knowledge of information security program management and project management principles and techniques.
+-
+    kId: K0122
+    knowledgeDescription: Knowledge of investigative implications of hardware, Operating Systems, and network technologies.
+-
+    kId: K0123
+    knowledgeDescription: Knowledge of legal governance related to admissibility (e.g. Rules of Evidence). 
+-
+    kId: K0124
+    knowledgeDescription: Knowledge of multiple cognitive domains and tools and methods applicable for learning in each domain.
+-
+    kId: K0125
+    knowledgeDescription: Knowledge of processes for collecting, packaging, transporting, and storing electronic evidence while maintaining chain of custody.
+-
+    kId: K0126
+    knowledgeDescription: Knowledge of Supply Chain Risk Management Practices (NIST SP 800-161)
+-
+    kId: K0127
+    knowledgeDescription: Knowledge of the nature and function of the relevant information structure (e.g., National Information Infrastructure).
+-
+    kId: K0128
+    knowledgeDescription: Knowledge of types and collection of persistent data.
+-
+    kId: K0129
+    knowledgeDescription: Knowledge of command-line tools (e.g., mkdir, mv, ls, passwd, grep).
+-
+    kId: K0130
+    knowledgeDescription: Knowledge of virtualization technologies and virtual machine development and maintenance.
+-
+    kId: K0131
+    knowledgeDescription: Knowledge of web mail collection, searching/analyzing techniques, tools, and cookies.
+-
+    kId: K0132
+    knowledgeDescription: Knowledge of which system files (e.g., log files, registry files, configuration files) contain relevant information and where to find those system files.
+-
+    kId: K0133
+    knowledgeDescription: Knowledge of types of digital forensics data and how to recognize them.
+-
+    kId: K0134
+    knowledgeDescription: Knowledge of deployable forensics.
+-
+    kId: K0135
+    knowledgeDescription: Knowledge of web filtering technologies.
+-
+    kId: K0136
+    knowledgeDescription: Knowledge of the capabilities of different electronic communication systems and methods (e.g., e-mail, VOIP, IM, web forums, Direct Video Broadcasts).
+-
+    kId: K0137
+    knowledgeDescription: Knowledge of the range of existing networks (e.g., PBX, LANs, WANs, WIFI, SCADA).
+-
+    kId: K0138
+    knowledgeDescription: Knowledge of Wi-Fi.
+-
+    kId: K0139
+    knowledgeDescription: Knowledge of interpreted and compiled computer languages.
+-
+    kId: K0140
+    knowledgeDescription: Knowledge of secure coding techniques.
+-
+    kId: K0142
+    knowledgeDescription: Knowledge of collection management processes, capabilities, and limitations.
+-
+    kId: K0143
+    knowledgeDescription: Knowledge of front-end collection systems, including traffic collection, filtering, and selection.
+-
+    kId: K0144
+    knowledgeDescription: Knowledge of social dynamics of computer attackers in a global context.
+-
+    kId: K0145
+    knowledgeDescription: Knowledge of security event correlation tools.
+-
+    kId: K0146
+    knowledgeDescription: 'Knowledge of the organization''s core business/mission processes.'
+-
+    kId: K0147
+    knowledgeDescription: Knowledge of emerging security issues, risks, and vulnerabilities.
+-
+    kId: K0148
+    knowledgeDescription: Knowledge of import/export control regulations and responsible agencies for the purposes of reducing supply chain risk.
+-
+    kId: K0149
+    knowledgeDescription: 'Knowledge of organization''s risk tolerance and/or risk management approach.'
+-
+    kId: K0150
+    knowledgeDescription: Knowledge of enterprise incident response program, roles, and responsibilities.
+-
+    kId: K0151
+    knowledgeDescription: Knowledge of current and emerging threats/threat vectors.
+-
+    kId: K0152
+    knowledgeDescription: Knowledge of software related information technology (IT) security principles and methods (e.g., modularization, layering, abstraction, data hiding, simplicity/minimization).
+-
+    kId: K0153
+    knowledgeDescription: Knowledge of software quality assurance process.
+-
+    kId: K0154
+    knowledgeDescription: Knowledge of supply chain risk management standards, processes, and practices.
+-
+    kId: K0155
+    knowledgeDescription: Knowledge of electronic evidence law.
+-
+    kId: K0156
+    knowledgeDescription: Knowledge of legal rules of evidence and court procedure.
+-
+    kId: K0157
+    knowledgeDescription: Knowledge of cyber defense and information security policies, procedures, and regulations.
+-
+    kId: K0158
+    knowledgeDescription: Knowledge of organizational information technology (IT) user security policies (e.g., account creation, password rules, access control).
+-
+    kId: K0159
+    knowledgeDescription: Knowledge of Voice over IP (VoIP).
+-
+    kId: K0160
+    knowledgeDescription: Knowledge of the common attack vectors on the network layer.
+-
+    kId: K0161
+    knowledgeDescription: Knowledge of different classes of attacks (e.g., passive, active, insider, close-in, distribution attacks).
+-
+    kId: K0162
+    knowledgeDescription: Knowledge of cyber attackers (e.g., script kiddies, insider threat, non-nation state sponsored, and nation sponsored).
+-
+    kId: K0163
+    knowledgeDescription: Knowledge of critical information technology (IT) procurement requirements.
+-
+    kId: K0164
+    knowledgeDescription: Knowledge of functionality, quality, and security requirements and how these will apply to specific items of supply (i.e., elements and processes).
+-
+    kId: K0165
+    knowledgeDescription: Knowledge of risk/threat assessment.
+-
+    kId: K0167
+    knowledgeDescription: Knowledge of system administration, network, and operating system hardening techniques.
+-
+    kId: K0168
+    knowledgeDescription: Knowledge of applicable laws, statutes (e.g., in Titles 10, 18, 32, 50 in U.S. Code), Presidential Directives, executive branch guidelines, and/or administrative/criminal legal guidelines and procedures.
+-
+    kId: K0169
+    knowledgeDescription: Knowledge of information technology (IT) supply chain security and supply chain risk management policies, requirements, and procedures.
+-
+    kId: K0170
+    knowledgeDescription: Knowledge of critical infrastructure systems with information communication technology that were designed without system security considerations.
+-
+    kId: K0171
+    knowledgeDescription: Knowledge of hardware reverse engineering techniques.
+-
+    kId: K0172
+    knowledgeDescription: Knowledge of middleware (e.g., enterprise service bus and message queuing).
+-
+    kId: K0174
+    knowledgeDescription: Knowledge of networking protocols.
+-
+    kId: K0175
+    knowledgeDescription: Knowledge of software reverse engineering techniques.
+-
+    kId: K0176
+    knowledgeDescription: Knowledge of Extensible Markup Language (XML) schemas.
+-
+    kId: K0177
+    knowledgeDescription: Knowledge of cyber attack stages (e.g., reconnaissance, scanning, enumeration, gaining access, escalation of privileges, maintaining access, network exploitation, covering tracks).
+-
+    kId: K0178
+    knowledgeDescription: Knowledge of secure software deployment methodologies, tools, and practices.
+-
+    kId: K0179
+    knowledgeDescription: Knowledge of network security architecture concepts including topology, protocols, components, and principles (e.g., application of defense-in-depth).
+-
+    kId: K0180
+    knowledgeDescription: Knowledge of network systems management principles, models, methods (e.g., end-to-end systems performance monitoring), and tools.
+-
+    kId: K0182
+    knowledgeDescription: Knowledge of data carving tools and techniques (e.g., Foremost).
+-
+    kId: K0183
+    knowledgeDescription: Knowledge of reverse engineering concepts.
+-
+    kId: K0184
+    knowledgeDescription: Knowledge of anti-forensics tactics, techniques, and procedures.
+-
+    kId: K0185
+    knowledgeDescription: Knowledge of forensics lab design configuration and support applications (e.g., VMWare, Wireshark).
+-
+    kId: K0186
+    knowledgeDescription: Knowledge of debugging procedures and tools.
+-
+    kId: K0187
+    knowledgeDescription: Knowledge of file type abuse by adversaries for anomalous behavior.
+-
+    kId: K0188
+    knowledgeDescription: Knowledge of malware analysis tools (e.g., Oily Debug, Ida Pro).
+-
+    kId: K0189
+    knowledgeDescription: Knowledge of malware with virtual machine detection (e.g. virtual aware malware, debugger aware malware, and unpacked malware that looks for VM-related strings in your computer’s display device).
+-
+    kId: K0190
+    knowledgeDescription: Knowledge of encryption methodologies.
+-
+    kId: K0191
+    knowledgeDescription: Knowledge of signature implementation impact for viruses, malware, and attacks.
+-
+    kId: K0192
+    knowledgeDescription: Knowledge of Windows/Unix ports and services.
+-
+    kId: K0193
+    knowledgeDescription: Knowledge of advanced data remediation security features in databases.
+-
+    kId: K0194
+    knowledgeDescription: Knowledge of Cloud-based knowledge management technologies and concepts related to security, governance, procurement, and administration. 
+-
+    kId: K0195
+    knowledgeDescription: Knowledge of data classification standards and methodologies based on sensitivity and other risk factors.
+-
+    kId: K0196
+    knowledgeDescription: Knowledge of Import/Export Regulations related to cryptography and other security technologies.
+-
+    kId: K0197
+    knowledgeDescription: Knowledge of database access application programming interfaces (e.g., Java Database Connectivity [JDBC]).
+-
+    kId: K0198
+    knowledgeDescription: Knowledge of organizational process improvement concepts and process maturity models (e.g., Capability Maturity Model Integration (CMMI) for Development, CMMI for Services, and CMMI for Acquisitions).
+-
+    kId: K0199
+    knowledgeDescription: Knowledge of security architecture concepts and enterprise architecture reference models (e.g., Zachman, Federal Enterprise Architecture [FEA]).
+-
+    kId: K0200
+    knowledgeDescription: Knowledge of service management concepts for networks and related standards (e.g., Information Technology Infrastructure Library, current version [ITIL]).
+-
+    kId: K0201
+    knowledgeDescription: Knowledge of symmetric key rotation techniques and concepts.
+-
+    kId: K0202
+    knowledgeDescription: Knowledge of the application firewall concepts and functions (e.g., Single point of authentication/audit/policy enforcement, message scanning for malicious content, data anonymization for PCI and PII compliance, data loss protection scanning, accelerated cryptographic operations, SSL security, REST/JSON processing).
+-
+    kId: K0203
+    knowledgeDescription: Knowledge of security models (e.g., Bell-LaPadula model, Biba integrity model, Clark-Wilson integrity model).
+-
+    kId: K0204
+    knowledgeDescription: Knowledge of learning assessment techniques (rubrics, evaluation plans, tests, quizzes).
+-
+    kId: K0205
+    knowledgeDescription: Knowledge of basic system, network, and OS hardening techniques.
+-
+    kId: K0206
+    knowledgeDescription: Knowledge of ethical hacking principles and techniques.
+-
+    kId: K0207
+    knowledgeDescription: Knowledge of circuit analysis.
+-
+    kId: K0208
+    knowledgeDescription: Knowledge of computer based training and e-learning services. 
+-
+    kId: K0209
+    knowledgeDescription: Knowledge of covert communication techniques.
+-
+    kId: K0210
+    knowledgeDescription: Knowledge of data backup and restoration concepts.
+-
+    kId: K0211
+    knowledgeDescription: Knowledge of confidentiality, integrity, and availability requirements.
+-
+    kId: K0212
+    knowledgeDescription: Knowledge of cybersecurity-enabled software products.
+-
+    kId: K0213
+    knowledgeDescription: Knowledge of instructional design and evaluation models (e.g., ADDIE, Smith/Ragan model, Gagne’s Events of Instruction, Kirkpatrick’s model of evaluation).
+-
+    kId: K0214
+    knowledgeDescription: Knowledge of the Risk Management Framework Assessment Methodology. 
+-
+    kId: K0215
+    knowledgeDescription: Knowledge of organizational training policies.
+-
+    kId: K0216
+    knowledgeDescription: Knowledge of learning levels (i.e., Bloom’s Taxonomy of learning).
+-
+    kId: K0217
+    knowledgeDescription: Knowledge of Learning Management Systems and their use in managing learning.
+-
+    kId: K0218
+    knowledgeDescription: Knowledge of learning styles (e.g., assimilator, auditory, kinesthetic).
+-
+    kId: K0220
+    knowledgeDescription: Knowledge of modes of learning (e.g., rote learning, observation).
+-
+    kId: K0221
+    knowledgeDescription: Knowledge of OSI model and underlying network protocols (e.g., TCP/IP).
+-
+    kId: K0222
+    knowledgeDescription: Knowledge of relevant laws, legal authorities, restrictions, and regulations pertaining to cyber defense activities.
+-
+    kId: K0224
+    knowledgeDescription: Knowledge of system administration concepts for operating systems such as but not limited to Unix/Linux, IOS, Android, and Windows operating systems.
+-
+    kId: K0226
+    knowledgeDescription: Knowledge of organizational training systems.
+-
+    kId: K0227
+    knowledgeDescription: Knowledge of various types of computer architectures.
+-
+    kId: K0228
+    knowledgeDescription: Knowledge of taxonomy and semantic ontology theory.
+-
+    kId: K0229
+    knowledgeDescription: Knowledge of applications that can log errors, exceptions, and application faults and logging.
+-
+    kId: K0230
+    knowledgeDescription: Knowledge of cloud service models and how those models can limit incident response.
+-
+    kId: K0231
+    knowledgeDescription: Knowledge of crisis management protocols, processes, and techniques. 
+-
+    kId: K0233
+    knowledgeDescription: Knowledge of the National Cybersecurity Workforce Framework, work roles, and associated tasks, knowledge, skills, and abilities.
+-
+    kId: K0234
+    knowledgeDescription: Knowledge of full spectrum cyber capabilities (e.g., defense, attack, exploitation).
+-
+    kId: K0235
+    knowledgeDescription: Knowledge of how to leverage research and development centers, think tanks, academic research, and industry systems.
+-
+    kId: K0236
+    knowledgeDescription: Knowledge of how to utilize Hadoop, Java, Python, SQL, Hive, and Pig to explore data.
+-
+    kId: K0237
+    knowledgeDescription: Knowledge of industry best practices for service desk.
+-
+    kId: K0238
+    knowledgeDescription: Knowledge of machine learning theory and principles.
+-
+    kId: K0239
+    knowledgeDescription: Knowledge of media production, communication, and dissemination techniques and methods, including alternative ways to inform via written, oral, and visual media.
+-
+    kId: K0240
+    knowledgeDescription: Knowledge of multi-level security systems and cross domain solutions.
+-
+    kId: K0241
+    knowledgeDescription: Knowledge of organizational human resource policies, processes, and procedures.
+-
+    kId: K0242
+    knowledgeDescription: Knowledge of organizational security policies.
+-
+    kId: K0243
+    knowledgeDescription: Knowledge of organizational training and education policies, processes, and procedures.
+-
+    kId: K0244
+    knowledgeDescription: Knowledge of physical and physiological behaviors that may indicate suspicious or abnormal activity.
+-
+    kId: K0245
+    knowledgeDescription: Knowledge of principles and processes for conducting training and education needs assessment.
+-
+    kId: K0246
+    knowledgeDescription: Knowledge of relevant concepts, procedures, software, equipment, and technology applications.
+-
+    kId: K0247
+    knowledgeDescription: Knowledge of remote access processes, tools, and capabilities related to customer support.
+-
+    kId: K0248
+    knowledgeDescription: Knowledge of strategic theory and practice.
+-
+    kId: K0249
+    knowledgeDescription: Knowledge of sustainment technologies, processes and strategies.
+-
+    kId: K0250
+    knowledgeDescription: Knowledge of Test & Evaluation processes for learners.
+-
+    kId: K0251
+    knowledgeDescription: Knowledge of the judicial process, including the presentation of facts and evidence.
+-
+    kId: K0252
+    knowledgeDescription: Knowledge of training and education principles and methods for curriculum design, teaching and instruction for individuals and groups, and the measurement of training and education effects.
+-
+    kId: K0254
+    knowledgeDescription: Knowledge of binary analysis.
+-
+    kId: K0255
+    knowledgeDescription: Knowledge of network architecture concepts including topology, protocols, and components.
+-
+    kId: K0257
+    knowledgeDescription: Knowledge of information technology (IT) acquisition/procurement requirements.
+-
+    kId: K0258
+    knowledgeDescription: Knowledge of test procedures, principles, and methodologies (e.g., Capabilities and Maturity Model Integration (CMMI)).
+-
+    kId: K0259
+    knowledgeDescription: Knowledge of malware analysis concepts and methodologies.
+-
+    kId: K0260
+    knowledgeDescription: Knowledge of Personally Identifiable Information (PII) data security standards.
+-
+    kId: K0261
+    knowledgeDescription: Knowledge of Payment Card Industry (PCI) data security standards.
+-
+    kId: K0262
+    knowledgeDescription: Knowledge of Personal Health Information (PHI) data security standards.
+-
+    kId: K0263
+    knowledgeDescription: Knowledge of information technology (IT) risk management policies, requirements, and procedures.
+-
+    kId: K0264
+    knowledgeDescription: Knowledge of program protection planning (e.g. information technology (IT) supply chain security/risk management policies, anti-tampering techniques, and requirements).
+-
+    kId: K0265
+    knowledgeDescription: Knowledge of infrastructure supporting information technology (IT) for safety, performance, and reliability.
+-
+    kId: K0266
+    knowledgeDescription: Knowledge of how to evaluate the trustworthiness of the supplier and/or product.
+-
+    kId: K0267
+    knowledgeDescription: Knowledge of laws, policies, procedures, or governance relevant to cybersecurity for critical infrastructures.
+-
+    kId: K0268
+    knowledgeDescription: Knowledge of forensic footprint identification.
+-
+    kId: K0269
+    knowledgeDescription: Knowledge of mobile communications architecture.
+-
+    kId: K0270
+    knowledgeDescription: Knowledge of the acquisition/procurement life cycle process.
+-
+    kId: K0271
+    knowledgeDescription: Knowledge of operating system structures and internals (e.g., process management, directory structure, installed applications).
+-
+    kId: K0272
+    knowledgeDescription: Knowledge of network analysis tools used to identify software communications vulnerabilities.
+-
+    kId: K0274
+    knowledgeDescription: Knowledge of transmission records (e.g., Bluetooth, Radio Frequency Identification (RFID), Infrared Networking (IR), Wireless Fidelity (Wi-Fi). paging, cellular, satellite dishes, Voice over Internet Protocol (VoIP)), and jamming techniques that enable transmission of undesirable information, or prevent installed systems from operating correctly. 
+-
+    kId: K0275
+    knowledgeDescription: Knowledge of configuration management techniques.
+-
+    kId: K0276
+    knowledgeDescription: Knowledge of security management.
+-
+    kId: K0277
+    knowledgeDescription: Knowledge of current and emerging data encryption (e.g., Column and Tablespace Encryption, file and disk encryption) security features in databases (e.g. built-in cryptographic key management features).
+-
+    kId: K0278
+    knowledgeDescription: Knowledge of current and emerging data remediation security features in databases.
+-
+    kId: K0280
+    knowledgeDescription: Knowledge of systems engineering theories, concepts, and methods.
+-
+    kId: K0281
+    knowledgeDescription: Knowledge of information technology (IT) service catalogues.
+-
+    kId: K0283
+    knowledgeDescription: Knowledge of use cases related to collaboration and content synchronization across platforms (e.g., Mobile, PC, Cloud).
+-
+    kId: K0284
+    knowledgeDescription: Knowledge of developing and applying user credential management system.
+-
+    kId: K0285
+    knowledgeDescription: Knowledge of implementing enterprise key escrow systems to support data-at-rest encryption.
+-
+    kId: K0286
+    knowledgeDescription: Knowledge of N-tiered typologies (e.g. including server and client operating systems).
+-
+    kId: K0287
+    knowledgeDescription: 'Knowledge of an organization''s information classification program and procedures for information compromise.'
+-
+    kId: K0288
+    knowledgeDescription: Knowledge of industry standard security models.
+-
+    kId: K0289
+    knowledgeDescription: Knowledge of system/server diagnostic tools and fault identification techniques.
+-
+    kId: K0290
+    knowledgeDescription: Knowledge of systems security testing and evaluation methods.
+-
+    kId: K0291
+    knowledgeDescription: Knowledge of the enterprise information technology (IT) architectural concepts and patterns (e.g., baseline, validated design, and target architectures.)
+-
+    kId: K0292
+    knowledgeDescription: Knowledge of the operations and processes for incident, problem, and event management.
+-
+    kId: K0293
+    knowledgeDescription: Knowledge of integrating the organization’s goals and objectives into the architecture.
+-
+    kId: K0294
+    knowledgeDescription: Knowledge of IT system operation, maintenance, and security needed to keep equipment functioning properly.
+-
+    kId: K0295
+    knowledgeDescription: Knowledge of confidentiality, integrity, and availability principles. 
+-
+    kId: K0296
+    knowledgeDescription: Knowledge of capabilities, applications, and potential vulnerabilities of network equipment including hubs, routers, switches, bridges, servers, transmission media, and related hardware.
+-
+    kId: K0297
+    knowledgeDescription: Knowledge of countermeasure design for identified security risks.
+-
+    kId: K0298
+    knowledgeDescription: Knowledge of countermeasures for identified security risks.
+-
+    kId: K0299
+    knowledgeDescription: Knowledge in determining how a security system should work (including its resilience and dependability capabilities) and how changes in conditions, operations, or the environment will affect these outcomes.
+-
+    kId: K0300
+    knowledgeDescription: Knowledge of network mapping and recreating network topologies.
+-
+    kId: K0301
+    knowledgeDescription: Knowledge of packet-level analysis using appropriate tools (e.g., Wireshark, tcpdump).
+-
+    kId: K0302
+    knowledgeDescription: Knowledge of the basic operation of computers.
+-
+    kId: K0303
+    knowledgeDescription: Knowledge of the use of sub-netting tools.
+-
+    kId: K0304
+    knowledgeDescription: Knowledge of concepts and practices of processing digital forensic data.
+-
+    kId: K0305
+    knowledgeDescription: Knowledge of data concealment (e.g. encryption algorithms and steganography).
+-
+    kId: K0308
+    knowledgeDescription: Knowledge of cryptology.
+-
+    kId: K0309
+    knowledgeDescription: Knowledge of emerging technologies that have potential for exploitation.
+-
+    kId: K0310
+    knowledgeDescription: Knowledge of hacking methodologies.
+-
+    kId: K0311
+    knowledgeDescription: Knowledge of industry indicators useful for identifying technology trends.
+-
+    kId: K0312
+    knowledgeDescription: Knowledge of intelligence gathering principles, policies, and procedures including legal authorities and restrictions.
+-
+    kId: K0313
+    knowledgeDescription: Knowledge of external organizations and academic institutions with cyber focus (e.g., cyber curriculum/training and Research & Development).
+-
+    kId: K0314
+    knowledgeDescription: Knowledge of industry technologies’ potential cybersecurity vulnerabilities.
+-
+    kId: K0315
+    knowledgeDescription: Knowledge of the principal methods, procedures, and techniques of gathering information and producing, reporting, and sharing information.
+-
+    kId: K0316
+    knowledgeDescription: Knowledge of business or military operation plans, concept operation plans, orders, policies, and standing rules of engagement.
+-
+    kId: K0317
+    knowledgeDescription: Knowledge of procedures used for documenting and querying reported incidents, problems, and events.
+-
+    kId: K0318
+    knowledgeDescription: Knowledge of operating system command-line tools.
+-
+    kId: K0319
+    knowledgeDescription: Knowledge of technical delivery capabilities and their limitations.
+-
+    kId: K0320
+    knowledgeDescription: 'Knowledge of organization''s evaluation and validation criteria.'
+-
+    kId: K0321
+    knowledgeDescription: Knowledge of engineering concepts as applied to computer architecture and associated computer hardware/software.
+-
+    kId: K0322
+    knowledgeDescription: Knowledge of embedded systems.
+-
+    kId: K0323
+    knowledgeDescription: Knowledge of system fault tolerance methodologies.
+-
+    kId: K0324
+    knowledgeDescription: Knowledge of Intrusion Detection System (IDS)/Intrusion Prevention System (IPS) tools and applications.
+-
+    kId: K0325
+    knowledgeDescription: Knowledge of Information Theory (e.g., source coding, channel coding, algorithm complexity theory, and data compression).
+-
+    kId: K0326
+    knowledgeDescription: Knowledge of demilitarized zones.
+-
+    kId: K0330
+    knowledgeDescription: Knowledge of successful capabilities to identify the solutions to less common and more complex system problems.
+-
+    kId: K0332
+    knowledgeDescription: Knowledge of network protocols such as TCP/IP, Dynamic Host Configuration, Domain Name System (DNS), and directory services.
+-
+    kId: K0333
+    knowledgeDescription: Knowledge of network design processes, to include understanding of security objectives, operational objectives, and trade-offs.
+-
+    kId: K0334
+    knowledgeDescription: Knowledge of network traffic analysis (tools, methodologies, processes).
+-
+    kId: K0335
+    knowledgeDescription: Knowledge of current and emerging cyber technologies.
+-
+    kId: K0336
+    knowledgeDescription: Knowledge of access authentication methods.
+-
+    kId: K0338
+    knowledgeDescription: Knowledge of data mining techniques.
+-
+    kId: K0339
+    knowledgeDescription: Knowledge of how to use network analysis tools to identify vulnerabilities.
+-
+    kId: K0341
+    knowledgeDescription: Knowledge of foreign disclosure policies and import/export control regulations as related to cybersecurity. 
+-
+    kId: K0342
+    knowledgeDescription: Knowledge of penetration testing principles, tools, and techniques.
+-
+    kId: K0343
+    knowledgeDescription: Knowledge of root cause analysis techniques.
+-
+    kId: K0344
+    knowledgeDescription: Knowledge of an organization’s threat environment.
+-
+    kId: K0346
+    knowledgeDescription: Knowledge of principles and methods for integrating system components.
+-
+    kId: K0347
+    knowledgeDescription: Knowledge and understanding of operational design.
+-
+    kId: K0349
+    knowledgeDescription: Knowledge of website types, administration, functions, and content management system (CMS).
+-
+    kId: K0350
+    knowledgeDescription: Knowledge of accepted organization planning systems.
+-
+    kId: K0351
+    knowledgeDescription: Knowledge of applicable statutes, laws, regulations and policies governing cyber targeting and exploitation.
+-
+    kId: K0352
+    knowledgeDescription: Knowledge of forms of intelligence support needs, topics, and focus areas.
+-
+    kId: K0353
+    knowledgeDescription: Knowledge of possible circumstances that would result in changing collection management authorities.
+-
+    kId: K0354
+    knowledgeDescription: Knowledge of relevant reporting and dissemination procedures.
+-
+    kId: K0355
+    knowledgeDescription: Knowledge of all-source reporting and dissemination procedures.
+-
+    kId: K0356
+    knowledgeDescription: Knowledge of analytic tools and techniques for language, voice and/or graphic material.
+-
+    kId: K0357
+    knowledgeDescription: Knowledge of analytical constructs and their use in assessing the operational environment
+-
+    kId: K0358
+    knowledgeDescription: Knowledge of analytical standards and the purpose of intelligence confidence levels.
+-
+    kId: K0359
+    knowledgeDescription: Knowledge of approved intelligence dissemination processes.
+-
+    kId: K0361
+    knowledgeDescription: Knowledge of asset availability, capabilities and limitations.
+-
+    kId: K0362
+    knowledgeDescription: Knowledge of attack methods and techniques (DDoS, brute force, spoofing, etc.).
+-
+    kId: K0363
+    knowledgeDescription: Knowledge of auditing and logging procedures (including server-based logging).
+-
+    kId: K0364
+    knowledgeDescription: Knowledge of available databases and tools necessary to assess appropriate collection tasking.
+-
+    kId: K0367
+    knowledgeDescription: Knowledge of penetration testing. 
+-
+    kId: K0368
+    knowledgeDescription: Knowledge of implants that enable cyber collection and/or preparation activities.
+-
+    kId: K0371
+    knowledgeDescription: Knowledge of principles of the collection development processes (e.g., Dialed Number Recognition, Social Network Analysis).
+-
+    kId: K0372
+    knowledgeDescription: Knowledge of programming concepts (e.g., levels, structures, compiled vs. interpreted languages).
+-
+    kId: K0373
+    knowledgeDescription: Knowledge of basic software applications (e.g., data storage and backup, database applications) and the types of vulnerabilities that have been found in those applications.
+-
+    kId: K0375
+    knowledgeDescription: Knowledge of wireless applications vulnerabilities.
+-
+    kId: K0376
+    knowledgeDescription: Knowledge of internal and external customers and partner organizations, including information needs, objectives, structure, capabilities, etc.
+-
+    kId: K0377
+    knowledgeDescription: Knowledge of classification and control markings standards, policies and procedures.
+-
+    kId: K0379
+    knowledgeDescription: Knowledge of client organizations, including information needs, objectives, structure, capabilities, etc.
+-
+    kId: K0380
+    knowledgeDescription: Knowledge of collaborative tools and environments.
+-
+    kId: K0381
+    knowledgeDescription: Knowledge of collateral damage and estimating impact(s).
+-
+    kId: K0382
+    knowledgeDescription: Knowledge of collection capabilities and limitations.
+-
+    kId: K0383
+    knowledgeDescription: Knowledge of collection capabilities, accesses, performance specifications, and constraints utilized to satisfy collection plan.
+-
+    kId: K0384
+    knowledgeDescription: Knowledge of collection management functionality (e.g., positions, functions, responsibilities, products, reporting requirements).
+-
+    kId: K0386
+    knowledgeDescription: Knowledge of collection management tools.
+-
+    kId: K0387
+    knowledgeDescription: Knowledge of collection planning process and collection plan.
+-
+    kId: K0388
+    knowledgeDescription: Knowledge of collection searching/analyzing techniques and tools for chat/buddy list, emerging technologies, VOIP, Media Over IP, VPN, VSAT/wireless, web mail and cookies.
+-
+    kId: K0389
+    knowledgeDescription: Knowledge of collection sources including conventional and non-conventional sources.
+-
+    kId: K0390
+    knowledgeDescription: Knowledge of collection strategies.
+-
+    kId: K0391
+    knowledgeDescription: Knowledge of collection systems, capabilities, and processes. 
+-
+    kId: K0392
+    knowledgeDescription: Knowledge of common computer/network infections (virus, Trojan, etc.) and methods of infection (ports, attachments, etc.).
+-
+    kId: K0393
+    knowledgeDescription: Knowledge of common networking devices and their configurations.
+-
+    kId: K0394
+    knowledgeDescription: Knowledge of common reporting databases and tools. 
+-
+    kId: K0395
+    knowledgeDescription: Knowledge of computer networking fundamentals (i.e., basic computer components of a network, types of networks, etc.).
+-
+    kId: K0396
+    knowledgeDescription: Knowledge of computer programming concepts, including computer languages, programming, testing, debugging, and file types. 
+-
+    kId: K0397
+    knowledgeDescription: Knowledge of security concepts in operating systems (e.g., Linux, Unix.)
+-
+    kId: K0398
+    knowledgeDescription: Knowledge of concepts related to websites (e.g., web servers/pages, hosting, DNS, registration, web languages such as HTML).
+-
+    kId: K0399
+    knowledgeDescription: Knowledge of crisis action planning and time sensitive planning procedures.
+-
+    kId: K0400
+    knowledgeDescription: Knowledge of crisis action planning for cyber operations.
+-
+    kId: K0401
+    knowledgeDescription: Knowledge of criteria for evaluating collection products.
+-
+    kId: K0402
+    knowledgeDescription: Knowledge of criticality and vulnerability factors (e.g., value, recuperation, cushion, countermeasures) for target selection and applicability to the cyber domain.
+-
+    kId: K0403
+    knowledgeDescription: Knowledge of cryptologic capabilities, limitations, and contributions to cyber operations.
+-
+    kId: K0404
+    knowledgeDescription: Knowledge of current collection requirements.
+-
+    kId: K0405
+    knowledgeDescription: Knowledge of current computer-based intrusion sets.
+-
+    kId: K0406
+    knowledgeDescription: Knowledge of current software and methodologies for active defense and system hardening.
+-
+    kId: K0407
+    knowledgeDescription: Knowledge of customer information needs.
+-
+    kId: K0408
+    knowledgeDescription: Knowledge of cyber actions (i.e. cyber defense, information gathering, environment preparation, cyber-attack) principles, capabilities, limitations, and effects.
+-
+    kId: K0409
+    knowledgeDescription: Knowledge of cyber intelligence/information collection capabilities and repositories.
+-
+    kId: K0410
+    knowledgeDescription: Knowledge of cyber laws and their effect on Cyber planning.
+-
+    kId: K0411
+    knowledgeDescription: Knowledge of cyber laws and legal considerations and their effect on cyber planning.
+-
+    kId: K0412
+    knowledgeDescription: Knowledge of cyber lexicon/terminology
+-
+    kId: K0413
+    knowledgeDescription: Knowledge of cyber operation objectives, policies, and legalities. 
+-
+    kId: K0414
+    knowledgeDescription: Knowledge of cyber operations support or enabling processes.
+-
+    kId: K0415
+    knowledgeDescription: Knowledge of cyber operations terminology/lexicon.
+-
+    kId: K0416
+    knowledgeDescription: Knowledge of cyber operations.
+-
+    kId: K0417
+    knowledgeDescription: Knowledge of data communications terminology (e.g., networking protocols, Ethernet, IP, encryption, optical devices, removable media).
+-
+    kId: K0418
+    knowledgeDescription: Knowledge of data flow process for terminal or environment collection.
+-
+    kId: K0419
+    knowledgeDescription: Knowledge of database administration and maintenance.
+-
+    kId: K0420
+    knowledgeDescription: Knowledge of database theory.
+-
+    kId: K0421
+    knowledgeDescription: Knowledge of databases, portals and associated dissemination vehicles.
+-
+    kId: K0422
+    knowledgeDescription: Knowledge of deconfliction processes and procedures.
+-
+    kId: K0423
+    knowledgeDescription: Knowledge of deconfliction reporting to include external organization interaction.
+-
+    kId: K0424
+    knowledgeDescription: Knowledge of denial and deception techniques.
+-
+    kId: K0425
+    knowledgeDescription: Knowledge of different organization objectives at all levels, including subordinate, lateral and higher.
+-
+    kId: K0426
+    knowledgeDescription: Knowledge of dynamic and deliberate targeting.
+-
+    kId: K0427
+    knowledgeDescription: Knowledge of encryption algorithms and cyber capabilities/tools (e.g., SSL, PGP).
+-
+    kId: K0428
+    knowledgeDescription: Knowledge of encryption algorithms and tools for wireless local area networks (WLANs).
+-
+    kId: K0429
+    knowledgeDescription: Knowledge of enterprise-wide information management.
+-
+    kId: K0430
+    knowledgeDescription: Knowledge of evasion strategies and techniques.
+-
+    kId: K0431
+    knowledgeDescription: Knowledge of evolving/emerging communications technologies.
+-
+    kId: K0432
+    knowledgeDescription: Knowledge of existing, emerging, and long-range issues related to cyber operations strategy, policy, and organization.
+-
+    kId: K0433
+    knowledgeDescription: Knowledge of forensic implications of operating system structure and operations.
+-
+    kId: K0435
+    knowledgeDescription: Knowledge of fundamental cyber concepts, principles, limitations, and effects.
+-
+    kId: K0436
+    knowledgeDescription: Knowledge of fundamental cyber operations concepts, terminology/lexicon (i.e., environment preparation, cyber-attack, cyber defense), principles, capabilities, limitations, and effects.
+-
+    kId: K0437
+    knowledgeDescription: Knowledge of general Supervisory control and data acquisition (SCADA) system components.
+-
+    kId: K0438
+    knowledgeDescription: Knowledge of mobile cellular communications architecture (e.g., LTE, CDMA, GSM/EDGE and UMTS/HSPA).
+-
+    kId: K0439
+    knowledgeDescription: Knowledge of governing authorities for targeting.
+-
+    kId: K0440
+    knowledgeDescription: Knowledge of host-based security products and how those products affect exploitation and reduce vulnerability.
+-
+    kId: K0442
+    knowledgeDescription: Knowledge of how converged technologies impact cyber operations (e.g., digital, telephony, wireless).
+-
+    kId: K0444
+    knowledgeDescription: Knowledge of how Internet applications work (SMTP email, web-based email, chat clients, VOIP).
+-
+    kId: K0445
+    knowledgeDescription: Knowledge of how modern digital and telephony networks impact cyber operations.
+-
+    kId: K0446
+    knowledgeDescription: Knowledge of how modern wireless communications systems impact cyber operations.
+-
+    kId: K0447
+    knowledgeDescription: Knowledge of how to collect, view, and identify essential information on targets of interest from metadata (e.g., email, http).
+-
+    kId: K0448
+    knowledgeDescription: Knowledge of how to establish priorities for resources.
+-
+    kId: K0449
+    knowledgeDescription: Knowledge of how to extract, analyze, and use metadata.
+-
+    kId: K0451
+    knowledgeDescription: Knowledge of identification and reporting processes.
+-
+    kId: K0452
+    knowledgeDescription: Knowledge of implementing Unix and Windows systems that provide radius authentication and logging, DNS, mail, web service, FTP server, DHCP, firewall, and SNMP.
+-
+    kId: K0453
+    knowledgeDescription: Knowledge of indications and warning.
+-
+    kId: K0454
+    knowledgeDescription: Knowledge of information needs.
+-
+    kId: K0455
+    knowledgeDescription: Knowledge of information security concepts, facilitating technologies and methods.
+-
+    kId: K0456
+    knowledgeDescription: Knowledge of intelligence capabilities and limitations.
+-
+    kId: K0457
+    knowledgeDescription: Knowledge of intelligence confidence levels.
+-
+    kId: K0458
+    knowledgeDescription: Knowledge of intelligence disciplines.
+-
+    kId: K0459
+    knowledgeDescription: Knowledge of intelligence employment requirements (i.e., logistical, communications support, maneuverability, legal restrictions, etc.).
+-
+    kId: K0460
+    knowledgeDescription: Knowledge of intelligence preparation of the environment and similar processes.
+-
+    kId: K0461
+    knowledgeDescription: Knowledge of intelligence production processes.
+-
+    kId: K0462
+    knowledgeDescription: Knowledge of intelligence reporting principles, policies, procedures, and vehicles, including report formats, reportability criteria (requirements and priorities), dissemination practices, and legal authorities and restrictions.
+-
+    kId: K0463
+    knowledgeDescription: Knowledge of intelligence requirements tasking systems.
+-
+    kId: K0464
+    knowledgeDescription: Knowledge of intelligence support to planning, execution, and assessment.
+-
+    kId: K0465
+    knowledgeDescription: Knowledge of internal and external partner cyber operations capabilities and tools.
+-
+    kId: K0466
+    knowledgeDescription: Knowledge of internal and external partner intelligence processes and the development of information requirements and essential information.
+-
+    kId: K0467
+    knowledgeDescription: Knowledge of internal and external partner organization capabilities and limitations (those with tasking, collection, processing, exploitation and dissemination responsibilities).
+-
+    kId: K0468
+    knowledgeDescription: Knowledge of internal and external partner reporting.
+-
+    kId: K0469
+    knowledgeDescription: Knowledge of internal tactics to anticipate and/or emulate threat capabilities and actions.
+-
+    kId: K0470
+    knowledgeDescription: Knowledge of Internet and routing protocols.
+-
+    kId: K0471
+    knowledgeDescription: Knowledge of Internet network addressing (IP addresses, classless inter-domain routing, TCP/UDP port numbering).
+-
+    kId: K0472
+    knowledgeDescription: Knowledge of intrusion detection systems and signature development.
+-
+    kId: K0473
+    knowledgeDescription: Knowledge of intrusion sets.
+-
+    kId: K0474
+    knowledgeDescription: Knowledge of key cyber threat actors and their equities.
+-
+    kId: K0475
+    knowledgeDescription: Knowledge of key factors of the operational environment and threat.
+-
+    kId: K0476
+    knowledgeDescription: Knowledge of language processing tools and techniques.
+-
+    kId: K0477
+    knowledgeDescription: 'Knowledge of leadership''s Intent and objectives.'
+-
+    kId: K0478
+    knowledgeDescription: Knowledge of legal considerations in targeting.
+-
+    kId: K0479
+    knowledgeDescription: Knowledge of malware analysis and characteristics.
+-
+    kId: K0480
+    knowledgeDescription: Knowledge of malware.
+-
+    kId: K0481
+    knowledgeDescription: Knowledge of methods and techniques used to detect various exploitation activities.
+-
+    kId: K0482
+    knowledgeDescription: Knowledge of methods for ascertaining collection asset posture and availability.
+-
+    kId: K0483
+    knowledgeDescription: Knowledge of methods to integrate and summarize information from any potential sources.
+-
+    kId: K0484
+    knowledgeDescription: Knowledge of midpoint collection (process, objectives, organization, targets, etc.).
+-
+    kId: K0485
+    knowledgeDescription: Knowledge of network administration.
+-
+    kId: K0486
+    knowledgeDescription: Knowledge of network construction and topology.
+-
+    kId: K0487
+    knowledgeDescription: Knowledge of network security (e.g., encryption, firewalls, authentication, honey pots, perimeter protection).
+-
+    kId: K0488
+    knowledgeDescription: Knowledge of network security implementations (e.g., host-based IDS, IPS, access control lists), including their function and placement in a network.
+-
+    kId: K0489
+    knowledgeDescription: Knowledge of network topology.
+-
+    kId: K0491
+    knowledgeDescription: Knowledge of networking and Internet communications fundamentals (i.e. devices, device configuration, hardware, software, applications, ports/protocols, addressing, network architecture and infrastructure, routing, operating systems, etc.). 
+-
+    kId: K0492
+    knowledgeDescription: Knowledge of non-traditional collection methodologies.
+-
+    kId: K0493
+    knowledgeDescription: Knowledge of obfuscation techniques (e.g., TOR/Onion/anonymizers, VPN/VPS, encryption).
+-
+    kId: K0494
+    knowledgeDescription: Knowledge of objectives, situation, operational environment, and the status and disposition of internal and external partner collection capabilities available to support planning.
+-
+    kId: K0495
+    knowledgeDescription: Knowledge of ongoing and future operations.
+-
+    kId: K0496
+    knowledgeDescription: Knowledge of operational asset constraints.
+-
+    kId: K0497
+    knowledgeDescription: Knowledge of operational effectiveness assessment.
+-
+    kId: K0498
+    knowledgeDescription: Knowledge of operational planning processes.
+-
+    kId: K0499
+    knowledgeDescription: Knowledge of operations security.
+-
+    kId: K0500
+    knowledgeDescription: Knowledge of organization and/or partner collection systems, capabilities, and processes (e.g., collection and protocol processors).
+-
+    kId: K0501
+    knowledgeDescription: Knowledge of organization cyber operations programs, strategies, and resources.
+-
+    kId: K0502
+    knowledgeDescription: Knowledge of organization decision support tools and/or methods.
+-
+    kId: K0503
+    knowledgeDescription: Knowledge of organization formats of resource and asset readiness reporting, its operational relevance and intelligence collection impact.
+-
+    kId: K0504
+    knowledgeDescription: Knowledge of organization issues, objectives, and operations in cyber as well as regulations and policy directives governing cyber operations.
+-
+    kId: K0505
+    knowledgeDescription: Knowledge of organization objectives and associated demand on collection management.
+-
+    kId: K0506
+    knowledgeDescription: Knowledge of organization objectives, leadership priorities, and decision-making risks.
+-
+    kId: K0507
+    knowledgeDescription: Knowledge of organization or partner exploitation of digital networks.
+-
+    kId: K0508
+    knowledgeDescription: Knowledge of organization policies and planning concepts for partnering with internal and/or external organizations.
+-
+    kId: K0509
+    knowledgeDescription: Knowledge of organizational and partner authorities, responsibilities, and contributions to achieving objectives.
+-
+    kId: K0510
+    knowledgeDescription: Knowledge of organizational and partner policies, tools, capabilities, and procedures.
+-
+    kId: K0511
+    knowledgeDescription: Knowledge of organizational hierarchy and cyber decision-making processes.
+-
+    kId: K0512
+    knowledgeDescription: Knowledge of organizational planning concepts.
+-
+    kId: K0513
+    knowledgeDescription: Knowledge of organizational priorities, legal authorities and requirements submission processes.
+-
+    kId: K0514
+    knowledgeDescription: Knowledge of organizational structures and associated intelligence capabilities.
+-
+    kId: K0516
+    knowledgeDescription: Knowledge of physical and logical network devices and infrastructure to include hubs, switches, routers, firewalls, etc.
+-
+    kId: K0517
+    knowledgeDescription: Knowledge of post implementation review (PIR) approval process.
+-
+    kId: K0518
+    knowledgeDescription: Knowledge of planning activity initiation.
+-
+    kId: K0519
+    knowledgeDescription: Knowledge of planning timelines adaptive, crisis action, and time-sensitive planning.
+-
+    kId: K0520
+    knowledgeDescription: Knowledge of principles and practices related to target development such as target knowledge, associations, communication systems, and infrastructure.
+-
+    kId: K0521
+    knowledgeDescription: Knowledge of priority information, how it is derived, where it is published, how to access, etc.
+-
+    kId: K0522
+    knowledgeDescription: Knowledge of production exploitation and dissemination needs and architectures. 
+-
+    kId: K0523
+    knowledgeDescription: Knowledge of products and nomenclature of major vendors (e.g., security suites - Trend Micro, Symantec, McAfee, Outpost, and Panda) and how those products affect exploitation and reduce vulnerabilities.
+-
+    kId: K0524
+    knowledgeDescription: Knowledge of relevant laws, regulations, and policies.
+-
+    kId: K0525
+    knowledgeDescription: Knowledge of required intelligence planning products associated with cyber operational planning.
+-
+    kId: K0526
+    knowledgeDescription: Knowledge of research strategies and knowledge management.
+-
+    kId: K0527
+    knowledgeDescription: Knowledge of risk management and mitigation strategies.
+-
+    kId: K0528
+    knowledgeDescription: Knowledge of satellite-based communication systems.
+-
+    kId: K0529
+    knowledgeDescription: Knowledge of scripting
+-
+    kId: K0530
+    knowledgeDescription: Knowledge of security hardware and software options, including the network artifacts they induce and their effects on exploitation.
+-
+    kId: K0531
+    knowledgeDescription: Knowledge of security implications of software configurations.
+-
+    kId: K0532
+    knowledgeDescription: Knowledge of specialized target language (e.g., acronyms, jargon, technical terminology, code words).
+-
+    kId: K0533
+    knowledgeDescription: Knowledge of specific target identifiers, and their usage.
+-
+    kId: K0534
+    knowledgeDescription: Knowledge of staff management, assignment, and allocation processes.
+-
+    kId: K0535
+    knowledgeDescription: Knowledge of strategies and tools for target research.
+-
+    kId: K0536
+    knowledgeDescription: Knowledge of structure, approach, and strategy of exploitation tools (e.g., sniffers, keyloggers) and techniques (e.g., gaining backdoor access, collecting/exfiltrating data, conducting vulnerability analysis of other systems in the network).
+-
+    kId: K0537
+    knowledgeDescription: Knowledge of system administration concepts for the Unix/Linux and Windows operating systems (e.g., process management, directory structure, installed applications, Access Controls).
+-
+    kId: K0538
+    knowledgeDescription: Knowledge of target and threat organization structures, critical capabilities, and critical vulnerabilities
+-
+    kId: K0539
+    knowledgeDescription: Knowledge of target communication profiles and their key elements (e.g., target associations, activities, communication infrastructure).
+-
+    kId: K0540
+    knowledgeDescription: Knowledge of target communication tools and techniques.
+-
+    kId: K0541
+    knowledgeDescription: Knowledge of target cultural references, dialects, expressions, idioms, and abbreviations.
+-
+    kId: K0542
+    knowledgeDescription: Knowledge of target development (i.e., concepts, roles, responsibilities, products, etc.).
+-
+    kId: K0543
+    knowledgeDescription: Knowledge of target estimated repair and recuperation times.
+-
+    kId: K0544
+    knowledgeDescription: Knowledge of target intelligence gathering and operational preparation techniques and life cycles.
+-
+    kId: K0545
+    knowledgeDescription: Knowledge of target language(s).
+-
+    kId: K0546
+    knowledgeDescription: Knowledge of target list development (i.e. Restricted, Joint, Candidate, etc.).
+-
+    kId: K0547
+    knowledgeDescription: Knowledge of target methods and procedures.
+-
+    kId: K0548
+    knowledgeDescription: Knowledge of target or threat cyber actors and procedures.
+-
+    kId: K0549
+    knowledgeDescription: Knowledge of target vetting and validation procedures.
+-
+    kId: K0550
+    knowledgeDescription: Knowledge of target, including related current events, communication profile, actors, and history (language, culture) and/or frame of reference.
+-
+    kId: K0551
+    knowledgeDescription: Knowledge of targeting cycles.
+-
+    kId: K0552
+    knowledgeDescription: Knowledge of tasking mechanisms.
+-
+    kId: K0553
+    knowledgeDescription: Knowledge of tasking processes for organic and subordinate collection assets.
+-
+    kId: K0554
+    knowledgeDescription: Knowledge of tasking, collection, processing, exploitation and dissemination.
+-
+    kId: K0555
+    knowledgeDescription: Knowledge of TCP/IP networking protocols.
+-
+    kId: K0556
+    knowledgeDescription: Knowledge of telecommunications fundamentals.
+-
+    kId: K0557
+    knowledgeDescription: Knowledge of terminal or environmental collection (process, objectives, organization, targets, etc.).
+-
+    kId: K0558
+    knowledgeDescription: Knowledge of the available tools and applications associated with collection requirements and collection management.
+-
+    kId: K0559
+    knowledgeDescription: Knowledge of the basic structure, architecture, and design of converged applications.
+-
+    kId: K0560
+    knowledgeDescription: Knowledge of the basic structure, architecture, and design of modern communication networks.
+-
+    kId: K0561
+    knowledgeDescription: Knowledge of the basics of network security (e.g., encryption, firewalls, authentication, honey pots, perimeter protection).
+-
+    kId: K0562
+    knowledgeDescription: Knowledge of the capabilities and limitations of new and emerging collection capabilities, accesses and/or processes.
+-
+    kId: K0563
+    knowledgeDescription: Knowledge of the capabilities, limitations and tasking methodologies of internal and external collections as they apply to planned cyber activities.
+-
+    kId: K0564
+    knowledgeDescription: Knowledge of the characteristics of targeted communication networks (e.g., capacity, functionality, paths, critical nodes).
+-
+    kId: K0565
+    knowledgeDescription: Knowledge of the common networking and routing protocols (e.g. TCP/IP), services (e.g., web, mail, DNS), and how they interact to provide network communications.
+-
+    kId: K0566
+    knowledgeDescription: 'Knowledge of the critical information requirements and how they''re used in planning.'
+-
+    kId: K0567
+    knowledgeDescription: Knowledge of the data flow from collection origin to repositories and tools. 
+-
+    kId: K0568
+    knowledgeDescription: Knowledge of the definition of collection management and collection management authority.
+-
+    kId: K0569
+    knowledgeDescription: Knowledge of the existent tasking, collection, processing, exploitation and dissemination architecture.
+-
+    kId: K0570
+    knowledgeDescription: Knowledge of the factors of threat that could impact collection operations.
+-
+    kId: K0571
+    knowledgeDescription: Knowledge of the feedback cycle in collection processes.
+-
+    kId: K0572
+    knowledgeDescription: Knowledge of the functions and capabilities of internal teams that emulate threat activities to benefit the organization.
+-
+    kId: K0573
+    knowledgeDescription: Knowledge of the fundamentals of digital forensics to extract actionable intelligence.
+-
+    kId: K0574
+    knowledgeDescription: Knowledge of the impact of language analysis on on-net operator functions.
+-
+    kId: K0575
+    knowledgeDescription: Knowledge of the impacts of internal and external partner staffing estimates.
+-
+    kId: K0576
+    knowledgeDescription: Knowledge of the information environment.
+-
+    kId: K0577
+    knowledgeDescription: Knowledge of the intelligence frameworks, processes, and related systems.
+-
+    kId: K0578
+    knowledgeDescription: Knowledge of the intelligence requirements development and request for information processes.
+-
+    kId: K0579
+    knowledgeDescription: Knowledge of the organization, roles and responsibilities of higher, lower and adjacent sub-elements.
+-
+    kId: K0580
+    knowledgeDescription: Knowledge of the organization’s established format for collection plan.
+-
+    kId: K0581
+    knowledgeDescription: Knowledge of the organization’s planning, operations and targeting cycles.
+-
+    kId: K0582
+    knowledgeDescription: Knowledge of the organizational planning and staffing process.
+-
+    kId: K0583
+    knowledgeDescription: Knowledge of the organizational plans/directives/guidance that describe objectives.
+-
+    kId: K0584
+    knowledgeDescription: Knowledge of the organizational policies/procedures for temporary transfer of collection authority.
+-
+    kId: K0585
+    knowledgeDescription: Knowledge of the organizational structure as it pertains to full spectrum cyber operations, including the functions, responsibilities, and interrelationships among distinct internal elements.
+-
+    kId: K0586
+    knowledgeDescription: Knowledge of the outputs of course of action and exercise analysis.
+-
+    kId: K0587
+    knowledgeDescription: Knowledge of the POC’s, databases, tools and applications necessary to establish environment preparation and surveillance products.
+-
+    kId: K0588
+    knowledgeDescription: Knowledge of the priority information requirements from subordinate, lateral and higher levels of the organization.
+-
+    kId: K0589
+    knowledgeDescription: Knowledge of the process used to assess the performance and impact of operations.
+-
+    kId: K0590
+    knowledgeDescription: Knowledge of the processes to synchronize operational assessment procedures with the critical information requirement process.
+-
+    kId: K0591
+    knowledgeDescription: Knowledge of the production responsibilities and organic analysis and production capabilities.
+-
+    kId: K0592
+    knowledgeDescription: Knowledge of the purpose and contribution of target templates.
+-
+    kId: K0593
+    knowledgeDescription: Knowledge of the range of cyber operations and their underlying intelligence support needs, topics, and focus areas.
+-
+    kId: K0594
+    knowledgeDescription: Knowledge of the relationships between end states, objectives, effects, lines of operation, etc.
+-
+    kId: K0595
+    knowledgeDescription: Knowledge of the relationships of operational objectives, intelligence requirements, and intelligence production tasks.
+-
+    kId: K0596
+    knowledgeDescription: Knowledge of the request for information process. 
+-
+    kId: K0597
+    knowledgeDescription: Knowledge of the role of network operations in supporting and facilitating other organization operations.
+-
+    kId: K0598
+    knowledgeDescription: Knowledge of the structure and intent of organization specific plans, guidance and authorizations.
+-
+    kId: K0599
+    knowledgeDescription: Knowledge of the structure, architecture, and design of modern digital and telephony networks. 
+-
+    kId: K0600
+    knowledgeDescription: Knowledge of the structure, architecture, and design of modern wireless communications systems.
+-
+    kId: K0601
+    knowledgeDescription: Knowledge of the systems/architecture/communications used for coordination.
+-
+    kId: K0602
+    knowledgeDescription: Knowledge of collection disciplines and capabilities.
+-
+    kId: K0603
+    knowledgeDescription: Knowledge of the ways in which targets or threats use the Internet.
+-
+    kId: K0604
+    knowledgeDescription: Knowledge of threat and/or target systems.
+-
+    kId: K0605
+    knowledgeDescription: Knowledge of tipping, cueing, mixing, and redundancy.
+-
+    kId: K0606
+    knowledgeDescription: Knowledge of transcript development processes and techniques (e.g., verbatim, gist, summaries).
+-
+    kId: K0607
+    knowledgeDescription: Knowledge of translation processes and techniques.
+-
+    kId: K0608
+    knowledgeDescription: Knowledge of Unix/Linux and Windows operating systems structures and internals (e.g., process management, directory structure, installed applications).
+-
+    kId: K0609
+    knowledgeDescription: Knowledge of virtual machine technologies.
+-
+    kId: K0610
+    knowledgeDescription: Knowledge of virtualization products (VMware, Virtual PC).
+-
+    kId: K0612
+    knowledgeDescription: Knowledge of what constitutes a “threat” to a network.
+-
+    kId: K0613
+    knowledgeDescription: Knowledge of who the organization’s operational planners are, how and where they can be contacted, and what are their expectations.
+-
+    kId: K0614
+    knowledgeDescription: Knowledge of wireless technologies (e.g., cellular, satellite, GSM) to include the basic structure, architecture, and design of modern wireless communications systems.
+-
+    kId: K0615
+    knowledgeDescription: Knowledge of privacy disclosure statements based on current laws.
+-
+    kId: K0616
+    knowledgeDescription: Knowledge of continuous monitoring, its processes, and Continuous Diagnostics and Mitigation (CDM) program activities.
+-
+    kId: K0617
+    knowledgeDescription: Knowledge of Automated security control assessments
+-
+    kId: K0618
+    knowledgeDescription: Knowledge of hardware asset management and the value of tracking the location and configuration of networked devices and software across departments, locations, facilities and, potentially, supporting business functions.
+-
+    kId: K0619
+    knowledgeDescription: Knowledge of software asset management and the value of tracking the location and configuration of networked devices and software across departments, locations, facilities and, potentially, supporting business functions.
+-
+    kId: K0620
+    knowledgeDescription: Knowledge of continuous monitoring technologies and tools.
+-
+    kId: K0621
+    knowledgeDescription: Knowledge of risk scoring.
+-
+    kId: K0622
+    knowledgeDescription: Knowledge of controls related to the use, processing, storage, and transmission of data.
+-
+    kId: K0623
+    knowledgeDescription: Knowledge of risk assessment methodologies.
+-
+    kId: K0624
+    knowledgeDescription: Knowledge of Application Security Risks (e.g. Open Web Application Security Project Top 10 list)
+-
+    kId: K0625
+    knowledgeDescription: Knowledge that patching and software updates are impractical for some networked devices. 
+-
+    kId: K0626
+    knowledgeDescription: Knowledge of secure update mechanisms.
+-
+    kId: K0627
+    knowledgeDescription: Knowledge of the importance of ingress filtering to protect against automated threats that rely on spoofed network addresses.
+-
+    kId: K0628
+    knowledgeDescription: Knowledge of cyber competitions as a way of developing skills by providing hands-on experience in simulated, real-world situations.
+-
+    kId: K0629
+    knowledgeDescription: Knowledge of white/black listing
+-
+    kId: K0630
+    knowledgeDescription: Knowledge of the latest intrusion techniques, methods and documented intrusions external to the organization.
+-
+    kId: K0631
+    knowledgeDescription: Knowledge of collection management authority(ies).
+-
+    kId: K0632
+    knowledgeDescription: Knowledge of security and privacy controls
+-
+    kId: K0633
+    knowledgeDescription: Knowledge of system design tools, methods and techniques.
+-
+    kId: K0634
+    knowledgeDescription: Knowledge of exploitation techniques (e.g., gaining backdoor access, collecting/exfiltrating data, conducting vulnerability analysis of other systems in the network).

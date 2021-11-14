@@ -1,0 +1,30 @@
+# NIST NICE Cybersecurity Domains
+---
+-
+    Domain: Securely Provision 
+    acryonym: sp
+    Description:  Conceptualizes, designs, procures, and/or builds secure information technology (IT) systems, with responsibility for aspects of system and/or network development.
+-
+    Domain: Operate and Maintain
+    acryonym: om
+    Description:  Provides the support, administration, and maintenance necessary to ensure effective and efficient information technology (IT) system performance and security.
+-
+    Domain: Oversee and Govern
+    acryonym: ov
+    Description:  Provides leadership, management, direction, or development and advocacy so the organization may effectively conduct cybersecurity work.
+-
+    Domain: Protect and Defend
+    acryonym: pr
+    Description:  Identifies, analyzes, and mitigates threats to internal information technology (IT) systems and/or networks.
+-
+    Domain: Analyze
+    acryonym: an
+    Description:  Performs highly-specialized review and evaluation of incoming cybersecurity information to determine its usefulness for intelligence.
+-
+    Domain: Collect and Operate
+    acryonym: co
+    Description:  Provides specialized denial and deception operations and collection of cybersecurity information that may be used to develop intelligence.
+-
+    Domain: Investigate 
+    acryonym: in
+    Description:  Investigates cybersecurity events or crimes related to information technology (IT) systems, networks, and digital evidence

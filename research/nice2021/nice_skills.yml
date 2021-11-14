@@ -1,0 +1,1107 @@
+# NIST NICE Cybersecurity Skills
+
+---
+-
+    sId: S0001
+    skillDescription: Skill in conducting vulnerability scans and recognizing vulnerabilities in security systems.
+-
+    sId: S0002
+    skillDescription: Skill in allocating storage capacity in the design of data management systems.
+-
+    sId: S0003
+    skillDescription: Skill of identifying, capturing, containing, and reporting malware.
+-
+    sId: S0004
+    skillDescription: Skill in analyzing network traffic capacity and performance characteristics.
+-
+    sId: S0005
+    skillDescription: Skill in applying and incorporating information technologies into proposed solutions.
+-
+    sId: S0006
+    skillDescription: Skill in applying confidentiality, integrity, and availability principles.
+-
+    sId: S0007
+    skillDescription: Skill in applying host/network access controls (e.g., access control list).
+-
+    sId: S0008
+    skillDescription: Skill in applying organization-specific systems analysis principles and techniques.
+-
+    sId: S0010
+    skillDescription: Skill in conducting capabilities and requirements analysis.
+-
+    sId: S0011
+    skillDescription: Skill in conducting information searches.
+-
+    sId: S0012
+    skillDescription: Skill in conducting knowledge mapping (e.g., map of knowledge repositories).
+-
+    sId: S0013
+    skillDescription: Skill in conducting queries and developing algorithms to analyze data structures.
+-
+    sId: S0014
+    skillDescription: Skill in conducting software debugging.
+-
+    sId: S0015
+    skillDescription: Skill in conducting test events.
+-
+    sId: S0016
+    skillDescription: Skill in configuring and optimizing software.
+-
+    sId: S0017
+    skillDescription: Skill in creating and utilizing mathematical or statistical models.
+-
+    sId: S0018
+    skillDescription: Skill in creating policies that reflect system security objectives.
+-
+    sId: S0019
+    skillDescription: Skill in creating programs that validate and process multiple inputs including command line arguments, environmental variables, and input streams.
+-
+    sId: S0020
+    skillDescription: Skill in developing and deploying signatures.
+-
+    sId: S0021
+    skillDescription: Skill in designing a data analysis structure (i.e., the types of data a test must generate and how to analyze that data).
+-
+    sId: S0022
+    skillDescription: Skill in designing countermeasures to identified security risks.
+-
+    sId: S0023
+    skillDescription: Skill in designing security controls based on cybersecurity principles and tenets.
+-
+    sId: S0024
+    skillDescription: Skill in designing the integration of hardware and software solutions.
+-
+    sId: S0025
+    skillDescription: Skill in detecting host and network based intrusions via intrusion detection technologies (e.g., Snort).
+-
+    sId: S0026
+    skillDescription: Skill in determining an appropriate level of test rigor for a given system.
+-
+    sId: S0027
+    skillDescription: Skill in determining how a security system should work (including its resilience and dependability capabilities) and how changes in conditions, operations, or the environment will affect these outcomes.
+-
+    sId: S0028
+    skillDescription: Skill in developing data dictionaries.
+-
+    sId: S0029
+    skillDescription: Skill in developing data models.
+-
+    sId: S0030
+    skillDescription: Skill in developing operations-based testing scenarios.
+-
+    sId: S0031
+    skillDescription: Skill in developing and applying security system access controls.
+-
+    sId: S0032
+    skillDescription: Skill in developing, testing, and implementing network infrastructure contingency and recovery plans.
+-
+    sId: S0033
+    skillDescription: Skill in diagnosing connectivity problems.
+-
+    sId: S0034
+    skillDescription: Skill in discerning the protection needs (i.e., security controls) of information systems and networks.
+-
+    sId: S0035
+    skillDescription: Skill in establishing a routing schema.
+-
+    sId: S0036
+    skillDescription: Skill in evaluating the adequacy of security designs.
+-
+    sId: S0037
+    skillDescription: Skill in generating queries and reports.
+-
+    sId: S0038
+    skillDescription: Skill in identifying measures or indicators of system performance and the actions needed to improve or correct performance, relative to the goals of the system.
+-
+    sId: S0039
+    skillDescription: Skill in identifying possible causes of degradation of system performance or availability and initiating actions needed to mitigate this degradation.
+-
+    sId: S0040
+    skillDescription: Skill in implementing, maintaining, and improving established network security practices.
+-
+    sId: S0041
+    skillDescription: Skill in installing, configuring, and troubleshooting LAN and WAN components such as routers, hubs, and switches.
+-
+    sId: S0042
+    skillDescription: Skill in maintaining databases. (i.e., backup, restore, delete data, transaction log files, etc.).
+-
+    sId: S0043
+    skillDescription: Skill in maintaining directory services. (e.g., Microsoft Active Directory, LDAP, etc.).
+-
+    sId: S0044
+    skillDescription: Skill in mimicking threat behaviors.
+-
+    sId: S0045
+    skillDescription: Skill in optimizing database performance.
+-
+    sId: S0046
+    skillDescription: Skill in performing packet-level analysis using appropriate tools (e.g., Wireshark, tcpdump).
+-
+    sId: S0047
+    skillDescription: Skill in preserving evidence integrity according to standard operating procedures or national standards.
+-
+    sId: S0048
+    skillDescription: Skill in systems integration testing.
+-
+    sId: S0049
+    skillDescription: Skill in the measuring and reporting of intellectual capital.
+-
+    sId: S0050
+    skillDescription: Skill in design modeling and building use cases (e.g., unified modeling language).
+-
+    sId: S0051
+    skillDescription: Skill in the use of penetration testing tools and techniques.
+-
+    sId: S0052
+    skillDescription: Skill in the use of social engineering techniques. (e.g., phishing, baiting, tailgating, etc.).
+-
+    sId: S0053
+    skillDescription: Skill in tuning sensors.
+-
+    sId: S0054
+    skillDescription: Skill in using incident handling methodologies.
+-
+    sId: S0055
+    skillDescription: Skill in using knowledge management technologies.
+-
+    sId: S0056
+    skillDescription: Skill in using network management tools to analyze network traffic patterns (e.g., simple network management protocol).
+-
+    sId: S0057
+    skillDescription: Skill in using protocol analyzers.
+-
+    sId: S0058
+    skillDescription: Skill in using the appropriate tools for repairing software, hardware, and peripheral equipment of a system.
+-
+    sId: S0059
+    skillDescription: Skill in using Virtual Private Network (VPN) devices and encryption.
+-
+    sId: S0060
+    skillDescription: Skill in writing code in a currently supported programming language (e.g., Java, C++).
+-
+    sId: S0061
+    skillDescription: Skill in writing test plans.
+-
+    sId: S0062
+    skillDescription: Skill in analyzing memory dumps to extract information.
+-
+    sId: S0063
+    skillDescription: Skill in collecting data from a variety of cyber defense resources.
+-
+    sId: S0064
+    skillDescription: Skill in developing and executing technical training programs and curricula.
+-
+    sId: S0065
+    skillDescription: Skill in identifying and extracting data of forensic interest in diverse media (i.e., media forensics).
+-
+    sId: S0066
+    skillDescription: Skill in identifying gaps in technical capabilities.
+-
+    sId: S0067
+    skillDescription: Skill in identifying, modifying, and manipulating applicable system components within Windows, Unix, or Linux (e.g., passwords, user accounts, files).
+-
+    sId: S0068
+    skillDescription: Skill in collecting, processing, packaging, transporting, and storing electronic evidence to avoid alteration, loss, physical damage, or destruction of data.
+-
+    sId: S0069
+    skillDescription: Skill in setting up a forensic workstation.
+-
+    sId: S0070
+    skillDescription: Skill in talking to others to convey information effectively.
+-
+    sId: S0071
+    skillDescription: Skill in using forensic tool suites (e.g., EnCase, Sleuthkit, FTK).
+-
+    sId: S0072
+    skillDescription: Skill in using scientific rules and methods to solve problems.
+-
+    sId: S0073
+    skillDescription: Skill in using virtual machines. (e.g., Microsoft Hyper-V, VMWare vSphere, Citrix XenDesktop/Server, Amazon Elastic Compute Cloud, etc.).
+-
+    sId: S0074
+    skillDescription: Skill in physically disassembling PCs.
+-
+    sId: S0075
+    skillDescription: Skill in conducting forensic analyses in multiple operating system environments (e.g., mobile device systems).
+-
+    sId: S0076
+    skillDescription: Skill in configuring and utilizing software-based computer protection tools (e.g., software firewalls, antivirus software, anti-spyware).
+-
+    sId: S0077
+    skillDescription: Skill in securing network communications.
+-
+    sId: S0078
+    skillDescription: Skill in recognizing and categorizing types of vulnerabilities and associated attacks.
+-
+    sId: S0079
+    skillDescription: Skill in protecting a network against malware. (e.g., NIPS, anti-malware, restrict/prevent external devices, spam filters).
+-
+    sId: S0080
+    skillDescription: Skill in performing damage assessments.
+-
+    sId: S0081
+    skillDescription: Skill in using network analysis tools to identify vulnerabilities. (e.g., fuzzing, nmap, etc.).
+-
+    sId: S0082
+    skillDescription: Skill in evaluating test plans for applicability and completeness.
+-
+    sId: S0083
+    skillDescription: Skill in integrating black box security testing tools into quality assurance process of software releases.
+-
+    sId: S0084
+    skillDescription: Skill in configuring and utilizing network protection components (e.g., Firewalls, VPNs, network intrusion detection systems).
+-
+    sId: S0085
+    skillDescription: Skill in conducting audits or reviews of technical systems.
+-
+    sId: S0086
+    skillDescription: Skill in evaluating the trustworthiness of the supplier and/or product.
+-
+    sId: S0087
+    skillDescription: Skill in deep analysis of captured malicious code (e.g., malware forensics).
+-
+    sId: S0088
+    skillDescription: Skill in using binary analysis tools (e.g., Hexedit, command code xxd, hexdump).
+-
+    sId: S0089
+    skillDescription: Skill in one-way hash functions (e.g., Secure Hash Algorithm [SHA], Message Digest Algorithm [MD5]).
+-
+    sId: S0090
+    skillDescription: Skill in analyzing anomalous code as malicious or benign.
+-
+    sId: S0091
+    skillDescription: Skill in analyzing volatile data.
+-
+    sId: S0092
+    skillDescription: Skill in identifying obfuscation techniques.
+-
+    sId: S0093
+    skillDescription: Skill in interpreting results of debugger to ascertain tactics, techniques, and procedures.
+-
+    sId: S0094
+    skillDescription: Skill in reading Hexadecimal data.
+-
+    sId: S0095
+    skillDescription: Skill in identifying common encoding techniques (e.g., Exclusive Disjunction [XOR], American Standard Code for Information Interchange [ASCII], Unicode, Base64, Uuencode, Uniform Resource Locator [URL] encode).
+-
+    sId: S0096
+    skillDescription: Skill in reading and interpreting signatures (e.g., snort).
+-
+    sId: S0097
+    skillDescription: Skill in applying security controls.
+-
+    sId: S0100
+    skillDescription: Skill in utilizing or developing learning activities (e.g., scenarios, instructional games, interactive exercises). 
+-
+    sId: S0101
+    skillDescription: Skill in utilizing technologies (e.g., SmartBoards, websites, computers, projectors) for instructional purposes. 
+-
+    sId: S0102
+    skillDescription: Skill in applying technical delivery capabilities.
+-
+    sId: S0103
+    skillDescription: Skill in assessing the predictive power and subsequent generalizability of a model.
+-
+    sId: S0104
+    skillDescription: Skill in conducting Test Readiness Reviews.
+-
+    sId: S0106
+    skillDescription: Skill in data pre-processing (e.g., imputation, dimensionality reduction, normalization, transformation, extraction, filtering, smoothing).
+-
+    sId: S0107
+    skillDescription: Skill in designing and documenting overall program Test & Evaluation strategies.
+-
+    sId: S0108
+    skillDescription: Skill in developing workforce and position qualification standards.
+-
+    sId: S0109
+    skillDescription: Skill in identifying hidden patterns or relationships.
+-
+    sId: S0110
+    skillDescription: Skill in identifying Test & Evaluation infrastructure (people, ranges, tools, instrumentation) requirements.
+-
+    sId: S0111
+    skillDescription: Skill in interfacing with customers.
+-
+    sId: S0112
+    skillDescription: Skill in managing test assets, test resources, and test personnel to ensure effective completion of test events.
+-
+    sId: S0113
+    skillDescription: Skill in performing format conversions to create a standard representation of the data.
+-
+    sId: S0114
+    skillDescription: Skill in performing sensitivity analysis.
+-
+    sId: S0115
+    skillDescription: Skill in preparing Test & Evaluation reports.
+-
+    sId: S0116
+    skillDescription: Skill in designing multi-level security/cross domain solutions.
+-
+    sId: S0117
+    skillDescription: Skill in providing Test & Evaluation resource estimate.
+-
+    sId: S0118
+    skillDescription: Skill in developing machine understandable semantic ontologies.
+-
+    sId: S0119
+    skillDescription: Skill in Regression Analysis (e.g., Hierarchical Stepwise, Generalized Linear Model, Ordinary Least Squares, Tree-Based Methods, Logistic).
+-
+    sId: S0120
+    skillDescription: Skill in reviewing logs to identify evidence of past intrusions.
+-
+    sId: S0121
+    skillDescription: Skill in system, network, and OS hardening techniques. (e.g., remove unnecessary services, password policies, network segmentation, enable logging, least privilege, etc.).
+-
+    sId: S0122
+    skillDescription: Skill in the use of design methods. 
+-
+    sId: S0123
+    skillDescription: Skill in transformation analytics (e.g., aggregation, enrichment, processing).
+-
+    sId: S0124
+    skillDescription: Skill in troubleshooting and diagnosing cyber defense infrastructure anomalies and work through resolution.
+-
+    sId: S0125
+    skillDescription: Skill in using basic descriptive statistics and techniques (e.g., normality, model distribution, scatter plots).
+-
+    sId: S0126
+    skillDescription: Skill in using data analysis tools (e.g., Excel, STATA SAS, SPSS).
+-
+    sId: S0127
+    skillDescription: Skill in using data mapping tools.
+-
+    sId: S0128
+    skillDescription: Skill in using manpower and personnel IT systems.
+-
+    sId: S0129
+    skillDescription: Skill in using outlier identification and removal techniques.
+-
+    sId: S0130
+    skillDescription: Skill in writing scripts using R, Python, PIG, HIVE, SQL, etc.
+-
+    sId: S0131
+    skillDescription: Skill in analyzing malware.
+-
+    sId: S0132
+    skillDescription: Skill in conducting bit-level analysis.
+-
+    sId: S0133
+    skillDescription: Skill in processing digital evidence, to include protecting and making legally sound copies of evidence.
+-
+    sId: S0134
+    skillDescription: Skill in conducting reviews of systems.
+-
+    sId: S0135
+    skillDescription: Skill in secure test plan design (e. g. unit, integration, system, acceptance).
+-
+    sId: S0136
+    skillDescription: Skill in network systems management principles, models, methods (e.g., end-to-end systems performance monitoring), and tools.
+-
+    sId: S0137
+    skillDescription: Skill in conducting application vulnerability assessments.
+-
+    sId: S0138
+    skillDescription: Skill in using Public-Key Infrastructure (PKI) encryption and digital signature capabilities into applications (e.g., S/MIME email, SSL traffic).
+-
+    sId: S0139
+    skillDescription: Skill in applying security models (e.g., Bell-LaPadula model, Biba integrity model, Clark-Wilson integrity model).
+-
+    sId: S0140
+    skillDescription: Skill in applying the systems engineering process.
+-
+    sId: S0141
+    skillDescription: Skill in assessing security systems designs.
+-
+    sId: S0142
+    skillDescription: Skill in conducting research for troubleshooting novel client-level problems.
+-
+    sId: S0143
+    skillDescription: Skill in conducting system/server planning, management, and maintenance.
+-
+    sId: S0144
+    skillDescription: Skill in correcting physical and technical problems that impact system/server performance.
+-
+    sId: S0145
+    skillDescription: Skill in integrating and applying policies that meet system security objectives.
+-
+    sId: S0146
+    skillDescription: 'Skill in creating policies that enable systems to meet performance objectives (e.g. traffic routing, SLA''s, CPU specifications).'
+-
+    sId: S0147
+    skillDescription: Skill in assessing security controls based on cybersecurity principles and tenets. (e.g., CIS CSC, NIST SP 800-53, Cybersecurity Framework, etc.).
+-
+    sId: S0148
+    skillDescription: Skill in designing the integration of technology processes and solutions, including legacy systems and modern programming languages. 
+-
+    sId: S0149
+    skillDescription: Skill in developing applications that can log and handle errors, exceptions, and application faults and logging.
+-
+    sId: S0150
+    skillDescription: Skill in implementing and testing network infrastructure contingency and recovery plans.
+-
+    sId: S0151
+    skillDescription: Skill in troubleshooting failed system components (i.e., servers)
+-
+    sId: S0152
+    skillDescription: Skill in translating operational requirements into protection needs (i.e., security controls).
+-
+    sId: S0153
+    skillDescription: Skill in identifying and anticipating system/server performance, availability, capacity, or configuration problems.
+-
+    sId: S0154
+    skillDescription: Skill in installing system and component upgrades. (i.e., servers, appliances, network devices).
+-
+    sId: S0155
+    skillDescription: Skill in monitoring and optimizing system/server performance.
+-
+    sId: S0156
+    skillDescription: Skill in performing packet-level analysis.
+-
+    sId: S0157
+    skillDescription: Skill in recovering failed systems/servers. (e.g., recovery software, failover clusters, replication, etc.).
+-
+    sId: S0158
+    skillDescription: Skill in operating system administration. (e.g., account maintenance, data backups, maintain system performance, install and configure new hardware/software).
+-
+    sId: S0159
+    skillDescription: Skill in configuring and validating network workstations and peripherals in accordance with approved standards and/or specifications.
+-
+    sId: S0160
+    skillDescription: Skill in the use of design modeling (e.g., unified modeling language).
+-
+    sId: S0162
+    skillDescription: Skill in applying various subnet techniques (e.g., CIDR)
+-
+    sId: S0164
+    skillDescription: Skill in assessing the application of cryptographic standards.
+-
+    sId: S0166
+    skillDescription: Skill in identifying gaps in technical delivery capabilities.
+-
+    sId: S0167
+    skillDescription: Skill in recognizing vulnerabilities in security systems. (e.g., vulnerability and compliance scanning).
+-
+    sId: S0168
+    skillDescription: Skill in setting up physical or logical sub-networks that separate an internal local area network (LAN) from other untrusted networks.
+-
+    sId: S0169
+    skillDescription: Skill in conducting trend analysis.
+-
+    sId: S0170
+    skillDescription: Skill in configuring and utilizing computer protection components (e.g., hardware firewalls, servers, routers, as appropriate).
+-
+    sId: S0171
+    skillDescription: Skill in performing impact/risk assessments.
+-
+    sId: S0172
+    skillDescription: Skill in applying secure coding techniques. 
+-
+    sId: S0173
+    skillDescription: Skill in using security event correlation tools.
+-
+    sId: S0174
+    skillDescription: Skill in using code analysis tools.
+-
+    sId: S0175
+    skillDescription: Skill in performing root cause analysis.
+-
+    sId: S0176
+    skillDescription: Skill in administrative planning activities, to include preparation of functional and specific support plans, preparing and managing correspondence, and staffing procedures.
+-
+    sId: S0177
+    skillDescription: 'Skill in analyzing a target''s communication networks.'
+-
+    sId: S0178
+    skillDescription: Skill in analyzing essential network data (e.g., router configuration files, routing protocols).
+-
+    sId: S0179
+    skillDescription: Skill in analyzing language processing tools to provide feedback to enhance tool development.
+-
+    sId: S0181
+    skillDescription: Skill in analyzing midpoint collection data.
+-
+    sId: S0182
+    skillDescription: Skill in analyzing target communications internals and externals collected from wireless LANs.
+-
+    sId: S0183
+    skillDescription: Skill in analyzing terminal or environment collection data.
+-
+    sId: S0184
+    skillDescription: Skill in analyzing traffic to identify network devices.
+-
+    sId: S0185
+    skillDescription: Skill in applying analytical methods typically employed to support planning and to justify recommended strategies and courses of action.
+-
+    sId: S0186
+    skillDescription: Skill in applying crisis planning procedures.
+-
+    sId: S0187
+    skillDescription: Skill in applying various analytical methods, tools, and techniques (e.g., competing hypotheses; chain of reasoning; scenario methods; denial and deception detection; high impact-low probability; network/association or link analysis; Bayesian, Delphi, and Pattern analyses).
+-
+    sId: S0188
+    skillDescription: 'Skill in assessing a target''s frame of reference (e.g., motivation, technical capability, organizational structure, sensitivities).'
+-
+    sId: S0189
+    skillDescription: Skill in assessing and/or estimating effects generated during and after cyber operations.
+-
+    sId: S0190
+    skillDescription: Skill in assessing current tools to identify needed improvements.
+-
+    sId: S0191
+    skillDescription: Skill in assessing the applicability of available analytical tools to various situations.
+-
+    sId: S0192
+    skillDescription: Skill in auditing firewalls, perimeters, routers, and intrusion detection systems.
+-
+    sId: S0193
+    skillDescription: Skill in complying with the legal restrictions for targeted information.
+-
+    sId: S0194
+    skillDescription: Skill in conducting non-attributable research.
+-
+    sId: S0195
+    skillDescription: Skill in conducting research using all available sources.
+-
+    sId: S0196
+    skillDescription: Skill in conducting research using deep web.
+-
+    sId: S0197
+    skillDescription: Skill in conducting social network analysis, buddy list analysis, and/or cookie analysis.
+-
+    sId: S0198
+    skillDescription: Skill in conducting social network analysis.
+-
+    sId: S0199
+    skillDescription: Skill in creating and extracting important information from packet captures.
+-
+    sId: S0200
+    skillDescription: Skill in creating collection requirements in support of data acquisition activities.
+-
+    sId: S0201
+    skillDescription: Skill in creating plans in support of remote operations. (i.e., hot/warm/cold/alternative sites, disaster recovery).
+-
+    sId: S0202
+    skillDescription: Skill in data mining techniques (e.g., searching file systems) and analysis.
+-
+    sId: S0203
+    skillDescription: Skill in defining and characterizing all pertinent aspects of the operational environment.
+-
+    sId: S0204
+    skillDescription: Skill in depicting source or collateral data on a network map.
+-
+    sId: S0205
+    skillDescription: Skill in determining appropriate targeting options through the evaluation of available capabilities against desired effects.
+-
+    sId: S0206
+    skillDescription: Skill in determining installed patches on various operating systems and identifying patch signatures.
+-
+    sId: S0207
+    skillDescription: Skill in determining the effect of various router and firewall configurations on traffic patterns and network performance in both LAN and WAN environments.
+-
+    sId: S0208
+    skillDescription: Skill in determining the physical location of network devices.
+-
+    sId: S0209
+    skillDescription: Skill in developing and executing comprehensive cyber operations assessment programs for assessing and validating operational performance characteristics.
+-
+    sId: S0210
+    skillDescription: Skill in developing intelligence reports.
+-
+    sId: S0211
+    skillDescription: Skill in developing or recommending analytic approaches or solutions to problems and situations for which information is incomplete or for which no precedent exists.
+-
+    sId: S0212
+    skillDescription: Skill in disseminating items of highest intelligence value in a timely manner.
+-
+    sId: S0213
+    skillDescription: Skill in documenting and communicating complex technical and programmatic information.
+-
+    sId: S0214
+    skillDescription: Skill in evaluating accesses for intelligence value.
+-
+    sId: S0215
+    skillDescription: Skill in evaluating and interpreting metadata.
+-
+    sId: S0216
+    skillDescription: Skill in evaluating available capabilities against desired effects to provide effective courses of action.
+-
+    sId: S0217
+    skillDescription: Skill in evaluating data sources for relevance, reliability, and objectivity.
+-
+    sId: S0218
+    skillDescription: Skill in evaluating information for reliability, validity, and relevance.
+-
+    sId: S0219
+    skillDescription: Skill in evaluating information to recognize relevance, priority, etc.
+-
+    sId: S0220
+    skillDescription: Skill in exploiting/querying organizational and/or partner collection databases.
+-
+    sId: S0221
+    skillDescription: Skill in extracting information from packet captures.
+-
+    sId: S0222
+    skillDescription: Skill in fusion analysis 
+-
+    sId: S0223
+    skillDescription: Skill in generating operation plans in support of mission and target requirements.
+-
+    sId: S0224
+    skillDescription: Skill in gisting target communications.
+-
+    sId: S0225
+    skillDescription: Skill in identifying a target’s communications networks.
+-
+    sId: S0226
+    skillDescription: 'Skill in identifying a target''s network characteristics. '
+-
+    sId: S0227
+    skillDescription: Skill in identifying alternative analytical interpretations to minimize unanticipated outcomes.
+-
+    sId: S0228
+    skillDescription: Skill in identifying critical target elements, to include critical target elements for the cyber domain.
+-
+    sId: S0229
+    skillDescription: Skill in identifying cyber threats which may jeopardize organization and/or partner interests.
+-
+    sId: S0231
+    skillDescription: Skill in identifying how a target communicates.
+-
+    sId: S0232
+    skillDescription: Skill in identifying intelligence gaps and limitations.
+-
+    sId: S0233
+    skillDescription: Skill in identifying language issues that may have an impact on organization objectives.
+-
+    sId: S0234
+    skillDescription: Skill in identifying leads for target development.
+-
+    sId: S0235
+    skillDescription: Skill in identifying non-target regional languages and dialects
+-
+    sId: S0236
+    skillDescription: Skill in identifying the devices that work at each level of protocol models.
+-
+    sId: S0237
+    skillDescription: Skill in identifying, locating, and tracking targets via geospatial analysis techniques
+-
+    sId: S0238
+    skillDescription: Skill in information prioritization as it relates to operations.
+-
+    sId: S0239
+    skillDescription: Skill in interpreting compiled and interpretive programming languages.
+-
+    sId: S0240
+    skillDescription: Skill in interpreting metadata and content as applied by collection systems.
+-
+    sId: S0241
+    skillDescription: Skill in interpreting traceroute results, as they apply to network analysis and reconstruction. 
+-
+    sId: S0242
+    skillDescription: Skill in interpreting vulnerability scanner results to identify vulnerabilities.
+-
+    sId: S0243
+    skillDescription: Skill in knowledge management, including technical documentation techniques (e.g., Wiki page).
+-
+    sId: S0244
+    skillDescription: Skill in managing client relationships, including determining client needs/requirements, managing client expectations, and demonstrating commitment to delivering quality results.
+-
+    sId: S0245
+    skillDescription: Skill in navigating network visualization software.
+-
+    sId: S0246
+    skillDescription: Skill in number normalization.
+-
+    sId: S0247
+    skillDescription: Skill in performing data fusion from existing intelligence for enabling new and continued collection.
+-
+    sId: S0248
+    skillDescription: Skill in performing target system analysis.
+-
+    sId: S0249
+    skillDescription: Skill in preparing and presenting briefings.
+-
+    sId: S0250
+    skillDescription: Skill in preparing plans and related correspondence.
+-
+    sId: S0251
+    skillDescription: Skill in prioritizing target language material.
+-
+    sId: S0252
+    skillDescription: Skill in processing collected data for follow-on analysis.
+-
+    sId: S0253
+    skillDescription: Skill in providing analysis on target-related matters (e.g., language, cultural, communications).
+-
+    sId: S0254
+    skillDescription: Skill in providing analysis to aid writing phased after action reports.
+-
+    sId: S0255
+    skillDescription: Skill in providing real-time, actionable geolocation information utilizing target infrastructures.
+-
+    sId: S0256
+    skillDescription: Skill in providing understanding of target or threat systems through the identification and link analysis of physical, functional, or behavioral relationships.
+-
+    sId: S0257
+    skillDescription: Skill in reading, interpreting, writing, modifying, and executing simple scripts (e.g., PERL, VBS) on Windows and Unix systems (e.g., those that perform tasks like parsing large data files, automating manual tasks, and fetching/processing remote data).
+-
+    sId: S0258
+    skillDescription: Skill in recognizing and interpreting malicious network activity in traffic.
+-
+    sId: S0259
+    skillDescription: Skill in recognizing denial and deception techniques of the target.
+-
+    sId: S0260
+    skillDescription: Skill in recognizing midpoint opportunities and essential information.
+-
+    sId: S0261
+    skillDescription: Skill in recognizing relevance of information.
+-
+    sId: S0262
+    skillDescription: Skill in recognizing significant changes in a target’s communication patterns.
+-
+    sId: S0263
+    skillDescription: Skill in recognizing technical information that may be used for leads for metadata analysis.
+-
+    sId: S0264
+    skillDescription: Skill in recognizing technical information that may be used for leads to enable remote operations (data includes users, passwords, email addresses, IP ranges of the target, frequency in DNI behavior, mail servers, domain servers, SMTP header information).
+-
+    sId: S0265
+    skillDescription: Skill in recognizing technical information that may be used for target development including intelligence development. 
+-
+    sId: S0266
+    skillDescription: Skill in relevant programming languages (e.g., C++, Python, etc.). 
+-
+    sId: S0267
+    skillDescription: Skill in remote command line and Graphic User Interface (GUI) tool usage.
+-
+    sId: S0268
+    skillDescription: Skill in researching essential information.
+-
+    sId: S0269
+    skillDescription: Skill in researching vulnerabilities and exploits utilized in traffic.
+-
+    sId: S0270
+    skillDescription: Skill in reverse engineering (e.g., hex editing, binary packaging utilities, debugging, and strings analysis) to identify function and ownership of remote tools.
+-
+    sId: S0271
+    skillDescription: Skill in reviewing and editing assessment products.
+-
+    sId: S0272
+    skillDescription: Skill in reviewing and editing intelligence products from various sources for cyber operations.
+-
+    sId: S0273
+    skillDescription: Skill in reviewing and editing plans.
+-
+    sId: S0274
+    skillDescription: Skill in reviewing and editing target materials.
+-
+    sId: S0275
+    skillDescription: Skill in server administration.
+-
+    sId: S0276
+    skillDescription: Skill in survey, collection, and analysis of wireless LAN metadata.
+-
+    sId: S0277
+    skillDescription: Skill in synthesizing, analyzing, and prioritizing meaning across data sets.
+-
+    sId: S0278
+    skillDescription: Skill in tailoring analysis to the necessary levels (e.g., classification and organizational).
+-
+    sId: S0279
+    skillDescription: Skill in target development in direct support of collection operations.
+-
+    sId: S0280
+    skillDescription: Skill in target network anomaly identification (e.g., intrusions, dataflow or processing, target implementation of new technologies).
+-
+    sId: S0281
+    skillDescription: Skill in technical writing.
+-
+    sId: S0282
+    skillDescription: Skill in testing and evaluating tools for implementation.
+-
+    sId: S0283
+    skillDescription: Skill in transcribing target language communications.
+-
+    sId: S0284
+    skillDescription: Skill in translating target graphic and/or voice language materials.
+-
+    sId: S0285
+    skillDescription: Skill in using Boolean operators to construct simple and complex queries.
+-
+    sId: S0286
+    skillDescription: Skill in using databases to identify target-relevant information.
+-
+    sId: S0287
+    skillDescription: Skill in using geospatial data and applying geospatial resources.
+-
+    sId: S0288
+    skillDescription: Skill in using multiple analytic tools, databases, and techniques (e.g., Analyst’s Notebook, A-Space, Anchory, M3, divergent/convergent thinking, link charts, matrices, etc.).
+-
+    sId: S0289
+    skillDescription: Skill in using multiple search engines (e.g., Google, Yahoo, LexisNexis, DataStar) and tools in conducting open-source searches.
+-
+    sId: S0290
+    skillDescription: Skill in using non-attributable networks.
+-
+    sId: S0291
+    skillDescription: Skill in using research methods including multiple, different sources to reconstruct a target network.
+-
+    sId: S0292
+    skillDescription: Skill in using targeting databases and software packages.
+-
+    sId: S0293
+    skillDescription: Skill in using tools, techniques, and procedures to remotely exploit and establish persistence on a target.
+-
+    sId: S0294
+    skillDescription: Skill in using trace route tools and interpreting the results as they apply to network analysis and reconstruction.
+-
+    sId: S0295
+    skillDescription: Skill in using various open source data collection tools (online trade, DNS, mail, etc.).
+-
+    sId: S0296
+    skillDescription: Skill in utilizing feedback to improve processes, products, and services.
+-
+    sId: S0297
+    skillDescription: Skill in utilizing virtual collaborative workspaces and/or tools (e.g., IWS, VTCs, chat rooms, SharePoint).
+-
+    sId: S0298
+    skillDescription: Skill in verifying the integrity of all files. (e.g., checksums, Exclusive OR, secure hashes, check constraints, etc.).
+-
+    sId: S0299
+    skillDescription: Skill in wireless network target analysis, templating, and geolocation.
+-
+    sId: S0300
+    skillDescription: Skill in writing (and submitting) requirements to meet gaps in technical capabilities.
+-
+    sId: S0301
+    skillDescription: Skill in writing about facts and ideas in a clear, convincing, and organized manner.
+-
+    sId: S0302
+    skillDescription: Skill in writing effectiveness reports.
+-
+    sId: S0303
+    skillDescription: Skill in writing, reviewing and editing cyber-related Intelligence/assessment products from multiple sources.
+-
+    sId: S0304
+    skillDescription: Skill to access information on current assets available, usage.
+-
+    sId: S0305
+    skillDescription: Skill to access the databases where plans/directives/guidance are maintained.
+-
+    sId: S0306
+    skillDescription: Skill to analyze strategic guidance for issues requiring clarification and/or additional guidance.
+-
+    sId: S0307
+    skillDescription: Skill to analyze target or threat sources of strength and morale.
+-
+    sId: S0308
+    skillDescription: Skill to anticipate intelligence capability employment requirements.
+-
+    sId: S0309
+    skillDescription: Skill to anticipate key target or threat activities which are likely to prompt a leadership decision.
+-
+    sId: S0310
+    skillDescription: Skill to apply analytical standards to evaluate intelligence products.
+-
+    sId: S0311
+    skillDescription: Skill to apply the capabilities, limitations and tasking methodologies of available platforms, sensors, architectures and apparatus as they apply to organization objectives.
+-
+    sId: S0312
+    skillDescription: Skill to apply the process used to assess the performance and impact of cyber operations.
+-
+    sId: S0313
+    skillDescription: Skill to articulate a needs statement/requirement and integrate new and emerging collection capabilities, accesses and/or processes into collection operations.
+-
+    sId: S0314
+    skillDescription: Skill to articulate intelligence capabilities available to support execution of the plan.
+-
+    sId: S0315
+    skillDescription: Skill to articulate the needs of joint planners to all-source analysts.
+-
+    sId: S0316
+    skillDescription: Skill to associate Intelligence gaps to priority information requirements and observables.
+-
+    sId: S0317
+    skillDescription: Skill to compare indicators/observables with requirements.
+-
+    sId: S0318
+    skillDescription: Skill to conceptualize the entirety of the intelligence process in the multiple domains and dimensions.
+-
+    sId: S0319
+    skillDescription: Skill to convert intelligence requirements into intelligence production tasks.
+-
+    sId: S0320
+    skillDescription: Skill to coordinate the development of tailored intelligence products.
+-
+    sId: S0321
+    skillDescription: Skill to correlate intelligence priorities to the allocation of intelligence resources/assets.
+-
+    sId: S0322
+    skillDescription: Skill to craft indicators of operational progress/success.
+-
+    sId: S0323
+    skillDescription: Skill to create and maintain up-to-date planning documents and tracking of services/production.
+-
+    sId: S0324
+    skillDescription: Skill to determine feasibility of collection.
+-
+    sId: S0325
+    skillDescription: Skill to develop a collection plan that clearly shows the discipline that can be used to collect the information needed.
+-
+    sId: S0326
+    skillDescription: Skill to distinguish between notional and actual resources and their applicability to the plan under development.
+-
+    sId: S0327
+    skillDescription: Skill to ensure that the collection strategy leverages all available resources. 
+-
+    sId: S0328
+    skillDescription: Skill to evaluate factors of the operational environment to objectives, and information requirements.
+-
+    sId: S0329
+    skillDescription: Skill to evaluate requests for information to determine if response information exists.
+-
+    sId: S0330
+    skillDescription: Skill to evaluate the capabilities, limitations and tasking methodologies of organic, theater, national, coalition and other collection capabilities. 
+-
+    sId: S0331
+    skillDescription: Skill to express orally and in writing the relationship between intelligence capability limitations and decision-making risk and impacts on the overall operation.
+-
+    sId: S0332
+    skillDescription: Skill to extract information from available tools and applications associated with collection requirements and collection operations management.
+-
+    sId: S0333
+    skillDescription: Skill to graphically depict decision support materials containing intelligence and partner capability estimates.
+-
+    sId: S0334
+    skillDescription: Skill to identify and apply tasking, collection, processing, exploitation and dissemination to associated collection disciplines. 
+-
+    sId: S0335
+    skillDescription: Skill to identify Intelligence gaps.
+-
+    sId: S0336
+    skillDescription: Skill to identify when priority information requirements are satisfied.
+-
+    sId: S0337
+    skillDescription: Skill to implement established procedures for evaluating collection management and operations activities.
+-
+    sId: S0338
+    skillDescription: Skill to interpret planning guidance to discern level of analytical support required.
+-
+    sId: S0339
+    skillDescription: Skill to interpret readiness reporting, its operational relevance and intelligence collection impact.
+-
+    sId: S0340
+    skillDescription: Skill to monitor target or threat situation and environmental factors.
+-
+    sId: S0341
+    skillDescription: Skill to monitor threat effects to partner capabilities and maintain a running estimate.
+-
+    sId: S0342
+    skillDescription: Skill to optimize collection system performance through repeated adjustment, testing, and re-adjustment.
+-
+    sId: S0343
+    skillDescription: Skill to orchestrate intelligence planning teams, coordinate collection and production support, and monitor status.
+-
+    sId: S0344
+    skillDescription: Skill to prepare and deliver reports, presentations and briefings, to include using visual aids or presentation technology.
+-
+    sId: S0345
+    skillDescription: Skill to relate intelligence resources/assets to anticipated intelligence requirements.
+-
+    sId: S0346
+    skillDescription: Skill to resolve conflicting collection requirements.
+-
+    sId: S0347
+    skillDescription: Skill to review performance specifications and historical information about collection assets.
+-
+    sId: S0348
+    skillDescription: Skill to specify collections and/or taskings that must be conducted in the near term.
+-
+    sId: S0349
+    skillDescription: Skill to synchronize operational assessment procedures with the critical information requirement process.
+-
+    sId: S0350
+    skillDescription: Skill to synchronize planning activities and required intelligence support.
+-
+    sId: S0351
+    skillDescription: Skill to translate the capabilities, limitations and tasking methodologies of organic, theater, national, coalition and other collection capabilities.
+-
+    sId: S0352
+    skillDescription: Skill to use collaborative tools and environments for collection operations.
+-
+    sId: S0353
+    skillDescription: Skill to use systems and/or tools to track collection requirements and determine if they are satisfied.
+-
+    sId: S0354
+    skillDescription: Skill in creating policies that reflect the business’s core privacy objectives.
+-
+    sId: S0355
+    skillDescription: Skill in negotiating vendor agreements and evaluating vendor privacy practices.
+-
+    sId: S0356
+    skillDescription: Skill in communicating with all levels of management including Board members (e.g., interpersonal skills, approachability, effective listening skills, appropriate use of style and language for the audience). 
+-
+    sId: S0357
+    skillDescription: Skill to anticipate new security threats.
+-
+    sId: S0358
+    skillDescription: Skill to remain aware of evolving technical infrastructures.
+-
+    sId: S0359
+    skillDescription: Skill to use critical thinking to analyze organizational patterns and relationships.
+-
+    sId: S0360
+    skillDescription: Skill to analyze and assess internal and external partner cyber operations capabilities and tools.
+-
+    sId: S0361
+    skillDescription: Skill to analyze and assess internal and external partner intelligence processes and the development of information requirements and essential information.
+-
+    sId: S0362
+    skillDescription: Skill to analyze and assess internal and external partner organization capabilities and limitations (those with tasking, collection, processing, exploitation and dissemination responsibilities).
+-
+    sId: S0363
+    skillDescription: Skill to analyze and assess internal and external partner reporting.
+-
+    sId: S0364
+    skillDescription: Skill to develop insights about the context of an organization’s threat environment
+-
+    sId: S0365
+    skillDescription: Skill to design incident response for cloud service models.
+-
+    sId: S0366
+    skillDescription: Skill to identify successful capabilities to find solutions to less common and more complex system problems.
+-
+    sId: S0367
+    skillDescription: Skill to apply cybersecurity and privacy principles to organizational requirements (relevant to confidentiality, integrity, availability, authentication, non-repudiation).
+-
+    sId: S0368
+    skillDescription: Skill to use risk scoring to inform performance-based and cost-effective approaches to help organizations to identify, assess, and manage cybersecurity risk.
+-
+    sId: S0369
+    skillDescription: Skill to identify sources, characteristics, and uses of the organization’s data assets.
+-
+    sId: S0370
+    skillDescription: Skill to use cyber defense Service Provider reporting structure and processes within one’s own organization.
+-
+    sId: S0371
+    skillDescription: Skill to respond and take local actions in response to threat sharing alerts from service providers.
+-
+    sId: S0372
+    skillDescription: Skill to translate, track, and prioritize information needs and intelligence collection requirements across the extended enterprise.
+-
+    sId: S0373
+    skillDescription: Skill to ensure that accountability information is collected for information system and information and communications technology supply chain infrastructure components.
+-
+    sId: S0374
+    skillDescription: Skill to identify cybersecurity and privacy issues that stem from connections with internal and external customers and partner organizations.
+-
+    sId: S0375
+    skillDescription: Skill in developing information requirements.
+-
+    sId: S0376
+    skillDescription: Skill in troubleshooting network equipment (e.g., routers, switches).
+-
+    sId: S0377
+    skillDescription: Skill in developing curriculum standards, curriculum, courses and learning activities.

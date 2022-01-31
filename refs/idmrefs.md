@@ -5,6 +5,7 @@ Sources, articles or training to increase our Identity and Access Management kno
 ## In the Queue
 - [ABAC on AWS Tutorial By: AWS](https://docs.aws.amazon.com/IAM/latest/UserGuide/tutorial_attribute-based-access-control.html){:target="_blank"}{:rel="noopener noreferrer"} ***Want to try this out and see if you can do the same with tags on Azure.***
 - [Chesney on Cybersecurity Law, Policy, and Institutions v3.0 - March 2020](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3547103){:target="_blank"}{:rel="noopener noreferrer"} ***Comprehensive eCasebook on the interwined nature of the legal and policy questions associated with cybersecurity.***
+- [BloodHound: Six Degrees of Domain Admin **Now in Azure**](https://bloodhound.readthedocs.io/en/latest/index.html#bloodhound-six-degrees-of-domain-admin){:target="_blank"}{:rel="noopener noreferrer"} ***This is a cool tool to identify privilege attack paths in Active Directory and now in Azure too.***
 
 ## Articles
 - [The Beer Drinker’s Guide to SAML By: Greg Seader via Duo Blog (15 min read)](https://duo.com/blog/the-beer-drinkers-guide-to-saml){:target="_blank"}{:rel="noopener noreferrer"} ***Easier to read and understand than the SAML standard.***
@@ -24,6 +25,9 @@ Sources, articles or training to increase our Identity and Access Management kno
 - [Alert (AA21-008A) - Detecting Post-Compromise Threat Activity in Microsoft Cloud Environments By: DHS CISA (20 min read)](https://us-cert.cisa.gov/ncas/alerts/aa21-008a){:target="_blank"}{:rel="noopener noreferrer"} ***Excellent write-up and tools to identify compromised Microsoft federation systems.***
 - [Golden SAML: Newly Discovered Attack Technique Forges Authentication to Cloud Apps By: CyberArk (15 min read)](https://www.cyberark.com/resources/threat-research-blog/golden-saml-newly-discovered-attack-technique-forges-authentication-to-cloud-apps){:target="_blank"}{:rel="noopener noreferrer"} ***Similar to Golden ticket attacks but specific to SAML key compromises.***
   - [Golden SAML Revisited: The Solorigate Connection By: Shaked Reiner via CyberArk Blog](https://www.cyberark.com/resources/threat-research-blog/golden-saml-revisited-the-solorigate-connection){:target="_blank"}{:rel="noopener noreferrer"} ***Follow-up post.***
+
+## Tools
+Coming Soon!
 
 ## Frameworks and Standards
 - [NIST Special Publication 800-63 Revision 3 Digital Identity Guidelines By: NIST (3.5 hour read)](https://pages.nist.gov/800-63-3/sp800-63-3.html){:target="_blank"}{:rel="noopener noreferrer"} ***The digital identity bible for federal government agencies. A major upgrade to 800-63-2 evolving to three separate identity, authenticator, and federation levels.***

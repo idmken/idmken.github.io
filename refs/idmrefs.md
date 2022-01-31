@@ -7,6 +7,9 @@ Sources, articles or training to increase our Identity and Access Management kno
 - [Chesney on Cybersecurity Law, Policy, and Institutions v3.0 - March 2020](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3547103){:target="_blank"}{:rel="noopener noreferrer"} ***Comprehensive eCasebook on the interwined nature of the legal and policy questions associated with cybersecurity.***
 - [BloodHound: Six Degrees of Domain Admin **Now in Azure**](https://bloodhound.readthedocs.io/en/latest/index.html#bloodhound-six-degrees-of-domain-admin){:target="_blank"}{:rel="noopener noreferrer"} ***This is a cool tool to identify privilege attack paths in Active Directory and now in Azure too.***
 
+## Webinars and Videos
+- [How to architect an identity management strategy in AWS via SANS Institute (1 hour watch)](https://pages.awscloud.com/awsmp-h2-sec-digital-workspace-iam-ty.html){:target="_blank"}{:rel="noopener noreferrer"} ***Great one hour webinar on best identity practices from AWS Well-Architected Framework with #Okta and #0Auth examples at the end.***
+
 ## Articles
 - [The Beer Drinker’s Guide to SAML By: Greg Seader via Duo Blog (15 min read)](https://duo.com/blog/the-beer-drinkers-guide-to-saml){:target="_blank"}{:rel="noopener noreferrer"} ***Easier to read and understand than the SAML standard.***
 - [You Need Multiple SAML IDP Signing Keys By: Hans via Hansblog (10 min read)](https://www.stackallocated.com/blog/2020/saml-idp-no-shared-keys/){:target="_blank"}{:rel="noopener noreferrer"} ***Great article on the risk in SAML signing keys and also contains a market analysis.***
@@ -16,6 +19,13 @@ Sources, articles or training to increase our Identity and Access Management kno
 - [Microsoft Windows Certificate Path Validation in Bridge CA and Cross-Certification Environments By Siddarth Adukia via Microsoft Tech Community (zzz read)](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/certificate-path-validation-in-bridge-ca-and-cross-certification/ba-p/1128610){:target="_blank"}{:rel="noopener noreferrer"} ***PKI path building an validation is always tricky depending on the library. CAPI2 uses a unique logic.***
 - [Introduction to Self-Soverign Identity By: Juin Chiu via Medium (11 min read)](https://medium.com/unitychain/intro-to-ssi-7cdac15251a7){:target="_blank"}{:rel="noopener noreferrer"} ***Interesting concepts.***
 - [Azure AD Connect for Red Teamers By: Adam Chest via XPNSec (10 min read)](https://blog.xpnsec.com/azuread-connect-for-redteam/){:target="_blank"}{:rel="noopener noreferrer"}
+
+### Articles Related to Achieving NIST 800-63-3 Levels
+- [NIST Special Publication 800-63 Revision 3 Digital Identity Guidelines By: NIST (3.5 hour read)](https://pages.nist.gov/800-63-3/sp800-63-3.html){:target="_blank"}{:rel="noopener noreferrer"} ***The digital identity bible for federal government agencies. A major upgrade to 800-63-2 evolving to three separate identity, authenticator, and federation levels.***
+- [NIST SPECIAL PUBLICATION 800-63-3 IMPLEMENTATION RESOURCES By: NIST (2 hour read)](https://www.nist.gov/system/files/documents/2020/07/02/SP-800-63-3-Implementation-Resources_07012020.pdf){:target="_blank"}{:rel="noopener noreferrer"} ***Accompanying guide to 800-63-3 on implementing the normative requirements of 800-63-3.***
+- [ForgeRock and NIST Special Publication 800-63-3 By: ForgeRock (25 min read)](https://www.forgerock.com/resources/whitepaper/forgerock-nist-sp-800-63-3){:target="_blank"}{:rel="noopener noreferrer"} **Includes how to achieve the infamous FAL3 using SAML, OAuth 2.0, or OIDC.**
+- [Achieving National Institute of Standards and Technology Authenticator Assurance Levels with the Microsoft Identity Platform By: Microsoft (25 min Read)](https://azure.microsoft.com/mediahandler/files/resourcefiles/microsoft-nist/Achieving%20NIST%20Authentication%20Assurance%20Levels%20with%20the%20Microsoft%20Identity%20Platform.pdf){:target="_blank"}{:rel="noopener noreferrer"} **How to achieve NIST 800-63-3 levels using Azure AD.**
+- [Selecting Secure Multi-factor Authentication Solutions By: NSA (25 min read)](https://media.defense.gov/2020/Sep/22/2002502665/-1/-1/0/CSI_MULTIFACTOR_AUTHENTICATION_SOLUTIONS_UOO17091520.PDF){:target="_blank"}{:rel="noopener noreferrer"} ***Good overview on authenticators and how some modern solutions stack up to NIST 800-63-3B requirements.***
 
 ### Articles Related to Federation Attacks and Golden SAML
 - [Detecting Abuse of Authentication Mechanisms By: National Security Agency](https://media.defense.gov/2020/Dec/17/2002554125/-1/-1/0/AUTHENTICATION_MECHANISMS_CSA_U_OO_198854_20.PDF){:target="_blank"}{:rel="noopener noreferrer"} ***Government resource specific to AD FS and Azure.***
@@ -30,18 +40,20 @@ Sources, articles or training to increase our Identity and Access Management kno
 Coming Soon!
 
 ## Frameworks and Standards
-- [NIST Special Publication 800-63 Revision 3 Digital Identity Guidelines By: NIST (3.5 hour read)](https://pages.nist.gov/800-63-3/sp800-63-3.html){:target="_blank"}{:rel="noopener noreferrer"} ***The digital identity bible for federal government agencies. A major upgrade to 800-63-2 evolving to three separate identity, authenticator, and federation levels.***
-  - [NIST SPECIAL PUBLICATION 800-63-3 IMPLEMENTATION RESOURCES By: NIST (2 hour read)](https://www.nist.gov/system/files/documents/2020/07/02/SP-800-63-3-Implementation-Resources_07012020.pdf){:target="_blank"}{:rel="noopener noreferrer"} ***Accompanying guide to 800-63-3 on implementing the normative requirements of 800-63-3.***
 - [The Public Sector Profile of the Pan-Canadian Trust Framework (PCTF-CCP) By: Government of Canada (2 hour read)](https://canada-ca.github.io/PCTF-CCP/){:target="_blank"}{:rel="noopener noreferrer"} ***Identity frameworks are an interesting way to see how identity is used in other sectors and cultures. This one is designed to map identity and business processes in Canada. It also helps map those processes to other international frameworks such as eIDAS, FATF, and UNCITRAL.***
 
 ## Academic Papers
 Coming soon!
 
 ## Guides
-- [Selecting Secure Multi-factor Authentication Solutions By: NSA (25 min read)](https://media.defense.gov/2020/Sep/22/2002502665/-1/-1/0/CSI_MULTIFACTOR_AUTHENTICATION_SOLUTIONS_UOO17091520.PDF){:target="_blank"}{:rel="noopener noreferrer"} ***Good overview on authenticators and how some modern solutions stack up to NIST 800-63-3B requirements.***
 - [The Complete JSON Tutorial By: Dan Englishby (20 min read)](https://www.codewall.co.uk/the-complete-json-tutorial-quickly-learn-json/){:target="_blank"}{:rel="noopener noreferrer"} #**Great guide on how to understand and use JSON. JSON format is used by cloud-based identity vendors to either share information or write access policies.***
 
 ## Free IAM or IAM-Related Training
+- [Microsoft SC-300 Learning Modules - Microsoft Identity and Access Administrator (Eight Hours)](https://docs.microsoft.com/en-us/learn/browse/?terms=sc-300){:target="_blank"}{:rel="noopener noreferrer"} ***The Microsoft Identity and Access Administrator designs, implements, and operates an organization’s identity and access management systems by using Azure Active Directory (Azure AD).  This is same course I used to pass the SC-300. I also used the MeasureUp practice test.***
 - [Okta Basics Curriculum by Okta (Six hours)](https://www.okta.com/training/okta-basics-curriculum-for-workforce-identity/){:target="_blank"}{:rel="noopener noreferrer"} ***Free for customers and developers. You can get a free developer account. Solid identity basics with how to deploy them on Okta.***
 - [MITRE ATT&CK for Cyber Threat Intelligence Training By MITRE (Four Hours)](https://attack.mitre.org/resources/training/cti/){:target="_blank"}{:rel="noopener noreferrer"} ***How to use MITRE ATT&CK which includes identity-based attack vectors.***
 - [Introduction to Google Cloud Identity by Google on Coursera (Eight Hours)](https://www.coursera.org/learn/cloud-identity){:target="_blank"}{:rel="noopener noreferrer"} ***Free content and hands-on training with trial GCP account. Pay if you want a certificate. Good intro course on cloud identity management and specifically Google Cloud Directory, SSO, MDM, and security.***
+- [Keycloak Overview (One Hour)](https://www.katacoda.com/keycloak){:target="_blank"}{:rel="noopener noreferrer"} ***Basic overview of Keycloak including realms, user management, and application integration.***
+
+## Identity Certifications
+Coming Soon! Identity-specific certifications.

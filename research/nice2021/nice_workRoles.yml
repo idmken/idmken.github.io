@@ -1,0 +1,367 @@
+# 52 NIST NICE Cybersecurity work roles
+
+---
+-
+    domain: SECURELY PROVISION (SP)
+    specialityArea: Risk Management (RSK)
+    workRole: Authorizing Official/Designating Representative
+    description: Senior official or executive with the authority to formally assume responsibility for operating an information system at an acceptable level of risk to organizational operations (including mission, functions, image, or reputation), organizational assets, individuals, other organizations, and the Nation (CNSSI 4009).
+    workRoleID: SP-RSK-001
+    opmCode: 611
+-
+    domain: SECURELY PROVISION (SP)
+    specialityArea: Risk Management (RSK)
+    workRole: Security Control Assessor
+    description: Conducts independent comprehensive assessments of the management, operational, and technical security controls and control enhancements employed within or inherited by an information technology (IT) system to determine the overall effectiveness of the controls (as defined in NIST SP 800-37). 
+    workRoleID: SP-RSK-002
+    opmCode: 612
+-
+    domain: SECURELY PROVISION (SP)
+    specialityArea: Software Development (DEV)
+    workRole: Software Developer
+    description: Develops, creates, maintains, and writes/codes new (or modifies existing) computer applications, software, or specialized utility programs.
+    workRoleID: SP-DEV-001
+    opmCode: 621
+-
+    domain: SECURELY PROVISION (SP)
+    specialityArea: Software Development (DEV)
+    workRole: Secure Software Assessor
+    description: Analyzes the security of new or existing computer applications, software, or specialized utility programs and provides actionable results.
+    workRoleID: SP-DEV-002
+    opmCode: 622
+-
+    domain: SECURELY PROVISION (SP)
+    specialityArea: Systems Architecture (ARC)
+    workRole: Enterprise Architect 
+    description: Develops and maintains business, systems, and information processes to support enterprise mission needs; develops information technology (IT) rules and requirements that describe baseline and target architectures. 
+    workRoleID: SP-ARC-001
+    opmCode: 651
+-
+    domain: SECURELY PROVISION (SP)
+    specialityArea: Systems Architecture (ARC)
+    workRole: Security Architect 
+    description: Ensures that the stakeholder security requirements necessary to protect the organization’s mission and business processes are adequately addressed in all aspects of enterprise architecture including reference models, segment and solution architectures, and the resulting systems supporting those missions and business processes.
+    workRoleID: SP-ARC-002
+    opmCode: 652
+-
+    domain: SECURELY PROVISION (SP)
+    specialityArea: Technology R&D (TRD)
+    workRole: Research & Development Specialist 
+    description: Conducts software and systems engineering and software systems research to develop new capabilities, ensuring cybersecurity is fully integrated. Conducts comprehensive technology research to evaluate potential vulnerabilities in cyberspace systems. 
+    workRoleID: SP-TRD-001
+    opmCode: 661
+-
+    domain: SECURELY PROVISION (SP)
+    specialityArea: Systems Requirements Planning (SRP)
+    workRole: Systems Requirements Planner 
+    description: Consults with customers to evaluate functional requirements and translate functional requirements into technical solutions.
+    workRoleID: SP-SRP-001
+    opmCode: 641
+-
+    domain: SECURELY PROVISION (SP)
+    specialityArea: Test and Evaluation (TST)
+    workRole: System Testing and Evaluation Specialist 
+    description: Plans, prepares, and executes tests of systems to evaluate results against specifications and requirements as well as analyze/report test results.
+    workRoleID: SP-TST-001
+    opmCode: 671
+-
+    domain: SECURELY PROVISION (SP)
+    specialityArea: Systems Development (SYS)
+    workRole: Information Systems Security Developer 
+    description: Designs, develops, tests, and evaluates information system security throughout the systems development life cycle.
+    workRoleID: SP-SYS-001
+    opmCode: 631
+-
+    domain: SECURELY PROVISION (SP)
+    specialityArea: Systems Development (SYS)
+    workRole: Systems Developer 
+    description: Designs, develops, tests, and evaluates information systems throughout the systems development life cycle.
+    workRoleID: SP-SYS-002
+    opmCode: 632
+-
+    domain: OPERATE and MAINTAIN (OM)
+    specialityArea: Data Administration (DTA)
+    workRole: Database Administrator
+    description: Administers databases and/or data management systems that allow for the secure storage, query, protection, and utilization of data.
+    workRoleID: OM-DTA-001
+    opmCode: 421
+-
+    domain: OPERATE and MAINTAIN (OM)
+    specialityArea: Data Administration (DTA)
+    workRole: Data Analyst 
+    description: Examines data from multiple disparate sources with the goal of providing security and privacy insight. Designs and implements custom algorithms, workflow processes, and layouts for complex, enterprise-scale data sets used for modeling, data mining, and research purposes.
+    workRoleID: OM-DTA-002
+    opmCode: 422
+-
+    domain: OPERATE and MAINTAIN (OM)
+    specialityArea: Knowledge Management (KMG)
+    workRole: Knowledge Manager
+    description: Responsible for the management and administration of processes and tools that enable the organization to identify, document, and access intellectual capital and information content.
+    workRoleID: OM-KMG-001
+    opmCode: 431
+-
+    domain: OPERATE and MAINTAIN (OM)
+    specialityArea: Customer Service and Technical Support (STS)
+    workRole: Technical Support Specialist
+    description: Provides technical support to customers who need assistance utilizing client-level hardware and software in accordance with established or approved organizational process components (i.e., Master Incident Management Plan, when applicable).
+    workRoleID: OM-STS-001
+    opmCode: 411
+-
+    domain: OPERATE and MAINTAIN (OM)
+    specialityArea: Network Services (NET)
+    workRole: Network Operations Specialist
+    description: Plans, implements, and operates network services/systems, to include hardware and virtual environments.
+    workRoleID: OM-NET-001
+    opmCode: 441
+-
+    domain: OPERATE and MAINTAIN (OM)
+    specialityArea: Systems Administration (ADM)
+    workRole: System Administrator
+    description: Responsible for setting up and maintaining a system or specific components of a system (e.g. for example, installing, configuring, and updating hardware and software; establishing and managing user accounts; overseeing or conducting backup and recovery tasks; implementing operational and technical security controls; and adhering to organizational security policies and procedures).
+    workRoleID: OM-ADM-001
+    opmCode: 451
+-
+    domain: OPERATE and MAINTAIN (OM)
+    specialityArea: Systems Analysis (ANA)
+    workRole: Systems Security Analyst
+    description: Responsible for the analysis and development of the integration, testing, operations, and maintenance of systems security.
+    workRoleID: OM-ANA-001
+    opmCode: 461
+-
+    domain: OVERSEE and GOVERN (OV)
+    specialityArea: Legal Advice and Advocacy (LGA)
+    workRole: Cyber Legal Advisor 
+    description: Provides legal advice and recommendations on relevant topics related to cyber law. 
+    workRoleID: OV-LGA-001
+    opmCode: 731
+-
+    domain: OVERSEE and GOVERN (OV)
+    specialityArea: Legal Advice and Advocacy (LGA)
+    workRole: Privacy Officer/Privacy Compliance Manager
+    description: Develops and oversees privacy compliance program and privacy program staff, supporting privacy compliance, governance/policy, and incident response needs of privacy and security executives and their teams.
+    workRoleID:  OV-LGA-002
+    opmCode: 732
+-
+    domain: OVERSEE and GOVERN (OV)
+    specialityArea: Training, Education, and Awareness (TEA)
+    workRole: Cyber Instructional Curriculum Developer 
+    description: Develops, plans, coordinates, and evaluates cyber training/education courses, methods, and techniques based on instructional needs.
+    workRoleID: OV-TEA-001
+    opmCode: 711
+-
+    domain: OVERSEE and GOVERN (OV)
+    specialityArea: Training, Education, and Awareness (TEA)
+    workRole: Cyber Instructor 
+    description: Develops and conducts training or education of personnel within cyber domain. 
+    workRoleID: OV-TEA-002
+    opmCode: 712
+-
+    domain: OVERSEE and GOVERN (OV)
+    specialityArea: Cybersecurity Management (MGT)
+    workRole: Information Systems Security Manager
+    description: Responsible for the cybersecurity of a program, organization, system, or enclave. 
+    workRoleID: OV-MGT-001
+    opmCode: 722
+-
+    domain: OVERSEE and GOVERN (OV)
+    specialityArea: Cybersecurity Management (MGT)
+    workRole: Communications Security (COMSEC) Manager
+    description: Individual who manages the Communications Security (COMSEC) resources of an organization (CNSSI  4009) or key custodian for a Crypto Key Management System (CKMS).
+    workRoleID: OV-MGT-002
+    opmCode: 723
+-
+    domain: OVERSEE and GOVERN (OV)
+    specialityArea: Strategic Planning and Policy (SPP)
+    workRole: Cyber Workforce Developer and Manager 
+    description: Develops cyberspace workforce plans, strategies, and guidance to support cyberspace workforce manpower, personnel, training and education requirements and to address changes to cyberspace policy, doctrine, materiel, force structure, and education and training requirements. 
+    workRoleID: OV-SPP-001
+    opmCode: 751
+-
+    domain: OVERSEE and GOVERN (OV)
+    specialityArea: Strategic Planning and Policy (SPP)
+    workRole: Cyber Policy and Strategy Planner
+    description: Develops and maintains cybersecurity plans, strategy, and policy to support and align with organizational cybersecurity initiatives and regulatory compliance.
+    workRoleID: OV-SPP-002
+    opmCode: 752
+-
+    domain: OVERSEE and GOVERN (OV)
+    specialityArea: Executive Cyber Leadership (EXL)
+    workRole: Executive Cyber Leadership 
+    description: 'Executes decision-making authorities and establishes vision and direction for an organization''s cyber and cyber-related resources and/or operations.'
+    workRoleID: OV-EXL-001
+    opmCode: 901
+-
+    domain: OVERSEE and GOVERN (OV)
+    specialityArea: Program/Project Management (PMA) and Acquisition
+    workRole: Program Manager 
+    description: Leads, coordinates, communicates, integrates, and is accountable for the overall success of the program, ensuring alignment with agency or enterprise priorities.
+    workRoleID: OV-PMA-001
+    opmCode: 801
+-
+    domain: OVERSEE and GOVERN (OV)
+    specialityArea: Program/Project Management (PMA) and Acquisition
+    workRole: IT Project Manager
+    description: Directly manages information technology projects.
+    workRoleID: OV-PMA-002
+    opmCode: 802
+-
+    domain: OVERSEE and GOVERN (OV)
+    specialityArea: Program/Project Management (PMA) and Acquisition
+    workRole: Product Support Manager
+    description: Manages the package of support functions required to field and maintain the readiness and operational capability of systems and components. 
+    workRoleID: OV-PMA-003
+    opmCode: 803
+-
+    domain: OVERSEE and GOVERN (OV)
+    specialityArea: Program/Project Management (PMA) and Acquisition
+    workRole: IT Investment/Portfolio Manager
+    description: Manages a portfolio of IT investments that align with the overall needs of mission and enterprise priorities.
+    workRoleID: OV-PMA-004
+    opmCode: 804
+-
+    domain: OVERSEE and GOVERN (OV)
+    specialityArea: Program/Project Management (PMA) and Acquisition
+    workRole: IT Program Auditor
+    description: Conducts evaluations of an IT program or its individual components to determine compliance with published standards. 
+    workRoleID: OV-PMA-005
+    opmCode: 805
+-
+    domain: PROTECT and DEFEND (PR)
+    specialityArea: Cybersecurity Defense Analysis (CDA)
+    workRole: Cyber Defense Analyst
+    description: Uses data collected from a variety of cyber defense tools (e.g., IDS alerts, firewalls, network traffic logs) to analyze events that occur within their environments for the purposes of mitigating threats.
+    workRoleID:  PR-CDA-001
+    opmCode: 511
+-
+    domain: PROTECT and DEFEND (PR)
+    specialityArea: Cybersecurity Defense Infrastructure Support (INF)
+    workRole: Cyber Defense Infrastructure Support Specialist
+    description: Tests, implements, deploys, maintains, and administers the infrastructure hardware and software. 
+    workRoleID:  PR-INF-001
+    opmCode: 521
+-
+    domain: PROTECT and DEFEND (PR)
+    specialityArea: Incident Response (CIR)
+    workRole: Cyber Defense Incident Responder 
+    description: Investigates, analyzes, and responds to cyber incidents within the network environment or enclave.
+    workRoleID: PR-CIR-001
+    opmCode: 531
+-
+    domain: PROTECT and DEFEND (PR)
+    specialityArea: Vulnerability Assessment and Management (VAM)
+    workRole: Vulnerability Assessment Analyst
+    description: Performs assessments of systems and networks within the network environment or enclave and identifies where those systems/networks deviate from acceptable configurations, enclave policy, or local policy. Measures effectiveness of defense-in-depth architecture against known vulnerabilities.
+    workRoleID: PR-VAM-001
+    opmCode: 541
+-
+    domain: ANALYZE (AN)
+    specialityArea: Threat Analysis (TWA)
+    workRole: Threat/Warning Analyst
+    description: Develops cyber indicators to maintain awareness of the status of the highly dynamic operating environment. Collects, processes, analyzes, and disseminates cyber threat/warning assessments.
+    workRoleID: AN-TWA-001
+    opmCode: 141
+-
+    domain: ANALYZE (AN)
+    specialityArea: Exploitation Analysis (EXP)
+    workRole: Exploitation Analyst
+    description: Collaborates to identify access and collection gaps that can be satisfied through cyber collection and/or preparation activities. Leverages all authorized resources and analytic techniques to penetrate targeted networks.
+    workRoleID: AN-EXP-001
+    opmCode: 121
+-
+    domain: ANALYZE (AN)
+    specialityArea: All-Source Analysis (ASA)
+    workRole: All-Source Analyst
+    description: Analyzes data/information from one or multiple sources to conduct preparation of the environment, respond to requests for information, and submit intelligence collection and production requirements in support of planning and operations.
+    workRoleID:  AN-ASA-001
+    opmCode: 111
+-
+    domain: ANALYZE (AN)
+    specialityArea: All-Source Analysis (ASA)
+    workRole: Mission Assessment Specialist
+    description: Develops assessment plans and measures of performance/effectiveness. Conducts strategic and operational effectiveness assessments as required for cyber events. Determines whether systems performed as expected and provides input to the determination of operational effectiveness.
+    workRoleID: AN-ASA-002
+    opmCode: 112
+-
+    domain: ANALYZE (AN)
+    specialityArea: All-Source Analysis (ASA)
+    workRole: Target Developer
+    description: Performs target system analysis, builds and/or maintains electronic target folders to include inputs from environment preparation, and/or internal or external intelligence sources. Coordinates with partner target activities and intelligence organizations, and presents candidate targets for vetting and validation.
+    workRoleID: AN-TGT-001
+    opmCode: 131
+-
+    domain: ANALYZE (AN)
+    specialityArea: All-Source Analysis (ASA)
+    workRole: Target Network Analyst
+    description: Conducts advanced analysis of collection and open-source data to ensure target continuity; to profile targets and their activities; and develop techniques to gain more target information. Determines how targets communicate, move, operate and live based on knowledge of target technologies, digital networks, and the applications on them.
+    workRoleID: AN-TGT-002
+    opmCode: 132
+-
+    domain: ANALYZE (AN)
+    specialityArea: Language Analysis (LNG)
+    workRole: Multi-Disciplined Language Analyst
+    description: Applies language and culture expertise with target/threat and technical knowledge to process, analyze, and/or disseminate intelligence information derived from language, voice and/or graphic material. Creates and maintains language-specific databases and working aids to support cyber action execution and ensure critical knowledge sharing. Provides subject matter expertise in foreign language-intensive or interdisciplinary projects.  
+    workRoleID: AN-LNG-001
+    opmCode: 151
+-
+    domain: COLLECT and OPERATE (CO)
+    specialityArea: Collection Operations (CLO)
+    workRole: All Source-Collection Manager
+    description: 'Identifies collection authorities and environment; incorporates priority information requirements into collection management; develops concepts to meet leadership''s intent. Determines capabilities of available collection assets, identifies new collection capabilities; and constructs and disseminates collection plans.  Monitors execution of tasked collection to ensure effective execution of the collection plan.'
+    workRoleID: CO-CLO-001
+    opmCode: 311
+-
+    domain: COLLECT and OPERATE (CO)
+    specialityArea: Collection Operations (CLO)
+    workRole: All Source-Collection Requirements Manager
+    description: Evaluates collection operations and develops effects-based collection requirements strategies using available sources and methods to improve collection. Develops, processes, validates, and coordinates submission of collection requirements. Evaluates performance of collection assets and collection operations.
+    workRoleID: CO-CLO-002
+    opmCode: 312
+-
+    domain: COLLECT and OPERATE (CO)
+    specialityArea: Cyber Operational Planning (OPL)
+    workRole: Cyber Intel Planner
+    description: Develops detailed intelligence plans to satisfy cyber operations requirements. Collaborates with cyber operations planners to identify, validate, and levy requirements for collection and analysis. Participates in targeting selection, validation, synchronization, and execution of cyber actions. Synchronizes intelligence activities to support organization objectives in cyberspace.
+    workRoleID: CO-OPL-001
+    opmCode: 331
+-
+    domain: COLLECT and OPERATE (CO)
+    specialityArea: Cyber Operational Planning (OPL)
+    workRole: Cyber Ops Planner
+    description: Develops detailed plans for the conduct or support of the applicable range of cyber operations through collaboration with other planners, operators and/or analysts. Participates in targeting selection, validation, synchronization, and enables integration during the execution of cyber actions.
+    workRoleID: CO-OPL-002
+    opmCode: 332
+-
+    domain: COLLECT and OPERATE (CO)
+    specialityArea: Cyber Operational Planning (OPL)
+    workRole: Partner Integration Planner
+    description: Works to advance cooperation across organizational or national borders between cyber operations partners. Aids the integration of partner cyber teams by providing guidance, resources, and collaboration to develop best practices and facilitate organizational support for achieving objectives in integrated cyber actions.
+    workRoleID: CO-OPL-003
+    opmCode: 333
+-
+    domain: COLLECT and OPERATE (CO)
+    specialityArea: Cyber Operations (OPS)
+    workRole: Cyber Operator
+    description: Conducts collection, processing, and/or geolocation of systems to exploit, locate, and/or track targets of interest. Performs network navigation, tactical forensic analysis, and, when directed, executes on-net operations.
+    workRoleID: CO-OPS-001
+    opmCode: 321
+-
+    domain: INVESTIGATE (IN)
+    specialityArea: Cyber Investigation (INV)
+    workRole: Cyber Crime Investigator
+    description: Identifies, collects, examines, and preserves evidence using controlled and documented analytical and investigative techniques.
+    workRoleID: IN-INV-001
+    opmCode: 221
+-
+    domain: INVESTIGATE (IN)
+    specialityArea: Digital Forensics (FOR)
+    workRole: Law Enforcement /CounterIntelligence Forensics Analyst
+    description: Conducts detailed investigations on computer-based crimes establishing documentary or physical evidence, to include digital media and logs associated with cyber intrusion incidents.
+    workRoleID: IN-FOR-001
+    opmCode: 211
+-
+    domain: INVESTIGATE (IN)
+    specialityArea: Digital Forensics (FOR)
+    workRole: Cyber Defense Forensics Analyst
+    description: Analyzes digital evidence and investigates computer security incidents to derive useful information in support of system/network vulnerability mitigation.
+    workRoleID: IN-FOR-002
+    opmCode: 212

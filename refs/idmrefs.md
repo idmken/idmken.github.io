@@ -29,7 +29,7 @@ Sources, articles or training to increase our Identity and Access Management kno
 - [Selecting Secure Multi-factor Authentication Solutions By: NSA (25 min read)](https://media.defense.gov/2020/Sep/22/2002502665/-1/-1/0/CSI_MULTIFACTOR_AUTHENTICATION_SOLUTIONS_UOO17091520.PDF){:target="_blank"}{:rel="noopener noreferrer"} ***Good overview on authenticators and how some modern solutions stack up to NIST 800-63-3B requirements.***
 
 ### Articles Related to Privilege Escalation
--[Azure Privilege Escalation via Service Principal Abuse via SpectreOps (10 min read)](https://posts.specterops.io/azure-privilege-escalation-via-service-principal-abuse-210ae2be2a5){:target="_blank"}{:rel="noopener noreferrer"} - Explains how privilege escalation can work in Azure.
+- [Azure Privilege Escalation via Service Principal Abuse via SpectorOps (10 min read)](https://posts.specterops.io/azure-privilege-escalation-via-service-principal-abuse-210ae2be2a5){:target="_blank"}{:rel="noopener noreferrer"} - Explains how privilege escalation can work in Azure.
 
 ### Articles Related to Federation Attacks and Golden SAML
 - [Detecting Abuse of Authentication Mechanisms By: National Security Agency](https://media.defense.gov/2020/Dec/17/2002554125/-1/-1/0/AUTHENTICATION_MECHANISMS_CSA_U_OO_198854_20.PDF){:target="_blank"}{:rel="noopener noreferrer"} ***Government resource specific to AD FS and Azure.***

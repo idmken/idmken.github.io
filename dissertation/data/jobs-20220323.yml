@@ -1,0 +1,131 @@
+## job search
+---
+
+- source: 
+  title: 
+  org: 
+  division: 
+  openDate: 
+  closeDate: 
+  grade: 
+  location: 
+  appointment: 
+  service: 
+  jobFamily: 
+  supervisory: 
+  clearance: 
+  announcement: 
+  controlNumber: 
+  summary: 
+  duties: 
+
+- source: https://www.usajobs.gov/Job/631335700
+  title: It Specialist (Infosec)
+  org: Department of Veterans Affairs
+  division: Immediate Office of the Assistant Secretary for Information and Technology, Office of Information & Technology, Office of Information Security, Office of Cyber Security
+  openDate: 1/18/2022
+  closeDate: 1/24/2022
+  grade: GS-14
+  location: Washington, DC
+  appointment: Permanent
+  service: Competitive
+  jobFamily: 2210
+  supervisory: no
+  clearance: Other
+  announcement: CARX-22-11350699-KAr-DH
+  controlNumber: 631335700
+  ncwfCode: 461
+  pd: PD15314A
+  financialDisclosure: no
+  summary: This position is located in the Identity and Access Management Business Program Management Office (1AM BPMO), Office of Information Security (OIS) . The purpose of the position is to support 1AM BPMO in the creation of a comprehensive enterprise identity management infrastructure. The incumbent of this position serves within the Information Technology Specialist, Identity and Access Management Business Program Management Office (1AM BPMO).
+  duties: This position is primarily aligned to the following NICE Cybersecurity Workforce Framework work roles. NCWF Code 461 Category - System Security Analyst. Responsible for the analysis and development of the integration, testing, operations, and maintenance of systems security. Provides leadership and guidance on tasks/projects and to coworkers/project teams, maintains project budgets and schedules, and may be called upon to lead a task/project team to successful conclusion, while providing subject matter expertise to other offices in the VA, and recommending methods to improve VA's 1AM enterprise effort Responsible for representing the division on high-level task forces and committees that may address resources, enterprise architecture, incident response, information security, operations, risk management and other issues impacting successful deployment of VA 's 1AM management program. Acquire and manage the necessary resources, including leadership support, financial resources, and key security personnel, to support information technology (IT) security goals and objectives and reduce overall organizational risk. Advise senior management (e.g., Chief Information Officer [CIO]) on risk levels, security posture and cost/benefit analysis of information security programs, policies, processes, systems, and elements. Ensure that security improvement actions are evaluated, validated, and implemented as required.
+
+- source: https://www.usajobs.gov/job/634053900
+  title: Supervisory IT Specialist (INFOSEC)
+  org: Department of the Treasury
+  division: Treasury, Departmental Offices
+  openDate: 1/31/2022
+  closeDate: 02/14/2022
+  grade: GS-15
+  location: Washington, DC
+  appointment: permanent
+  service: competitive
+  jobFamily: 2210
+  supervisory: yes
+  clearance: Top Secret
+  announcement: 22-DO-242-DH
+  controlNumber: 634053900
+  summary: This position is located in the Department of the Treasury, Assistant Secretary for Management CFO, DAS Information Systems & CIO, ACIO Infrastructure & Operations (IO). This position serves as a subject matter expert on matters pertaining to information systems security engineering, network security engineering, and telecommunications security engineering, Identity, Credential and Access Management (ICAM) security engineering, and cloud infrastructure security engineering.
+  duties: Serve as a subject matter expert on information technology issues related to security for telecommunications, data, voice, and video. Serve as a subject matter expert for security engineering and architecture in enterprise implementations of information technology. Manage a staff of security specialists performing duties on multiple projects and programs within the Department, including secure baselines, data metrics, change management, cyber security training for users and responders, incident response, documentation, security operations, audit support, log management, Federal Information Security Modernization Act (FISMA) compliance, penetration testing and intranet presence. Identify and analyze problems; use sound reasoning to arrive at conclusions; find alternative solutions to complex problems; distinguish between relevant and irrelevant information to make logical judgments.
+
+- source: https://www.usajobs.gov/Job/566950000
+  title: IT Specialist
+  org: General Services Administration
+  division: Office of Government-wide Policy
+  openDate: 04/29/2020
+  closeDate: 05/05/2020
+  grade: GS-15
+  location: Washington, DC
+  appointment: permanent
+  service: competitive
+  jobFamily: 2210
+  supervisory: no
+  clearance: Other
+  announcement: 20STFA092MBDE
+  controlNumber: 566950000
+  summary: As a IT Specialist, you will serves as the senior information technology (IT), security expert for identity, credential, and access management within the Office of Government-wide Policy and directs the coordination of a wide range of major policy initiatives associated with Federal Identity, Credential, and Access Management (FICAM) and related IT security policy objectives for the Federal government.
+  duties: Leads government-wide efforts to identify needed areas of policy and implementation improvement to ensure that Federal IT systems and other resources are being managed in a secure, reliable, and cost-effective manner consistent with Federal Identity, Credential, and Access Management (FICAM) policy goals. Provides IT security leadership, expert technical assistance, and authoritative advice on interpreting IT security policies and practices relating to the Federal Information Security Management Act (FISMA), OMB Circulars, National Institute of Standards and Technology (NIST) guidelines and requirements, and other pertinent Federal IT security standards and requirements. Formulates IT security policy recommendations for FICAM-related initiatives to plan, develop, and implement innovative Government-wide identity management, credentialing, and access management policies, technical implementation guidance and best practices across the Federal government. Leads and/or participates in interagency information security committees and councils and is recognized as a technical IT security expert and authority in the identity and access management and related areas of IT security.
+
+- source: https://www.usajobs.gov/job/644479400
+  title: IT Specialist (System Administration)
+  org: Federal Aviation Administration
+  division: Office of Information & Technology,Infrastructure & Operations Services, Directory Services, AIF-310
+  openDate: 3/23/2022
+  closeDate: 4/12/2022
+  grade: FV J
+  location: Remote
+  appointment: Permanent
+  service: Excepted
+  jobFamily: 2210
+  supervisory: no
+  clearance: Other
+  announcement: ACT-AIT-22-AIF310-77668
+  controlNumber: 644479400
+  summary: Due to the Pandemic and individual states with different phases of reopening, the selectee’s report date to the official duty station/facility may be delayed until such time as employees are allowed to report to the workplace. The person selected may telework up to the maximum extent possible, up to and including full time, until it is determined by state and Federal officials that employees are allowed to report to the workplace where this position is located, on a regular basis.
+  duties: The incumbent of this position will serve as an Information Technology Specialist in the AIT Infrastructure & Operations (AIF) Service Division and will report to the Manager of the Directory Services Branch. He/She will use various Microsoft Active Directory (AD) administration tools, Windows Servers management and monitoring tools, scripts, and Azure Cloud administration consoles to manage, troubleshoot, and monitor Microsoft Windows Active Directory (AD), Domain Controllers (DC), Windows member Servers and Cloud Environments. He/She will be the Subject Matter Expert (SME) in Microsoft Windows Server (2016 or newer) AD administration, Domain Name System (DNS),Dynamic Host Configuration Protocol (DHCP), Distributed File System (DFS), Group Policy Objects (GPO), Azure Active Directory Connect (AADC), Active Directory Federation Services (ADFS), Web Application Proxy (WAP),Public Key Infrastructure (PKI), Multi Factor Authentication (MFA) and System Center Operations Manager (SCOM)administration. This position requires an understanding of PowerShell scripting, networking, firewalls, security protocols, server backups, server patching and windows server security scan remediation. This position will also research and recommend new products and technologies as they become available. This position will work with AIF and other Line of Business (LOB) staff to manage on premise and in cloud Microsoft Identity Providers to provide uninterrupted authentication to all customers within the FAA. Communication skills in small and medium sized groups are required to gather required information and brief out on results. The ability to ask the right questions to better understand processes and requirements from customers is a key skill for this position. The incumbent will need to effectively communicate and collaborate with peers and stakeholders to facilitate a positive customer experience.
+
+- source: https://www.usajobs.gov/job/640250700
+  title: IT Cybersecurity Specialist (PLCYPLN/INFOSEC)
+  org: Department of Homeland Security
+  division: U.S. Coast Guard
+  openDate: 3/3/2022
+  closeDate: 3/16/2022
+  grade: GS-14
+  location: Alexandria, VA
+  appointment: Permanent
+  service: Competitive
+  jobFamily: 2210
+  supervisory: no
+  clearance: Secret
+  announcement: 22-1746-HQ-EP-DHA
+  controlNumber: 640250700
+  summary: This position is located in the Department of Homeland Security (DHS), United States Coast Guard (USCG), Command, Control, Communications, Computers, Cyber and Intelligence Service Center (C5ISC), Infrastructure Services Division (ISD), Infrastructure Management Services Branch (IMS), in Alexandria, VA.
+  duties: You will serve as a IT Cybersecurity Specialist (PLCYPLN/INFOSEC), responsible for directly managing major information technology projects. Being a Coast Guard civilian makes you a valuable member of the Coast Guard team.  Typical work assignments include Providing advice on project costs, design concepts, or design changes. Review or conduct audits of major Information Technology (IT) programs and projects. Evaluating the effectiveness of procurement function in addressing information security requirements and supply chain risks through procurement activities and recommend improvements. Reviewing service performance reports identifying any significant issues and variances, initiating and ensuring that all outstanding issues are followed up.Working with other service managers and product owners to balance and prioritize services to meet overall customer requirements, constraints, and objectives. Developing methods to monitor and measure risk, compliance, and assurance efforts. Developing supply chain, system network, performance, and cybersecurity requirements are included in contract language and delivered. Leading and overseeing budget, staffing, and contracting. Routinely exercising independent judgement and discretion when obtaining and leading confidential advance information of management's position with regard to IT cyber contract negotiations and investments.
+
+- source: https://www.usajobs.gov/job/642957800
+  title: Information Technology Specialist
+  org: Department of Homeland Security
+  division: DHS Headquarters, Office of Biometric Identity Management (OBIM)
+  openDate: 3/16/2022
+  closeDate: 3/22/2022
+  grade: GS-14
+  location: Arlington, VA
+  appointment: Permanent
+  service: Competitive
+  jobFamily: 2210
+  supervisory: no
+  clearance: Secret
+  announcement: DE-11378509-22-OBIM
+  controlNumber: 642957800
+  summary: This position is located in the Department of Homeland Security (DHS), DHS Headquarters Office of Biometric Identity Management, Information Technology Division. The primary purpose of this position is to conduct engineering projects and studies which involve extensive analysis of user requirements and applicable system software and computer equipment..
+  duties: As a Information Technology Specialist GS 2210 14, your typical work assignments may include. Serve as a subject matter expert on IT and computer science perspectives and guides new approaches related to cloud computing and related open-source technologies. Plan, coordinate and manage assigned engineer tasks for any of the Systems Engineering Life Cycle (SELC) phases of the lifecycle for designated systems, in accordance with accepted Systems Engineering and Cyber-Security practices. Serve as lead planning engineer for OBIM CLOUD ASSETS for projecting cloud resource requirements for OBIM. Support or lead project teams to plan, design, install, integrate, interface, monitor, sustain, and modernize IT systems and capabilities, whether hosted in a Cloud environment or sustained as a legacy system in an on-premise hosting solution. Lead committees, project teams, and Source Selection Evaluation Boards (SSEBs) to participate in developing standards, coordinating and resolving mutual problems, integrating solutions, procuring technologies, and other IT-related activities.

@@ -5,9 +5,10 @@ Sources, articles or training to increase our Identity and Access Management kno
 ## In the Queue
 - [ABAC on AWS Tutorial By: AWS](https://docs.aws.amazon.com/IAM/latest/UserGuide/tutorial_attribute-based-access-control.html){:target="_blank"}{:rel="noopener noreferrer"} ***Want to try this out and see if you can do the same with tags on Azure.***
 - [Chesney on Cybersecurity Law, Policy, and Institutions v3.0 - March 2020](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3547103){:target="_blank"}{:rel="noopener noreferrer"} ***Comprehensive eCasebook on the interwined nature of the legal and policy questions associated with cybersecurity.***
-- [BloodHound: Six Degrees of Domain Admin **Now in Azure**](https://bloodhound.readthedocs.io/en/latest/index.html#bloodhound-six-degrees-of-domain-admin){:target="_blank"}{:rel="noopener noreferrer"} ***This is a cool tool to identify privilege attack paths in Active Directory and now in Azure too.***
+- [BloodHound: Six Degrees of Domain Admin Now in Azure](https://bloodhound.readthedocs.io/en/latest/index.html#bloodhound-six-degrees-of-domain-admin){:target="_blank"}{:rel="noopener noreferrer"} ***This is a cool tool to identify privilege attack paths in Active Directory and now in Azure too.***
 
 ## Webinars and Videos
+- [Modern Phishing vs Common Phone and OTP Authentication via Yubico (9 min watch](https://www.youtube.com/watch?v=Ubpsledn4Tg){:target="_blank"}{:rel="noopener noreferrer"} ***Quick demonstration of how OTP and Push Notification authentications are not phishing-resistant.***
 - [How to architect an identity management strategy in AWS via SANS Institute (1 hour watch)](https://pages.awscloud.com/awsmp-h2-sec-digital-workspace-iam-ty.html){:target="_blank"}{:rel="noopener noreferrer"} ***Great one hour webinar on best identity practices from AWS Well-Architected Framework with #Okta and #0Auth examples at the end.***
 
 ## Articles
@@ -26,6 +27,9 @@ Sources, articles or training to increase our Identity and Access Management kno
 - [ForgeRock and NIST Special Publication 800-63-3 By: ForgeRock (25 min read)](https://www.forgerock.com/resources/whitepaper/forgerock-nist-sp-800-63-3){:target="_blank"}{:rel="noopener noreferrer"} **Includes how to achieve the infamous FAL3 using SAML, OAuth 2.0, or OIDC.**
 - [Achieving National Institute of Standards and Technology Authenticator Assurance Levels with the Microsoft Identity Platform By: Microsoft (25 min Read)](https://azure.microsoft.com/mediahandler/files/resourcefiles/microsoft-nist/Achieving%20NIST%20Authentication%20Assurance%20Levels%20with%20the%20Microsoft%20Identity%20Platform.pdf){:target="_blank"}{:rel="noopener noreferrer"} **How to achieve NIST 800-63-3 levels using Azure AD.**
 - [Selecting Secure Multi-factor Authentication Solutions By: NSA (25 min read)](https://media.defense.gov/2020/Sep/22/2002502665/-1/-1/0/CSI_MULTIFACTOR_AUTHENTICATION_SOLUTIONS_UOO17091520.PDF){:target="_blank"}{:rel="noopener noreferrer"} ***Good overview on authenticators and how some modern solutions stack up to NIST 800-63-3B requirements.***
+
+### Articles Related to Privilege Escalation
+- [Azure Privilege Escalation via Service Principal Abuse via SpectorOps (10 min read)](https://posts.specterops.io/azure-privilege-escalation-via-service-principal-abuse-210ae2be2a5){:target="_blank"}{:rel="noopener noreferrer"} - Explains how privilege escalation can work in Azure.
 
 ### Articles Related to Federation Attacks and Golden SAML
 - [Detecting Abuse of Authentication Mechanisms By: National Security Agency](https://media.defense.gov/2020/Dec/17/2002554125/-1/-1/0/AUTHENTICATION_MECHANISMS_CSA_U_OO_198854_20.PDF){:target="_blank"}{:rel="noopener noreferrer"} ***Government resource specific to AD FS and Azure.***

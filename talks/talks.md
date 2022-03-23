@@ -2,11 +2,16 @@
 
 Previous and upcoming speaking engagements with the presentation if I can share it. Reach out if you're interested in a topic.
 
+# 2022
+| Session Title or Role | Event Name | Format | Location | Date |
+| --------------------- | ---------- | :----: | :------: | :--: |
+| [Panel: Zero Trust and the Federal Identity-Centric Security Roadmap](2112-atarc.md) | ATARC’s Mission Critical Identity Security Virtual Summit | Panelist | Virtual Summit |  February 2022 | 
+
 # 2021
 
 | Session Title or Role | Event Name | Format | Location | Date |
 | --------------------- | ---------- | :----: | :------: | :--: |
-| [Working Together for Privacy Protection: The Importance of Identity Management](2112-atarc.md) | ATARC/Ping Identity Event | Panelist | Webinar | December 2021 |
+| [Working Together for Privacy Protection: The Importance of Identity Management](2112-atarc.md) | ATARC/Ping Identity Webinar | Panelist | Webinar | December 2021 |
 | [The Adventure Map: Implementing Zero Trust](2111-actiac.md) | 2021 ACT-IAC Imagination | Panelist | Hybrid Conference (Hershey, PA) | November 2021 | 
 | [International Use Cases for Digital Identity](2110-keio.md) | 11th Keio International Cybersecurity Symposium | Moderator | Virtual Symposium (Tokyo, Japan) | October 2021|
 | [President Biden’s Cybersecurity Executive Order 14028: Where are we now?](2109-Yubico.md) | Yubico BrightTalk | Panelist | Webinar | September 2021 |

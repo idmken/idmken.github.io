@@ -16,8 +16,66 @@
   clearance: 
   announcement: 
   controlNumber: 
+  ncwfCode: 
+  pd: 
   summary: 
   duties: 
+  specialized:
+  
+- source: https://www.usajobs.gov/job/649524600
+  title: Supervisory IT Specialist (Applications Software)
+  org: Department of Commerce
+  division: Applications System Division, National Institute of Standards and Technology
+  openDate: 04/19/0222
+  closeDate: 05/03/2022
+  grade: ZP-4
+  location: Gaithersburg, MD
+  appointment: Permanent
+  service: Competitive
+  jobFamily: 2210
+  supervisory: Yes
+  clearance: N/A
+  announcement: OISM-183-22-11463316
+  controlNumber: 649524600
+  summary: NIST works with industry and science to advance innovation and improve quality of life. We're looking for a Supervisory IT Specialist (Applications Software) to join our team!
+  duties: Working as a Supervisory Information Technology Specialist (Applications Software), you will lead a team of six employees using rapid application development methods to plan, design, develop, implement, improve, administer, and maintain secure NIST administrative and scientific information and computing systems, with an emphasis on: reporting and data visualization tools; query and update databases (Oracle, SQL Server, MySQL) using Structured Query Language (SQL); personal identity verification (see FIPS 201); management of personnel and organization data; information technology security policies and procedures. Research and recommend secure commercial off-the-shelf applications; assist, advise, and train NIST staff on these systems.
+  specialized: In addition to the basic requirements, applicants must have one year (52 weeks) of specialized experience equivalents to at least the GS-12 level (ZP-III at NIST). Specialized experience is defined as experience: Query Language (SQL); managing personal identity verification data (FIPS 201); developing system security plans for multiple applications (NIST Special Publication 800-53); deploying applications via continuous integration/continuous delivery pipelines involving some or all of these software tools: Apache, Tomcat, WebLogic; coding experience with Unix shell scripts, Windows batch and PowerShell scripts, Java, Python; experience with cloud-based technologies, including integration with services from providers such as Amazon Web Services or Azure Cloud Platform; experience with various tools utilized in the DevOps ecosystem such as Terraform, Docker, Ansible, GitLab, GitHub, Kubernetes.
+
+- source: https://www.usajobs.gov/job/648380800
+  title: IT Cybersecurity Specialist
+  org: Department of the Interior
+  division: Office of the Chief Information Officer
+  openDate: 04/12/2022
+  closeDate: 04/25/2022
+  grade: GS-13
+  location: Washington, DC & Reston, VA
+  appointment: Permanent
+  service: Competitive
+  jobFamily: 2210 
+  supervisory: no
+  clearance: SCI
+  announcement: OCIO-22-DH-11458890JJ
+  controlNumber: 648380800
+  summary: This position is part of the Office of the Chief Information Officer, Office of the Secretary of Interior. The incumbent will be responsible for developing plans, overseeing their execution, and acting in an cybersecurity advisor role during project execution and implementation.
+  duties: Apply security principles to common structures, processes and techniques of IT system development, operations and maintenance; conduct analysis and interpretation of IT security principles and directives. Execute Identity, Credential and Access Management (ICAM) activities in line with ICAM vision and goals and manage DOI?s obligations in relation to the CDM IAM tasks. Have a working understanding of service provider managed or cloud computing technologies and the application of security controls within them. Experience interpreting government wide information security guidance and the application of information in establishing standards, policies, and guidelines to ensure appropriate implementation, and compatibility. Oversee and manage multiple IT projects that required a range of knowledge of computer requirements and techniques. Engage with technical experts from the Federal agencies and the user community to identify and solve identity, credential, and access management challenges. Provide technical expertise on the application and enabling of ICAM goals. Coordinate with the government sponsors to identify cybersecurity requirements, gaps, and design alternatives. Identify how ICAM can enable secure information access and sharing, and provide guidance on how to make best use of currently available tools. Assess ICAM designs/implementation on their ability to support functional and security requirements. Work closely with security assessment teams to ensure compliance with ICAM security standards.
+
+- source: https://www.usajobs.gov/job/648930700
+  title: Information Technology Specialist (SYSTEMS ANALYSIS)
+  org: Department of State
+  division: Information Integrity Branch, Systems Integrity Division, Office of Information Technology Infrastructure, Deputy Chief Information Officer for Foreign Operations, Bureau of Information Resource Management (IRM/FO/ITI/SI/IIB)
+  openDate: 04/15/2022
+  closeDate: 04/28/2022
+  grade: GS-13
+  location: Washington, DC
+  appointment: Permanent
+  service: Competitive
+  jobFamily: 2210
+  supervisory: no
+  clearance: Top Secret
+  announcement: DFAS/IRM-2022-0036
+  controlNumber: 648930700
+  summary:  This position is located in the Information Integrity Branch, Systems Integrity Division, Office of Information Technology Infrastructure, Deputy Chief Information Officer for Foreign Operations, Bureau of Information Resource Management (IRM/FO/ITI/SI/IIB), in the U.S. Department of State (DOS). The incumbent functions as an expert Information Technology systems analyst for the Department's Identity, Credential, and Access Management (ICAM) Program. 
+  duties: Serves as primary customer technical advisor responsible for collecting and refining stakeholder requirements for integration with the Departments Identity Credential and Access Management (ICAM) systems. Develops and establishes short-and long-term initiatives in response to operational needs of the organization. Develops and applies technical policies to include standards, protocols, and data administration techniques for integration. Serves as the project manager for large and complex technical implementations pertaining to Identity Credential and Access Management (ICAM) solutions. Evaluates system design, development, integration, proliferation, and post integration objectives.
 
 - source: https://www.usajobs.gov/Job/631335700
   title: It Specialist (Infosec)

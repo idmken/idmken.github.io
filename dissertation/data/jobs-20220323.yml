@@ -22,6 +22,47 @@
   duties: 
   specialized:
   
+- source: https://www.usajobs.gov/job/651631700
+  title: Supervisory Program Manager
+  org: Department of Homeland Security
+  division: Federal Emergency Management Agency, Office of the Chief Security Officer (OCSO), Field Security Division, Identity Credential and Access Management (ICAM) Branch
+  openDate: 4/29/2022
+  closeDate: 5/9/2022
+  grade: GS-13
+  location: Washington, DC
+  appointment: Permanent 
+  service: Competitive
+  jobFamily: 0340
+  supervisory: yes
+  clearance: SCI
+  announcement: FEMA-22-JAS-541046-DE
+  controlNumber: 651631700
+  summary: The ideal candidate for this position has experience in security project management, leading project management personnel, analyzing and implementing Security IT Systems & processes, and has or can obtain a Contracting Officers Representative certification.  This position starts at a salary of $106,823 (GS-13).  Apply for this exciting opportunity to become a member of the Office of the Chief Security Officer team within FEMA.
+  duties: In this position, you will serve as the Supervisory Program Manager in the Identity Credential and Access Management (ICAM) Branch, Field Security Division, Office of the Chief Security Officer (OCSO). Typical assignments include Leading a geographically dispersed team, delegating work based on organizational needs and individual capabilities, and ensuring performance objectives are adequately monitored and refined in accordance with mobile work best practices; Act as a Contracting Officers Representative; Conducting briefings, debrief or briefings and/or give presentations, interpreting findings and training others in security practices and procedures pertaining to HSPD-12 and PACS; Developing project plans, directing preparation of project plans and test plans, coordinating plans with appropriate stakeholders, developing schedules, milestones and funding requirement documentation and long range plans for improving the reliability of strategic approaches under development.
+  specialized: You qualify for this position at the GS-13 level (starting salary $106,823) if you possess the following; One full year of specialized experience equivalent to the next lower grade (GS-12) in the Federal Service.  This experience may have been gained in the federal government, a state or local government, a non-profit organization, the private sector, or as a volunteer; however, your resume must clearly describe at least one year of specialized experience.  Specialized experience for this position includes Developing or providing input to long-range strategic planning documents; Developing performance objectives to meet project baselines or mission requirements; Conducting reviews on action items to improve business processes; Developing security management program trainings or presentations.
+  
+- source: https://www.usajobs.gov/job/650992400
+  title: IT Specialist (SYSADMIN) 
+  org: Department of Homeland Security
+  division: Office of the Chief Security Officer (OCSO), Enterprise Security Services Division (ESSD), Delivery and Infrastructure Services
+  openDate: 04/28/2022
+  closeDate: 05/04/2022
+  grade: GS-13
+  location: Washington, DC
+  appointment: Permanent
+  service: Competitive
+  jobFamily: 22-10
+  supervisory: no
+  clearance: SCI
+  announcement: DE-11431895-22-JC
+  controlNumber: 650992400
+  summary: All DHS-HQ announcements have a 5 business day open period due to the number of applications received. This announcement will be open for 5 business days OR until the first 100 applications have been received, whichever happens first.
+  duties: This position is located in the Department of Homeland Security (DHS), Office of the Chief Security Officer (OCSO), Enterprise Security Services Division (ESSD), Delivery and Infrastructure Services. The mission of ESSD is to provide secure, reliable, and innovative identity and credential management solutions and services to DHS that enable the protection of the Departments personnel and assets, interoperable access to facilities and systems, and serve as the model for other Federal agencies. Delivery and Infrastructure Services (DIS) Portfolio was organized as a result of a growing need to better manage, operate and modernize Information Technology (IT) investments and portfolios supporting the Identity Credential and Access Management (ICAM) program delivery. DIS duty is to deliver products and services supporting OCSO evolving IT landscape and enterprise. DIS Objectives are Manage reliable ESSD Systems utilizing established processes and frameworks, Deliver timely and reliable products and service to the Departments employees, customers and stakeholders, Implement continuous improvement within the Identity Credential and Access Management Program in order to enhance existing capabilities, provide new capabilities, and mitigate risk, Achieve and maintain ICAM program compliance to provide secure and reliable identity and credential management solutions and services. Duties performed include Provide expertise in system administration to plan and coordinate the installation, configuration, maintenance, and upgrade of enterprise management software and related enterprise-level changes to the system infrastructure.
+Set priorities and goals and coordinates with information technology specialists concerning matters of work accomplishments, priorities, and procedures.
+Serve as the technical expert responsible for handling the most difficult assignments, the most complex installations or configurations, and those problems that are beyond the capability of the team members to resolve without senior technical assistance, Perform a wide range of technical services as a systems and network administrator, Review plans and specifications to ensure adequate analysis and justification of requirements, realistic cost estimates, and implementation dates, Analyze performance data and operating conditions to isolate specific shortfalls and develops innovative methods to overcome system weaknesses, Define systems administration standards and procedures governing IT activities, Provide expert technical advice, guidance, and recommendations to management and other technical specialists on critical IT issues, Ensure the integration of IT programs and services, and develop solutions to integration, system security and interoperability issues, Perform a variety of work involving planning and coordinating the installation, testing, operation, troubleshooting, and maintenance of hardware and software systems, Plan and conduct simulations to determine capacity requirements and recommend hardware/software replacements or upgrades to meet current and future requirements, Perform a variety of work involving planning installation, configuration, testing, implementation and management of the systems environment in support of the organizations IT architecture and business needs.
+Perform a variety of work involving applying analytical processes to the planning, design and implementation of new and improved information systems to meet the business requirements of customer organizations.
+  specialized: GS-13: You qualify for the GS-13 grade level if you have one year of specialized experience at the GS-12 grade level in the Federal service (obtained in either the public or private sectors) performing the following Identifying server performance, availability, capacity, or configuration problems in order to make recommendations for system improvement to management; Utilizing configuration management methods and techniques to install and maintain software and hardware; Reviewing IT system plans and specifications to ensure adequate analysis and implementation dates; Testing, troubleshooting, and maintaining server operating systems, hardware and software systems.
+  
 - source: https://www.usajobs.gov/job/649524600
   title: Supervisory IT Specialist (Applications Software)
   org: Department of Commerce

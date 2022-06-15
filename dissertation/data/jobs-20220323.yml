@@ -22,6 +22,46 @@
   duties: 
   specialized:
   
+- source: https://www.usajobs.gov/job/654811700
+  title: Information Technology Specialist (INFOSEC) - Zero Trust
+  org: Securities and Exchange Commission
+  division: Office of Information Technology
+  openDate: 5/18/22
+  closeDate: 5/31/22
+  grade: SK 14
+  location: Washington DC
+  appointment: Permanent
+  service: Competitive
+  jobFamily: 2210
+  supervisory: No
+  clearance: N/A
+  announcement: 22-DH-11500574-AMK
+  controlNumber: 654811700
+  summary: OIT is leading agency efforts to implement a Zero Trust Architecture (ZTA) consistent with the Presidents zero trust strategy for the federal government. We are looking for a Cybersecurity Engineer to identify and assist in the implementation Zero Trust security technologies, tools, and techniques and communicate with a wide variety of audiences, including senior management.
+  duties: If selected, you will join our Security Design and Engineering team responsible for developing solutions and standards to enhance information system and data security. This position requires expertise in security design, authentication, network defenses, data protection, malware defenses, and other security technologies. (1) Help develop the design and execution of the SECs enterprise security architecture, including ZTA and Identity, Credential, and Access Management (ICAM). (2) Act as a SME for Zero Trust Network Access (ZTNA) cybersecurity initiatives including the development and documentation of reference architectures including Secure Access Services Edge (SASE) and Mobile Device Management (MDM). (3) Determine/analyze and delineate security requirements at a level of detail that can be implemented and tested within enterprise architectures, designs, and configurations. (4) Develop, enhance, and verify SEC technical security standards for hardware and software configurations. Automate auditing of system configuration against established standards. (5) Continuously evaluate current security infrastructure for opportunities to improve functionality, usability, and automation. Review proposed new and enhanced architectures, systems, networks, and applications for enterprise security risks or architectural challenges. (6) Participate in integrated project teams to engineer and integrate security into developmental systems and applications and ensure implementation of applicable security controls and configuration baselines. (7) Coordinate with system owners and technical staff to implement security enhancements.
+  specialized: In addition to meeting the basic requirement, applicants must also meet the minimum qualification requirement. SK-14: Applicant must have at least one year of specialized experience equivalent to the GS/SK-13 level. (1) Planning, designing, implementing, and maintaining security infrastructure systems, for example network firewall, vulnerability management system, web proxy, and intrusion detection/prevention systems. (2) Developing and implementing zero trust solutions, roadmaps, and capabilities in alignment with industry standards, including familiarity with NIST 800-207 or the DoD Zero Trust Reference Architecture. (3) Designing solutions to address zero trust pillars particularly in visibility/analytics and automation/orchestration. (4) Implementing modern network infrastructure capabilities (i.e., Secure Access Service Edge (SASE), Software-Defined Wide Area Networks (SD-WAN), Software-Defined Perimeter (SDP), Software-Defined Networks (SDN), etc.) (5) Identifying, evaluating, and mitigating information systems vulnerabilities. (6) Advising on, designing, and implementing security controls. (7) Developing technical security standards and configuration baselines for information systems, platforms, and applications.
+  
+- source: https://www.usajobs.gov/job/656021600
+  title: IT Specialist Security Architect
+  org: Department of Education
+  division: Federal Student Aid
+  openDate: 5/24/22
+  closeDate: 6/3/22
+  grade: AD 00
+  location: Washington, DC
+  appointment: Permanent
+  service: Excepted
+  jobFamily: 2210
+  supervisory: No
+  clearance: N/A
+  announcement: FSA/Tech-2022-0009
+  controlNumber: 656021600
+  ncwfCode: N/A
+  pd: N/A
+  summary: This position is an Information Technology (IT) Specialist (Security Architect) within the U.S. Department of Education, Office of Federal Student Aid's (FSA) Technology Directorate (TD). The TD promotes effective use of technology to achieve FSA's strategic objectives. This position is designated as a Professional/Technical position pursuant to the 1998 amendments to the Higher Education Act of 1965.
+  duties: As an IT Specialist, AD-2210-00, GS-15 Equivalent, you will be responsible for (1) Providing expertise and direction for the strategic and secure transformation of IT architecture and addresses and leads the solving of challenges that may surface with modernizing systems and/or migrating legacy applications to the cloud. (2) Leading the planning, design, implementation, and maintenance of cloud security solutions and IT security frameworks, including identity credential access and management (ICAM) and multi-factor authentication solutions. (3) Creating a well-informed security architecture strategy, and ensures alignment with technology standards, frameworks, and information security standards and requirements.
+  specialized: One year of experience in either federal that is equivalent to at least a GS-14 performing two (2) out of three (3) of the following duties or work assignments. (1) Experience with providing technical and solution architectural guidance for programs implementing Identity, Credential, and Access Management (ICAM), Multi-Factor Authentication (MFA), single and/or simplified sign-on (SSO), Zero Trust Architecture principles, and other security policies, technologies, and frameworks that limit and track the access of those in an organization to sensitive technology resources. (2) Experience working with DevSecOps tools, processes, and teams by incorporating security into all stages of the software development and deployment workflow and ensuring security practices are injected into an organization’s DevOps pipeline. (3) Experience with architecting, developing, and implementing secure, containerized and/or server less cloud-based solutions that meet business requirements, align tightly with the enterprise strategy, and comply with legislative, regulatory, or statutory requirements. (4) Knowledge of IT architecture, cloud security principles and best practices, cloud hardening methodologies and techniques in enterprise cloud platforms such as AWS, and monitoring and incident response practices, processes, and solutions using a multi-cloud footprint. (5) Skill providing technical advisement and support for programs implementing Identity, Credential, and Access Management (ICAM), Multi-Factor Authentication (MFA), single and/or simplified sign-on (SSO), and/or Zero Trust principles, in compliance with legislative, regulatory, or statutory requirements. (6) Ability to collaboratively architect, develop, and execute cloud security roadmaps and architectures with a security-first approach that other teams can easily follow, including architecture, engineering, development, infrastructure operations, and cybersecurity. 
+  
 - source: https://www.usajobs.gov/job/657886800
   title: Information Technology Specialist (INFOSEC)
   org: Department of Agriculture

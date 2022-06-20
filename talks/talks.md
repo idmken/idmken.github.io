@@ -6,7 +6,7 @@ Previous and upcoming speaking engagements with the presentation if I can share 
 
 | Session Title or Role | Event Name | Format | Location | Date |
 | --------------------- | ---------- | :----: | :------: | :--: |
-| [2. Panel: Managing Millions of Identities Across Hybrid Cloud Environments]92203-atarc.md) | ATARC's Hybrid Virtual Cloud Summit | Panelist | Virtual Summit | March 2022 |
+| [2. Panel: Managing Millions of Identities Across Hybrid Cloud Environments](2203-atarc.md) | ATARC's Hybrid Virtual Cloud Summit | Panelist | Virtual Summit | March 2022 |
 | [1. Panel: Zero Trust and the Federal Identity-Centric Security Roadmap](2202-atarc.md) | ATARC’s Mission Critical Identity Security Virtual Summit | Panelist | Virtual Summit |  February 2022 | 
 
 # 2021

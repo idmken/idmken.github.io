@@ -21,6 +21,9 @@ Sources, articles or training to increase our Identity and Access Management kno
 - [Introduction to Self-Soverign Identity By: Juin Chiu via Medium (11 min read)](https://medium.com/unitychain/intro-to-ssi-7cdac15251a7){:target="_blank"}{:rel="noopener noreferrer"} ***Interesting concepts.***
 - [Azure AD Connect for Red Teamers By: Adam Chest via XPNSec (10 min read)](https://blog.xpnsec.com/azuread-connect-for-redteam/){:target="_blank"}{:rel="noopener noreferrer"}
 
+### Articles Related to Authenticators
+- [All Your Creds Belong to us By: Alex Weinert via Microsoft AAD Identity Blog (10 min read)](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/all-your-creds-are-belong-to-us/ba-p/855124){:target="_blank"}{:rel="noopener noreferrer"} ***Plainer language version of NIST 800-63-3B.***
+
 ### Articles Related to Achieving NIST 800-63-3 Levels
 - [NIST Special Publication 800-63 Revision 3 Digital Identity Guidelines By: NIST (3.5 hour read)](https://pages.nist.gov/800-63-3/sp800-63-3.html){:target="_blank"}{:rel="noopener noreferrer"} ***The digital identity bible for federal government agencies. A major upgrade to 800-63-2 evolving to three separate identity, authenticator, and federation levels.***
 - [NIST SPECIAL PUBLICATION 800-63-3 IMPLEMENTATION RESOURCES By: NIST (2 hour read)](https://www.nist.gov/system/files/documents/2020/07/02/SP-800-63-3-Implementation-Resources_07012020.pdf){:target="_blank"}{:rel="noopener noreferrer"} ***Accompanying guide to 800-63-3 on implementing the normative requirements of 800-63-3.***
@@ -45,6 +48,7 @@ Coming Soon!
 
 ## Frameworks and Standards
 - [The Public Sector Profile of the Pan-Canadian Trust Framework (PCTF-CCP) By: Government of Canada (2 hour read)](https://canada-ca.github.io/PCTF-CCP/){:target="_blank"}{:rel="noopener noreferrer"} ***Identity frameworks are an interesting way to see how identity is used in other sectors and cultures. This one is designed to map identity and business processes in Canada. It also helps map those processes to other international frameworks such as eIDAS, FATF, and UNCITRAL.***
+- [FIDO v2.0 Security Reference 27 February 2018](https://fidoalliance.org/specs/fido-v2.0-id-20180227/fido-security-ref-v2.0-id-20180227.html){:target="_blank"}{:rel="noopener noreferrer"} ***Literally, the industry standard for phishing-resistant authenticators.***
 
 ## Academic Papers
 Coming soon!

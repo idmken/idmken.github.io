@@ -22,6 +22,25 @@
   duties: 
   specialized:
   
+- source: https://www.usajobs.gov/job/645809200
+  title: Information Technology Specialist (INFOSEC)
+  org: Department of the Agriculture
+  division: Office of the Chief Information Officer, Identity and Access Services Branch
+  openDate: 3/30/22
+  closeDate: 4/2/22
+  grade: GS-13
+  location: Remote
+  appointment: Permanent
+  service: Competitive
+  jobFamily: 2210
+  supervisory: No
+  clearance: N/A
+  announcement: 22-CEC-179-DH
+  controlNumber: 645809200
+  summary: The incumbent serves as an IT Specialist in the Identity and Access Services Branch. The purpose of the position is to ensure enterprise continuity and conduct risk, business case, procurement, and IT systems analysis. The incumbent serves as a technical subject matter expert for the USDA Identity, Credential and Access Management (ICAM) team.
+  duties: As an Information Technology Specialist (INFOSEC), you will (1) Identify and evaluate potential system design approaches and develop technical and operational specifications for new and enhanced systems. (2) Assess technical alternatives, making recommendations to management, and providing overall security system design, ensuring that the ICAM security software is designed in compliance with agency and federal standards, guidelines, and regulations. (3) Interpret IT security policy, guidelines, and procedures for systems which are typically accessed by a large user community. (4) Resolve complex problems and develop innovative methods to handle new or unprecedented security related issues. (5) Act as a liaison between departmental end-users, technical analysts, information technology analysts, consultants, and other governmental organizations in the analysis, design, configuration, testing, and maintenance of ICAM services to ensure optimal operational performance.
+  specialized: You must meet the following requirements by the closing date of this announcement. (1) Specialized experience is a minimum of one year of experience at the GS-12 level or equivalent in other public or private sectors, that is directly related to the position as listed in this announcement and which has equipped the candidate with the particular knowledge, skills, and abilities to successfully perform the duties of the position. Specialized experience is defined as analyzing or supporting policies, standards, guidelines, and technology pertaining to Identity, Credential, and Access Management for an IT Program. Examples of this include. (1) Defining or documenting data models, business requirements, workflows, and processes. (2) Delivering technical or executive level presentations to management and other stakeholders. (3) Managing special IT projects as assigned.
+
 - source: https://www.usajobs.gov/job/654811700
   title: Information Technology Specialist (INFOSEC) - Zero Trust
   org: Securities and Exchange Commission

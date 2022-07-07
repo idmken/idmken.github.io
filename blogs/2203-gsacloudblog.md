@@ -2,7 +2,7 @@ Reproduced here from the [GSA Blog]([https://isaca-gwdc.org/2021-draft-federal-z
 
 # Achieve Zero Trust Capabilities Using These Cloud Identity Adoption Best Practices
 
-March 09, 2022 | Identity Assurance and Trusted Access Division, GSA OGP
+March 09, 2022 - Identity Assurance and Trusted Access Division, GSA OGP
 
 Post filed in: [Cloud](https://www.gsa.gov/blog/blog-search?category=Cloud){:target="_blank"}{:rel="noopener noreferrer"}
 

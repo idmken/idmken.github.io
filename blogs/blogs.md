@@ -6,7 +6,7 @@ Articles or blog posts where I'm the author or co-author. Reproduced here with s
 
 | Title | Topic | Date | Role | Published Link |
 | ----- | -------- | ---- | ----- | ------ |
-| [Achieve Zero Trust Capabilities Using These Cloud Identity Adoption Best Practices](2203-gsacloudblog.md) | Cloud SSO | March 2022 | Author | [GSA Blog](https://www.gsa.gov/blog/2022/03/09/achieve-zero-trust-capabilities-using-these-cloud-identity-adoption-best-practices){:target="_blank"}{:rel="noopener noreferrer"} | 
+| [1. Achieve Zero Trust Capabilities Using These Cloud Identity Adoption Best Practices](2203-gsacloudblog.md) | Cloud SSO | March 2022 | Author | [GSA Blog](https://www.gsa.gov/blog/2022/03/09/achieve-zero-trust-capabilities-using-these-cloud-identity-adoption-best-practices){:target="_blank"}{:rel="noopener noreferrer"} | 
 
 ## 2021
 

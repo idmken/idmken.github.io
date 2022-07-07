@@ -12,7 +12,7 @@ To address the differences between on-premises and cloud identity architectures,
 
 This working group recently wrote the [Cloud Identity Playbook](https://playbooks.idmanagement.gov/playbooks/cloud/){:target="_blank"}{:rel="noopener noreferrer"}, a practical guide to help federal agencies as they begin or expand the use of workforce identity, credentialing, and access management services delivered via the cloud. The working group identified best practices for both person and non-person workforce identity. A non-person in this context is a server, network device, robotic process automation, or any other type of hardware or software-based entity in cyberspace. The most common cloud identity verification example is identity as a service (IDaaS). An IDaaS is typically an identity provider (IdP) that offers single sign-on, multifactor authentication, and directory services in a single platform.
 
-Flowchart of cloud identity verification.
+[![Flowchart of cloud single sign-on.](../../assets/gsa-cloudidentityexample.png)]
 
 ## What is different between an on-premises identity provider and a cloud-based one?
 

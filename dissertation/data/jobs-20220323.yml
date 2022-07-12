@@ -21,6 +21,26 @@
   summary: 
   duties: 
   specialized:
+  
+- source: https://www.usajobs.gov/job/663064400
+  title: Information Technology Specialist (INFOSEC)
+  org: Department of Homeland Security
+  division: Federal Emergency Management Agency, Office of the Chief Information Officer
+  openDate: 6/30/22
+  closeDate: 7/11/22
+  grade: GS-14
+  location: Washington, DC; Bluemont, VA
+  appointment: Permanent
+  service: Competitive
+  jobFamily: 2210
+  supervisory: No
+  clearance: TS/SCI
+  announcement: FEMA-22-VLS-569671-DH
+  controlNumber: 663064400
+  summary: The ideal candidate for this position will be has over 10 years of experience in the area of cyber assessments.  This position starts at a salary of $126,233 (GS-14). Apply for this exciting opportunity to become a member of the Office of the Chief Information Officer team within FEMA.
+  duties: In this position, you will serve as an Information Security SME and will lead, direct, and implement cyber security-programs for FEMA Office of the Chief Information Security Officer. Typical assignments include (1) Overseeing assessment teams including contractors. (2) Reviewing security authorization packages. (3) Creating and reviewing security assessment plans, and security assessment reports. (4) Creating and reviewing scan authorizations, and rules of engagements. (5) Creating and reviewing penetration testing reports. (6) Conducting vulnerability scans, identifying false positives. (7) Reporting on the status of vulnerabilities to agency stakeholders. (8) Working with system stakeholders to patch vulnerabilities
+Creating dashboards and reports detailing cybersecurity security risk. (9) Leading presentations and meetings. (10) Conducting penetration tests. (11) Creating and reviewing SOPs to document the assessment processes.
+  specialized: You qualify for this position at the GS-14 level (starting salary $126,233) if you possess the following one full year of specialized experience equivalent to the next lower grade (GS-13) in the Federal Service in at least three of the areas identified below. This experience may have been gained in the federal government, a state or local government, a non-profit organization, the private sector, or as a volunteer; however, your resume must clearly describe at least one year of specialized experience. There are several positions available.  Specialized experience for these positions includes either Cyber Assessment OR Identity, Credential & Access Management (ICAM) experience as follows. Cyber Assessments (1) Conducting and leading teams in Security Control Assessments, creating Security Assessment Plans, and Security Assessment Reports, Conducting assessments of systems in Ongoing Authorization or (2) Conducting and leading teams in vulnerability scans efforts including infrastructures, applications, web applications, databases, and source code; Conducting analysis on vulnerabilities, identifying false positives, creating vulnerability reports or (3) Conducting and leading teams in penetration tests against infrastructures, and applications; Creating penetration test reports and ROEs. ICAM (1) Providing Identity, Credential & Access Management (ICAM) project management and technical support to subject matter experts (SMEs) across program office(s) and regional stakeholders. The project activities include framework development, integration into Enterprise Architecture, operational analysis, process design, policy review/development and governance documentation. (2) Providing critical review and recommendations for the design strategy, implementation, management, monitoring, and accountability for Zero Trust\Identity Management technology solutions. (3) Conducting market research/studies for emerging technologies and commercial software to support agencys Zero Trust\Identity Management portfolio and strategic road maps. (4) Implementing and documenting the Zero Trust\Identity Management security model into an enterprise environment. (5) Developing Zero Trust\Identity Management security metrics and technical analysis to give insight into performance and trends. (6) Creating policies and procedures for current plus emerging security technologies and proposals. Certified Information Systems Security Professional (CISSP) and/or CAP preferred.
  
 - source: https://www.usajobs.gov/job/663042700
   title: IT Cybersecurity Specialist
@@ -63,9 +83,9 @@ Lead discussions to interface ICAM services with other key programs, including Z
 
   
 - source: https://www.usajobs.gov/job/664340000
-  title: Supervisory IT Cybersecurity Specialist (PLCYPLN/INFOSEC), GS-2210-14
+  title: Supervisory IT Cybersecurity Specialist (PLCYPLN/INFOSEC)
   org: Department of Homeland Security
-  division: Coast Guard
+  division: Coast Guard, Assistant Commandant for Command, Control, Communications, Computers & Intelligence (CG-6), Service Center (C5ISC), Infrastructure Services Division (ISD
   openDate: 7/8/22
   closeDate: 7/18/22
   grade: GS-14

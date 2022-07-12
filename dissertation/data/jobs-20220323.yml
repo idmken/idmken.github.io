@@ -21,6 +21,26 @@
   summary: 
   duties: 
   specialized:
+ 
+- source: https://www.usajobs.gov/job/663042700
+  title: IT Cybersecurity Specialist
+  org: Department of the Interior
+  division: Office of the Chief Information Officer
+  openDate: 6/30/22
+  closeDate: 7/9/22
+  grade: GS-14
+  location: Washington, DC; Reston, VA
+  appointment: Permanent
+  service: Competitive
+  jobFamily: 2210
+  supervisory: No
+  clearance: TS/SCI
+  announcement: OCIO-22-DH-11556156JJ
+  controlNumber: 663042700
+  summary: This position is part of the Office of the Chief Information Officer, Office of the Secretary of Interior. The incumbent is responsible for the development, implementation, coordination, and enforcement of cybersecurity policies and procedures relating to Identity and Access Management. Other activities include the management of a wide range of IT Portfolios and projects related to information systems and cybersecurity matters.
+  duties: (1) Develop ICAM Policies and procedures and develop ICAM Audit program to measure compliance. (2) Manage ICAM Budget planning and execution
+Lead discussions to interface ICAM services with other key programs, including Zero Trust Architecture. (3) Manage ICAM Communication and Training Program. (4) Exhibit skills in collaboration/partnership, conflict management, influencing/negotiation, leadership and mentorship. (5) Develop procedures to standardize customer service by engaging customers to manage expectations, provide requested services in a helpful and courteous manner, maintain readily available guidance for customers to increase awareness of ICAM Services, and provide timely recommendations, assistance and support to requests and questions. (6) Develop customer intake and change management procedures and policies to onboard and manage customer use of ICAM Services. (7) Develop Standard Operating Procedures, budget estimates, and schedules for implementing new ICAM Services. (8) Oversee development of marketing materials for new ICAM Services.
+  specialized: Applicants for the GS-14 grade level must possess one year of specialized experience equivalent to at least the GS-13 grade level. Specialized experience is defined as experience that is in or directly related to the line of work of this position and has equipped you with the knowledge and competencies to successfully perform the duties of this position. More specifically, specialized experience for this position includes but is not limited to (1) familiarity with implementing Identity, Credential and Access Management programs at the agency level, Federal PKI operations, knowledge on use of Personal Identity Verification (PIV) card and certificates for secure access to systems and facilities and risk-based access management practices (including environment attributes and user behavioral analytics). (2) Experience with ICAM trends supporting OMB goals and emerging capabilities and architectures including CDM Master User Records and developing enterprise Identity Management Systems. (30 Knowledge of Identity Lifecycle Management workflows, such as Self-Service Access Requests, Birth-right Provisioning, and other Joiner-Mover-Leaver events.
   
 - source: https://www.usajobs.gov/job/661233800
   title: Information Technology Specialist
@@ -28,7 +48,7 @@
   division: Office of the Chief Information Officer
   openDate: 6/24/22
   closeDate: 7/8/22
-  grade: GS-13 - 14
+  grade: GS-13; GS-14
   location: Washington, DC
   appointment: Term
   service: Competitive

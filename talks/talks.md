@@ -6,6 +6,10 @@ Previous and upcoming speaking engagements with the presentation if I can share 
 
 | Session Title or Role | Event Name | Format | Location | Date |
 | --------------------- | ---------- | :----: | :------: | :--: |
+| [6. Panel: Government-Wide Programmatic Updates ](2209-fedid.md) | AFCEA Federal Identity Forum and Expo 2022 | Panelist | Atlanta, GA | September 2022 |
+| [5. Presentation: FICAM Today](2208-fcw.md) | FCW ICAM Workshop | Speaker | Virtual Workshop | August 2022 |
+| [4. Panel: Keeping Hybrid Work Safe: The Importance of Identity Management](2207-atarc.md) | ATARC's Hybrid Virtual Cloud Summit | Panelist | Virtual Summit | July 2022 |
+| [3. Keynote: Digital identity and Zero Trust](2207-atarc.md) | ATARC's Hybrid Virtual Cloud Summit | Keynote | Virtual Summit | July 2022 |
 | [2. Panel: Managing Millions of Identities Across Hybrid Cloud Environments](2203-atarc.md) | ATARC's Hybrid Virtual Cloud Summit | Panelist | Virtual Summit | March 2022 |
 | [1. Panel: Zero Trust and the Federal Identity-Centric Security Roadmap](2202-atarc.md) | ATARC’s Mission Critical Identity Security Virtual Summit | Panelist | Virtual Summit |  February 2022 | 
 

@@ -6,6 +6,7 @@ Articles or blog posts where I'm the author or co-author. Reproduced here with s
 
 | Title | Topic | Date | Role | Published Link |
 | ----- | -------- | ---- | ----- | ------ |
+| [2. Modernize Your Identity Management Process Through ILM](2208-gsailm.md) | Identity Lifecycle Management | August 2022 | Co-Author | [GSA Blog](https://www.gsa.gov/blog/2022/08/12/modernize-your-identity-management-process-through-ilm){:target="_blank"}{:rel="noopener noreferrer"} |
 | [1. Achieve Zero Trust Capabilities Using These Cloud Identity Adoption Best Practices](2203-gsacloudblog.md) | Cloud Single Sign-On | March 2022 | Author | [GSA Blog](https://www.gsa.gov/blog/2022/03/09/achieve-zero-trust-capabilities-using-these-cloud-identity-adoption-best-practices){:target="_blank"}{:rel="noopener noreferrer"} | 
 
 ## 2021

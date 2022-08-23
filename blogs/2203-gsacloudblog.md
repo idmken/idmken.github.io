@@ -1,4 +1,4 @@
-Reproduced here from the [GSA Blog]([https://isaca-gwdc.org/2021-draft-federal-zero-trust-strategy/](https://www.gsa.gov/blog/2022/03/09/achieve-zero-trust-capabilities-using-these-cloud-identity-adoption-best-practices)){:target="_blank"}{:rel="noopener noreferrer"}
+Reproduced here from the [GSA Blog]([https://isaca-gwdc.org/2021-draft-federal-zero-trust-strategy/](https://www.gsa.gov/blog/2022/03/09/achieve-zero-trust-capabilities-using-these-cloud-identity-adoption-best-practices){:target="_blank"}{:rel="noopener noreferrer"}
 
 # Achieve Zero Trust Capabilities Using These Cloud Identity Adoption Best Practices
 

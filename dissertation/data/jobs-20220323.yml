@@ -19,8 +19,118 @@
   ncwfCode: 
   pd: 
   summary: 
+  authority:
   duties: 
   specialized: 
+
+- source: https://www.usajobs.gov/job/666153000
+  title: IT Specialist (INFOSEC)
+  org: Federal Deposit Insurance Corporation
+  division: Division of Information Technology, Chief Information Officer Organization, HQ
+  openDate: 07/19/22
+  closeDate: 8/2/22
+  grade: CG-14
+  location: Washington, DC
+  appointment: Permanent
+  service: Competitive
+  jobFamily: 2210
+  supervisory: no
+  clearance: N/A
+  announcement: 2022-HQDH-B0306
+  controlNumber: 666153000
+  ncwfCode: N/A
+  pd: N/A
+  summary: This position is located in the Division of Information Technology, Chief Information Officer Organization, HQ, Federal Deposit Insurance Corporation and serves as Senior IT Specialist in the Network Services Unit (NSU) within the Infrastructure and Operations Services Branch (IOSB), Core Infrastructure Services Section (CISS).
+  authority: dha
+  duties: (1) Leads the evaluation, design, selection, and implementation of on premise or cloud-based multi-vendor network and security solutions throughout the enterprise to include LAN, MAN, WAN, remote access, wireless, next generation firewalls, Intrusion Detection System /Intrusion Prevention System (IDS/IPS), load balancing and application delivery, authentication, encryption, and orchestration. Defines network monitoring and reporting requirements. Analyzes and recommends selection of hardware and software technologies and processes most suited to the requirements of the Corporation. (2) Directs and guides in the gathering of on premise or cloud-based hardware and software requirements for new initiatives, and evaluating and testing computer and software products to determine which products best meet the IT requirements of the Corporation and enhance the Corporation's information security posture.  Consults with Cloud Architecture team to determine network and security requirements including Trusted Internet Connection (TIC) and Cloud Log Aggregation Warehouse. (3) Leads complex network and security infrastructure endeavors such as Zero Trust Architecture (ZTA) to include encrypted DNS, microsegmentation, and Zero Trust Network Access (ZTNA), cloud integration, capacity planning as it relates to on-premise, cloud, and hybrid cloud infrastructures, IPv6, and continuous improvement of the remote user experience. (4) Ensures the rigorous application of information security, information assurance policies, principles, and practices in the delivery of all network services to safeguard the FDIC internal and external networks in support of the FDIC core business.
+  specialized: N/A
+
+- source: https://www.usajobs.gov/job/665862700
+  title: Information Technology Specialist
+  org: Department of Homeland Security
+  division: Federal Emergency Management Agency
+  openDate: 07/15/22
+  closeDate: 07/25/22
+  grade: GS-13
+  location: Washington, DC; Bluemont, VA
+  appointment: Permanent
+  service: Competitive
+  jobFamily: 2210
+  supervisory: no
+  clearance: TS/SCI
+  announcement: FEMA-22-VLS-544249-DH
+  controlNumber: 665862700
+  ncwfCode: N/A
+  pd: N/A
+  summary: The ideal candidate has over 5 years of experience in the area of cyber assessments. This position starts at a salary of $106,823 (GS-13). Apply for this exciting opportunity to become a member of the Cyber Assessment team within FEMA. 
+  authority: dha
+  duties: In this position, you will serve as an Information Security SME and will lead, direct, and implement cyber assessments for FEMA. This posting covers several positions covering either Cyber Assessments or ICAM. Typical assignments are as follows. Cyber Assessments (1) Overseeing assessment teams including contractors. (2) Reviewing security authorization packages. (3) Creating and reviewing security assessment plans, and security assessment reports. (4) Creating and reviewing scan authorizations, and rules of engagements. (5) Creating and reviewing penetration testing reports. (6) Conducting vulnerability scans, identifying false positives. (7) Reporting on the status of vulnerabilities to agency stakeholders. (8) Working with system stakeholders to patch vulnerabilities. (9) Creating dashboards and reports detailing cybersecurity security risk (10) Leading presentations and meetings. (11) Conducting penetration tests. (12) Creating and reviewing SOPs to document the assessment processes. ICAM. (1) Oversee the DHS Multi-Factor Authentication (MFA) and Encryption Reporting. (2) Generate the DHS Strong Authentication Mobius reports. (3) Support the Zero Trust PIV / PIV-I system/application owner integration. (4) Review and approves shared and elevated privilege artifacts. (5) Support the ICAM PMO with the FEMA Enterprise Cloud modernization initiative. (6) Conduct IC control and least privilege accounts management audits. (7) Creating and reviewing Instructions\Policies\Audit documentation related to Zero Trust PIV/PIV-I processes.
+  specialized: You qualify for this position at the GS-13 level (starting salary $106,823) if you possess the following (1) One full year of specialized experience equivalent to the next lower grade (GS-12) in the Federal Service in at least two of the areas identified below.  This experience may have been gained in the federal government, a state or local government, a non-profit organization, the private sector, or as a volunteer; however, your resume must clearly describe at least one year of specialized experience. There are several positions available.  Specialized experience for these positions includes either Cyber Assessment OR Identity, Credential & Access Management (ICAM) experience as follows.Cyber Assessments. (1) Conducting Security Control Assessments for information systems.  Creating Security Assessment Plans, and Security Assessment Reports.  Conducting assessments of systems in Ongoing Authorization. (2) Conducting vulnerability scans efforts on infrastructures, applications, web applications, databases, and source code.  Conducting analysis on vulnerabilities,  identifying false positives, creating vulnerability reports. (3) Conducting penetration tests against infrastructures, and applications.  Creating penetration test reports and rules of engagements. Conducting information gathering, enumeration, vulnerability identification, exploitation, pivoting, and privilege escalation.  Conducting briefings and leading meetings. ICAM. (1) Managing and reporting Applications\Systems Strong Authentication monthly. (2) Automating and managing Identity Management tool suite for Privilege Accounts capability. (3) Managing accounts creation/deletion approval process for disaster surge support. (4) Managing State, Local, Tribal, and Territorial (SLTT) account access metrics. (5) Supporting all data calls for Zero Trust Identity Pillar reporting to include multi-factor authentication (MFA) metrics.
+
+- source: https://www.usajobs.gov/job/665575300
+  title: IT Specialist (INFOSEC)
+  org: Department of Commerce
+  division: National Telecommunications and Information Administration, FirstNet Authority
+  openDate: 07/18/2022
+  closeDate: 07/25/2022
+  grade: ZP-4
+  location: Boulder, CO; Reston, VA
+  appointment: Permanent
+  service: Competitive
+  jobFamily: 2210
+  supervisory: no
+  clearance: TS
+  announcement: DHA-11542939-22-IA
+  controlNumber: 665575300
+  ncwfCode: N/A
+  pd: N/A
+  summary: This position is with the First Responder Network Authority (FirstNet Authority), an independent authority within the National Telecommunications and Information Administration. Authorized by Congress in 2012, the FirstNet Authority's mission is to develop, build and operate the nationwide, broadband network that equips first responders with the necessary communications to save lives and protect U.S. communities. Come join the FirstNet Authority team and make a difference in public safety. 
+  authority: dha
+  duties: (1) Serves a as an Information Technology (IT) Security Systems Administrator under the IT Security Division within the Office of the Chief Information Officer (OCIO) within the FirstNet Authority. (2) Provides systems and security operational and maintenance support of the FirstNet IT security infrastructure to include troubleshooting and resolving complex issues that may arise in the production environment and implementing enhancement to bolster the security posture to minimize security and operational risks to the IT security infrastructure and services. (3) Provides technical oversight, management, installation, configuration, maintenance, monitoring, and administration of the FirstNet security infrastructure toolsets to include but not limited to the following services Microsoft Office 365 Suite of Services and Applications, McAfee Cloud Access Security Broker (CASB) and ePO, Tenable, VMWare, FireEye Endpoint Detection and Response (EDR), and LogRhythm Security Information and Event Management (SIEM). (4) Implements security hardening and vulnerability management to affected systems to remedy security and other vulnerabilities in accordance with IT security best practices. (5) Implements and manages DHS CISA Binding Operational Directives and Departmental IT security data calls. Responds to and manages IT security related incidents with the Department Enterprise Security Operations Center (SOC). (6) Serves as a subject matter expert pertaining to computer, network and systems security, information and cyber security, general oversight and compliance. Implements systems or security solutions that align with Trust Internet Connection 3.0, Zero-Trust Architecture and Cloud Access Security Broker.
+  specialized: Applicants must demonstrate that they meet the four (4) IT Competencies and the Specialized Experience as noted below Four (4) IT Competencies (1) Attention to Detail Providing system and security operational and maintenance support of security infrastructure. (2) Customer Service Troubleshooting and resolving complex issues that may arise in the production environment. (3) Oral communication Serving as a subject matter expert pertaining to computer, network and systems security (4) Problem Solving Implementing security hardening and vulnerability management to affected systems to remedy security and other vulnerabilities in accordance with IT security best practices. Specialized Experience ZP-IV (GS-13/14). To qualify for the ZP-IV (GS-13/14) you must possess at least one year of specialized experience at or equivalent to the GS-12 grade level or ZP-III pay band in the Federal service or equivalent experience in the private or public sector performing all of the following (1) Implementing and managing enterprise-wide IT security toolset solutions, such as Tenable, FireEye, LogRhythm, McAfee CASB. (2) Configuring IT security systems, analyzing security requirements, and recommending improvements for the overall infrastructure. (3) Conducting vulnerability management and implementation of DISA STIGs to ensure the proper defenses are integrated to minimize security breaches. (4) Implementing Federal Cybersecurity frameworks such as Zero Trust architecture.
+
+- source: https://www.usajobs.gov/job/668071600
+  title: Supervisory IT Cybersecurity Specialist (PLCYPLN/INFOSEC)
+  org: Department of the Homeland Security
+  division: United States Coast Guard (USCG), Assistant Commandant for Command, Control, Communications, Computers & Intelligence (CG-6), Service Center (C5ISC), Infrastructure Services Division (ISD), Transport Services Branch (TSB)
+  openDate: 07/28/22
+  closeDate: 08/08/22
+  grade: GS-14
+  location: Alexandria, VA
+  appointment: Permanent
+  service: Competitive
+  jobFamily: 2210
+  supervisory: yes
+  clearance: TS/SCI
+  announcement: 22-2590-HQ-FS-DHA
+  controlNumber: 668071600
+  ncwfCode: N/A
+  pd: N/A
+  summary: The position is located in the Department of Homeland Security (DHS), United States Coast Guard (USCG), Assistant Commandant for Command, Control, Communications, Computers & Intelligence (CG-6), Service Center (C5ISC), Infrastructure Services Division (ISD), Transport Services Branch (TSB), Alexandria, VA.
+  authority: dha
+  duties: You will serve as an Supervisory IT Cybersecurity Specialist (PLCYPLN/INFOSEC), leading, coordinating, communicating, integrating and is accountable for the overall success of the program, ensuring alignment with agency or enterprise priorities. Being a Coast Guard civilian makes you a valuable member of the Coast Guard team. The tasks that the incumbent will perform as part of their job duties include (1) Directly supervises a staff of IT professionals. (2) Working with customers, stakeholders, sponsors and other IT service providers to elicit requirements, resources and prioritization. (3) Building collaborative work teams in a matrixed environment and leads integrated product teams focused on organizational strategic issues and initiatives, (Ships, aircraft, and portable systems) nationwide or worldwide. (4) Overseeing the execution of multiple, simultaneous projects and initiatives to procure, configure, deploy and maintain IT systems. (5) Leading teams to develop or overseeing the development of acquisition plans, equipment specifications, work statements and other procurement documents for IT systems, equipment and/or services based on user requirements. (6) Developing or reviewing periodic reports on project progress. (7) Establishing and maintaining capital planning budgets & accounts across a broad range of efforts. (8) Conducting in-depth analysis of new and emerging IT Infrastructure technological, operating and other improvements to support continuous improvement in networking and compute environments.
+  specialized: To qualify at the GS-14 grade level, applicants must have at least one (1) full year of specialized experience equivalent to at least the GS-13 grade level. Specialized experience is experience that has equipped you with the particular ability, skill, and knowledge to successfully perform the duties of this position and is typically in or related to this line of work. Specialized experience may include the following (1) Knowledge of and experience acting as the Service Owner and single point of accountability for development, delivery, support and technical expertise for assigned C5I services, including wide area networks, local area networks, commercial satellites networks, wifi networks, and voice networks. Be prepared to describe the environment and your level of involvement. (2) Experience managing an annual budget in excess of $100M. (3) Experience working with customers, stakeholders and sponsors to elicit requirements, resources and prioritization. Be prepared to describe the environment and your level of involvement. (4) Knowledge of and experience coordinating the implementation of new C5I services, including project management, technical documentation and support, maintenance procedures, training, etc. (5) Experience with advanced procurement planning, requirements documents, market research, government cost estimates, and participation in solicitation, contract award, oversight of contractor performance, review/inspection of deliverables, invoicing, contract modifications, contractor performance documentation, and maintenance of a COR file for C5I systems and services.
+
+- source: https://www.usajobs.gov/job/666475900
+  title: IT Specialist (INFOSEC)
+  org: General Services Administration
+  division: Office of the Chief Information Officer, Office of the Chief Information Security Officer
+  openDate: 7/20/22
+  closeDate: 8/3/22
+  grade: GS-14
+  location: remote
+  appointment: Permanent
+  service: Competitive
+  jobFamily: 2210
+  supervisory: no
+  clearance: N/A
+  announcement: 22STFB283SL-DHA
+  controlNumber: 666475900
+  summary: This position is located in the Office of the Chief Information Officer (OCIO), Office of the Chief Information Security Officer (OCISO). Incumbents will serve as an IT Specialist (INFOSEC) in one or more areas of the following (1) Identity Credential, and Access Management (ICAM). (2) Information Security Tasks. (3) Security Operations Center
+Cyber Defense. (4) GSA Service Contracts.
+  duties: One or more positions may be filled using the vacancy announcement. Incumbents will be responsible for one or more of the following duties. (1) Responsible for the governance of the Identity, Credential and Access Management (ICAM) Shared Services Portfolio. (2) Responsible for Information Security tasks and functions to ensure agency-level compliance and improve the security of GSA information systems. (3) Responsible for operationalizing the ecosystem of Cyber risk management dashboards at GSA and developing methods to monitor and measure risk, compliance, and assurance efforts. (4) Ability to coordinate Security Operations Center effort across multiple teams across an Enterprise organization. (5) Manage the ICAM Program within the ICAM Shared Services Division, including development of any related policies, procedures, and processes. (6) Coordinate and provide technical support to enterprise-wide cyber defense technicians to resolve cyber defense incidents. (7) Assist with automation efforts to transition from manual compliance based processes to a more operational capability. (8) Applies qualitative and /or quantitative methods to assess and improve program effectiveness and/or complex management processes, projects and systems. (9) Leads and provides guidance to the Office of the Chief Information Security Officer in order to mature the overall capabilities provided from Identity Management. (10) Evaluates, acquires, configures, and uses software to ensure automated systems are not compromised. (11) Provide technical expertise and security engineering advice on system security design and re-architecture. (11) Develop and maintain the security engineering framework and related process and supporting technical guidelines, benchmarks. (12) Provide security consulting and engineering support for GSA IT information systems and emerging IT and IT Security initiatives. (12) Oversee and manage GSA IT service contracts in accordance with federal acquisition laws, regulations, and processes.
+  authority: dha
+  specialized: Specialized experience is defined as experience leading IT security projects, providing information and recommendations to meet the business goals and improve processes of an organization’s IT security infrastructure in one of the following areas. (1) Experience in operationalizing an enterprise Identity, Credential, and Access Management (ICAM) program, including authentication mechanisms (e.g. SAML, OIDC) and access management solutions OR (2) Experience in a Enterprise Vulnerability Management focus on Vulnerability Disclosure Program and Bug Bounty Program, OR (3) Experience in Enterprise Cyber Security Operation Center and Incident Response OR (4) Experience in operationalizing and orchestrating the ecosystem of various Cyber risk management dashboards, OR (5) Experience in security architecture design and review, threat modeling, DevSecOps and technical guide development.
   
 - source: https://www.usajobs.gov/job/663064400
   title: Information Technology Specialist (INFOSEC)
@@ -208,7 +318,7 @@
   service: Competitive
   jobFamily: 0340
   supervisory: yes
-  clearance: SCI
+  clearance: TS/SCI
   announcement: FEMA-22-JAS-541046-DE
   controlNumber: 651631700
   summary: The ideal candidate for this position has experience in security project management, leading project management personnel, analyzing and implementing Security IT Systems & processes, and has or can obtain a Contracting Officers Representative certification.  This position starts at a salary of $106,823 (GS-13).  Apply for this exciting opportunity to become a member of the Office of the Chief Security Officer team within FEMA.
@@ -227,7 +337,7 @@
   service: Competitive
   jobFamily: 2210
   supervisory: no
-  clearance: SCI
+  clearance: TS/SCI
   announcement: DE-11431895-22-JC
   controlNumber: 650992400
   summary: All DHS-HQ announcements have a 5 business day open period due to the number of applications received. This announcement will be open for 5 business days OR until the first 100 applications have been received, whichever happens first.
@@ -265,7 +375,7 @@
   service: Competitive
   jobFamily: 2210 
   supervisory: no
-  clearance: SCI
+  clearance: TS/SCI
   announcement: OCIO-22-DH-11458890JJ
   controlNumber: 648380800
   summary: This position is part of the Office of the Chief Information Officer, Office of the Secretary of Interior. The incumbent will be responsible for developing plans, overseeing their execution, and acting in an cybersecurity advisor role during project execution and implementation.
@@ -283,7 +393,7 @@
   service: Competitive
   jobFamily: 2210
   supervisory: no
-  clearance: Top Secret
+  clearance: TS
   announcement: DFAS/IRM-2022-0036
   controlNumber: 648930700
   summary:  This position is located in the Information Integrity Branch, Systems Integrity Division, Office of Information Technology Infrastructure, Deputy Chief Information Officer for Foreign Operations, Bureau of Information Resource Management (IRM/FO/ITI/SI/IIB), in the U.S. Department of State (DOS). The incumbent functions as an expert Information Technology systems analyst for the Department's Identity, Credential, and Access Management (ICAM) Program. 
@@ -301,7 +411,7 @@
   service: Competitive
   jobFamily: 2210
   supervisory: no
-  clearance: Other
+  clearance: N/A
   announcement: CARX-22-11350699-KAr-DH
   controlNumber: 631335700
   ncwfCode: 461
@@ -322,7 +432,7 @@
   service: competitive
   jobFamily: 2210
   supervisory: yes
-  clearance: Top Secret
+  clearance: TS
   announcement: 22-DO-242-DH
   controlNumber: 634053900
   summary: This position is located in the Department of the Treasury, Assistant Secretary for Management CFO, DAS Information Systems & CIO, ACIO Infrastructure & Operations (IO). This position serves as a subject matter expert on matters pertaining to information systems security engineering, network security engineering, and telecommunications security engineering, Identity, Credential and Access Management (ICAM) security engineering, and cloud infrastructure security engineering.
@@ -340,7 +450,7 @@
   service: competitive
   jobFamily: 2210
   supervisory: no
-  clearance: Other
+  clearance: N/A
   announcement: 20STFA092MBDE
   controlNumber: 566950000
   summary: As a IT Specialist, you will serves as the senior information technology (IT), security expert for identity, credential, and access management within the Office of Government-wide Policy and directs the coordination of a wide range of major policy initiatives associated with Federal Identity, Credential, and Access Management (FICAM) and related IT security policy objectives for the Federal government.
@@ -358,7 +468,7 @@
   service: Excepted
   jobFamily: 2210
   supervisory: no
-  clearance: Other
+  clearance: N/A
   announcement: ACT-AIT-22-AIF310-77668
   controlNumber: 644479400
   summary: Due to the Pandemic and individual states with different phases of reopening, the selectee’s report date to the official duty station/facility may be delayed until such time as employees are allowed to report to the workplace. The person selected may telework up to the maximum extent possible, up to and including full time, until it is determined by state and Federal officials that employees are allowed to report to the workplace where this position is located, on a regular basis.

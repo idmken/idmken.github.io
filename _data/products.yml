@@ -1,0 +1,9 @@
+# List of IAM products aligned with Enterprise Architecture
+
+  - refid: ory1
+    name: Ory Identity Infrastructure
+    type: open source
+    arch: access management
+    community: customer
+    products: mfa; social sign-in
+    url: https://www.ory.sh/

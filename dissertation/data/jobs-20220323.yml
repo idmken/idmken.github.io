@@ -23,6 +23,28 @@
   duties: 
   specialized: 
 
+- source: https://www.usajobs.gov/job/673128100
+  title: IT Specialist (INFOSEC)
+  org: General Services Administration
+  division: Office of Governmentwide Policy, Office of Technology Policy, Identity Assurance and Trusted Access Division
+  openDate: 08/23/22
+  closeDate: 08/29/22
+  grade: GS-15
+  location: Remote
+  appointment: Permanent
+  service: Competitive
+  jobFamily: 2210
+  supervisory: no
+  clearance: N/A 
+  announcement: 22STFA303KGDHA
+  controlNumber: 673128100
+  ncwfCode: N/A
+  pd: N/A
+  summary: As a IT Specialist (INFOSEC), you will responsible for directing, coordinating, and overseeing interagency efforts to implement cybersecurity, zero trust, and the Federal Identity, Credential, and Access Management (FICAM) architecture.
+  authority: dha
+  duties: As IT Specialist (INFOSEC) you will (1) Lead government-wide efforts to identify needed areas of policy and implementation improvement to ensure that Federal IT systems and other resources are being managed in a secure, reliable, and cost-effective manner consistent with cybersecurity and FICAM policy goals. (2) Provide IT security leadership, expert technical assistance, and authoritative advice on interpreting IT security policies and practices relating to the Federal Information Security Management Act (FISMA), OMB Circulars, NIST guidelines and requirements, and other pertinent Federal IT security standards and requirements. (3) Formulates IT security policy recommendations for cybersecurity-related initiatives to plan, develop, and implement innovative Government-wide cybersecurity policies, technical implementation guidance and best practices across the Federal government. (4) Lead and/or participates in interagency information cybersecurity committees and councils and is recognized as a technical cybersecurity expert and authority in the related areas of cybersecurity.    
+  specialized: Experience applying IT security policies, concepts, and practices and emerging issues, and project management methods and concepts sufficient to planning, coordinating and implement agency wide IT security strategies and programs to ensure protection of IT assets and infrastructure; evaluate alternative solutions to emerging cybersecurity issues; develop and lead IT security initiatives and provide program management and oversight; research issues relating to IT security and identity and access management for organizational policy updates.
+
 - source: https://www.usajobs.gov/job/666153000
   title: IT Specialist (INFOSEC)
   org: Federal Deposit Insurance Corporation

@@ -24,8 +24,9 @@ Sources, articles or training to increase our Identity and Access Management kno
 ### Articles on Digital Identity Basics
 - [What is Digital Idnenity](https://liminal.co/what-is-digital-identity/){:target="_blank"}{:rel="noopener noreferrer"} **Digital identity is a facet of all our lives now, but confusion exists as to how extensive our digital identities are, and how to go about managing them.
 
-### Articles on Decentralized Identity
+### Articles on Decentralized Identity and Verifiable Credentials
 - [Governance in the new age of Decentralized Identity By: Travis Jarae, Cameron D’Ambrosi, Will Charnley via Liminal Insights (10 min read)](https://liminal.co/articles/governance-in-the-new-age-of-decentralized-identity/) **Nice plain language description of decentralized identity.
+- [The Keys to Decentralized Identity by: Okta (32 min watch)](https://www.youtube.com/watch?v=gWfAIYXcyH4) **Nice video explaination of decentralized identity.
 
 ### Articles Related to Authenticators
 - [All Your Creds Belong to us By: Alex Weinert via Microsoft AAD Identity Blog (10 min read)](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/all-your-creds-are-belong-to-us/ba-p/855124){:target="_blank"}{:rel="noopener noreferrer"} ***Plainer language version of NIST 800-63-3B.***

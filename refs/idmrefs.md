@@ -22,11 +22,12 @@ Sources, articles or training to increase our digital identity knowledge. I've r
 - [The Line of Death by Eric Law](https://textslashplain.com/2017/01/14/the-line-of-death/){:target="_blank"}{:rel="noopener noreferrer"} - When building applications that display untrusted content, security designers have a major problem— if an attacker has full control of a block of pixels, he can make those pixels look like anything he wants, including the UI of the application itself. He can then induce the user to undertake an unsafe action, and a user will be none the wiser. In web browsers (and beyond sometimes), the browser itself usually controls the top of the window, while pixels under the top are under control of the site. I’ve recently heard this called the line of death.
 
 ### Articles on Digital Identity Basics
-- [What is Digital Idnenity](https://liminal.co/what-is-digital-identity/){:target="_blank"}{:rel="noopener noreferrer"} **Digital identity is a facet of all our lives now, but confusion exists as to how extensive our digital identities are, and how to go about managing them.
+- [What is Digital Idnenity via Liminal (10 min read)](https://liminal.co/what-is-digital-identity/){:target="_blank"}{:rel="noopener noreferrer"} **Digital identity is a facet of all our lives now, but confusion exists as to how extensive our digital identities are, and how to go about managing them.
 
 ### Articles on Decentralized Identity and Verifiable Credentials
-- [Governance in the new age of Decentralized Identity By: Travis Jarae, Cameron D’Ambrosi, Will Charnley via Liminal Insights (10 min read)](https://liminal.co/articles/governance-in-the-new-age-of-decentralized-identity/) **Nice plain language description of decentralized identity.
-- [The Keys to Decentralized Identity by: Okta (32 min watch)](https://www.youtube.com/watch?v=gWfAIYXcyH4) **Nice video explaination of decentralized identity.
+- [Governance in the new age of Decentralized Identity By: Travis Jarae, Cameron D’Ambrosi, Will Charnley via Liminal Insights (10 min read)](https://liminal.co/articles/governance-in-the-new-age-of-decentralized-identity/){:target="_blank"}{:rel="noopener noreferrer"} **Nice plain language description of decentralized identity.
+- [The Keys to Decentralized Identity by: Okta (32 min watch)](https://www.youtube.com/watch?v=gWfAIYXcyH4){:target="_blank"}{:rel="noopener noreferrer"} **Nice video explaination of decentralized identity.
+- [Verifiable Credentials Using Blockchain By Microsoft via Youtube (15 min watch)](https://www.youtube.com/watch?v=r20hCF9NbTo){:target="_blank"}{:rel="noopener noreferrer"} **More in-depth overview of Verifiable Credentials from Microsoft.
 
 ### Articles Related to Authenticators
 - [All Your Creds Belong to us By: Alex Weinert via Microsoft AAD Identity Blog (10 min read)](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/all-your-creds-are-belong-to-us/ba-p/855124){:target="_blank"}{:rel="noopener noreferrer"} ***Plainer language version of NIST 800-63-3B.***

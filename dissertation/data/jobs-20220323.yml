@@ -7,13 +7,13 @@
   division: 
   openDate: 
   closeDate: 
-  grade: 
-  location: 
-  appointment: 
-  service: 
-  jobFamily: 
-  supervisory: 
-  clearance: 
+  grade: GS-14
+  location: Washington, DC
+  appointment: Permanent
+  service: Competitive
+  jobFamily: 2210
+  supervisory: no
+  clearance: TS/SCI
   announcement: 
   controlNumber: 
   ncwfCode: 
@@ -22,6 +22,28 @@
   authority:
   duties: 
   specialized: 
+  
+- source: https://www.usajobs.gov/job/674865000
+  title: Information Technology Specialist (Cyber)
+  org: Deaprtment of Labor
+  division: Directorate of Cybersecurity, Division of Security Operations Center (SOC) Office of the Chief Information Officer (OCIO) Office of the Assistant Secretary for Administration and Management
+  openDate: 9/1/22
+  closeDate: 9/11/22
+  grade: GS-14
+  location: Washington, DC
+  appointment: Permanent
+  service: Competitive
+  jobFamily: 2210
+  supervisory: No
+  clearance: TS/SCI
+  announcement: DH-22-CHI-OCIO-0357
+  controlNumber: 674865000
+  ncwfCode: N/A
+  pd: N/A
+  summary: The Office of the Chief Information Officer (OCIO) is a customer service organization dedicated to providing information technology (IT) solutions and leadership to advance DOLs mission.  More information on the OCIO is available on our website, LinkedIn, and Twitter accounts. Position is outside of the bargaining unit. Recruitment incentives may be considered.
+  authority: dha
+  duties: This position is located in the Department of Labor (DOL), Office of the Chief Information Officer (OCIO), Directorate of Cybersecurity, Division of Security Operations Center (SOC). The directorate under the direction of the Departments Chief Information Security Officer (CISO) is responsible for managing the Department-wide cyber security program. This includes the review and approval of information assurance policies, standards, and guidelines. Developing guidelines for system security plans. Providing alignment with all information security-related national directives and Departmental policies and ensuring that all staff receives the appropriate security awareness training for their specific roles. These policies, standards, and guidelines are designed to protect all Department of Labor information and information systems from threats, both internal and external. Furthermore, under the cybersecurity directorate also establishes and manages the Departments Security Operations Center (SOC), which is responsible for independent department-wide security monitoring, design and coordinated incident response. The incumbent serves as a technical subject matter expert for the DOL cybersecurity team on security issues, and as such, is a recognized authority on technologies impacting the Departments computer security program. The incumbent is also charged with the Department advancement in security technology, monitoring and response activities supporting the Departments mission. The incumbent of this position will serve as a project/team leader within the Division of Security Operations, providing authoritative expert advice to top-level DOL officials. The incumbent regularly deals with information that demands a high level of public trust with access to sensitive/confidential data and will be required to obtain the required Top-Secret security clearance. Major duties include; (1) Leads in the design and review of enterprise-wide Cybersecurity programs that will keep pace with today’s threat environment. Examples under this are but not limited to the advancement and adoption towards Zero Trust Architecture, Secure Cloud Services, Software Supply Chain Security and Investigative and Remediation Capabilities. (2) Provides technical oversight for the development of short and tong-range system security plans and Federal security compliance activities. Provides continuous oversight and management of the Departments security event monitoring and response program supporting the Department. Coordinates work with Agency staff responsible for the design and implementation of IT technology. Provides continuous oversight and management of the Departments security event monitoring and response program supporting the Departments major information and general support systems in an integrated environment. coordinates work with OCIO and DOL staff. (3) Keeps abreast of state-of-the-art security technologies, including biometrics, public and private key cryptography, intrusion detection, and Internet/Intranet security technologies for use and deployment in the Department. (4) Develops specifications and design, and provides detailed evaluations, justifications, and recommendations pertinent to the procurement of network security equipment, software, and services that support the department’s security requirements, efficiencies, and approaches to enhance security functionality for the network, while not reducing system efficiencies. Prepares documentation for distribution to Department staff and other facilities personnel concerning changes affecting the security environment.
+  specialized: Applicants must have 52 weeks of specialized experience equivalent to at least the next lower grade level, GS-13, in the Federal Service. Specialized experience is (1) experience as a Subject Matter Expert that leads enterprise-wide IT Security projects. (2) Provides technical oversight in the configuring and deploying a broad array of security tools. (3) experience in designing security solutions leveraging knowledge of infrastructure, trusted applications, continuous monitoring proper implementation of security appliances and protecting on-prem and cloud-based systems. (4) Experience in the development activities surrounding zero trust pillars, frameworks and implementation strategies particularly in visibility/analytics and automation/orchestration.
 
 - source: https://www.usajobs.gov/job/673128100
   title: IT Specialist (INFOSEC)

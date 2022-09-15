@@ -21,6 +21,12 @@ Sources, articles or training to increase our Identity and Access Management kno
 - [Azure AD Connect for Red Teamers By: Adam Chest via XPNSec (10 min read)](https://blog.xpnsec.com/azuread-connect-for-redteam/){:target="_blank"}{:rel="noopener noreferrer"}
 - [The Line of Death by Eric Law](https://textslashplain.com/2017/01/14/the-line-of-death/){:target="_blank"}{:rel="noopener noreferrer"} - When building applications that display untrusted content, security designers have a major problem— if an attacker has full control of a block of pixels, he can make those pixels look like anything he wants, including the UI of the application itself. He can then induce the user to undertake an unsafe action, and a user will be none the wiser. In web browsers (and beyond sometimes), the browser itself usually controls the top of the window, while pixels under the top are under control of the site. I’ve recently heard this called the line of death.
 
+### Articles on Digital Identity Basics
+- [What is Digital Idnenity](https://liminal.co/what-is-digital-identity/){:target="_blank"}{:rel="noopener noreferrer"} **Digital identity is a facet of all our lives now, but confusion exists as to how extensive our digital identities are, and how to go about managing them.
+
+### Articles on Decentralized Identity
+- [Governance in the new age of Decentralized Identity By: Travis Jarae, Cameron D’Ambrosi, Will Charnley via Liminal Insights (10 min read)](https://liminal.co/articles/governance-in-the-new-age-of-decentralized-identity/) **Nice plain language description of decentralized identity.
+
 ### Articles Related to Authenticators
 - [All Your Creds Belong to us By: Alex Weinert via Microsoft AAD Identity Blog (10 min read)](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/all-your-creds-are-belong-to-us/ba-p/855124){:target="_blank"}{:rel="noopener noreferrer"} ***Plainer language version of NIST 800-63-3B.***
 - - [What Is SMS Authentication and Is It Secure? By: Teju Shyamsundar via Okta Blogf (7 min read)](https://www.okta.com/blog/2020/10/sms-authentication/){:target="_blank"}{:rel="noopener noreferrer"} ***Nice synopsis of the proc/cons of SMS-based authentication. NIST did discourage it's use but walked it back.***

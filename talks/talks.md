@@ -6,6 +6,7 @@ Previous and upcoming speaking engagements with the presentation if I can share 
 
 | Session Title or Role | Event Name | Format | Location | Date |
 | --------------------- | ---------- | :----: | :------: | :--: |
+| [9. Panel: ICAM Solutions](2209-govcio) | GovCIO Zero Trust Breakfest | Panelist | Tysons, VA | Septebmer 2022 |
 | [8. Federal ICAM and Zero Trust](2209-resilientpod.md) | Resilient Cyber Podcast | Interviewee | Podcast | September 2022 |
 | [7. Panel: Will moving to the Cloud Make You More Secure?](2209-billington.md) | Billington Cyber Summit 2022 | Panelist | Washington D.c. | September 2022 |
 | [6. Panel: Government-Wide Programmatic Updates](2209-fedid.md) | AFCEA Federal Identity Forum and Expo 2022 | Panelist | Atlanta, GA | September 2022 |

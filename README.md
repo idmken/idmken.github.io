@@ -17,6 +17,6 @@ I'm using this site to capture anything IAM related as well as my own work in th
 
 ## [Identity and Access Management Competency Model Dissertation](/dissertation/idmwp.md)
 
-Need a speaker for identity and access management or cloud access security? Reach out! 
+Need a speaker for identity and access management or cloud access security? Reach out!
 
-[Twitter](https://twitter.com/IDMKen){:target="_blank"} | [LinkedIn](https://www.linkedin.com/in/idmken/){:target="_blank"} | [Email](mailto:mail@myers.guru){:target="_blank"}  
+[Twitter](https://twitter.com/IDMKen){:target="_blank"} | [LinkedIn](https://www.linkedin.com/in/idmken/){:target="_blank"} | [Email](mailto:ken@bluefalconcobra.com){:target="_blank"}  

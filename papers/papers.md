@@ -1,6 +1,8 @@
 # Books and Papers
 
-Published professional books or papers.
+Published professional books or papers. 
+
+Check out <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width: 1em; margin-inline-start: 0.5em" alt="ORCID iD icon" href="https://orcid.org/0000-0001-9543-9013" target="_blank" rel="noopener noreferrer"> for more papers and research.
 
 | Journal Name    | Paper Name       | Date | Abstract          | Role  | Published Link |
 | --------------- | ---------------- | ---- | ----------------- | ----- | --------------- |

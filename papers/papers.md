@@ -2,8 +2,6 @@
 
 Published professional books or papers. 
 
-Check out <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width: 1em; margin-inline-start: 0.5em" alt="ORCID iD icon" href="https://orcid.org/0000-0001-9543-9013" target="_blank" rel="noopener noreferrer"> for more papers and research.
-
 | Journal Name    | Paper Name       | Date | Abstract          | Role  | Published Link |
 | --------------- | ---------------- | ---- | ----------------- | ----- | --------------- |
 | IDPro Body of Knowledge | Identity and Access Management Workforce Planning | 09/2022 | This article offers a practical approach to help identity and access management (IAM) practitioners and managers understand how to advise organization leadership on identity and access management workforce planning.  | Author | [Website](https://doi.org/10.55621/idpro.85){:target="_blank"}{:rel="noopener noreferrer"} |

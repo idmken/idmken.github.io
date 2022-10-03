@@ -1,8 +1,10 @@
 # The Importance of Identity Management
-Hosted by ATARC  
-July 26, 2022
-Virtual Summit    
-[Event Details](https://atarc.org/event/identityvirtualsummit/){:target="_blank"}{:rel="noopener noreferrer"}  
+Hosted by ATARC<br>
+July 26, 2022<br>
+Virtual Summit<br>
+Details:
+- [Event Details](https://atarc.org/event/identityvirtualsummit/){:target="_blank"}{:rel="noopener noreferrer"}  
+- [Panel Recording](https://youtu.be/batRAafs0wA?t=779){:target="_blank"}{:rel="noopener noreferrer"}  
 
 ## Visionary Keynote: Digital Identity and Zero Trust
 
@@ -21,8 +23,6 @@ Panelists:
 - Kenneth Myers, Director, Identity Assurance and Trusted Access Division @ General Services Administration
 - James Medlock, Manager, CDM Program Support @ U.S. Department of Veterans Affairs
 - Josh Brodbent, Regional Vice President, Public Sector Solutions Engineering @ BeyondTrust
-
-[Recording}(https://youtu.be/batRAafs0wA?t=779){:target="_blank"}{:rel="noopener noreferrer"}  
 
 ## Press Related to Event
 1. [FICAM Goes Hand-in-Hand With Zero Trust, Fed ICAM Architect Says By: Meritalk - July 27, 2022](https://www.meritalk.com/articles/ficam-goes-hand-in-hand-with-zero-trust-fed-icam-architect-says/){:target="_blank"}{:rel="noopener noreferrer"}

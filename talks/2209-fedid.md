@@ -2,7 +2,8 @@
 Hosted by: Armed Forces Communication and Electronics Association (AFCEA)<br>
 Date: September 6 - 9, 2022<br>
 Venue: Atlanta Marriott Marquis - Atlanta, GA<br>
-Details: [Agenda](https://events.afcea.org/FedID22/Public/enter.aspx){:target="_blank"}{:rel="noopener noreferrer"}  
+Details: 
+- [Agenda](https://events.afcea.org/FedID22/Public/enter.aspx){:target="_blank"}{:rel="noopener noreferrer"}  
 
 ## Panel: Government-Wide Programmatic Updates (September 8; 9:45 - 10:45am)
 Government-wide programmatic updates.

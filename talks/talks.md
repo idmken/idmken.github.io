@@ -6,9 +6,11 @@ Previous and upcoming speaking engagements with the presentation if I can share 
 
 | Session Title or Role | Event Name | Format | Location | Date |
 | --------------------- | ---------- | :----: | :------: | :--: |
-| [9. Panel: ICAM Solutions](2209-govcio) | GovCIO Zero Trust Breakfest | Panelist | Tysons, VA | Septebmer 2022 |
+| [11. Panel: Hybrid Cloud and Security Risks](2210-atarccloud.md) | 2022 ATARC Federal Cloud & Infrastructure Summit | Panelist | Washington, D.C. | October 2022 |
+| [10. Presentation: Federal Workforce Identity Strategy](2210-identityweek.md) | 2022 Identity Week America | Speaker & Panelist | Washington, D.C. | October 2022 |
+| [9. Panel: ICAM Solutions](2209-govcio) | GovCIO Zero Trust Breakfest | Panelist | McLean, VA | Septebmer 2022 |
 | [8. Federal ICAM and Zero Trust](2209-resilientpod.md) | Resilient Cyber Podcast | Interviewee | Podcast | September 2022 |
-| [7. Panel: Will moving to the Cloud Make You More Secure?](2209-billington.md) | Billington Cyber Summit 2022 | Panelist | Washington D.c. | September 2022 |
+| [7. Panel: Will moving to the Cloud Make You More Secure?](2209-billington.md) | Billington Cyber Summit 2022 | Panelist | Washington, D.C. | September 2022 |
 | [6. Panel: Government-Wide Programmatic Updates](2209-fedid.md) | AFCEA Federal Identity Forum and Expo 2022 | Panelist | Atlanta, GA | September 2022 |
 | [5. Presentation: FICAM Today](2208-fcw.md) | FCW ICAM Workshop | Speaker | Virtual Workshop | August 2022 |
 | [4. Panel: Keeping Hybrid Work Safe: The Importance of Identity Management](2207-atarc.md) | ATARC's Hybrid Virtual Cloud Summit | Panelist | Virtual Summit | July 2022 |
@@ -21,8 +23,8 @@ Previous and upcoming speaking engagements with the presentation if I can share 
 | Session Title or Role | Event Name | Format | Location | Date |
 | --------------------- | ---------- | :----: | :------: | :--: |
 | [12. Working Together for Privacy Protection: The Importance of Identity Management](2112-atarc.md) | ATARC/Ping Identity Webinar | Panelist | Webinar | December 2021 |
-| [11. The Adventure Map: Implementing Zero Trust](2111-actiac.md) | 2021 ACT-IAC Imagination | Panelist | Hybrid Conference (Hershey, PA) | November 2021 | 
-| [10. International Use Cases for Digital Identity](2110-keio.md) | 11th Keio International Cybersecurity Symposium | Moderator | Virtual Symposium (Tokyo, Japan) | October 2021|
+| [11. The Adventure Map: Implementing Zero Trust](2111-actiac.md) | 2021 ACT-IAC Imagination | Panelist | Virtual Conference - Hershey, PA | November 2021 | 
+| [10. International Use Cases for Digital Identity](2110-keio.md) | 11th Keio International Cybersecurity Symposium | Moderator | Virtual Conference - Tokyo, Japan | October 2021|
 | [9. President Biden’s Cybersecurity Executive Order 14028: Where are we now?](2109-Yubico.md) | Yubico BrightTalk | Panelist | Webinar | September 2021 |
 | [8. Identity at GSA](2108-Fedid.md) | AFCEA FedID 2021 Symposium | Panelist | Virtual Conference | August 2021 |
 | [7. The President's Cybersecurity Executive Order: Achieve Zero Trust and Strong MFA](2106-Yubico.md) | Yubico BrightTalk |  Panelist | Webinar | June 2021 |

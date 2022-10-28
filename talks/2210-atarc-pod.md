@@ -3,7 +3,8 @@ Hosted by: ATARC<br>
 Date: October 3, 2022<br>
 Venue: Podcast<br>
 Details:
-- [Recording](https://open.spotify.com/episode/6qUUUNpNFKBwsAzfUk84pv){:target="_blank"}{:rel="noopener noreferrer"} 
+- [Podcast](https://open.spotify.com/episode/6qUUUNpNFKBwsAzfUk84pv){:target="_blank"}{:rel="noopener noreferrer"} 
+- [Youtube](https://www.youtube.com/watch?v=bXNsagNT5KU){:target="_blank"}{:rel="noopener noreferrer"} 
 
 ## The Year of Zero Trust with Jim Richberg and Special Guest, Ken Myers
 Join this episode of The Year of Zero Trust with Jim Richberg as he sits down with special guest, Kenneth Myers, Director, Identity Assurance and Trusted Access Division, Office of Governmentwide Policy (OGP), GSA, to discuss the following questions:

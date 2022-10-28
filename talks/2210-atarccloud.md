@@ -19,6 +19,3 @@ Panelists:
 - Ron Williams; Lead of Cloud Adoption IT Modernization Centers of Excellence @ U.S. General Services Administration (GSA)
 - Landon Van Dyke; Chief Technology Officer of Office of Management Strategy and Solutions Under Secretary for Management @ U.S. Department of State (DOS)
 - Kenneth Myers; Director, Identity Assurance and Trusted Access Division Office of Government-Wide Policy @ General Services Administration (GSA)
-
-## Press Related to Event
-1. [site]

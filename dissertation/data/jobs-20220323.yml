@@ -1,6 +1,6 @@
 ## job search
 ## June 2022 - Added Direct Hire authority
-## Nov 1 - 33
+## Nov 1 - 35
 ---
 
 - source: 
@@ -24,6 +24,50 @@
   summary: 
   duties: 
   specialized:
+
+- source: https://www.usajobs.gov/job/686009900
+  title: Information Technology Specialist
+  org: National Aeronautics and Space Administration (NASA)
+  division: Office of the Chief Information Officer, Operations Division, Workplace and Collaboration Services Branch
+  openDate: 10/31/2022
+  closeDate: 11/04/2022
+  grade: GS-13
+  location: Edwards AFB, CA; Moffett Field, CA; Washington, DC; Kennedy Space Center, FL
+  appointment: Permanent
+  service: Competitive
+  jobFamily: 2210
+  supervisory: no
+  clearance: TS/SCI
+  announcement: HQ-23-DE-11703619-DT
+  controlNumber: 686009900
+  ncwfCode: N/A
+  pd: N/A
+  authority: dha
+  summary: You will serve as an Information Technology Specialist (Security) assigned to the Workplace and Collaboration Services Branch of the Operations Division within the Office of the Chief Information Officer. You will directly support and provide Agency-level Identity, Credential, and Access Management (ICAM) services that involve Public Key Infrastructure (PKI), with a contributing role in NASA's Directory Services (LDAP), Single Sign-On (SSO). 
+  duties: (1) Coordinate technical and administrative matters for supported technologies such as problem/incident management, standard/policy management, budget analysis, project management, configuration management, data call response, and security services; (2) Provide technical ICAM and PKI support services for NASA Corporate and NASA Missions; troubleshoot programming/system problems, hardware, software, networking, and operational problems; and recommend/implement corrective actions to restore services; (3) Develop and maintain NASA?s Hardware Security Modules, and Certificate Profiles as part of PKI Operations; (4) Support NASA-unique tooling such as NASA Trust Anchor Management (NTAM), Certificate Monitoring, and custom software for PKI/PIV Integrations; (5) Oversee solutions developed by NASA Missions for correct PKI implementation, proper security, and alignment with Agency ?as-is? ICAM and ?to-be? architectures; (6) Serve as the NASA Voting Representative to Federal PKI and ad hoc PKI working groups.
+  specialized: To qualify for GS-13, you must have one year of directly related specialized experience equivalent to the GS-12 level. (1) Working with a Public Key Information (PKI) system and presenting recommendations and technical solutions to a team lead; (2) Implementing system and network security controls and metrics, security risk management, and security architecture to prevent information systems vulnerabilities; (3) Working on a multi-disciplined Team as the PKI subject matter expert presenting security design recommendations that fit a variety of operating systems.
+
+- source: https://www.usajobs.gov/job/685440700
+  title: SUPERVISORY IT SPECIALIST (INFOSEC)
+  org: General Services Administration
+  division: Office of the Chief Information Officer
+  openDate: 10/25/2022
+  closeDate: 11/15/2022
+  grade: GS-15
+  location: Washington, DC
+  appointment: Permanent
+  service: Competitive
+  jobFamily: 2210
+  supervisory: yes
+  clearance: N/A
+  announcement: 23STFB025SL-DHA
+  controlNumber: 685440700
+  ncwfCode: N/A
+  pd: N/A
+  authority: dha
+  summary: As an Supervisory IT Specialist (INFOSEC) you will work with the Chief Information Security Officer (CISO) to oversee the GSA cybersecurity policy and strategy.
+  duties: (1) Serves as a key member of the OCISO Leadership team and subject matter expert in cybersecurity, making substantial contributions to the annual and long-range planning and cybersecurity program development, operating policy, advanced technologies research and application, organization enhancements, and internal and external coordination; (2) Provides agency-wide leadership, coordination, and technical guidance for the introduction and management of agency-wide IT Security initiatives; (3) Provides direction for the development of strategic and annual plans, policies and standards to institute a comprehensive security architecture that will satisfy Agency information security requirements now and in the foreseeable future that are relevant and achievable in GSA`s modern, digital and cloud focused environment; (4) Interprets all Federal and agency IT security policies for the Agency; (5) Responsible for the GSA cybersecurity risk management program including identification, review and tracking of enterprise cybersecurity risks, assess capabilities, prioritize security and risk strategies, and communicate risk intelligence in a way that drives business decision-making; (6) Provides technical and supervisory guidance for staff; (7) Supervises OCISO Division Directors (Direct supervision of ICAM Division, Policy and Compliance Division, and ISSO Support Services Division) and the program activities delivered therein; (8) Runs the information security function when the CISO is unavailable and must be able to function as the CISO during those times and crisis situations; (9) Manages, supervises, and directs a staff of government personnel and contractors. Identifies and facilitates OCISO goals and objectives. One or more positions may be filled using the vacancy announcement.
+  specialized: Specialized experience includes (1) Directing and implementing efficient and cost effective information security practices to improve reliability and security; (2) serving as a recognized expert on information security committees; (3) evaluating IT Security requirements and developing evaluation plans; (4) researching information security trends and forecasting additional security needs and requirements; (5) Demonstrates mastery knowledge of, and skill in applying, IT security laws, regulations, theories, concepts, practices, principles, and emerging issues; (6) project management methods and concepts sufficient to plan and coordinate agency wide implementation of Governmentwide and GSA IT security defense strategies to ensure protection of the GSA information and information system resources; (7) Demonstrates mastery knowledge of, and skill in applying, advanced management and organizational theories, principles, concepts, and methodologies to strategically manage and provide security leadership and guidance.
 
 - source: https://www.usajobs.gov/job/682294500
   title: SUPV IT PROJECT MANAGER (PLCYPLN)

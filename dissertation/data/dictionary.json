@@ -1,0 +1,56 @@
+[
+    {
+      "term": "identity management",
+      "tool": [
+        "directory",
+        "virtual directory",
+        "radiant logic",
+        "sailpoint"
+      ],
+      "keyword": [
+        "identity proofing",
+        "identity aggregations",
+        "lifecycle management"
+      ]
+    },
+    {
+      "term": "credential management",
+      "tool": [
+        "entrust",
+        "venafi"
+      ],
+      "keyword": [
+        "multifactor authentication",
+        "one time pin",
+        "FIDO",
+        "pki"
+      ]
+    },
+    {
+      "term": "access management",
+      "tool": [
+        "okta",
+        "ping",
+        "azure active directory"
+      ],
+      "keyword": [
+        "single sign-on",
+        "pki",
+        "authentication",
+        "abac",
+        "federation",
+        "saml",
+        "oidc",
+        "trust framework"
+      ]
+    },
+    {
+      "term": "privilege management",
+      "tool": [
+        "cyberark"
+      ],
+      "keyword": [
+        "privilege management"
+      ]
+    }
+  ]

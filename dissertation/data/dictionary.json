@@ -1,6 +1,6 @@
 [
     {
-      "term": "identity management",
+      "serviceArea": "identity management",
       "tool": [
         "directory",
         "virtual directory",
@@ -10,11 +10,12 @@
       "keyword": [
         "identity proofing",
         "identity aggregations",
-        "lifecycle management"
+        "identity lifecycle management",
+        "identity management"
       ]
     },
     {
-      "term": "credential management",
+      "serviceArea": "credential management",
       "tool": [
         "entrust",
         "venafi"
@@ -23,34 +24,31 @@
         "multifactor authentication",
         "one time pin",
         "FIDO",
-        "pki"
+        "pki",
+        "credential management"
       ]
     },
     {
-      "term": "access management",
+      "serviceArea": "access management",
       "tool": [
         "okta",
         "ping",
-        "azure active directory"
+        "azure active directory",
+        "cyberark"
       ],
       "keyword": [
         "single sign-on",
-        "pki",
+        "access control",
+        "role-based access",
+        "rbac",
         "authentication",
+        "authorization",
+        "attribute-based access",
         "abac",
         "federation",
         "saml",
         "oidc",
-        "trust framework"
-      ]
-    },
-    {
-      "term": "privilege management",
-      "tool": [
-        "cyberark"
-      ],
-      "keyword": [
-        "privilege management"
+        "trust framework",
+        "privileged access management"
       ]
     }
-  ]

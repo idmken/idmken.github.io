@@ -1,56 +1,104 @@
 [
     {
-      "term": "identity management",
-      "tool": [
+      "serviceArea": "identity management",
+      "keyword": [
         "directory",
         "virtual directory",
         "radiant logic",
-        "sailpoint"
-      ],
-      "keyword": [
+        "sailpoint",
         "identity proofing",
         "identity aggregations",
-        "lifecycle management"
+        "identity lifecycle management",
+        "deprovisioning",
+        "account management",
+        "entitlements",
+        "attribute management",
+        "reconciliation",
+        "resolution",
+        "identity management",
+        "ldap",
+        "active directory",
+        "azure active directory",
+        "ad",
+        "aad",
+        "mim",
+        "microsoft identity manager",
+        "access reviews",
+        "identity governance and administration",
+        "iga",
+        "recertification"
       ]
     },
     {
-      "term": "credential management",
-      "tool": [
-        "entrust",
-        "venafi"
-      ],
+      "serviceArea": "credential management",
       "keyword": [
-        "multifactor authentication",
+        "entrust",
+        "venafi",
         "one time pin",
         "FIDO",
-        "pki"
+        "pki",
+        "enrollment",
+        "credential management",
+        "password",
+        "push notification"
       ]
     },
     {
-      "term": "access management",
-      "tool": [
+      "serviceArea": "access management",
+      "keyword": [
         "okta",
         "ping",
-        "azure active directory"
-      ],
-      "keyword": [
+        "azure active directory",
+        "AAD",
         "single sign-on",
+        "SSO",
+        "public key infrastructure",
         "pki",
         "authentication",
+        "authorization",
+        "access management",
         "abac",
-        "federation",
+        "access control",
         "saml",
         "oidc",
-        "trust framework"
+        "open id connect",
+        "active directory federation services",
+        "adfs",
+        "policy decision point",
+        "two-factor authentication",
+        "tfa",
+        "mfa",
+        "multifactor authentication"
       ]
     },
     {
-      "term": "privilege management",
-      "tool": [
-        "cyberark"
-      ],
+      "serviceArea": "privilege management",
       "keyword": [
-        "privilege management"
+        "privileged access management",
+        "pam",
+        "cyberark",
+        "beyondtrust",
+        "thycotic",
+        "privileged",
+        "super user",
+        "privileged account management"
+      ]
+    },
+    {
+      "serviceArea": "federation",
+      "keyword": [
+        "policy alignment",
+        "authentication broker",
+        "attribute exchange",
+        "trust framework",
+        "assertion service",
+        "federation assertion",
+        "saml",
+        "oidc",
+        "open id connect",
+        "security token service",
+        "sts",
+        "trust relationship"
       ]
     }
   ]

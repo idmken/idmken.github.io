@@ -6,10 +6,13 @@ Previous and upcoming speaking engagements with the presentation if I can share 
 
 | Session Title or Role | Event Name | Format | Location | Date |
 | --------------------- | ---------- | :----: | :------: | :--: |
+| [15. 4 Steps to Building a Strong Identity-Centric Security Foundation](2212-govloop.md) | Govloop Webinar | Panelist | Webinar | December 2022 |
+| [14. Identity Lifecycle Management Playbook](2211-govid.md) | 2022 SailPoint Government Identity Security Virtual Summit | Presenter | Virtual Summit | November 2022 |
+| [13. Guide to GSA’s New Privileged Identity Playbook](2211-govcio.md) | GovCIO Media and Research Cybercast | Interviewee | Podcast | November 2022 |
 | [12. The Year of Zero Trust with Jim Richberg and Special Guest, Ken Myers](2210-atarc-pod.md) | ATARC Federal IT Newscast | Interviewee | Podcast | October 2022 |
 | [11. Hybrid Cloud and Security Risks](2210-atarccloud.md) | 2022 ATARC Federal Cloud & Infrastructure Summit | Panelist | Washington, D.C. | October 2022 |
 | [10. Federal Workforce Identity Strategy and Trust Frameworks](2210-identityweek.md) | 2022 Identity Week America | Speaker & Panelist | Washington, D.C. | October 2022 |
-| [09. ICAM Solutions](2209-govcio.md) | GovCIO Zero Trust Breakfest | Panelist | McLean, VA | Septebmer 2022 |
+| [09. ICAM Solutions](2209-govcio.md) | GovCIO Zero Trust Breakfast | Panelist | McLean, VA | September 2022 |
 | [08. Federal ICAM and Zero Trust](2209-resilientpod.md) | Resilient Cyber Podcast | Interviewee | Podcast | September 2022 |
 | [07. Will moving to the Cloud Make You More Secure?](2209-billington.md) | Billington Cyber Summit 2022 | Panelist | Washington, D.C. | September 2022 |
 | [06. Government-Wide Programmatic Updates](2209-fedid.md) | AFCEA Federal Identity Forum and Expo 2022 | Panelist | Atlanta, GA | September 2022 |

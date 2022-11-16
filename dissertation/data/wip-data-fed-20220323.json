@@ -1,5 +1,6 @@
 [
   {
+    "id":37,
     "source": "n/a",
     "title": "n/a",
     "org": "n/a",
@@ -24,6 +25,7 @@
     "specialized": "n/a"
   },
   {
+    "id":36,
     "source": "https://www.usajobs.gov/job/686503100",
     "title": "Supervisory Information Technology Specialist",
     "org": "department of health and human services",
@@ -48,6 +50,7 @@
     "specialized": "GS-14: You must possess at least one year of specialized experience equivalent in difficulty and responsibility to the GS-13 level in the Federal service (obtained in either the public or private sectors) performing (4) of the (5) duties listed below. Provides leadership and oversight direction to the activities of the center. Provides support services in areas of financial management and operates on a fee-for-service basis. Monitors the utilization of access control technologies to include or restrict unwanted individuals and activities. Ensures the efficiency in protecting the personnel, property, and resources of the agency. Advises senior management and makes recommendations involving adopting new technologies and improve the efficiency of program operations. Possess a FAC/PM COR III certification and be a certified Program Management Professional, in current good standing."
   },
   {
+    "id":35,
     "source": "https://www.usajobs.gov/job/686009900",
     "title": "Information Technology Specialist",
     "org": "National Aeronautics and Space Administration (NASA)",
@@ -71,6 +74,7 @@
     "specialized": "To qualify for GS-13, you must have one year of directly related specialized experience equivalent to the GS-12 level. (1) Working with a Public Key Information (PKI) system and presenting recommendations and technical solutions to a team lead; (2) Implementing system and network security controls and metrics, security risk management, and security architecture to prevent information systems vulnerabilities; (3) Working on a multi-disciplined Team as the PKI subject matter expert presenting security design recommendations that fit a variety of operating systems."
   },
   {
+    "id":34,
     "source": "https://www.usajobs.gov/job/685440700",
     "title": "SUPERVISORY IT SPECIALIST (INFOSEC)",
     "org": "General Services Administration",
@@ -94,6 +98,7 @@
     "specialized": "Specialized experience includes (1) Directing and implementing efficient and cost effective information security practices to improve reliability and security; (2) serving as a recognized expert on information security committees; (3) evaluating IT Security requirements and developing evaluation plans; (4) researching information security trends and forecasting additional security needs and requirements; (5) Demonstrates mastery knowledge of, and skill in applying, IT security laws, regulations, theories, concepts, practices, principles, and emerging issues; (6) project management methods and concepts sufficient to plan and coordinate agency wide implementation of Governmentwide and GSA IT security defense strategies to ensure protection of the GSA information and information system resources; (7) Demonstrates mastery knowledge of, and skill in applying, advanced management and organizational theories, principles, concepts, and methodologies to strategically manage and provide security leadership and guidance."
   },
   {
+    "id":33,
     "source": "https://www.usajobs.gov/job/682294500",
     "title": "SUPV IT PROJECT MANAGER (PLCYPLN)",
     "org": "Department of Defense",
@@ -117,6 +122,7 @@
     "specialized": "To qualify at the GG-15, your resume must describe at least one year of experience that demonstrates the competencies necessary for immediate success in the position. For this position, qualifying experience is defined as; (1) experience in managing the requirements and design of a net worthiness program and implementing the use of standard development methodologies that refine and improve IT services delivery and supports business practices with a primary focus on the insertion of Identity, Credential & Access Management (ICAM) related technologies."
   },
   {
+    "id":32,
     "source": "https://www.usajobs.gov/job/680672600",
     "title": "IT Program Manager",
     "org": "Department of Defense",
@@ -140,6 +146,7 @@
     "specialized": "One year of specialized experience equivalent to the GS-13 grade level in the Federal service; (1) Direct experience with cloud-based technology, cloud migrations, and technology modernization; (2) Leads support for planning, development, and implementation of improvements in Identity, Credential, and Access Management (ICAM) programs and applications; (3)Serves as a Program Manager/Customer Relationship Manager for both major and minor IT programs; (4) Leads support for planning, development, and implementation of improvements in information technology services, capabilities, and data standards with an emphasis on Zero Trust concepts."
   },
   {
+    "id":31,
     "source": "https://www.usajobs.gov/job/682065300",
     "title": "IT Specialist (INFOSEC)",
     "org": "Federal Deposit Insurance Corporation",
@@ -163,6 +170,7 @@
     "specialized": "To qualify, applicants must have completed at least one year of specialized experience equivalent to at least the CG/GS-12 grade level or above in the Federal service.  Specialized experience is defined in the following areas; (1) leading enterprise complex program/project including planning, budgeting, executing and monitoring program/project to deliver infrastructure and/or security products to meet business and Information Technology (IT) and Security operation needs."
   },
   {
+    "id":30,
     "source": "https://www.usajobs.gov/job/679240000",
     "title": "Assistant Director, Information Security - Division of Information Technology",
     "org": "Federal Reserve Board - Board of Governors",
@@ -186,6 +194,7 @@
     "specialized": "III. KNOWLEDGE/SKILL/EDUCATION REQUIREMENTS; (1) Bachelor's degree in Computer Science, Information Systems, or related field. Advanced degree preferred; (2) 10 years of related technical experience including 3 years of experience managing people; (3) Experience in leading information security and/or ICAM operations capabilities and in developing implementing information security strategies; (4) Experience implementing information security tools under a mission critical complex architectural environment supporting thousands of users and endpoints; (5) Experience developing information security strategies through a project lifecycle; (6) Experience with conflict mediation; (7) Experience overseeing a complex portfolio of operational toolsets; (8) Experience and commitment to fostering collaboration and employee engagement, building high performing teams, diminishing organizational silos, strengthening teams, and facilitating effective group and team dynamics; (9) Experience leading and managing staff and projects effectively, setting priorities, assessing performance, guiding staff development, and making budgetary recommendations; (10) Ability to balance competing interests among a variety of clients and readily readjust priorities to respond to pressing and changing client demands. Must be able to anticipate and meet the clients' needs while maintaining high-quality end products; (11) Exceptional organization savvy and agility as demonstrated by ability to manage across organizational boundaries; (12) Requires the ability to communicate effectively, both orally and in writing, with all levels of staff and management."
   },
   {
+    "id":29,
     "source": "https://www.usajobs.gov/job/678457800",
     "title": "PHYSICAL SECURITY SPECIALIST",
     "org": "Department of Defense",
@@ -209,6 +218,7 @@
     "specialized": "You may qualify at the GS-13 level, if you fulfill the following qualification requirement; (1) One year of specialized experience equivalent to the GS-12 grade level in the Federal service (experience may have been gained in the private sector) that demonstrates your ability to/ experience in; (2) Applying knowledge in design, operation and integration of multiple Electronic Security System (ESS) areas such as Physical Access Control Systems (PACS), Closed CircuitTelevision (CCTV) / IP video surveillance, Intrusion Detection Systems (IDS), Identity and Visitor Management Systems, and others; (3) Applying knowledge in agency physical, industrial and operations security programs, policies and standards; (4) Applying knowledge in IT and cybersecurity necessary to field and maintain PACS,CCTV, IDS, and others."
   },
   {
+    "id":28,
     "source": "https://www.usajobs.gov/job/679525700",
     "title": "IT Cybersecurity Specialist (CUSTSPT/INFOSEC)",
     "org": "Department of Homeland Security",
@@ -232,6 +242,7 @@
     "specialized": "To qualify at the GS-11 grade level, applicants must have at least one full year of specialized experience equivalent to at least the GS-09 grade level in the federal sector.  Specialized experience may include the following; (1) Supporting key projects within the Identity, Credentialing, and Access Management (ICAM) arena to maintain cost, schedule, and performance affecting an organization's systems; (2) Support daily activities of contractor personnel and report findings to Contracting officer; (3) Conducting system engineering IAW one of the following Information Technology Service Management (ITSM), DoD Enterprise Service Management Framework, and Systems Engineering Life Cycle (SELC) practices; (4) Conducting analysis and providing recommendations to develop, release, evaluate and execute Statement of Works (SOWs), Statement of Objectives (SOOs), Request for Information (RFI) and, Request for Proposals (RFPs); (5) Tracking integrated master schedules, key milestones, and critical paths through appropriate automated tools and processes; (6) Supporting project managers using one of the following AGILE/SCRUM/DEVSECOPS methodologies; (7) OR Applicants may substitute successful completion of 3 years of progressively higher level graduate education or Ph.D. or equivalent graduate degree (such as an LL.M, if related); (8) OR A combination of appropriate specialized experience (as described above) and graduate education (as described above) that is beyond the second year of progressive graduate study to meet the qualification requirements. To qualify at the GS-12 or GS-13 grade level, applicants must have at least one full year of specialized experience equivalent to at least the GS-12 grade level in the federal sector.  Specialized experience may include the following; (1) Leading key projects within the ICAM arena to maintain cost, schedule, and performance affecting an organization's systems; (2) Overseeing and monitoring daily activities of contractor personnel and report findings to Contracting Officer; (3) Conducting system engineering IAW one of the following ITSM, DoD Enterprise Service Management Framework, and SELC practices; (4) Conducting analysis and providing recommendation(s) to develop, release, evaluate and execute SOWs, SOOs, RFI and, RFPs; (5) Overseeing and tracking integrated master schedules, key milestones, and critical paths through appropriate automated tools and processes; (6) Conducting project management using AGILE/SCRUM/DEVSECOPS methodologies."
   },
   {
+    "id":27,
     "source": "https://www.usajobs.gov/job/674865000",
     "title": "Information Technology Specialist (Cyber)",
     "org": "Department of Labor",
@@ -255,6 +266,7 @@
     "specialized": "Applicants must have 52 weeks of specialized experience equivalent to at least the next lower grade level, GS-13, in the Federal Service. Specialized experience is (1) experience as a Subject Matter Expert that leads enterprise-wide IT Security projects. (2) Provides technical oversight in the configuring and deploying a broad array of security tools. (3) experience in designing security solutions leveraging knowledge of infrastructure, trusted applications, continuous monitoring proper implementation of security appliances and protecting on-prem and cloud-based systems. (4) Experience in the development activities surrounding zero trust pillars, frameworks and implementation strategies particularly in visibility/analytics and automation/orchestration."
   },
   {
+    "id":26,
     "source": "https://www.usajobs.gov/job/673128100",
     "title": "IT Specialist (INFOSEC)",
     "org": "General Services Administration",
@@ -278,6 +290,7 @@
     "specialized": "Experience applying IT security policies, concepts, and practices and emerging issues, and project management methods and concepts sufficient to planning, coordinating and implement agency wide IT security strategies and programs to ensure protection of IT assets and infrastructure; evaluate alternative solutions to emerging cybersecurity issues; develop and lead IT security initiatives and provide program management and oversight; research issues relating to IT security and identity and access management for organizational policy updates."
   },
   {
+    "id":25,
     "source": "https://www.usajobs.gov/job/666153000",
     "title": "IT Specialist (INFOSEC)",
     "org": "Federal Deposit Insurance Corporation",
@@ -301,6 +314,7 @@
     "specialized": "N/A"
   },
   {
+    "id":24,
     "source": "https://www.usajobs.gov/job/665862700",
     "title": "Information Technology Specialist",
     "org": "Department of Homeland Security",
@@ -324,6 +338,7 @@
     "specialized": "You qualify for this position at the GS-13 level (starting salary $106,823) if you possess the following (1) One full year of specialized experience equivalent to the next lower grade (GS-12) in the Federal Service in at least two of the areas identified below.  This experience may have been gained in the federal government, a state or local government, a non-profit organization, the private sector, or as a volunteer; however, your resume must clearly describe at least one year of specialized experience. There are several positions available.  Specialized experience for these positions includes either Cyber Assessment OR Identity, Credential & Access Management (ICAM) experience as follows.Cyber Assessments. (1) Conducting Security Control Assessments for information systems.  Creating Security Assessment Plans, and Security Assessment Reports.  Conducting assessments of systems in Ongoing Authorization. (2) Conducting vulnerability scans efforts on infrastructures, applications, web applications, databases, and source code.  Conducting analysis on vulnerabilities,  identifying false positives, creating vulnerability reports. (3) Conducting penetration tests against infrastructures, and applications.  Creating penetration test reports and rules of engagements. Conducting information gathering, enumeration, vulnerability identification, exploitation, pivoting, and privilege escalation.  Conducting briefings and leading meetings. ICAM. (1) Managing and reporting Applications\\Systems Strong Authentication monthly. (2) Automating and managing Identity Management tool suite for Privilege Accounts capability. (3) Managing accounts creation/deletion approval process for disaster surge support. (4) Managing State, Local, Tribal, and Territorial (SLTT) account access metrics. (5) Supporting all data calls for Zero Trust Identity Pillar reporting to include multi-factor authentication (MFA) metrics."
   },
   {
+    "id":23,
     "source": "https://www.usajobs.gov/job/665575300",
     "title": "IT Specialist (INFOSEC)",
     "org": "Department of Commerce",
@@ -347,6 +362,7 @@
     "specialized": "Applicants must demonstrate that they meet the four (4) IT Competencies and the Specialized Experience as noted below Four (4) IT Competencies (1) Attention to Detail Providing system and security operational and maintenance support of security infrastructure. (2) Customer Service Troubleshooting and resolving complex issues that may arise in the production environment. (3) Oral communication Serving as a subject matter expert pertaining to computer, network and systems security (4) Problem Solving Implementing security hardening and vulnerability management to affected systems to remedy security and other vulnerabilities in accordance with IT security best practices. Specialized Experience ZP-IV (GS-13/14). To qualify for the ZP-IV (GS-13/14) you must possess at least one year of specialized experience at or equivalent to the GS-12 grade level or ZP-III pay band in the Federal service or equivalent experience in the private or public sector performing all of the following (1) Implementing and managing enterprise-wide IT security toolset solutions, such as Tenable, FireEye, LogRhythm, McAfee CASB. (2) Configuring IT security systems, analyzing security requirements, and recommending improvements for the overall infrastructure. (3) Conducting vulnerability management and implementation of DISA STIGs to ensure the proper defenses are integrated to minimize security breaches. (4) Implementing Federal Cybersecurity frameworks such as Zero Trust architecture."
   },
   {
+    "id":22,
     "source": "https://www.usajobs.gov/job/668071600",
     "title": "Supervisory IT Cybersecurity Specialist (PLCYPLN/INFOSEC)",
     "org": "Department of the Homeland Security",
@@ -370,6 +386,7 @@
     "specialized": "To qualify at the GS-14 grade level, applicants must have at least one (1) full year of specialized experience equivalent to at least the GS-13 grade level. Specialized experience is experience that has equipped you with the particular ability, skill, and knowledge to successfully perform the duties of this position and is typically in or related to this line of work. Specialized experience may include the following (1) Knowledge of and experience acting as the Service Owner and single point of accountability for development, delivery, support and technical expertise for assigned C5I services, including wide area networks, local area networks, commercial satellites networks, wifi networks, and voice networks. Be prepared to describe the environment and your level of involvement. (2) Experience managing an annual budget in excess of $100M. (3) Experience working with customers, stakeholders and sponsors to elicit requirements, resources and prioritization. Be prepared to describe the environment and your level of involvement. (4) Knowledge of and experience coordinating the implementation of new C5I services, including project management, technical documentation and support, maintenance procedures, training, etc. (5) Experience with advanced procurement planning, requirements documents, market research, government cost estimates, and participation in solicitation, contract award, oversight of contractor performance, review/inspection of deliverables, invoicing, contract modifications, contractor performance documentation, and maintenance of a COR file for C5I systems and services."
   },
   {
+    "id":21,
     "source": "https://www.usajobs.gov/job/666475900",
     "title": "IT Specialist (INFOSEC)",
     "org": "General Services Administration",
@@ -391,6 +408,7 @@
     "specialized": "Specialized experience is defined as experience leading IT security projects, providing information and recommendations to meet the business goals and improve processes of an organization’s IT security infrastructure in one of the following areas. (1) Experience in operationalizing an enterprise Identity, Credential, and Access Management (ICAM) program, including authentication mechanisms (e.g. SAML, OIDC) and access management solutions OR (2) Experience in a Enterprise Vulnerability Management focus on Vulnerability Disclosure Program and Bug Bounty Program, OR (3) Experience in Enterprise Cyber Security Operation Center and Incident Response OR (4) Experience in operationalizing and orchestrating the ecosystem of various Cyber risk management dashboards, OR (5) Experience in security architecture design and review, threat modeling, DevSecOps and technical guide development."
   },
   {
+    "id":20,
     "source": "https://www.usajobs.gov/job/663064400",
     "title": "Information Technology Specialist (INFOSEC)",
     "org": "Department of Homeland Security",
@@ -411,6 +429,7 @@
     "specialized": "You qualify for this position at the GS-14 level (starting salary $126,233) if you possess the following one full year of specialized experience equivalent to the next lower grade (GS-13) in the Federal Service in at least three of the areas identified below. This experience may have been gained in the federal government, a state or local government, a non-profit organization, the private sector, or as a volunteer; however, your resume must clearly describe at least one year of specialized experience. There are several positions available.  Specialized experience for these positions includes either Cyber Assessment OR Identity, Credential & Access Management (ICAM) experience as follows. Cyber Assessments (1) Conducting and leading teams in Security Control Assessments, creating Security Assessment Plans, and Security Assessment Reports, Conducting assessments of systems in Ongoing Authorization or (2) Conducting and leading teams in vulnerability scans efforts including infrastructures, applications, web applications, databases, and source code; Conducting analysis on vulnerabilities, identifying false positives, creating vulnerability reports or (3) Conducting and leading teams in penetration tests against infrastructures, and applications; Creating penetration test reports and ROEs. ICAM (1) Providing Identity, Credential & Access Management (ICAM) project management and technical support to subject matter experts (SMEs) across program office(s) and regional stakeholders. The project activities include framework development, integration into Enterprise Architecture, operational analysis, process design, policy review/development and governance documentation. (2) Providing critical review and recommendations for the design strategy, implementation, management, monitoring, and accountability for Zero Trust\\Identity Management technology solutions. (3) Conducting market research/studies for emerging technologies and commercial software to support agencys Zero Trust\\Identity Management portfolio and strategic road maps. (4) Implementing and documenting the Zero Trust\\Identity Management security model into an enterprise environment. (5) Developing Zero Trust\\Identity Management security metrics and technical analysis to give insight into performance and trends. (6) Creating policies and procedures for current plus emerging security technologies and proposals. Certified Information Systems Security Professional (CISSP) and/or CAP preferred."
   },
   {
+    "id":19,
     "source": "https://www.usajobs.gov/job/663042700",
     "title": "IT Cybersecurity Specialist",
     "org": "Department of the Interior",
@@ -431,6 +450,7 @@
     "specialized": "Applicants for the GS-14 grade level must possess one year of specialized experience equivalent to at least the GS-13 grade level. Specialized experience is defined as experience that is in or directly related to the line of work of this position and has equipped you with the knowledge and competencies to successfully perform the duties of this position. More specifically, specialized experience for this position includes but is not limited to (1) familiarity with implementing Identity, Credential and Access Management programs at the agency level, Federal PKI operations, knowledge on use of Personal Identity Verification (PIV) card and certificates for secure access to systems and facilities and risk-based access management practices (including environment attributes and user behavioral analytics). (2) Experience with ICAM trends supporting OMB goals and emerging capabilities and architectures including CDM Master User Records and developing enterprise Identity Management Systems. (30 Knowledge of Identity Lifecycle Management workflows, such as Self-Service Access Requests, Birth-right Provisioning, and other Joiner-Mover-Leaver events."
   },
   {
+    "id":18,
     "source": "https://www.usajobs.gov/job/661233800",
     "title": "Information Technology Specialist",
     "org": "Federal Trade Commission",
@@ -451,6 +471,7 @@
     "specialized": "At both the GS-13 and GS-14 levels the ideal candidate will have (1) Experience with Microsoft Outlook for Microsoft 365. (2) Experience with the entire MS365 suite of applications to include but not limited to Teams, SharePoint Online, OneDrive, Exchange Online, Microsoft Active Directory Online/Onsite. (3) Experience in creating and configuring Microsoft 365 tenants. (4) Experience with managing data in M365 to include data retention, sensitivity labeling, Data Loss Prevention and eDiscovery. (5) Experience in project management leading M365 projects. (6) Understanding of Microsoft MDM tools - Intune, Azure Identity and Rights Management, Enterprise Mobility + Security. (7) Strong understanding of ITIL. (8) Organizational change management experience to include large-scale implementation projects designed to increase productivity, collaboration, and communication."
   },
   {
+    "id":17,
     "source": "https://www.usajobs.gov/job/664340000",
     "title": "Supervisory IT Cybersecurity Specialist (PLCYPLN/INFOSEC)",
     "org": "Department of Homeland Security",
@@ -471,6 +492,7 @@
     "specialized": "To qualify at the GS-14 grade level, applicants must have at least one (1) full year of specialized experience equivalent to at least the GS-13 grade level. Specialized experience is experience that has equipped you with the particular ability, skill, and knowledge to successfully perform the duties of this position and is typically in or related to this line of work. Specialized experience may include the following (1) Supervising Military, Civilian & Contractors, Managing workloads and prioritizing projects/tasks. (2) Leading teams on development of Identity, Credential and Access Management (ICAM) solutions including Cloud computing. (3) Providing subject matter expertise on DOD related ICAM Governance, Cybersecurity regulatory compliance, and TASKORD compliance. (4) Facilitating cross-functional teams of senior staff, Engineers and technicians; resolving technical conflicts to accomplish mission and engaging with interagency (DISA, DHS, DoD & USCG) stakeholders to develop ICAM solutions to enhance Cybersecurity."
   },
   {
+    "id":16,
     "source": "https://www.usajobs.gov/job/664134800",
     "title": "Information Technology Specialist, GS-2210-13 FPL 13, Direct Hire (INFOSEC)",
     "org": "Department of Education",
@@ -491,6 +513,7 @@
     "specialized": "Specialized Experience for the GS-13 include one year of experience in either federal or non-federal service that is equivalent to at least a GS-12 performing two (2) out of three (3) of the following duties or work assignments (1) Experience supporting successful implementation of Program Management Office (PMO) to develop and deliver organization-wide Cybersecurity and IT services. (2) Experience successful management of multiple cybersecurity contracts, projects and programs within established time frames, schedules, and budgets (3) Experience implementing complex and innovative Cybersecurity solutions across multiple technology organizations. You do not need to provide separate narrative responses to these KSAs, as they will be measured by your responses to the occupational questionnaire (you may preview the occupational questionnaire by clicking the link at the end of the Evaluations section of this vacancy announcement). (1) Ability to apply complex cybersecurity theories, advanced principles, concepts, standards, and practices to conceptualize and implement new initiatives and approaches in broad areas of assignment. (2) Ability to serve as Contracting Officers Representative (COR) and manage projects and programs within established timeframes, schedules and budgets. (3) Ability to research best practices within and outside the organization to establish benchmark data and use continuous process improvement disciplines to achieve results. (4) Ability to serve as advisor on Cybersecurity and IT areas of assignment to other agency experts and program managers and to counterparts in other agencies."
   },
   {
+    "id":15,
     "source": "https://www.usajobs.gov/job/645809200",
     "title": "Information Technology Specialist (INFOSEC)",
     "org": "Department of the Agriculture",
@@ -511,6 +534,7 @@
     "specialized": "You must meet the following requirements by the closing date of this announcement. (1) Specialized experience is a minimum of one year of experience at the GS-12 level or equivalent in other public or private sectors, that is directly related to the position as listed in this announcement and which has equipped the candidate with the particular knowledge, skills, and abilities to successfully perform the duties of the position. Specialized experience is defined as analyzing or supporting policies, standards, guidelines, and technology pertaining to Identity, Credential, and Access Management for an IT Program. Examples of this include. (1) Defining or documenting data models, business requirements, workflows, and processes. (2) Delivering technical or executive level presentations to management and other stakeholders. (3) Managing special IT projects as assigned."
   },
   {
+    "id":14,
     "source": "https://www.usajobs.gov/job/654811700",
     "title": "Information Technology Specialist (INFOSEC) - Zero Trust",
     "org": "Securities and Exchange Commission",
@@ -531,6 +555,7 @@
     "specialized": "In addition to meeting the basic requirement, applicants must also meet the minimum qualification requirement. SK-14 - Applicant must have at least one year of specialized experience equivalent to the GS/SK-13 level. (1) Planning, designing, implementing, and maintaining security infrastructure systems, for example network firewall, vulnerability management system, web proxy, and intrusion detection/prevention systems. (2) Developing and implementing zero trust solutions, roadmaps, and capabilities in alignment with industry standards, including familiarity with NIST 800-207 or the DoD Zero Trust Reference Architecture. (3) Designing solutions to address zero trust pillars particularly in visibility/analytics and automation/orchestration. (4) Implementing modern network infrastructure capabilities (i.e., Secure Access Service Edge (SASE), Software-Defined Wide Area Networks (SD-WAN), Software-Defined Perimeter (SDP), Software-Defined Networks (SDN), etc.) (5) Identifying, evaluating, and mitigating information systems vulnerabilities. (6) Advising on, designing, and implementing security controls. (7) Developing technical security standards and configuration baselines for information systems, platforms, and applications."
   },
   {
+    "id":13,
     "source": "https://www.usajobs.gov/job/656021600",
     "title": "IT Specialist Security Architect",
     "org": "Department of Education",
@@ -553,6 +578,7 @@
     "specialized": "One year of experience in either federal that is equivalent to at least a GS-14 performing two (2) out of three (3) of the following duties or work assignments. (1) Experience with providing technical and solution architectural guidance for programs implementing Identity, Credential, and Access Management (ICAM), Multi-Factor Authentication (MFA), single and/or simplified sign-on (SSO), Zero Trust Architecture principles, and other security policies, technologies, and frameworks that limit and track the access of those in an organization to sensitive technology resources. (2) Experience working with DevSecOps tools, processes, and teams by incorporating security into all stages of the software development and deployment workflow and ensuring security practices are injected into an organization’s DevOps pipeline. (3) Experience with architecting, developing, and implementing secure, containerized and/or server less cloud-based solutions that meet business requirements, align tightly with the enterprise strategy, and comply with legislative, regulatory, or statutory requirements. (4) Knowledge of IT architecture, cloud security principles and best practices, cloud hardening methodologies and techniques in enterprise cloud platforms such as AWS, and monitoring and incident response practices, processes, and solutions using a multi-cloud footprint. (5) Skill providing technical advisement and support for programs implementing Identity, Credential, and Access Management (ICAM), Multi-Factor Authentication (MFA), single and/or simplified sign-on (SSO), and/or Zero Trust principles, in compliance with legislative, regulatory, or statutory requirements. (6) Ability to collaboratively architect, develop, and execute cloud security roadmaps and architectures with a security-first approach that other teams can easily follow, including architecture, engineering, development, infrastructure operations, and cybersecurity."
   },
   {
+    "id":12,
     "source": "https://www.usajobs.gov/job/657886800",
     "title": "Information Technology Specialist (INFOSEC)",
     "org": "Department of Agriculture",
@@ -573,6 +599,7 @@
     "specialized": "Specialized experience for the GS-13. (1) You must have one year of specialized experience at a level of difficulty and responsibility equivalent to the GS-12 grade level in the Federal service. (2) Specialized experience is defined as analyzing or supporting policies, standards, guidelines, and technology pertaining to Identity, Credential, and Access Management for an IT Program."
   },
   {
+    "id":11,
     "source": "https://www.usajobs.gov/job/651631700",
     "title": "Supervisory Program Manager",
     "org": "Department of Homeland Security",
@@ -593,6 +620,7 @@
     "specialized": "You qualify for this position at the GS-13 level (starting salary $106,823) if you possess the following; One full year of specialized experience equivalent to the next lower grade (GS-12) in the Federal Service.  This experience may have been gained in the federal government, a state or local government, a non-profit organization, the private sector, or as a volunteer; however, your resume must clearly describe at least one year of specialized experience.  Specialized experience for this position includes Developing or providing input to long-range strategic planning documents; Developing performance objectives to meet project baselines or mission requirements; Conducting reviews on action items to improve business processes; Developing security management program trainings or presentations."
   },
   {
+    "id":10,
     "source": "https://www.usajobs.gov/job/650992400",
     "title": "IT Specialist (SYSADMIN)",
     "org": "Department of Homeland Security",
@@ -613,6 +641,7 @@
     "specialized": "GS-13 - You qualify for the GS-13 grade level if you have one year of specialized experience at the GS-12 grade level in the Federal service (obtained in either the public or private sectors) performing the following Identifying server performance, availability, capacity, or configuration problems in order to make recommendations for system improvement to management; Utilizing configuration management methods and techniques to install and maintain software and hardware; Reviewing IT system plans and specifications to ensure adequate analysis and implementation dates; Testing, troubleshooting, and maintaining server operating systems, hardware and software systems."
   },
   {
+    "id":9,
     "source": "https://www.usajobs.gov/job/649524600",
     "title": "Supervisory IT Specialist (Applications Software)",
     "org": "Department of Commerce",
@@ -633,6 +662,7 @@
     "specialized": "In addition to the basic requirements, applicants must have one year (52 weeks) of specialized experience equivalents to at least the GS-12 level (ZP-III at NIST). Specialized experience is defined as experience Query Language (SQL); managing personal identity verification data (FIPS 201); developing system security plans for multiple applications (NIST Special Publication 800-53); deploying applications via continuous integration/continuous delivery pipelines involving some or all of these software tools Apache, Tomcat, WebLogic; coding experience with Unix shell scripts, Windows batch and PowerShell scripts, Java, Python; experience with cloud-based technologies, including integration with services from providers such as Amazon Web Services or Azure Cloud Platform; experience with various tools utilized in the DevOps ecosystem such as Terraform, Docker, Ansible, GitLab, GitHub, Kubernetes."
   },
   {
+    "id":8,
     "source": "https://www.usajobs.gov/job/648380800",
     "title": "IT Cybersecurity Specialist",
     "org": "Department of the Interior",
@@ -652,6 +682,7 @@
     "duties": "Apply security principles to common structures, processes and techniques of IT system development, operations and maintenance; conduct analysis and interpretation of IT security principles and directives. Execute Identity, Credential and Access Management (ICAM) activities in line with ICAM vision and goals and manage DOI?s obligations in relation to the CDM IAM tasks. Have a working understanding of service provider managed or cloud computing technologies and the application of security controls within them. Experience interpreting government wide information security guidance and the application of information in establishing standards, policies, and guidelines to ensure appropriate implementation, and compatibility. Oversee and manage multiple IT projects that required a range of knowledge of computer requirements and techniques. Engage with technical experts from the Federal agencies and the user community to identify and solve identity, credential, and access management challenges. Provide technical expertise on the application and enabling of ICAM goals. Coordinate with the government sponsors to identify cybersecurity requirements, gaps, and design alternatives. Identify how ICAM can enable secure information access and sharing, and provide guidance on how to make best use of currently available tools. Assess ICAM designs/implementation on their ability to support functional and security requirements. Work closely with security assessment teams to ensure compliance with ICAM security standards."
   },
   {
+    "id":7,
     "source": "https://www.usajobs.gov/job/648930700",
     "title": "Information Technology Specialist (SYSTEMS ANALYSIS)",
     "org": "Department of State",
@@ -671,6 +702,7 @@
     "duties": "Serves as primary customer technical advisor responsible for collecting and refining stakeholder requirements for integration with the Departments Identity Credential and Access Management (ICAM) systems. Develops and establishes short-and long-term initiatives in response to operational needs of the organization. Develops and applies technical policies to include standards, protocols, and data administration techniques for integration. Serves as the project manager for large and complex technical implementations pertaining to Identity Credential and Access Management (ICAM) solutions. Evaluates system design, development, integration, proliferation, and post integration objectives."
   },
   {
+    "id":6,
     "source": "https://www.usajobs.gov/Job/631335700",
     "title": "It Specialist (Infosec)",
     "org": "Department of Veterans Affairs",
@@ -693,6 +725,7 @@
     "duties": "This position is primarily aligned to the following NICE Cybersecurity Workforce Framework work roles. NCWF Code 461 Category - System Security Analyst. Responsible for the analysis and development of the integration, testing, operations, and maintenance of systems security. Provides leadership and guidance on tasks/projects and to coworkers/project teams, maintains project budgets and schedules, and may be called upon to lead a task/project team to successful conclusion, while providing subject matter expertise to other offices in the VA, and recommending methods to improve VA's 1AM enterprise effort Responsible for representing the division on high-level task forces and committees that may address resources, enterprise architecture, incident response, information security, operations, risk management and other issues impacting successful deployment of VA 's 1AM management program. Acquire and manage the necessary resources, including leadership support, financial resources, and key security personnel, to support information technology (IT) security goals and objectives and reduce overall organizational risk. Advise senior management (e.g., Chief Information Officer [CIO]) on risk levels, security posture and cost/benefit analysis of information security programs, policies, processes, systems, and elements. Ensure that security improvement actions are evaluated, validated, and implemented as required."
   },
   {
+    "id":5,
     "source": "https://www.usajobs.gov/job/634053900",
     "title": "Supervisory IT Specialist (INFOSEC)",
     "org": "Department of the Treasury",
@@ -712,6 +745,7 @@
     "duties": "Serve as a subject matter expert on information technology issues related to security for telecommunications, data, voice, and video. Serve as a subject matter expert for security engineering and architecture in enterprise implementations of information technology. Manage a staff of security specialists performing duties on multiple projects and programs within the Department, including secure baselines, data metrics, change management, cyber security training for users and responders, incident response, documentation, security operations, audit support, log management, Federal Information Security Modernization Act (FISMA) compliance, penetration testing and intranet presence. Identify and analyze problems; use sound reasoning to arrive at conclusions; find alternative solutions to complex problems; distinguish between relevant and irrelevant information to make logical judgments."
   },
   {
+    "id":4,
     "source": "https://www.usajobs.gov/Job/566950000",
     "title": "IT Specialist",
     "org": "General Services Administration",
@@ -731,6 +765,7 @@
     "duties": "Leads government-wide efforts to identify needed areas of policy and implementation improvement to ensure that Federal IT systems and other resources are being managed in a secure, reliable, and cost-effective manner consistent with Federal Identity, Credential, and Access Management (FICAM) policy goals. Provides IT security leadership, expert technical assistance, and authoritative advice on interpreting IT security policies and practices relating to the Federal Information Security Management Act (FISMA), OMB Circulars, National Institute of Standards and Technology (NIST) guidelines and requirements, and other pertinent Federal IT security standards and requirements. Formulates IT security policy recommendations for FICAM-related initiatives to plan, develop, and implement innovative Government-wide identity management, credentialing, and access management policies, technical implementation guidance and best practices across the Federal government. Leads and/or participates in interagency information security committees and councils and is recognized as a technical IT security expert and authority in the identity and access management and related areas of IT security."
   },
   {
+    "id":3,
     "source": "https://www.usajobs.gov/job/644479400",
     "title": "IT Specialist (System Administration)",
     "org": "Federal Aviation Administration",
@@ -750,6 +785,7 @@
     "duties": "The incumbent of this position will serve as an Information Technology Specialist in the AIT Infrastructure & Operations (AIF) Service Division and will report to the Manager of the Directory Services Branch. He/She will use various Microsoft Active Directory (AD) administration tools, Windows Servers management and monitoring tools, scripts, and Azure Cloud administration consoles to manage, troubleshoot, and monitor Microsoft Windows Active Directory (AD), Domain Controllers (DC), Windows member Servers and Cloud Environments. He/She will be the Subject Matter Expert (SME) in Microsoft Windows Server (2016 or newer) AD administration, Domain Name System (DNS),Dynamic Host Configuration Protocol (DHCP), Distributed File System (DFS), Group Policy Objects (GPO), Azure Active Directory Connect (AADC), Active Directory Federation Services (ADFS), Web Application Proxy (WAP),Public Key Infrastructure (PKI), Multi Factor Authentication (MFA) and System Center Operations Manager (SCOM)administration. This position requires an understanding of PowerShell scripting, networking, firewalls, security protocols, server backups, server patching and windows server security scan remediation. This position will also research and recommend new products and technologies as they become available. This position will work with AIF and other Line of Business (LOB) staff to manage on premise and in cloud Microsoft Identity Providers to provide uninterrupted authentication to all customers within the FAA. Communication skills in small and medium sized groups are required to gather required information and brief out on results. The ability to ask the right questions to better understand processes and requirements from customers is a key skill for this position. The incumbent will need to effectively communicate and collaborate with peers and stakeholders to facilitate a positive customer experience."
   },
   {
+    "id":2,
     "source": "https://www.usajobs.gov/job/640250700",
     "title": "IT Cybersecurity Specialist (PLCYPLN/INFOSEC)",
     "org": "Department of Homeland Security",
@@ -769,6 +805,7 @@
     "duties": "You will serve as a IT Cybersecurity Specialist (PLCYPLN/INFOSEC), responsible for directly managing major information technology projects. Being a Coast Guard civilian makes you a valuable member of the Coast Guard team.  Typical work assignments include Providing advice on project costs, design concepts, or design changes. Review or conduct audits of major Information Technology (IT) programs and projects. Evaluating the effectiveness of procurement function in addressing information security requirements and supply chain risks through procurement activities and recommend improvements. Reviewing service performance reports identifying any significant issues and variances, initiating and ensuring that all outstanding issues are followed up.Working with other service managers and product owners to balance and prioritize services to meet overall customer requirements, constraints, and objectives. Developing methods to monitor and measure risk, compliance, and assurance efforts. Developing supply chain, system network, performance, and cybersecurity requirements are included in contract language and delivered. Leading and overseeing budget, staffing, and contracting. Routinely exercising independent judgement and discretion when obtaining and leading confidential advance information of management's position with regard to IT cyber contract negotiations and investments."
   },
   {
+    "id":1,
     "source": "https://www.usajobs.gov/job/642957800",
     "title": "Information Technology Specialist",
     "org": "Department of Homeland Security",
@@ -779,11 +816,11 @@
     "location": "Arlington, VA",
     "appointment": "Permanent",
     "service": "Competitive",
-    "jobFamily": 2210,
+    "jobFamily": "2210",
     "supervisory": "no",
     "clearance": "Secret",
     "announcement": "DE-11378509-22-OBIM",
-    "controlNumber": 642957800,
+    "controlNumber": "642957800",
     "summary": "This position is located in the Department of Homeland Security (DHS), DHS Headquarters Office of Biometric Identity Management, Information Technology Division. The primary purpose of this position is to conduct engineering projects and studies which involve extensive analysis of user requirements and applicable system software and computer equipment..",
     "duties": "As a Information Technology Specialist GS 2210 14, your typical work assignments may include. Serve as a subject matter expert on IT and computer science perspectives and guides new approaches related to cloud computing and related open-source technologies. Plan, coordinate and manage assigned engineer tasks for any of the Systems Engineering Life Cycle (SELC) phases of the lifecycle for designated systems, in accordance with accepted Systems Engineering and Cyber-Security practices. Serve as lead planning engineer for OBIM CLOUD ASSETS for projecting cloud resource requirements for OBIM. Support or lead project teams to plan, design, install, integrate, interface, monitor, sustain, and modernize IT systems and capabilities, whether hosted in a Cloud environment or sustained as a legacy system in an on-premise hosting solution. Lead committees, project teams, and Source Selection Evaluation Boards (SSEBs) to participate in developing standards, coordinating and resolving mutual problems, integrating solutions, procuring technologies, and other IT-related activities."
   }

@@ -1,0 +1,1728 @@
+Identity and Access Management (IAM) Sr. Lead Business Analyst (Full-Time & Permanent)
+
+SUMMARY
+
+Join Aperia Solutions, a leader in SaaS solutions for the Payments and Compliance industries. Aperia has been developing and hosting complex, data intensive business applications for more than a decade. The company's management team has extensive experience in finance, data security, compliance, and business consulting which continues to fuel its rapid growth.
+
+Aperia offers a competitive salary package and a great work environment with excellent people.
+
+The Identity and Access Management (IAM) Sr. Lead Business Analyst will have responsibility for leading our Production Security strategy across IAM applications and tools, implementing it to the highest level of detail across various teams and business functions. You will work collaboratively within the IAM product team, our IAM technology and business operations groups and with technology partners across the organization to prioritize development needs in our IAM products. You will also seek feedback from our IAM application end-users to identify, document and decision enhancement needs based on their experiences.
+
+RESPONSIBILITIES
+
+· Maintains regular touchpoints with product stakeholders
+
+· Understands and drives the product vision; represents the customer’s voice and adjusts to meet the changing needs of the Identity and Access Management (IAM) stakeholders
+
+· Analyzes potential enhancements and requests, to determine the best way to develop and build the best solution in the time available, setting the expectations for the delivery of new functionality
+
+· Partners with team to estimate backlog and then prioritizes into ongoing sprints to mainatin Roadmap
+
+· Takes backlog refinement seriously and spends time refining the backlog, adding detail as they go
+
+· Knows how and when to say no and ensures good backlog management by creating a manageable backlog with items that likely will get realized
+
+· Oversees/manages detailed information gathering from the business teams and specialist teams (UX, Analytics etc.), preparing the handover of requirements to Scrum teams in the form of EPICs and User Stories
+
+· Ensures Scrum meetings allow for honest and direct feedback, provides sprint goals, completes planning, and gets feedback via retrospectives
+
+· Validates the delivery of acceptance criteria and ensures it is aligned with quality of delivery for “Definition of Done”
+
+· Observes, analyzes, and learns the market, customers, and end users of the product
+
+· Communicates roadmap to align with dependent teams and stakeholders
+
+· Impacts business change and guides switch from tactical execution to broader business-wide thinking
+
+· Measures value delivered to customers in each development iteration
+
+QUALIFICATIONS
+
+· Ability to delivers results, with a track record of achievement, accountability and translating complex strategies into actionable plans
+
+· Analytical, planning and organizational skills and a talent for managing competing demands is a plus
+
+· Time-management, with a proven ability to set priorities, manage deadlines, and make data-driven decisions
+
+· Judgement and problem-solving skills, demonstrating sound judgement in assessing risks and making decisions that balance a variety of factors while always maintaining the integrity of the core values and business strategy
+
+· Relationship building, stakeholder management, communication skills and being an engaged influencer
+
+· Identity and Access Management product experience
+
+· Competency with Minimal Viable Product (MVP), project life cycles, structured analysis and process methodologies
+
+· Experience writing user stories for scrum teams, and delivering business value leveraging your training
+
+· Knowledge of at least one lifecycle tool such as Jira / CA PPM (Clarity) / CA Rally
+
+· Requires in-depth knowledge of job area typically obtained through higher level education combined with work experience.
+
+· Typically viewed as the Subject Matter Expert (SME).
+
+· May have in-depth knowledge of project management.
+
+· Requires 10 years minimum prior relevant experience.
+
+· Bachelor's Degree
+
+· Must have solid organizational skills, with the ability to handle complex projects in a multi-tasking environment.
+
+· Outstanding written and verbal communication skills for documenting necessary processes, business requirement proposals, client interaction, and project documentation as required.
+
+· Thorough understanding of application principles, standards, industry practices, techniques and concepts, as well as contributing to the development of new concepts, techniques and standards.
+
+· Exercises judgment in selecting methods, techniques and evaluation criteria for obtaining results.
+
+· Demonstrated ability to develop solutions to highly complex and diverse analytical problems which requires an in-depth evaluation of variable factors.
+
+· Prior experience working with large implementation projects.
+
+This job description is not intended to be all-inclusive. An employee may also perform other reasonable related business duties as assigned by their immediate supervisor or management.
+
+Principals only. Recruiters please don't contact this job poster.
+
+DO NOT contact us with unsolicited services or offers.
+
+Job Type: Full-time
+
+Benefits:
+
+401(k) matching
+Dental insurance
+Flexible spending account
+Health insurance
+Health savings account
+Life insurance
+Paid time off
+Parental leave
+Professional development assistance
+Relocation assistance
+Tuition reimbursement
+Vision insurance
+
+Schedule:
+
+Monday to Friday
+
+Application Question(s):
+
+What is your expected salary range?
+
+Education:
+
+Bachelor's (Preferred)
+
+Experience:
+
+Business analysis: 5 years (Preferred)
+Identity & access management: 5 years (Preferred)
+Financial industry: 5 years (Preferred)
+Agile: 5 years (Preferred)
+product owner: 5 years (Preferred)
+
+Work Location: Remote
+
+Show Less About Citi:
+
+Citi, the leading global bank, has approximately 200 million customer accounts and does business in more than 160 countries and jurisdictions. Citi provides consumers, corporations, governments, and institutions with a broad range of financial products and services, including consumer banking and credit, corporate and investment banking, securities brokerage, transaction services, and wealth management.
+
+As a bank with a brain and a soul, Citi creates economic value that is systemically responsible and in our clients’ best interests. As a financial institution that touches every region of the world and every sector that shapes your daily life, our Enterprise Operations & Technology teams are charged with a mission that rivals any large tech company. Our technology solutions are the foundations of everything we do from keeping the bank safe, managing global resources, and providing the technical tools our workers need to be successful to designing our digital architecture and ensuring our platforms provide a first-class customer experience. We reimagine client and partner experiences to deliver excellence through secure, reliable, and efficient services.
+
+Our commitment to diversity includes a workforce that represents the clients we serve from all walks of life, backgrounds, and origins. We foster an environment where the best people want to work. We value and demand respect for others, promote individuals based on merit, and ensure opportunities for personal development are widely available to all. Ideal candidates are innovators with well-rounded backgrounds who bring their authentic selves to work and complement our culture of delivering results with pride. If you are a problem solver who seeks passion in your work, come join us. We’ll enable growth and progress together.
+
+The Role:
+
+The SAML & Federation Technical Lead will be responsible for interacting with the business partners to understand their business requirement and integrate them with the 3rd party application using federated solution. The position is customer facing providing global support role that will support regulatory and external audit requests for the Citi Chief Information Security Office (CISO). This role sits on the Global L3 Authentication Operations Team in the Cyber Security Services (CSS) organization and reports to the Global Sec Ops Operations Manager.
+
+This is a senior level position responsible for the management of a team/department to prevent, monitor and respond to information/data breaches and cyber-attacks. The core objective is to ensure the execution of Information Security directives and activities in alignment with Citi's data security policy. The ideal candidates will be comfortable integrating the applications with the SAML products, troubleshooting, documenting and working with the business throughout the SDLC (Development/Staging/Production).
+
+Responsibilities:
+
+Work with SMEs of Internal and External Audits
+Collect and share evidence
+Organize and share audit walkthrough calls
+Drive compliance of Processes, Infrastructure, and Applications with Citi Policies
+Ensure the teams follow the issue management standards and contribute to an Effective Management Control Assessment
+Appropriately assess risk when business decisions are made
+Demonstrate appropriate consideration for the firm's reputation and safeguarding Citigroup, its clients, and assets by driving compliance with applicable laws, regulations, and Citi Policy
+Apply sound ethical judgment regarding personal behavior, conduct and business practices, while escalating, managing and reporting control issues with transparency
+
+Qualifications:
+
+5-6 years’ relevant Information Security experience per specifications below
+Self-motivated with the ability to work independently and as a team member with minimal direction
+24/7 operational infrastructure support model
+Quick learner with the ability to work autonomously to bring tasks through to completion
+Must be capable of multitasking and working diligently under reasonable pressure
+Excellent communication and leadership skills
+
+Required technical skills:
+
+SME knowledge on the SAML federation products for the various use cases like IDP, SP, WS, OAuth, etc.
+Working knowledge of Unix and Red Hat Linux OS
+Hands on troubleshooting experience with fiddler / IE http header
+Strong foundation of network related concepts like DNS, LB, TCP, DMZ, etc.
+Strong knowledge of software security for Web and Mobile Applications
+Understanding of Java based application and experience in writing test and use cases
+Understanding of Software Development LiveCycle’s (SDLC)
+
+Preferred skills:
+
+PING Federation product experience is a plus
+Experience with PING Access
+Compliance and Risk Management experience
+Knowledge in the LDAP (Unbound directory or CA directory or Oracle directory)
+
+Education:
+
+Bachelor’s degree in Computer Science or 4 year equivalent degree
+ITIL and/or CISSP certifications strongly preferred
+
+This job description provides a high-level review of the types of work performed. Other job-related duties may be assigned as required.
+
+-
+
+Job Family Group:
+
+Technology
+
+-
+
+Job Family:
+
+Information Security
+
+-
+
+Time Type:
+
+Full time
+
+-
+
+Primary Location:
+
+Irving Texas United States
+
+-
+
+Primary Location Salary Range:
+
+$116,880.00 - $175,320.00
+
+-
+
+Citi is an equal opportunity and affirmative action employer.
+
+Qualified applicants will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.
+
+Citigroup Inc. and its subsidiaries ("Citi”) invite all qualified interested applicants to apply for career opportunities. If you are a person with a disability and need a reasonable accommodation to use our search tools and/or apply for a career opportunity review Accessibility at Citi.
+
+View the "EEO is the Law" poster. View the EEO is the Law Supplement.
+
+View the EEO Policy Statement.
+
+View the Pay Transparency Posting
+
+-
+
+Effective November 1, 2021, Citi requires that all successful applicants for positions located in the United States or Puerto Rico be fully vaccinated against COVID-19 as a condition of employment and provide proof of such vaccination prior to commencement of employment.
+
+Start your job application: click Apply Now
+
+Show Less 
+ReportCISO‚Äôs Cyber Security Services (CSS) is responsible for delivering integrated risk reduction capabilities and services aligned to the architectural goals and priorities. This role entails leading and coordinating the execution of Identity and Access Management Program and Services, including the Engineering, Operations and Governance functions. The successful candidate will have demonstrated success and be highly adept at: leading global programs and engineering change efforts; managing risk and execution of global programs by aligning resources and tactical/strategic decisions; and driving transformation across a complex enterprise to support cybersecurity goals. Strong experience across Cyber Security, Technology Infrastructure, and the Financial Services business sectors will assist in delivering aspects of this service. The successful candidate will have end-to-end responsibilities for engineering, operations, and governance of Citi‚Äôs IAM function across the enterprise and globally. This role will directly report to the Head of Cyber Security Services and must partner with peer groups in Innovation, Architecture, Technology Services, Information Security and business sectors to ensure a service-oriented organization that meets the business needs of a digital bank.
+
+
+
+
+Roles and Responsibilities:
+
+Lead a team of over 1,000 globally dispersed IAM professionals, responsible for engineering, operations and governance functions.
+Responsible for improving end user and customer experience while improving the overall security posture of the bank.
+Accountable for the implementation of CISO Strategy and defining and managing IAM Risk Appetite and Risk metrics
+Demonstrate strong understanding of the Identity and Access Management Domain including zero trust, Authentication, Authorization, Access and entitlements and other related information security principles.
+Maintain strong awareness of vulnerabilities, mitigations, and attack frameworks partnering with the Vulnerability Management team.
+Establish close partnership and alignment with Senior Architects, Steering Committees, CISO and CTI stakeholders in delivering the IAM program.
+Build relationships with key business stakeholders, project teams, operational teams and services providers
+Maintain awareness of both trends and capabilities in alignment to the implementation of IAM.
+Interface and support Citi‚Äôs Security Architecture Council and Working Groups building strong rapport across teams.
+Support Citi‚Äôs adoption of IAM services in the cloud and holistic digital transformation.
+Manage Operational Service quality and be responsible for driving Service Operations performance and improvements
+Responsible for the overall P&L for IAM services and for securing investments required to maintain and strengthen IAM services build new capabilities and address systemic risks
+
+Required Skills and Competencies:
+
+15+ years of relevant cybersecurity and/or IT experience
+Leadership roles across technology or cybersecurity leading large programs or transformational activities
+Proven strong knowledge of Cyber Security solutions and technologies
+Thorough understanding of industry standards and best practices
+Experience developing and maintaining Cyber Security and IT architectures
+Demonstrated ability to take global ownership and work with cross functional teams to manage multiple projects simultaneously
+Advanced analytical and problem-solving skills
+Consistently demonstrates clear and concise written and oral communication as well as strong presentation skills to both technical and non-technical audiences.
+Bachelor‚Äôs degree in relevant subject or equivalent work experience
+
+250,000-500,000 USD
+
+-
+
+Job Family Group:
+
+Technology
+
+-
+
+Job Family:
+
+Technology Management
+
+-
+
+Time Type:
+
+Full time
+
+-
+
+Primary Location:
+
+Rutherford New Jersey United States
+
+-
+
+Primary Location Salary Range:
+
+-
+
+Citi is an equal opportunity and affirmative action employer.
+
+Qualified applicants will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.
+
+Citigroup Inc. and its subsidiaries ("Citi‚Äù) invite all qualified interested applicants to apply for career opportunities. If you are a person with a disability and need a reasonable accommodation to use our search tools and/or apply for a career opportunity review Accessibility at Citi.
+
+View the "EEO is the Law" poster. View the EEO is the Law Supplement.
+
+View the EEO Policy Statement.
+
+View the Pay Transparency Posting
+
+-
+
+Effective November 1, 2021, Citi requires that all successful applicants for positions located in the United States or Puerto Rico be fully vaccinated against COVID-19 as a condition of employment and provide proof of such vaccination prior to commencement of employment.
+
+To apply to this job, click Apply Now
+
+Show Less The Data Quality Function Grp Mgr manages multiple teams of senior professionals through other senior managers. The job requires a broad and comprehensive understanding of the different systems, theories and practices relevant to a function as well as practical experience of multiple business cycles. In-depth knowledge of the industry and direct competitors' products/services is also necessary in order to contribute to the commercial objectives of the business. Requires thorough understanding of strategic direction of the function within the business, combined with a solid conceptual/practical grounding in both the function and/ or area of expertise. Excellent communication skills required in order to influence a wide range of audiences. The job is likely to be involved in both internal and external negotiations which will have a major impact on the area managed, and possibly on other related areas and organization as a whole. Develops medium- to long-term plans and executes functional strategies for a large/complex country, cluster of countries, or business requiring coordination and integration across units. Provides input into strategic decisions affecting job family or function within a region or business. Full management responsibility of multiple teams, including management of people, budget and planning. Has authority to negotiate and make independent decisions on issues/activities that have critical impact or influence on company revenues, capital or business operations. Typically, a direct report to an EB role and sits on the highest functional leadership team within a region, job function, or global business.
+
+
+ROLE DESCRIPTION
+
+This role is responsible for data governance and data integrity for Independent Compliance Risk Management (ICRM). The purpose of this role is to provide end-to-end oversight of the ICRM data "ecosystem," defining the strategy, governance, priorities, oversight of operations, and data quality, ongoing improvement, standards, controls, metrics, defect management (Data Concerns Remediation Management (DCRM)), reporting and risk management.
+
+The team is organized to face-off with ICRM Process & Data Owners, currently across:
+
+AML Transaction Monitoring
+AML Know-Your-Customer
+including Sanctions, Trade Surveillance, Anti-Bribery & Corruption
+Control Group
+Financial Crimes Risk Assessment
+Market Conduct and Integrity, Disclosure of Interest
+Personal Trading Outside Activities
+Regulation W
+Regulations Management
+Trade Surveillance
+Additional ICRM areas as identified and prioritized
+
+Objectives include:
+
+Collaborate on development of Enterprise Data Strategy based on collaboration with ICRM leaders. Ensure alignment between the Enterprise Data Strategy and ICRM data priorities.
+Champion and lead data transformation efforts (including talent and capabilities) for ICRM. Set ICRM strategies; defining the data architecture and data lineage, ensuring clear data accountabilities, data standards, implementing data controls, and owning Issue Management and Resolution.
+Represent data quality and integrity to external Regulators such as the FRB and OCC.
+Engage with business functional partners conveying data-related priorities, requirements.
+Increase adoption of a data culture, governance, risk reduction metrics and data-driven mindset within the relevant business/function/region.
+Represent, and provide ICRM input at any required forums, and as the Enterprise Chief Data Officer (ECDO) defines enterprise data strategy and policy/standards.
+Support Consent Orders, Data Transformation programs, Citi Data Governance Policy (CDGP) and Data Operating Model (DOM) implementation, and any other programs and policies as required.
+Continuously improve data governance and management; data architecture and standards; business and functional engagement; data comprehensiveness, data quality and coverage; reducing the inventory of data issues; and accelerating data access and validation for new projects.
+Engage with ICRM and Business management to prioritize process and technology enhancements, obtain appropriate staff, budget to establish a controlled data management environment.
+Define, oversee, and improve production data controls, operations (reconciliation, quality, etc.) within ICRM. Reduce exceptions (data concerns). Manage Data Quality Measurement (DQM) and Transaction Type Code (T-Code), building quality controls, including enhancements, and improvement to Citi Risk & Control tools.
+Advise on the acquisition, assessment and validation of data in support of new projects, in line with data standards. Review and approve project data strategies and exceptions (e.g., new data element requests).
+Develop staff, coaching, mentor, Voice of Employee, Recognition, Individual Development Plans, Recruiting. Support and advocate for our team members.
+
+Experience
+
+15+ years management experience in complex, financial organization, with particular focus in data capture, flow, processing, metrics and reporting.
+5-10 years in data management and technology.
+5+ years in executive / strategy role.
+Broad knowledge of Compliance regulatory drivers; technology operations; data management practices.
+Primary Location: NAM-US-NY-NY/LIC
+Schedule: Full-time
+Travel: Some (10-20%)
+
+Personal Skills
+
+Strong data and technical knowledge, data governance, domains, process improvement, and/or new technologies.
+Strong leadership experience, with an ability to influence Business Unit / Function role, translating Compliance data strategies and priorities into business, reducing regulatory and risk implications, into actionable measureable plans.
+Proven ability, program management, executing large complex change programs.
+Collaborative partnership, engaging and delivering on Citi‚Äôs values and ethics.
+Able to communicate and present in a clear articulate manner.
+
+Education
+
+Bachelor's Degree required
+Advanced Degree preferred
+
+-
+
+Job Family Group:
+
+Technology
+
+-
+
+Job Family:
+
+Data Quality
+
+-
+
+Time Type:
+
+Full time
+
+-
+
+Primary Location:
+
+New York New York United States
+
+-
+
+Primary Location Salary Range:
+
+$275,000.00 - $400,000.00
+
+-
+
+Citi is an equal opportunity and affirmative action employer.
+
+Qualified applicants will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.
+
+Citigroup Inc. and its subsidiaries ("Citi‚Äù) invite all qualified interested applicants to apply for career opportunities. If you are a person with a disability and need a reasonable accommodation to use our search tools and/or apply for a career opportunity review Accessibility at Citi.
+
+View the "EEO is the Law" poster. View the EEO is the Law Supplement.
+
+View the EEO Policy Statement.
+
+View the Pay Transparency Posting
+
+-
+
+Effective November 1, 2021, Citi requires that all successful applicants for positions located in the United States or Puerto Rico be fully vaccinated against COVID-19 as a condition of employment and provide proof of such vaccination prior to commencement of employment.
+
+To apply to this job, click Apply Now
+
+Show Less Great FTE Opportunity!!!!!
+
+SUMMARY OF POSITION:
+
+The Identity Access Management (IAM) Team Lead will be a key position for our client’s developing IAM effort whose duties are focused on the successful coordination of day-to-day team activities. Responsibilities are multifaceted but are primarily focused on working with and assisting the IAM Security Analysts to conduct user provisioning as well as user access reviews on those applications overseen by the IAM team. This position will be responsible for new hire training and will ensure consistency across all aspects of IAM practices by overseeing and maintaining team documentation, including team processes, application knowledgebases, and the team intranet site, among other things. To ensure uniformity, the Team Lead will also conduct regular quality control (QC) efforts of the IAM team’s efforts and document deficiencies along with identifying training opportunities to reduce rework or to correct problems. The Team Lead will be expected to monitor the IAM ServiceNow ticket queue and coordinate efforts on the team to meet capacity demands as well as to possibly backfill in times of need. Additionally, the Team Lead will work to track team service level agreements (SLAs) as well as work with the Director of Identity Access Management to determine and develop new metrics to better measure and inform our client's management on the IAM team’s efforts. As our client operates in the heavily regulated financial industry, the Team Lead will assist the Director of Identity Access Management with regular audit and examination requests, including evidence gathering and meeting attendance. The Team Lead will also act as a liaison between the IAM team and the rest of IT/Operations management to help coordinate efforts to expand the IAM team’s responsibilities over provisioning and user access reviews. Application training will be encouraged for this role to help assist the IAM team with a better understanding of the geography of the many applications run and to identify opportunities for improvement for the organization. IAM conference-focused attendance will be expected as The Team Lead will work closely with the Director if Identity Access Management to help support the development and implementation of our client’s growing IAM Program
+
+PRIMARY RESPONSIBILITIES:
+
+· Coordinate day-today team efforts around user provisioning and access reviews
+
+· Oversee IAM training efforts for new hires to ensure consistency
+
+· Maintain and expand a knowledge base of IAM documentation for internal and external sources
+
+· Perform QC and monitor SLAs for the IAM team to ensure a commitment to risk reduction
+
+· Audit and examination point person to assist with evidence gathering requests
+
+· Strategic thinker with a tactical mind to assist management with the development of a well-rounded IAM program
+
+· Assist other team members as needed to ensure delivery of distinctive service.
+
+· Support project initiatives as might be required for the IAM team
+
+· Provide distinctive service to clients and prospects, in person and over the telephone. Respond to client inquiries and satisfactorily resolve client issues. Support firm-wide achievement of the three-ring standard (all phones answered by a live person within three rings).
+
+· Meet all the client’s financial needs, both business and personal, and refers clients to other specialty areas such as Trust, Investments, Insurance, Treasury Management, etc. as appropriate.
+
+DESCRIPTION OF EXPERIENCE, EDUCATION AND TRAINING:
+
+· College Degree preferred with various banking courses and seminars. Microsoft certification, network operating system, computer security and telecommunications knowledge preferred.
+
+· Minimum of 10 years’ experience in one of the following, or a mix of: systems support, hardware installation and support, software security monitoring and implementation, and systems security.
+
+· Knowledge of information security principles and practices, understanding of security protocols, principles, and standards.
+
+· Knowledge of Microsoft Active Directory, Microsoft Windows desktop, and server operating systems. Cisco telecommunications equipment and current hardware technology knowledge.
+
+· Working knowledge of all Federal and State regulations as it pertains to data integrity, security of data and privacy. Understanding of control measures and requirements of Sarbanes-Oxley.
+
+· Proficient with Microsoft Office Suite (Word, Excel and PowerPoint).
+
+DESCRIPTION OF CAPABILITIES, PHYSICAL REQUIREMENTS AND ABILITIES:
+
+· Detail oriented with excellent interpersonal skills.
+
+· Strong organizational skills required.
+
+· Strong analytical skills required.
+
+· Ability to work independently and prioritize daily tasks.
+
+· Excellent verbal and written communication skills.
+
+· Excellent client service skills. Tact and diplomacy in dealing with both clients and associates.
+
+· The physical activities of this job include but are not limited to the ability to stand and sit for prolonged periods of time, use of manual dexterity, verbal communication, visual acuity, repetitive motion, and the ability to hear. Often long periods of mental concentration are required. Other activities are the ability to bend, climb, balance, stoop, kneel, crouch, reach, walk, push, pull, lift, and grasp.
+
+Job Type: Full-time
+
+Pay: $110,000.00 - $125,000.00 per year
+
+Benefits:
+
+Dental insurance
+Health insurance
+Paid time off
+Vision insurance
+
+Schedule:
+
+8 hour shift
+
+Application Question(s):
+
+This role is on-site. Please only apply if this is acceptable.
+
+Experience:
+
+Leadership: 3 years (Preferred)
+Identity & access management: 5 years (Preferred)
+
+Work Location: One location
+
+Show Less 
+ReportIdentity & Access Management (IAM) Leader
+
+Direct Hire
+
+Boston, MA
+
+Technical & Domain Experience
+
+· 10 – 15 years of IT security experience supporting technology solutions or complex IT environments.
+
+· 8+ years implementing Identity and Access Management solutions such as SailPoint, Okta, Ping, or other similar tools at an enterprise level
+
+· Thorough experience of IAM principles, methodology, and solutions including access control (role-based and discretionary), authentication, authorization, provisioning, approvals, and workflows
+
+· Understanding of key IAM concepts such as Least Privilege, Privileged Access, Roles and Data mining, Segregation of Duty (SOD), and Role Based Access Control (RBAC).
+
+· Experience with Single sign on, Directory federation, SAML, OAuth, and Multifactor authentication
+
+· Experience capturing IAM use cases and defining IAM requirements and processes
+
+· Experience in managing IAM infrastructure, on-boarding of applications, health check monitoring, policy and password management, certifications, workflows, work items and rules.
+
+· Experience developing IAM governance documentation such as policies, procedures, standards, and guidelines, role creation and management, SOD (Separation of Duties), and Access Reviews
+
+· Hands-on experience with Active Directory or similar LDAP solutions
+
+· Proven track record of automating manual access management processes across varies technologies
+
+· Experience and knowledge of risk management methods and their application towards security, identity, and access management within a regulated industry
+
+Process & Project Management Experience
+
+· Document current state and future state business processes/workflows using standard process modeling tools and process improvement methodologies
+
+· Work directly with business application owners and technical stakeholders to gather requirements and information on application data through reviews, information gathering sessions and walkthroughs.
+
+· Ability to translate business problems, existing processes, and technology into service and process requirements
+
+· Strong problem-solving and troubleshooting skills
+
+Soft Skills
+
+· Ability to prioritize and multitask. Flexibility and adaptability in work approach.
+
+· Experience of managing a team of consultants
+
+· Self-motivated and possessing of a high sense of urgency and personal integrity
+
+· Calmness and clarity of thought under pressure and ability to maintain confidentially.
+
+· Strong written and verbal communication skills.
+
+· Demonstrated leader with team-oriented interpersonal skills
+
+· Train other staff and external clients, as necessary.
+
+Qualifications / Certifications
+
+· Bachelor’s or master’s degree in Computer Science, Information Systems, Cybersecurity, or a related field
+
+· Desired certifications: CISSP, CISA
+
+Job Type: Full-time
+
+Pay: $125,000.00 - $180,000.00 per year
+
+Benefits:
+
+401(k)
+Dental insurance
+Health insurance
+Life insurance
+Vision insurance
+
+Schedule:
+
+5x8
+Day shift
+Monday to Friday
+
+Ability to commute/relocate:
+
+Boston, MA 02108: Reliably commute or planning to relocate before starting work (Required)
+
+License/Certification:
+
+CISSP (Preferred)
+Certified Information Systems Auditor (Preferred)
+
+Work Location: Hybrid remote in Boston, MA 02108
+
+Show Less Formstack improves people’s lives with practical solutions to their everyday work. We are looking for the next Stacker to help us accomplish this mission.
+Formstack is a remote-first company with team members who live and work across the U.S., Canada, and the globe. We offer more than just a job; we provide a community where you can learn, grow, and thrive your way. Join a dynamic and diverse team that values relationships as much as results. Come build what matters with Formstack.
+
+Rich Yu, Chief Product Officer at Formstack, is looking to hire someone to complement and strengthen the team.
+
+What You’ll Do
+As a Head of Information Security and Privacy, you will set out the security & data privacy strategy for Formstack, implement standards, and monitor compliance against security and data privacy policies by providing services and solutions to protect the value and use of Formstack and its customers' information.
+
+How You’ll Succeed
+Manage processes that promote security and protect the data privacy of customers and personnel.
+Instill security awareness in the personnel base
+Own and communicate security risks, priorities, and incidents to appropriate leaders
+Document, implement, enforce and maintain an overarching corporate information security policy and underlying security controls.
+Maintain certifications, reports, and attestations (SOC 2 Type 2, ISO 27001, PCI DSS, etc.)
+Guide security engineering on InfoSec/AppSec standards, auditing, and penetration testing
+Develop training materials and conduct information security and privacy awareness training for personnel
+Manage customer security assessments, including review of security contract terms and completion of questionnaires
+Continually evolve and update privacy, security, and information management policies and procedures.
+Ensure ongoing monitoring, auditing, and testing of the privacy program to confirm all facets function as intended
+Manage registrations and filings with applicable data protection authorities and/or agencies
+Maintain compliance with the Data Protection Requirements
+Respond accordingly to data subject access requests (DSAR) from customers or prospects
+Manage vendor risk management to vet and audit vendors and ensure compliance with company security and privacy requirements
+Coordinate with various business stakeholders to ensure new and existing products and processes comply with applicable data privacy requirements.
+In conjunction with Security Council, manage investigations relating to the company’s privacy and security programs
+Other duties as assigned
+
+What We’re Looking For
+6-7 + years in an Information Security and Privacy or similar role. SaaS experience is a plus.
+Experience in managing SOC 2 Type 2, ISO 27001, PCI DSS certifications.
+Relevant Professional certification preferred: CISSP, CISA, CISM or CRISC.
+In-depth familiarity with risk methodologies and industry security-related frameworks.
+Good understanding of popular application security and data-privacy standards.
+Experience leading change in a dynamic environment and ability to build consensus.
+- Succinct Communicator - the ability to break down complex issues and communicate at all organizational levels.
+Ability to work in a cross-functional matrix environment.
+Excellent understanding of vulnerability management and associated tools and solutions.
+Interpersonal and collaborative skills to establish and maintain effective working relationships.
+Demonstrated ability to develop and mentor teams.
+Demonstrated inclusive leadership that embraces diversity.
+Highly motivated. Ability to work under pressure and own initiative.
+Solution-driven with demonstrated ability to meet deadlines and deliver results.
+
+
+Salary Range: $170,000-$200,000 per year (USD) + up to 15% of base salary.
+
+
+
+
+**This is a remote position **
+
+What Formstack Offers for Full-Time Employees in the US and Canada(exclude Quebec):
+
+Free health plans and company-paid Dental, Vision, Disability, and Life Insurance Benefits for US and Canadian full-time employees.
+Monthly Health & Wellness and Technology stipends
+Half-day Fridays
+Unlimited PTO for all employees.
+401k & Roth w/ safe harbor match (the US and Canada)
+The most up-to-date technology, including company-issued Macs, the latest software, and other tools needed to excel at your job
+Company-paid conferences and extended learning opportunities
+Yearly company and team gatherings
+
+Don’t meet every single requirement? Studies have shown that women and people of color are less likely to apply to jobs unless they meet every qualification. Formstack is dedicated to building a diverse, inclusive, and authentic workplace. if you’re excited about this role, but your experience doesn’t align perfectly with every qualification in the job description, we encourage you to apply anyway. You may be just the right candidate for this or other roles.
+
+Formstack is an equal-opportunity employer. We are passionately committed to equitable hiring and boldly dedicated to diversity in our work and staff. We do not discriminate in employment opportunities or practices based on actual or perceived race, color, religion, national origin, sex (including pregnancy, childbirth, or related conditions), age, marital status, sexual orientation, gender identity or expression, veteran status, uniform service member status, disability or any other characteristic protected by law. Women, people of color, bilingual and bicultural individuals, LGBTQ+ persons, and people with disabilities are encouraged to apply.
+
+All data collected in our application process, from resume collection to application questions, is used for recruitment purposes only. We will store it in our applicant tracking system, Lever, and will not share this data with anyone else. We will keep your data until the role is filled and only continue to store it if we feel you may fit future roles.
+Show Less 
+ReportAbout Lumen
+Lumen is guided by our belief that humanity is at its best when technology advances the way we live and work. With 450,000 route fiber miles serving customers in more than 60 countries, we deliver the fastest, most secure global platform for applications and data to help businesses, government and communities deliver amazing experiences. Learn more about Lumen’s network, edge cloud, security and communication and collaboration solutions and our purpose to further human progress through technology at news.lumen.com, LinkedIn: /lumentechnologies, Twitter: @lumentechco, Facebook: /lumentechnologies, Instagram: @lumentechnologies and YouTube: /lumentechnologies.
+
+The Role
+
+The Sr. SAP application Security & GRC lead responsible for the on-going discovery, analysis, and overall recommendation for cost alignment initiatives associated with the IT Services and New Market Development organization. The candidate for this role should be capable of documenting the decision-making criteria for a business decision.
+
+The Sr. SAP application Security & GRC lead is an accomplished technical leader, proactive customer-focused advocate, a team player with substantial technology experience across multiple Industry verticals and solutions. The candidate must have hands-on experience with enterprise level software development, integration, and implementation of specified technological areas, which includes knowledge of applicable processes, methodologies, standards, products, and frameworks. The candidate should have an advanced understanding of SAP products/components expert of SAP Security Concepts and demonstrate full technical competence. Documents SAP Security design and administration processes, creates and updates operational guides and monitors existing operational guides for consistency and completeness. Works with business teams to develop implement and improve on existing security controls. Assure SAP security configuration compliance with standards and SOX controls. Develop and Maintain roles and end user authorities. Perform segregation of duties and sensitive access analysis during the development/maintenance of roles. Perform SAP GRC configuration, administration, and maintenance.
+
+The Main Responsibilities
+Plan and execute client engagements focusing on SAP GRC, SAP security and audit readiness of SAP environments
+Develop and implement SAP security solutions to protect SAP systems from both internal and external threats
+Work with clients to identify opportunities for improvement in the areas of SAP GRC, SAP security and SAP controls
+Responsible for delivering three core departmental responsibilities: Segregation of Duties (SoD) Analysis, GRC Administrator, and SAP Application security and user Provisioning Support
+Manage SAP GRC 12 Access Control and Process Control configuration and functions
+Partner with business units and Internal Audit to ensure proper separation of duties among roles and responsibilities set per role and environment
+Maintain documentation on Roles, GRC, Fiori and separation of duties
+Assist with IT audit functions relating to identity and access management
+Documentation updates including SOPs, Work Instructions and Knowledge articles
+Supervise Associates/Senior Associates on engagements
+Support proposal and business development activities by assisting in the identification of new target clients, building business relationships with key executives and developing/presenting proposals
+All other duties as assigned or directed
+What We Look For in a Candidate
+Minimum Ten years of recent experience in any of the following areas: SAP audit, SAP controls, SAP security design/re-design, SAP GRC implementation
+Minimum of 5 years' work experience in IT Risk Management, SOX compliance and/or auditing with a strong background in IT controls
+Minimum Four years of SAP security experience on SAP HANA security
+Preferred to have security experience in area like SAP RAR (Revenue accounting and reporting) module, Hybris security, EWM, APO, BOBJ, Data service SAP BPC & BW security
+In depth SAP security, HANA Security, Fiori security & GRC knowledge and architecture skill
+Preferred experience with SAP IAG and GRC 12.0
+Experience with configuration of GRC module (ARA, ARM, EAM, BRM) with configuration parameter, workflow and data source and workflow tasks.
+Experience with SAP BRF+ (Specific to GRC), MSMP and troubleshooting skills to identify the issues related to BRF & MSMP.
+Strong knowledge and understanding of SAP Technologies and Methodologies Expert in Detailed Planning & Blueprinting of Security Implementations should understand advanced security area like identity theft, data security breaches, data leakages cloud and cyber security
+Setting up and updating new functions (Adding and removing T-Codes) and risks in the ARA module as needed.
+Setting up new controllers, owners, and role approvers.
+Understanding of GRC integration to IDM solutions using SAP GRC Webservices for user creation, termination, and provisioning.
+Setting up Mitigation controls and monitor the usage of mitigation controls.
+Excellent written and verbal communication, facilitation, and presentation skills with the ability to gain the confidence and respect of senior level executives
+Travel as needed
+Education and other Qualifications
+Master Degree in Computer Science, Engineering, or other related technical field
+Technical field or equivalent profession experience listed for the position
+Ability to communicate clearly and professionally with all levels of the organization, both written and verbal
+Ability to work well in a team environment, to collaborate with others, and interface with team members internal and external to the organization
+Establishes and maintains effective professional relationships with internal and external stakeholders
+Must be able to adapt to organizational change
+Flexibility and ability to plan, prioritize, and execute multiple tasks in a fast paced environment
+Self-motivated, well-organized, and detail oriented
+Ability to work with customers to elicit complex requirements and translate them into manageable and implementable work units.
+
+Requisition #: 318772
+
+EEO Statement
+We are committed to providing equal employment opportunities to all persons regardless of race, color, ancestry, citizenship, national origin, religion, veteran status, disability, genetic characteristic or information, age, gender, sexual orientation, gender identity, marital status, family status, pregnancy, or other legally protected status (collectively, “protected statuses”). We do not tolerate unlawful discrimination in any employment decisions, including recruiting, hiring, compensation, promotion, benefits, discipline, termination, job assignments or training.
+
+Disclaimer
+The above job definition information has been designed to indicate the general nature and level of work performed by employees within this classification. It is not designed to contain or be interpreted as a comprehensive inventory of all duties, responsibilities, and qualifications required of employees assigned to this job. Job duties and responsibilities are subject to change based on changing business needs and conditions.
+
+
+Salary Range
+Salary Min :
+
+100440
+
+Salary Max :
+
+223680
+
+This information reflects the anticipated base salary range for this position based on current national data. Minimums and maximums may vary based on location. Individual pay is based on skills, experience and other relevant factors.
+
+This position is eligible for either short-term incentives or sales compensation. Director and VP positions also are eligible for long-term incentive. To learn more about our bonus structure, you can view additional information here. We're able to answer any additional questions you may have as you move through the selection process.
+
+As part of our comprehensive benefits package, Lumen offers a broad range of Health, Life, Voluntary Lifestyle and other benefits and perks that enhance your physical, mental, emotional and financial wellbeing. You can learn more by clicking here.
+
+Note: For union-represented postings, wage rates and ranges are governed by applicable collective bargaining agreement provisions.
+
+Salary Range
+Salary Min :
+
+100440
+
+Salary Max :
+
+223680
+
+This information reflects the base salary pay range for this job based on current national market data. Ranges may vary based on the job's location. We offer competitive pay that varies based on individual experience, qualifications and other relevant factors. We encourage you to apply to positions that you are interested in and for which you believe you are qualified. To learn more, you are welcome to discuss with us as you move through the selection process.
+
+Apply Now: click Apply Now
+
+Show Less Do you want to work on a product which touches and transforms the lives of billions of people across the globe? Do you want to lead the next set of innovations to transform and revolutionize it even further? Are you someone who is passionate about data & insights & creating a data driven culture in a large organization. Come join the Identity & Network Access's Product Management team!
+
+The Identity & Network Access Organization (IDNA), a part of Microsoft’s Security division is building, deploying, & running the Microsoft Entra & its suite of products to enable billions of end users worldwide. Microsoft Entra delivers identity and access for a connected world, confidently enabling smarter, real-time access decisions for all identities across hybrid, multi-cloud and beyond. Identity analytics plays a key role in delivering this vision, with the opportunity to provide core identity insights as well as build AI/ML driven intelligent features that track and respond to changes in the environment and risk signals. Our team is looking for a Principal Manager Product Management (PM) who will be the data Identity Analytics leader for the organization helping build intelligent features & drive broader data maturity in the organization. As the “data CEO” of the division, you’ll work directly with teams across Microsoft such as M365 and Azure to jointly plan our analytics strategy for new markets, products & expanding Microsoft's global footprint across these products. You will also work with customers & partners worldwide to understand the key product insight and intelligence requirements, drive product strategy & execute on the vision by partnering closely with the software developers. You will also bring rigor to our existing metrics, platform to enable the division to get richer, faster insights. As part of this, you will champion our key priorities, OKRs & align leadership teams on forward path. Since this is a People management role, you will also shape, develop & lead a high- performing, nimble and analytically rigorous team of Product Managers & data scientists.
+
+In this role, you will have a unique opportunity to help grow the usage of the Microsoft Entra and M365 services and synthesize data across our feature footprint to provide intelligence in product experiences. This will require you to demonstrate both empathy and technical abilities to succeed. You will need to be familiar with product telemetry, customer engagement & underlying infrastructure that can be used to deliver product improvements. You’ll be working with leaders & engineers in many orgs to drive a common cross Microsoft ambition of growing usage in Microsoft cloud.
+
+Success means understanding the customer needs from start-to-finish and crafting the Product, tools, data & processes that enable Microsoft cloud to grow market share.
+
+If this sounds like the right environment for you, please join us!
+
+#IdentityJobs_
+#MSFTSecurity
+Responsibilities
+Lead the team focused on building the data, metrics, platform which has data scientists and Product Managers
+Partner with teams across Microsoft & service teams within Identity division to drive broader product offerings & monetization enablers. Evaluate key risks, blockers & identify path to green.
+Work with customers, partners & internal support teams to identify key customer requirements/features needed to grow Microsoft's offering & work with Software development teams to execute plans and meet commitments.
+Craft the iteratively refine the vision for the team/space while ensuring that you consider all innovative and impactful ideas from stakeholders, in crafting that vision.
+Qualifications
+Basic Qualifications:
+Bachelor’s degree in engineering or computer science, or related industry experience
+10+ years’ experience in program management or related business experience defining and creating software features
+3+ years’ experience in managing product management teams
+
+Helpful skills:
+Motivated by business outcomes and data-driven decision-making
+Excellent PM fundamentals: feature design, customer empathy, growth mindset, data driven, passion for learning, can-do creativity, concise communications, and ability to influence
+Understanding identity and access management (IAM) capabilities and customer needs on data, metricsdata, metrics, insights, reporting
+Consistent track record of collaborating with PMs and engineers across orgs
+Creativity and optimism grounded in practical engineering and business strategy
+
+Ability to meet Microsoft, customer and/or government security screening requirements are required for this role. These requirements include, but are not limited to the following specialized security screenings:
+
+Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud Background Check upon hire/transfer and every two years thereafter.
+
+Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations, and ordinances. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request via the Accommodation request form.
+
+Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.
+
+Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request via the Accommodation request form.
+
+Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.
+Show Less As part of National Grid’s continued commitment to safety, all new hires must be fully vaccinated against COVID-19. Anyone unable to be vaccinated, either because of a sincerely held religious belief or medical reason can request a reasonable accommodation.
+
+About us
+
+Every day we deliver safe and secure energy to homes, communities, and businesses. We are there when people need us the most. We connect people to the energy they need for the lives they live. The pace of change in society and our industry is accelerating and our expertise and track record puts us in an unparalleled position to shape the sustainable future of our industry.
+
+
+To be successful we must anticipate the needs of our customers, reducing the cost of energy delivery today and pioneering the flexible energy systems of tomorrow. This requires us to deliver on our promises and always look for new opportunities to grow, both ourselves and our business
+
+
+About the role
+
+Are you interested in working in a dynamic environment that offers opportunities for professional growth and new responsibilities? If so, National Grid could be the place for you. National Grid is seeking an innovative and experienced Identify and Access Management (IAM) Engineering Team Lead to join the IAM Engineering team.
+
+
+As Identity and Access Management (IAM) solutions Team Lead, you will
+
+Be the Team Lead overseeing teams for the day-to-day activities of Identity & Access Management stake holder engagements that identify, design, and implement technology and creative business solutions for National Grid Business Units. Responsibilities include, among others, managing teams in the identification & delivery of business requirements, functional design, process design (including scenario design, flow mapping), prototyping, testing, training, defining support procedures
+Develop and maintain relationships, ensure stake holder satisfaction related to aspects of both the product and the implementation at the technical and functional level.
+Perform role of counselor and coach; provide input and guidance into the staffing process; actively participate in staff recruitment and retention activities; provide leadership and support for delivery teams and staff.
+Responsible to install, integrate and deploy IAM products to National Grid Global business unit environments.
+Conduct and facilitate cybersecurity IAM architecture reviews with multiple internal/external teams and stakeholders to assist in IAM adoption
+Review and approve secure IAM solution architectures, provide guidance, insight, and feedback on new security technologies
+Research new IAM security technologies and establish future-state cybersecurity IAM architecture design patterns that consider business, information, application, infrastructure, and security perspectives
+Design technical controls and solutions for a variety of information systems based on industry best practices and guidelines (e.g., NIST CSF, CSA, CIS, OWASP)
+
+
+The Team:
+National Grid IAM team work to design, develop and build solutions to help National Grid business units reimagine, reshape and rewire the competitive fabric of organization. Our program has a multitude of specialists, ranging from systems designers, developers, business analyst, architects and integrators. All working together on diverse program and projects from advanced pre-configured solutions and methodologies to brand-building and campaign management. We have a unique blend of skills and experiences, yet we underline the value of everyone, providing customized career paths, fostering innovation and associate development.
+
+
+About you
+
+To be successful you will possess:
+
+BA/BS Degree in Computer Science, Cyber Security, Information Security, Engineering, Information Technology or equivalent relevant experience
+
+Proven experience with:
+
+Identity & Access Governance including Role based access control, access request and certification
+Managing projects through the full system development lifecycle
+Technical architecture experience integrating identity management, access management and access governance software into infrastructure and applications
+Installation, integration and deployment of SailPoint in client environment
+Identity Management familiarity the following areas:
+Identity Governance and Administration (Lifecycle Management and Provisioning)
+Single Sign on and Advanced Authentication (Federation and Risk Based Authentication)
+Consumer Identity and Access Management
+Privilege Access Management
+Identity as a Service and Cloud related Identity Solution
+Enterprise Directory Architecture and Virtual Directories
+
+
+Proven experience with the following programming languages: Java, JavaScript, JSP/Servlets, SQL
+SAFE Agile Experience
+Experience working in highly regulated environments, particularly SOX
+Successful experience leading and managing teams
+
+
+Preferred Experience:
+
+Previous identity analytics experience
+Experience in consumer identity and directory services with both SailPoint and CyberArk
+Certifications (e.g., CompTIA Security+, CISM, CISSP)
+What you get
+
+As well as your base salary, you will receive a bonus based on personal and company performance and 401K retirement savings plan, comprehensive health plans, 3 weeks paid vacation plus 10 fixed holidays and 2 personal days and an option to buy extra holidays. You will also have access to a number of flexible benefits that support your work life balance!
+
+More Information
+
+We encourage candidates to submit their applications as early as possible. National Grid’s recruitment periods can and may vary. We reserve the right to remove this advert or close it to further applications at any point during the recruitment process.
+Location: New England US or contiguous states. Candidates may also reside in the UK. Hybrid and flexible working is ingrained into our culture, this permanent role offers a mix of office and home working.
+Grade: Band D
+Hiring Manager: Chris Shea
+Global IT /Permanent
+For further information please contact Sukhi.Shina2@nationalgrid.com
+
+#LI-HYBRID #LI-SS1
+
+
+Salary
+
+UNY: $111,000 to $157,000 per year
+DNY: $133,000 to $188,000 per year
+NE: $124,000 to $175,000 per year
+Salary is commensurate with experience and location
+
+Please be advised that due to the nature of this position, incumbents are subject to federal Drug & Alcohol safety regulations governing US Department of Transportation ("DOT") covered positions, including the Federal Motor Carrier Safety Administration (FMCSA) and Pipeline Hazardous Material Safety Administration (PHMSA). As such, the Company’s testing programs and policies regarding the use of federally prohibited drugs or alcohol, for recreational or medical purposes, will remain in effect for these safety-sensitive, DOT covered positions.
+
+This position has a career path which provides for advancement opportunities within and across bands as you develop and evolve in the position; gaining experience, expertise and acquiring and applying technical skills. Candidates will be assessed and provided offers against the minimum qualifications of this role and their individual experience.
+
+National Grid is an equal opportunity employer that values a broad diversity of talent, knowledge, experience and expertise. We foster a culture of inclusion that drives employee engagement to deliver superior performance to the communities we serve. National Grid is proud to be an affirmative action employer. We encourage minorities, women, individuals with disabilities and protected veterans to join the National Grid team.
+
+To apply to this job, click Apply Now
+
+Show Less As part of National Grid‚Äôs continued commitment to safety, all new hires must be fully vaccinated against COVID-19. Anyone unable to be vaccinated, either because of a sincerely held religious belief or medical reason can request a reasonable accommodation.
+
+About us
+
+Every day we deliver safe and secure energy to homes, communities, and businesses. We are there when people need us the most. We connect people to the energy they need for the lives they live. The pace of change in society and our industry is accelerating and our expertise and track record puts us in an unparalleled position to shape the sustainable future of our industry.
+
+
+To be successful we must anticipate the needs of our customers, reducing the cost of energy delivery today and pioneering the flexible energy systems of tomorrow. This requires us to deliver on our promises and always look for new opportunities to grow, both ourselves and our business
+
+
+About the role
+
+Are you interested in working in a dynamic environment that offers opportunities for professional growth and new responsibilities? If so, National Grid could be the place for you. National Grid is seeking an innovative and experienced Privileged Access Management (PAM) Engineering Team Lead to join the IAM Engineering team.
+
+
+As Privileged Access Management (PAM) solutions Team Lead, you will
+
+Oversee the teams day-to-day activities of Privileged Access Management stake holder engagements that identify, design, and implement technology and creative business solutions for National Grid
+Responsibilities include, among others, managing teams in the identification & delivery of business requirements, functional design, process design (including scenario design, flow mapping), prototyping, testing, training, defining support procedures
+Develop and maintain relationships, ensure stakeholder satisfaction, expand existing Cyber engagements
+Lead aspects of the proposal development process and RFP responses, pricing strategies, engagement letters and Statements of Work
+Perform role of counselor and coach; provide input and guidance into the staffing process; actively participate in staff recruitment and retention activities; provide leadership and support for delivery teams and staff
+Identify and evaluate complex business and technology risks, internal controls which mitigate risks, and related opportunities for internal control improvement
+
+
+The Team:
+National Grid IAM team work to design, develop and build solutions to help National Grid business units reimagine, reshape and rewire the competitive fabric of organization. Our program has a multitude of specialists, ranging from systems designers, developers, business analyst, architects and integrators. All working together on diverse program and projects from advanced pre-configured solutions and methodologies to brand-building and campaign management. We have a unique blend of skills and experiences, yet we underline the value of everyone, providing customized career paths, fostering innovation and associate development.
+
+
+About you
+
+To be successful you will possess:
+
+BA/BS Degree in Computer Science, Cyber Security, Information Security, Engineering, Information Technology or equivelent experience
+
+Proven experience with:
+
+Identity & Access Governance including Role based access control, access request and certification
+Managing projects through the full system development lifecycle
+Developing, implementing or architecting information systems
+Technical architecture experience integrating identity management, access management and access governance software into infrastructure and applications
+Installation, integration and deployment of CyberArk
+Proven experience Managing CyberArk Enterprise Password Vault (EPV), Central Policy Manager (CPM), and Privileged Session Manager (PSM) in a global distributed environment
+Proven Experience with the following programming languages: Java, JavaScript, JSP/Servlets, SQL
+Experience leading and managing teams
+Strong critical thinking, analytic, and problem-solving abilities
+Identity Management familiarity within the following areas:
+Single Sign On / Federation
+Privileged Access Management (PAM)
+Enterprise Directory Architecture and Design including directory schema, namespace and replication topology experience
+Role Base Access Control
+Secret Management
+Experience working in highly regulated environments, particularly SOX,
+
+
+Preferred Experience:
+
+Experience in consumer identity and directory services
+Certifications (e.g., CompTIA Security+, CISM, CISSP)
+What you get
+
+As well as your base salary, you will receive a bonus based on personal and company performance and 401K retirement savings plan, comprehensive health plans, 3 weeks paid vacation plus 10 fixed holidays and 2 personal days and an option to buy extra holidays. You will also have access to a number of flexible benefits that support your work life balance!
+
+
+More Information
+
+We encourage candidates to submit their applications as early as possible. National Grid‚Äôs recruitment periods can and may vary. We reserve the right to remove this advert or close it to further applications at any point during the recruitment process.
+Location: New England US or contiguous states. This position can also be based in the UK - Hybrid and flexible working is ingrained into our culture, this permanent role offers a mix of office and home working.
+Grade: Band D
+Hiring Manager: Chris Shea
+Global IT /Permanent
+For further information please contact Sukhi.Shina2@nationalgrid.com
+
+#LI-HYBRID #LI-SS1
+
+
+Salary
+
+UNY: $111,000 to $157,000 per year
+DNY: $133,000 to $188,000 per year
+NE: $124,000 to $175,000 per year
+Salary is commensurate with experience and location
+
+Please be advised that due to the nature of this position, incumbents are subject to federal Drug & Alcohol safety regulations governing US Department of Transportation ("DOT") covered positions, including the Federal Motor Carrier Safety Administration (FMCSA) and Pipeline Hazardous Material Safety Administration (PHMSA). As such, the Company‚Äôs testing programs and policies regarding the use of federally prohibited drugs or alcohol, for recreational or medical purposes, will remain in effect for these safety-sensitive, DOT covered positions.
+
+This position has a career path which provides for advancement opportunities within and across bands as you develop and evolve in the position; gaining experience, expertise and acquiring and applying technical skills. Candidates will be assessed and provided offers against the minimum qualifications of this role and their individual experience.
+
+National Grid is an equal opportunity employer that values a broad diversity of talent, knowledge, experience and expertise. We foster a culture of inclusion that drives employee engagement to deliver superior performance to the communities we serve. National Grid is proud to be an affirmative action employer. We encourage minorities, women, individuals with disabilities and protected veterans to join the National Grid team.
+
+To apply to this job, click Apply Now
+
+Show Less Welcome to Perennial.
+
+Perennial is building the world's leading verification platform for soil-based carbon removal. Our vision is to unlock soil as the world's largest carbon sink. To do that, we are building trusted standards, tools, and technologies to help verify climate-smart agriculture.
+
+Perennial uses the world's most advanced remote measurement technology for soil carbon sequestration and emissions. We fuse machine learning, ground observations, and satellite data to map soil carbon and land-based GHG emissions at continent-level scales. This technology is powering the future of climate-smart agriculture and helping the food supply chain decarbonize.
+
+At Perennial, you will work in a mission-driven and collaborative environment alongside a diverse team with backgrounds spanning science, technology, carbon markets, and agriculture.
+
+Our HQ is located in Boulder, CO USA. We are a fully-flexible company for remote and hybrid work.
+
+We've raised $25M+ from mission-aligned investors including Temasek, Bloomberg, Microsoft Climate Innovation Fund, SineWave Ventures, Alumni Ventures Group, and Collaborative Fund.
+
+About the Role:
+
+As the Head of Data Science, you will lead a team to develop clearly defined models and algorithms that quantify carbon content in farmland from local to continent scales. Output from these algorithms will directly support the issuance of carbon offset credits underpinned by Perennial's award-winning technology. You will play a foundational role in shaping the strategy, architecture, and buildout of Perennial's data-driven quantification methodology. You will manage an excellent team of data scientists and applied scientists to execute Perennial's vision, and will report directly to the CTO. You will work closely with the VP of Engineering and VP or Product, and will be expected to communicate technical data science issues to stakeholders outside the data science and engineering teams. This is a tremendous opportunity to join a productive team at a pivotal time, and to apply your leadership skills to one of the most challenging and important problems in climate tech.
+
+Your Responsibilities:
+Manage and grow a stellar team of data scientists and applied scientists.
+Report directly to the CTO to execute Perennial's vision. This will require integrating information from engineering, science and commercial teams to balance competing objectives.
+Create and uphold a culture of communication and tight integration between the data science team and other teams within the company.
+Work closely with data scientists to generate new models, algorithms, metrics, features, and architectures to improve performance and explainability with respect to commercial and science objectives.
+Help explore solutions to problems such as temporal change detection, label-limited ML, and model applicability domain.
+Represent the company's data science externally at conferences and assist in the authorship of whitepapers or peer-reviewed publications.
+What You'll Bring:
+Extensive management experience in data science or algorithm development.
+Proven experience contributing to or leading modeling efforts at a company where the data science outputs are directly delivered as the end product.
+Proven experience balancing the needs of data science and commercial or product teams to achieve a common objective.
+Ability to manage open-ended R&D timelines alongside definite product requirements.
+Experience delivering ML/DL models in production.
+Strong experience with modern data science and computational statistics toolsets (e.g. the Python ML stack, numpy, pandas, sklearn, jupyter, AWS, etc.) and familiarity with a variety of MLOps tools.
+Experience applying a variety of ML/DL algorithms, including regressions, tree-based methods, neural networks, and time-series methods.
+Excellent verbal and written communication skills, including the ability to translate technical concepts for a non-technical audience.
+What will make you stand out:
+8+ years of management experience in data science or algorithm development.
+Experience or education in the physical, life, or ecological sciences, especially in a commercially relevant setting.
+Startup experience, preferably Series A stage or earlier.
+Experience with geospatial data or spatio-temporal prediction problems strongly preferred.
+Experience with one or more of the following: remote sensing, computer vision, deep learning, statistics, data/ML engineering, model training automation, physical sciences, life sciences, ecosystem sciences, carbon quantification, agriculture.
+Experience with scalable computing for ML/DL inference (e.g. Dask, Spark, batch computing).
+Bayesian methods, including methods of error propagation.
+
+Our Stack: Python, React, sklearn, Docker, Airflow, PostGIS, GDAL, AWS
+
+You'll love working at Perennial because:
+We live by our Core Values.
+Speak your truths, welcome new voices.
+Celebrate your successes, own your mistakes.
+Solve important problems.
+Invest in each other.
+Build for the future.
+Get your hands dirty!
+We challenge the status quo. We're a group of people who want to create the changes we hope to see in the world. See some of our recent press about the problems we're committed to solving.
+We invest in your life. We want to provide you with resources to meet your needs both in and outside of work. We offer generous PTO, health, vision, dental, 401k, and HSA benefits and a fully stocked kitchen to keep your mind sharp throughout the day.
+We want you to grow. We are a team that supports each others' professional and intellectual growth. You'll have access to regular opportunities to learn from teammates and invest in your professional development.
+We offer competitive compensation packages. Our team is our most valuable asset. We want everyone who works for us to feel fairly compensated for the impact they bring to our mission. The team member in this role can expect a starting salary in the range of $190,000 - $260,000 alongside equity in the company.
+Perennial is an equal opportunity employer. We celebrate and embrace diversity and are committed to building a team that represents a variety of experiences, backgrounds, and skills. We do not discriminate on the basis of race, color, religion, marital status, age, gender identity, gender expression, sexual orientation, non-disqualifying physical or mental disability, national origin, veteran status, or other applicable legally protected characteristics.
+Show Less 
+ReportAs a Global PHC Cybersecurity Leader you will work with several Global Teams, local Cyber Security Leaders, IT/OT organization, and platform teams to understand the needs/ gaps in manufacturing and engineering organization. The individual in this role will improve and/or introduce the tools that can be standardized at the Greensboro Swing Rd site to meet the needs toward compliance and add digital value. If there are any Operational Technology (OT) related challenges to meet, the individual will need to influence the standards to accommodate or align on exceptions. In this role, you would work with the incident response teams during the plant outages due to either security breaches or OT related downtimes. Additionally, you would lead the meetings, trainings, and other engagements with the Greensboro Swing Rd site.
+
+What you would gain in this role:
+
+Technical skills specific to P&G InfoSec and IT policies and/ or standards. Information Security specific certification related to manufacturing and ICS security.
+
+IT at P&G
+
+IT at Procter & Gamble is where business, innovation and technology integrate to create a competitive advantage for P&G. Our mission is clear - we deliver IT to help P&G win with consumers. As a P&G IT professional you apply your IT mastery to diverse business problems to deliver game-changing technology-driven business models and capabilities. Whether your role is to create an IT innovation strategy for a business, protect our critical information systems and assets, or building a completely new way of operating, your technical mastery will be recognized and rewarded. Your passion for the industry will be further cultivated by our culture of continued learning and growth as an IT professional. Your career in IT at P&G will build you through growing your leadership and influence skills, expanding your perspective via experiences across multiple businesses, and cultivating depth of expertise in areas like Application & Integration, Infrastructure, Data & Analytics, and Security & Risk.
+
+What we can offer you is an interesting and diverse set of opportunities to solve problems that come with being one of the largest consumer goods companies in the world. You likely have many interests, and our scale enables you to have the opportunity to explore these interests and apply your problem-solving skills.
+
+
+Qualifications
+
+
+
+Technical Mastery: Strong technical knowledge and hands on experience in the areas of IT and OT. This includes virtualization/ network knowledge, log aggregation/management solutions, asset discovery tools, and asset management tool across both landscapes.
+Manufacturing Background: You will need to have worked in a manufacturing plant or be very familiar with plant IT and OT infrastructure, applications, and environments. This role requires an understanding of how plants and technical centers operate.
+Documentation and Communication Skills:A candidate in this role must follow engineering work processes and document learnings. In this role you will need to interact daily with Product Supply Engineering, Manufacturing teams, site digital teams, and Info Security to provide consulting/ collaboration.
+Stewardship: The preferred applicant would have experience as the cyber security leader for the plant or as the backup. Knowledge about the GIA audit process including the tools and services related to InfoSecurity.
+Compliance and Information Security: Understanding different areas of IT and OT including continuity planning, asset management, change management, computer installation standards, endpoint hardening, cyber incident management, identity and access management, and patch and firmware management for applications and infrastructure is preferred.
+Application & Infrastructure knowledge: Knowledge of manufacturing IT and OT applications, including applications in ALICS platform, and manufacturing execution systems. Manufacturing infrastructures including the network design, virtualization, network address translation, ICS firewalls, ect. is preferred.
+Innovation Leadership: In this role you will need to stay in touch with recent technologies which enable industrial controls system, operation technology breakthroughs, leverage lab environment to simulate the technologies, drive the theoretical and applied development of prototype systems, and determine how to efficiently integrate them into our global standard platforms.
+Industrial Controls System: Knowledge of industrial control system protocols such as EtherNet/IP, CIP, ControlNet, DeviceNet, OPC, Modbus, programming and configuring industrial switches are preferred. These skills are especially important for OT asset management.
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, protected veteran status, disability status, age, sexual orientation, gender identity and expression, marital status, citizenship, HIV/AIDS status or any other legally protected factor.
+
+Immigration sponsorship is not available for this role. As a general matter, Procter & Gamble does not sponsor candidates for nonimmigrant visas or permanent residency. However, Procter & Gamble may make exceptions on a discretionary basis. Any exceptions would be based on the Company's specific business needs at the time and place of recruitment as well as the qualifications of the individual.
+
+Procter & Gamble participates in e-verify as required by law.
+
+Qualified individuals will not be disadvantaged based on being unemployed.
+
+Job locations:
+Greensboro, North Carolina, United States Job Type: Full time Job categories: Information Technology Req No: R000047270
+Show Less Overview
+
+Role : Identity & Access Management Technologies Leader
+
+100% Remote
+
+Full Time position.
+
+
+
+
+Job Description :
+
+
+
+
+Provides comprehensive application functionality, configuration and support expertise for application software solutions; works with business analysts, architects, technical experts and software vendors on the solution requirements, design, configuration, functionality gap resolution, implementation, support, maintenance and enhancement of the applications.
+Analyzes and evaluates application functionality and provides recommendations to increase utilization of standard application functionality to improve business processes and capabilities
+Determines and documents optimum application setup and configuration to meet functional requirements and specifications; configures and verifies application setup and configuration.
+Develops expertise in emerging application and solution trends and functionality; provides functional recommendations for assigned applications and systems.
+Conducts analysis of potential application solutions, identifies and recommends solutions to address functionality gaps in the application.
+Partners with process owners, business analysts, systems analysts and architects to gather, document and review functional, architecture and technical requirements and define application functional designs.
+
+To be successful in this role you will need the following:
+
+Solution Design - Creates and defines the solution design complete with instrumentation and measurement, using industry standards and tools, version control, and build and test automation to synthesize diagrams, models and documentation in order to build a solution that meets buildability, business, technical, security, governance and compliance requirements.
+Solution Validation Testing - Validates a configuration item change or solution using the Function's defined best practices, including the Systems Development Life Cycle (SDLC) standards, tools and metrics, to ensure that it works as designed and meets customer requirements.
+Solution Configuration - Configures, creates and tests a solution for commercial off-the-shelf (COTS) applications using industry standards and tools, version control, and build and test automation to meet business, technical, security, governance and compliance requirements.
+Solution Modeling - Creates, designs and formulates models, diagrams and documentation using industry standards, tools, version control, and build and test automation to meet business, technical, security, governance and compliance requirements.
+
+Experience
+
+Intermediate level of relevant work experience required. 3-5 years of experience.
+
+Direct accountability, management, and leadership of the Identity & Access Management working with our application, infrastructure and cybersecurity teams
+Maintain advanced working knowledge of access management, Azure Active Directory (Azure AD) and Federated Identities, directory services, Multi-Factor Authentication (MFA) & upcoming technologies in the identity space
+Participate in the full spectrum of team activities including planning, design, implementation, validation, and retrospection & supervise our IAM support teams
+Participate in projects and initiatives working with IAM team members, architectural, development and engineering teams, service owners and business stakeholders to provide enterprise IAM solutions that are scalable and adaptable with the ever-changing business needs and industry demands
+Demonstrate advanced understanding of business processes, internal controls, risk management, IT Controls, and related standards and participates in internal and external audit activities, maintains documentation for future audits
+Experience with using Scaled Agile and DevSecOps if preferred
+
+Here are a few points for Identity and Access Management (IAM) position.
+
+
+
+
+Account Creation/Deletions
+Single Sign On (SSO, Simplified sign on)
+Directory Repository (LDAP/Active Directory, Cloud Identity)
+Federation, SAML
+Multi-Factor Authentication (MFA)
+Role-Based Access Control (RBAC)
+Password resets/self-service
+External Identity Management (Customers, Consumers, Third Parties)
+Integration with Cloud-based identities
+IAM SaaS solutions
+Password-less authentication (Voice signature/Face recognition)
+IAM with Zero Trust technologies
+Privileged Access Management (PAM)
+Use of public identity (Google, Facebook, etc.)
+Digital Certificates
+
+HR process integration
+
+
+Job Details Open Until Filled Recruitment Manager Michael R Job Code JPC - 869 Required Hours/Week 40 Experience 12-18 Years Required Documents Resume Primary Skills Automation,SAML,Azure AD,LDAP,SOD Zip Code N/A Work Authorization N/A Contact Person Details Jayanthan Sidharth Technical Recruiter N/A sidharth.j@promantisinc.com
+Show Less Southwest Power Pool (SPP) is about more than power. We’re about the power of relationships. Our employees have the opportunity to work together to ensure electricity is delivered reliably and affordably to the millions of people living in our service territory. We have been voted one of Arkansas’ Best Places to work by Arkansas Business and we are looking for a member of our team who is passionate about our mission to keep the lights on!
+
+We have a core ideology here at SPP that we stand by: Do the right thing, for the right reason, in the right way.
+
+We believe in supporting our employees through a fantastic benefits package:
+
+Competitive pay with bonus opportunities
+Excellent insurance package including three great medical plans to choose from, employer-paid short term disability, long term disability, and life insurance
+Relocation assistance
+Flexible working environment for positions that are eligible where employees have the flexibility to work from home and come in where collaborative in person work is needed.
+Fantastic contributions to your retirement through a 401(k) savings plan with employer-match benefits and a defined benefit plan fully funded by SPP
+
+Overview
+
+The Supervisor of Identity and Access Management (IAM) provides direct leadership and supervision of a team within the Information Technology Department at Southwest Power Pool focused on the IAM applications, program, processes and procedures. The Supervisor of IAM is responsible for managing and directly contributing to the implementation and support of IAM computer applications and databases including integrating IAM systems with in-house and third party applications for provisioning, identity authentication, developing connectors between IAM tools and systems resources, and system resource authorization. Key responsibilities include managing and participating in the work flow within IAM including access provisioning, compliance, access management, planning and prioritizing the work followed by evaluating and managing the performance of direct reports to ensure IAM program, project and/or support objectives are met on schedule.
+
+The Supervisor of IAM will work closely with SPP IT Quality Control, IT Cyber Security, IT Support Services, Compliance, Internal Audit and key IT subject matter experts to ensure IAM related requirements, standards and policies are implemented and maintained. This position is expected to work with minimal supervision, exercising good judgment in assigning tasks and priorities, resolving issues, and managing the Section staff. Additionally, the position may be called on to support SPP technical committees and working groups, and may represent SPP and its member companies at NERC committees and working groups.
+
+The Supervisor of IAM discusses development plans with their direct reports and manages individual performance through real-time coaching and periodic performance reviews.
+
+Essential Functions
+
+Provide leadership, management, and direction to direct reports, with minimal supervision. Foster team-building, motivate staff to perform effectively and efficiently, and provide frequent coaching. Ensure that direct reports understand their roles, responsibilities, job expectations, work assignments, and priorities
+Coordinate application staff resource requirements and assignments with Project Management staff as well as with the other SPP departments, with emphasis placed upon providing resource management for prioritized projects and initiatives. Ensure that all direct reports consistently have appropriate and meaningful assignments
+Responsible for defining goals, objectives, and action plans for the IAM team, ensuring the success of these initiatives.
+Work with manager to oversee the creation and maintenance of IAM program including requirements, standards, policies and best practices documentation.
+Manage the workflow of implemented IAM systems including access provisioning, compliance, access management, access authorization, compliance and other functions of the IAM program.
+Plan, manage, and provide evidence of Access Certifications and controls in compliance with NERC CIP, SOC1, and other applicable audit requirements.
+Coordinate appropriately and effectively to ensure smooth execution of projects from initiation to production implementation
+Ensure overall effectiveness and productivity of team, including demonstration of outstanding effort in meeting deadlines and appropriate tracking of time by direct reports
+Ensure that all required project documentation is created, effective and maintained
+Demonstrate commitment to improving and maintaining professional interdepartmental relationships across IT. Communicate appropriately in a timely manner with peers. Encourage teamwork throughout IT
+Establish and maintain effective working relationships with management and staff within SPP organizations supported by the department.
+Maintain a competent understanding of the business and technical requirements of system(s) supported by the team.
+Retain leadership skills necessary to effectively manage the team.
+Document and communicate employee development plans for each direct report. Identify both professional and technical areas of focus, accompanied with specific and measurable goals. Prepare and deliver individual annual staff performance evaluations on schedule. Manage employee performance to ensure success of projects and the employee
+Promote SPP’s Mission, Value Propositions, Core Ideology, Culture Drivers, and Core Values as documented in the SPP Business Model. Lead by example in demonstrating these important characteristics
+Provide technical expertise to SPP committees and working groups as requested by the Vice President, IT. May be called upon to facilitate or provide staff support for SPP committees and working groups. May be called upon to represent SPP at NERC or other committee and working group meetings
+Demonstrate a thorough understanding of SPP compliance requirements. Ensure that direct reports understand compliance requirements and that all compliance required activities are carried out
+Manage budget development processes from IT Applications perspective
+Manage special projects as assigned
+Conduct regular touch-base meetings with direct reports to discuss development goals, business goals and performance matters
+Provide real-time coaching on performance
+Conduct annual performance reviews
+
+Qualifications
+
+Bachelor’s degree in an Information Technology related field, or equivalent job-related experience
+
+Experience Requirements:
+
+Eight (8) years of experience in Information Technology, Engineering, Project Management, or a related field
+
+Required:
+
+Strong leadership skills
+Expert customer service and organizational skills
+Comprehensive knowledge of SDLC and project life cycle methods and practices
+Flexibility and the ability to effectively manage constantly changing and multiple priorities
+Competent knowledge of operating systems, application development and support, and database management systems
+Expert troubleshooting, problem solving, and analytical skills
+Excellent written and oral communications skills
+Understanding of, compliance with and enforcement of SPP Policies and Procedures
+
+Preferred:
+
+Five (5) years utility industry experience
+Five (5) years of team leadership experience
+Identity and Access Management (IAM) knowledge or experience
+Experience in hardware and software evaluation principles, practices, and guidelines
+A variety of experience in Information Technology applications projects
+
+Work Environment:
+
+This job operates in a professional office environment. This role routinely uses standard office equipment.
+
+Physical Demands:
+
+The physical and mental demands described here are representative of those that must be met by an employee to perform the essential functions of this job successfully.
+
+While performing the duties of this job, the employee is regularly required to make decisions, interpret data, and problem solve.
+The employee frequently is required to stand or sit for extended periods; use hands to operate a computer keyboard and standard office equipment.
+The employee must occasionally lift and move up to 10 pounds.
+Requires the ability to work and collaborate with managers and employees at all levels to exchange ideas, information, and opinions to facilitate the task.
+Specific vision abilities required by this job include close vision, distance vision, color vision, and ability to adjust focus.
+
+Position Type and Expected Hours of Work:
+
+This is a full-time position. Days and hours of workweek are Monday through Friday; 8:00 a.m. to 5:00 p.m. Working extended hours may be required.
+
+Travel Requirement:
+
+This position requires minimal (5-20%) travel
+
+Should you elect to apply for this position SPP will review your qualifications. If after reviewing the qualifications and experience of all applicants, your skills and credentials meet our needs, someone from our organization may contact you. Please be advised that the time required to complete the applicant review process typically takes between 30 and 90 days, but could extend beyond that. Once the position has been filled, all applicants will be notified via email.
+
+Southwest Power Pool is an Equal Opportunity Workplace and an Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, age or any other protected category.
+
+The Americans with Disabilities Act (ADA) defines “reasonable accommodation” as a change or adjustment to a job or work environment that allows a qualified individual with a disability to satisfactorily perform the essential functions of a particular job, and does not cause an undue hardship for the employer. SPP adheres to the ADA and reasonable accommodations may be made to enable a qualified individual with a disability to perform the essential functions.
+
+Equal Opportunity Employer/Protected Veterans/Individuals with Disabilities
+
+The contractor will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. However, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the contractor’s legal duty to furnish information. 41 CFR 60-1.35(c)
+
+Show Less Description
+
+
+
+
+The Washington Health Benefit Exchange is a public-private partnership that operates the WAPlanfinder mobile app and Washington Healthplanfinder, the eligibility and enrollment portal used by one in four Washington residents to obtain health and dental coverage. Through Washington Healthplanfinder, individuals and families can compare and enroll in health insurance coverage and gain access to financial help and public programs like Washington Apple Health.
+
+The mission of the Exchange, a state-based marketplace, is to radically improve how Washington residents secure health insurance through innovative and practical solutions, an easy-to-use customer experience, our values of integrity, respect, equity and transparency, and by providing undeniable value to the health care community.
+
+The Exchange is also committed to identify and reach groups at risk for obstacles to access coverage, which includes supporting those who need assistance overcoming barriers to seek, find, and use their health insurance coverage. Specifically, the Exchange is embracing the following equity statement:
+
+Equity is a fundamental pillar to the society we seek to build. The process of advancing toward equity will be disruptive and demands vigilance, dismantling deeply entrenched systems of privilege and oppression. We must focus our efforts on people and places where needs are greatest, especially communities of color, and go beyond remedying a particular inequity to address all determinants of health.
+
+Our goal is that all Washingtonians have full and equal access to opportunities, power and resources to achieve their full potential.
+
+Duties
+SUMMARY
+The Identity & Access Management lead is responsible for managing ongoing development and configuration of the Identity and Access Management (IAM) solution for WAHBE using ForgeRock technology. This position is responsible for designing, managing, and monitoring of IAM; ensures appropriate security controls are implemented; assist risk management team in IT audits; and assist incident response team to investigate IT security incidents and breaches. This position is also responsible for assessing new IAM requirements, providing impact reports and status updates to leadership.
+
+DUTIES AND RESPONSIBILITIES
+
+Lead IAM team to design, deploy, support and monitor IAM solution using ForgeRock Identity As a Service offerring
+Colloborate with ForgeRock vendor to monitor product releases and perform impact analysis for WAHBE
+Collaborate with System Integrator to ensure application integration to Forgerock is stable and meets WAHBE SLAs
+Track ForgeRock bugs, release issues for resolution and report to management
+Develop and maintain IAM requirements for cloud-based applications and services
+Perform access re-certification for privileged user accounts in IAM
+Manage and monitor day-to-day issues, incidents and ensure issues are escalated and addressed and processes are followed
+Manage and mentor the team of IAM admins and engineers
+Configure out of the box and custom reporting using industry standard reporting tools
+Stay up to date with current and emerging IAM capabilities
+Advise management on risk issues related to IAM and recommend actions in support of WAHBE’s risk management and compliance programs
+Lead the risk assessment of a proposed solution, escalate appropriately and drive to closure
+Collaborate with peer engagement leads to define and establish best-in-class, effective IAM implementation in hybrid cloud environment
+Assist WAHBE in reviewing and updating policies, procedures, and standards as applicable to IAM solution
+Work with the Risk Management Office in the remediation of vulnerabilities and audit findings
+Liaise with other architects and engineers to share best practices, insights and requirements
+Performs other duties as assigned within the scope of IAM solution
+Qualifications
+Required:
+
+7+ years of IAM experience using Oracle, ForgeRock or similar technology
+Excellent understanding of development SDLC, architecture design and IT operations.
+Ability to assess the impact of new requirements on IAM and all upstream and downstream applications, systems and processes
+Experience in implementing IAM solutions in cloud platform
+Experience with vendor management and oversight
+Experience in enabling SSO and Federation using SAML, OAuth and OIDC; MFA, Risk Based Authentication
+Good understanding of TCP/IP and RESTful based architectures
+Strong advanced troubleshooting skills with the ability to analyze logs, systems changes, and system health for root cause
+Experience in assisting Incident investigations during security/privacy incidents
+Experience developing and documenting business processes and workflows as implemented in IAM
+Excellent verbal and written communication skills
+Ability to prioritize and manage multiple projects simultaneously and follow-through on issues in a timely manner
+Motivated self-starter with initiative to take independent action and accept responsibility for your actions
+Ability to maintain high level of confidentiality
+Creative and proactive problem solver; must possess the ability to make independent decisions and judgments about work priorities
+Well organized, flexible, resourceful and efficient with strong attention to detail
+Strong interpersonal skills; ability to work with all levels of internal management and staff, as well as outside clients, vendors, diverse populations, stakeholder groups, and customers
+Desired:
+
+3+ years of experience in Forgerock IAM
+Experience understanding and implementing IT Security controls
+Ability to learn and apply new concepts
+Knowledge of Google cloud security
+Experience working with Security information and event management
+Experience in the government and/or health care fields
+Understanding of standards and guidelines in areas of IRS 1075, MARS-E, NIST, FISMA, HITECH, etc
+Contracts management experience
+Bachelor’s or Master’s degree in Cybersecurity or related field
+
+
+Supplemental Information
+
+APPLICATION INSTRUCTIONS
+This position will be open until we find a suitable number of candidates to review. If interested, please submit an application as soon as possible. The Exchange reserves the right to close the recruitment at any time. To apply, please use this URL: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=53289d67-dc11-4b90-8c27-a6b582f696a2&ccId=19000101_000001&jobId=441037&source=CC2&lang=en_US
+
+SALARY INFORMATION
+The posted salary is the new hire range of consideration. Full salary range is from $95,604.00 - $143,426.00. Offer will depend on qualifications.
+
+WORKING CONDITIONS
+Core business hours are 8:00 a.m. to 5:00 p.m., Monday through Friday. Travel requirements will be limited to local travel, however there may be occasions were an employee is required to travel and work irregular hours to attend meetings or trainings. Duties of this position require the use of standard office furniture and equipment (e.g. desk, filing cabinet, computer, printer, telephone, fax machine, copy machine, etc.).
+
+The working conditions and physical demands are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+
+In alignment with the Governor's proclamation and WAHBE's duty to provide and maintain a safe work environment free of known hazards, to reduce business and community disruption associated with COVID-19 surges, and to reduce the risk to the public we serve, all employees must provide evidence that they have received the COVID-19 vaccination in full as a condition of employment, or have received an approved medical or religious exemption.
+
+SPECIAL REQUIREMENTS
+A criminal background screen will be conducted for candidates under final consideration, and if hired, every five years of employment where highly sensitive data is processed or maintained by the position. The result of this background screen must meet the Exchange’s eligibility standards.
+
+OTHER INFORMATION
+The above statements are intended to describe the general nature and levels of work being performed. They are not intended to be construed as an exhaustive list of responsibilities, duties and skills of personnel so classified.
+
+This is not an employment agreement or contract. Management has the exclusive right to alter this job description at any time without notice.
+
+The Washington Health Benefit Exchange is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, age, marital status, sex, sexual orientation, gender identity, national origin, disability or protected veteran status.
+
+We participate in E-Verify (Download PDF reader). You can view the Department of Justice's Right to Work poster here (Download PDF reader).
+
+Show Less Responsibilities
+TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices, including Los Angeles, New York, London, Paris, Berlin, Dubai, Mumbai, Singapore, Jakarta, Seoul, and Tokyo.
+
+Why Join Us
+
+At TikTok, our people are humble, intelligent, compassionate and creative. We create to inspire - for you, for us, and for more than 1 billion users on our platform. We lead with curiosity and aim for the highest, never shying away from taking calculated risks and embracing ambiguity as it comes. Here, the opportunities are limitless for those who dare to pursue bold ideas that exist just beyond the boundary of possibility. Join us and make impact happen with a career at TikTok.
+
+Our Global Security function provides services to TikTok's US market using four principles that guide our strategic and tactical operations. First, we champion trust and transparency, leading the charge in organizational transparency and execution of security and privacy capabilities that drive customer trust. Second, we are a business catalyst and enabler, embodying the DNA of technical innovation. Third, we drive risk-informed and empowered decision-making, giving our business leaders the information needed to make key decisions. Finally, we proactively identify and reduce risk while enabling innovative product development – to consistently build sustainable world-class and trusted security capabilities.
+
+As a direct report to the Principal Lead, US Data Defense and Access Assurance (DDAA) within TikTok USDS, you will be the lead responsible for Identity and Access Management. The Data Defense and Access Assurance (DDAA) team within TikTok's Global Security Organization is responsible for engineering, deploying, testing and monitoring our global infrastructure footprint to validate data inventory, access and protection across our vast infrastructure of data center, SaaS and IaaS. Identity and Access management team will be responsible for how users within an organization are given an identity - and how it is protected, including saving critical applications, data and systems from unauthorized access while managing the identities and access rights of people both inside and outside the organization.
+In your capacity as a key contributor and as a lead that manages the security of TikTok data through access management processes and controls across the entire data lifecycle, from creation to destruction. This will include developing the process for granting and removing access based on the principles of least privilege and need to how to manage access to data. Further, you and your team will oversee policies and procedures for managing access based off enterprise policy and other international regulatory requirements (e.g., data residency), and your team will ingest organizational policies to create enforcement mechanisms. Your team will also be responsible for investigating and resolving incidents that involve unauthorized and inappropriate access. The successful candidate will work collaboratively to lead his/her assigned team and related company resources to provide support on an enterprise scale.
+
+The candidate must be skilled in conducting technical analysis of access policies, rules, and permissions as well as evaluating appropriateness of effective access. The candidate must also have the ability to communicate well, motivate and lead cross-functional and individual contributor teams independently, participate in coordinating response and defensive actions as it relates to identity and access assurance, and disseminate security information as appropriate in support of TikTok's critical business, go to market, and operational infrastructure needs. The candidate will develop, select, and motivate highly effective employees to execute TikTok's business model.
+Qualifications
+
+Responsibilities:
+
+Define strategy for the execution of Identity and Access Management program
+Onboard application to the IAM tool and support access management and assurance needs
+Build and review technical and functional requirements for in-house or external technologies
+Design and implement access management and assurance programs (people, process, and technology) to mitigate security threats and risks related to access that may impact business data through a holistic global program-oriented approach
+Develop and maintain identity residency and identity access requirements and controls as necessitated by business needs and regulations
+Design and implement the identity review process, ensuring that identities and access is reviewed regularly both for appropriateness of access as well as privilege levels for all users
+Guide the team in developing use cases and integrating access management technologies with related cybersecurity technologies (e.g., security incident and event management, data classification, vulnerability management)
+Develop and maintain policies and procedures that support identity management (e.g., access assurance, access monitoring and reporting, authentication requirements)
+Implement and enforce mechanism to proactively monitor, respond and report on inappropriate data access events
+
+Knowledge and Skills:
+
+5+ years progressive experience leading technical teams working in a federal government help desk operation chartered with large scale, multi-faceted IT support
+Works well under pressure within time/budget constraints to solve problems, adjust quickly to shifting priorities, and make decisions with limited information
+Demonstrated teamwork and collaboration skills, in particular in leading or contributing to global and cross-functional teams
+Highly motivated to contribute and grow within a complex area of emerging importance
+Ability to communicate technical concepts to a broad range of technical and non-technical staff
+Strong understanding of:
+Access management tools, processes, and procedures
+User access administration, role and policy-based access controls, including identity management, provisioning and de-provisioning access
+Identity and Access Management (IAM) tools
+Access reviews for appropriateness and authorization
+Industry standard frameworks
+
+Minimum Qualifications:
+
+Bachelors’ Degree or industry equivalent work experience in identity and access management, security architecture, and/or engineering in a converged security program
+Demonstrate ability to quickly assimilate to new knowledge and remain current on new developments in access management tools and capabilities and industry knowledge
+In-depth experience in designing and deploying access management technologies and controls in enterprise-class organizations, including the following:
+Access management on Windows and Linux operating systems
+Access monitoring, remediation, and escalation
+Role and policy-based access controls to enforce the principle of least privilege
+Configuration of access permissions and roles, provisioning, modifying, and de-provisioning account access
+
+Preferred Qualifications:
+
+CISSP, SSCP, CAP, CCSP, CISM or applicable experience in the Information Security field
+Familiarity with securing identity across SaaS and IaaS cloud platforms (e.g., AWS, Google Cloud Platform)
+Be able to deliver both detailed technical reports to enable access remediation and business friendly reports to demonstrate progress and track risk
+Be able to handle ambiguity and collaborate with a global team
+Be comfortable communicating with business executives and technical teams
+SailPoint experience is a plus
+
+TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.
+
+TikTok is committed to providing reasonable accommodations during our recruitment process. If you need assistance or accommodation, please reach out to us at USRC@tiktok.com.
+Job Information
+The base salary range for this position in New York City is $135000 - $255600 annually.
+
+​
+
+​
+
+Compensation may vary outside of this range depending on a number of factors, including a candidate’s qualifications, skills, competencies and experience, and location. Base pay is one part of the Total Package that is provided to compensate and recognize employees for their work, and this role may be eligible for additional discretionary bonuses/incentives, restricted stock units, as well as a comprehensive benefits package.Start your job application: click Apply NowShow Less  Hi
+
+We are looking for IAM/UAM Lead
+
+Location : Waukegan, IL , Day 1 Onsite
+
+This is more of a Lead Role & not a total technical role.
+
+Role & Responsibilities:
+
+Must have knowledge of IAM concepts like JML, RBAC, Provisioning, Access Reviews and certifications etc.
+
+Must have prior experience of managing User Access Management operations.
+Primary point of contact to customer for all day-to-day UAM operational activities
+Coordinate with relevant business stakeholders that has direct/indirect impact on delivery operations
+Lead/Participate in meetings with customer and other relevant stakeholders for UAM scope of work
+Assist team members on technical, process and business queries to continue their work
+Work on complex or critical issues based on the priority of the business/client manager
+Knowledge sharing with rest of the team, document preparation, review and signoff from customer
+Prepare weekly/monthly status review reports and present to customer
+Ensure efficient utilization of team, and report it periodically
+Identify and drive potential process improvement and automations to bring operational efficiency
+
+Job Type: Contract
+
+Salary: $73,950.67 - $163,517.81 per year
+
+Schedule:
+
+8 hour shift
+
+Ability to commute/relocate:
+
+Waukegan, IL: Reliably commute or planning to relocate before starting work (Required)
+
+Experience:
+
+Linux: 1 year (Preferred)
+Cybersecurity: 1 year (Preferred)
+Information security: 1 year (Preferred)
+
+Work Location: One location
+
+Speak with the employer
++91 +14849538038
+
+Show Less Company
+Federal Reserve Bank of Richmond
+When you join the Federal Reserve—the nation's central bank—you’ll play a key role, collaborating with leading tech professionals to strengthen and protect our economic, financial and payments systems. We dedicate more than $1 billion to technology each year to support the Federal Reserve and our economy, and we’re building a dynamic and diverse team for our future.
+
+Bring your passion and expertise, and we’ll provide the opportunities that will challenge you and propel your growth—along with a wide range of benefits and perks that support your health, wealth, and life. In addition to competitive compensation, we offer a comprehensive benefits package that includes tuition assistance, generous paid time off, top-notch health care benefits, child and family care leave, professional development opportunities, a 401(k) match, pension, and more. All brought together in a flexible work environment where you can truly find balance.
+System IT’s Accelerate Cloud Program enables our mission through leading the strategy and execution of activities which enable fast and flexible delivery of technology and business solutions. This agile program team is currently seeking a Vice President (VP) of Program Management.
+
+As the VP of Program Management, you will demonstrate leadership and an in-depth knowledge of business agility to lead the migration of platforms to the cloud and aid in advancing our cloud culture, while leveraging agile methodologies, vendors and leading cross-functional teams. You will interact and collaborate with Federal Reserve executive leadership, technology and business leadership, and leadership for large, complex business transformation and technology programs.
+What You Will Do:
+
+Build and lead team members engaged with and providing program management and agile management to achieve strategic goals, including coordinating the activities of cross functional subject matter experts across the System to assist with engagement and reporting activities. Perform mid-year and end–year reviews, set objectives, and coach and develop team staff from both a technical and soft-skill perspective.
+Build, manage, and lead team members to lead and coordinate the migration of applications to various cloud environments.
+Work with program and product leadership and teams to continue to refine migration strategy and approach, establish best practices and implement plan.
+Oversee the development and maturation of program portfolio management, dashboard, and associated metrics. Ensuring ongoing engagement and delivery of robust, value-added, and reliable performance reporting.
+Leading program quality and risk management activities including setting pro-active remediation guidance.
+Oversee reporting automation strategy and approach, and assume responsibility for maturing program defined project and program health indicators and metrics.
+Help lead the development and implementation of program communication strategy to ensure that all appropriate stakeholders and governance bodies are aware of and understand metrics and value delivered.
+Occasional travel will be required, including overnight stays.
+Qualifications:
+Bachelor’s degree in applicable discipline, or the equivalent is required. Master’s degree preferred.
+PMP and Agile Certification or equivalent experience required.
+Ten (10) + years of demonstrated, progressive, and relevant leadership in project / program management and consulting including relationship management, and technology management experience as evidenced by an established record of achievement.
+Proven ability to think and act critically and strategically, with the ability to work in a fast-paced environment, manage competing priorities, and deliver results on-time and according to plan.
+Demonstrated experience in and in-depth knowledge of project, program, and portfolio management practices, agile practices, and IV&V concepts, phases, and types of testing.
+Experience successfully leading business transformation efforts embracing product management frameworks and Agile ways of working, including ability to communicate with all levels of organization.
+Experience successfully leading large, complex technology and cloud or infrastructure migration initiatives with solid program and project management skills, including ability to coordinate, negotiate, schedule, and communicate with all levels of organization.
+Experience working with and managing vendor relationships and engagements for a large enterprise.
+Highly developed interpersonal, presentation and communication skills with the ability to effectively relate and communicate at all levels, including the ability to explain technical matters in business terms.
+Commitment to delivering a great customer experience with a personal and professional value system consistent with the culture and values of the Bank and the Federal Reserve System. Ability to handle sensitive and confidential matters with judgment and discretion.
+Experience coaching, mentoring and developing talent across an organization while developing own leadership skills.
+
+Other Requirements and Considerations:
+
+A requirement of this position is that the employee must be fully vaccinated against COVID-19; individuals who are unable to be vaccinated due to a medical condition or sincerely held religious belief may request an accommodation from the Bank.
+Candidates should review the
+Bank’s Employee Code of Conduct
+to ensure compliance with conflict of interest rules and personal investment restrictions.
+If you need assistance or an accommodation due to a disability, please notify
+rich.recruitment@rich.frb.org
+.
+Sponsorship is not available for this role. The selected candidate will be subject to a government security investigation and must meet eligibility requirements for access to classified information. Eligibility for this specific position requires U.S. Citizenship.
+For candidates outside Richmond, VA, listed hiring and salary ranges may be adjusted based on your geographic location.
+Salary offered will be based on the job responsibilities and the individual’s knowledge, skills, and experience as defined in the job qualifications.
+Applicants are encouraged to apply by December 15, 2022.
+The Federal Reserve Bank of Richmond provides equal opportunity to all individuals without regard to race, sex, color, religion, gender identity or expression, sexual orientation, national origin, age, disability, or genetic information.
+Full Time / Part Time
+Full time
+Regular / Temporary
+Regular
+Job Exempt (Yes / No)
+Yes
+Job Category
+Executive
+Work Shift
+First (United States of America)
+The Federal Reserve Banks believe that diversity and inclusion among our employees is critical to our success as an organization, and we seek to recruit, develop and retain the most talented people from a diverse candidate pool. The Federal Reserve Banks are committed to equal employment opportunity for employees and job applicants in compliance with applicable law and to an environment where employees are valued for their differences.
+Privacy Notice
+Show Less 
+ReportYou Lead the Way. We’ve Got Your Back.
+
+At American Express, we know that with the right backing, people and businesses have the power to progress in incredible ways. Whether we’re supporting our customers’ financial confidence to move ahead, taking commerce to new heights, or encouraging people to explore the world, our colleagues are constantly redefining what’s possible - and we’re proud to back each other every step of the way. When you join #TeamAmex, you become part of a diverse community of over 60,000 colleagues, all with a common goal to deliver an exceptional customer experience every day.
+
+Amex Flex
+
+We back our colleagues with the support they need to thrive, professionally and personally. That’s why we have Amex Flex, our company-wide working model that provides greater flexibility to colleagues while ensuring we preserve the important aspects of our unique in-person culture. Depending on role and business needs, colleagues will either work onsite, in a hybrid model (combination of in-office and virtual days) or fully virtually.
+
+This is a hybrid role; Hybrid colleagues work a mix of in-office and virtual days, coming into the office 1-3 days per week on average. Leaders and colleagues will plan common days for in-person connection, collaboration, and events.
+
+The Role
+
+Within the newly created Technology Business Management team, the VP, Technology Portfolio Management will lead the enterprise planning function for American’ Express’ $1.6B+ Technology Investment portfolio. This pivotal role will be responsible for defining and implementing new investment, capacity, and financial management processes within Technology and across the Company to establish a consistent and efficient operating model and drive transparent and effective investment decisions.
+
+The successful candidate will connect technology delivery to business outcomes with a strong understanding of the Company’s Enterprise strategic objectives and business strategies. As a leader of a high-performing technology portfolio organization, this candidate will have a business-oriented and data-driven mindset, passion for process and tooling innovation, and the possess the ability to partner with others at multiple levels to lead changes for key business processes.
+
+What you’ll do:
+Own and manage enterprise-wide design and governance of portfolio management core processes including annual Technology Investment planning, quarterly and PI-based portfolio health and monthly Business Unit and Financial Reviews.
+Provide actionable insights to Technology Leadership to manage delivery risk and optimize investments across and within portfolios.
+Proactively manage financial and capacity planning and forecasting across a $1.6B Technology investment portfolio, including scenario planning and analytics. Ensure headcount forecasts and actuals are accurate and aligned to financial targets.
+Establish and champion a consistent taxonomy, reporting and metrics with Portfolio, Engineering, and Product leaders to enable data integrity, increase adoption and drive decisions.
+Build an effective change management and feedback approach with Technology, Business, Product, and Finance partners to identify and action continual improvement opportunities.
+Build a strong partnership with Tech Finance to collaborate and create deliverables for forecasting, annual and long-range plans.
+Manage Technology and Business stakeholders across the Consumer, Commercial, and Risk portfolios to provide transparency into delivery progress while effectively managing risks and opportunities.
+Lead a team of 30+ Portfolio Managers based in the US and UK, operating in a hybrid and virtual environment.
+Help to build a fun and engaged hybrid workplace culture across TSPM.
+Who you are:
+An executive leader with 10+ years of experience in Technology portfolio management, 5+ years leading, developing, and mentoring high performing teams
+An excellent communicator with the ability to engage, influence, and inspire others to work towards shared outcomes.
+Intellectually curious and data-driven – Ability to proactively ask questions and design a data model to answer them; prior experience in financial scenario modeling, data analytics and executive summarization to avert risk and drive actions
+Continual Improvement and Innovation – Passion for continual improvement, process design, and automation; seeks new ways to improve effectiveness, quality, and compliance
+Leadership – Experience in leading, and mentoring diverse and global teams
+Stakeholder Management – Confident and clear communication and relationship building skills, with the ability to influence Executive leaders / SMEs, and drive progress and decision making
+Business and Technical Knowledge – Understanding of industry trends in Financial Services (Payments, FinTech) and American Express’ business model. Must have the ability to connect business strategy to product roadmaps and core technology.
+Automation and PPM / Agile Lifecycle Tools - Well-versed in the processes and tools that drive Technology portfolio and financial management such as Rally, Jira, Clarity, Apptio, Oracle, and Ariba. Bias and Ability to “automate the automatable”.
+Results Oriented – Track record of driving results across multiple channels and initiatives in a fast paced and dynamic environment.
+Familiar with Agile and SAFe methodologies; empathetic to Agile team needs.
+Located in NY and willing travel up to 10%.
+
+Employment eligibility to work with American Express in the U.S is required as the company will not pursue visa sponsorship for these positions
+
+Salary Range: $210,000.00 to $300,000.00 annually + bonus + equity (if applicable) + benefits
+
+The above represents the expected salary range for this job requisition. Ultimately, in determining your pay, we'll consider your location, experience, and other job-related factors.
+
+American Express is an equal opportunity employer and makes employment decisions without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran status, disability status, age, or any other status protected by law.
+
+We back our colleagues with the support they need to thrive, professionally and personally. That's why we have Amex Flex, our enterprise working model that provides greater flexibility to colleagues while ensuring we preserve the important aspects of our unique in-person culture. Depending on role and business needs, colleagues will either work onsite, in a hybrid model (combination of in-office and virtual days) or fully virtually.
+
+US Job Seekers/Employees - Click here to view the “EEO is the Law” poster and supplement and the Pay Transparency Policy Statement.
+
+If the links do not work, please copy and paste the following URLs in a new browser window: https://www.dol.gov/agencies/ofccp/posters to access the three posters.
+
+Apply Now: click Apply Now
+
+Show Less 
+ReportHyperVelocity Consulting, an Atlassian Platinum Enterprise Solutions Partner experiencing explosive growth, is looking for a VP Of Atlassian Services in a fully remote position to manage the delivery of Atlassian product management, agile, and tooling consulting and training services. If you’re passionate about the Atlassian toolset, self-motivated, and are committed to absolutely delighting your clients, we’d love to meet you. We admire critical thinkers with both technical prowess and killer communication skills. Sound like you? Read on.
+
+The VP of Atlassian Services will be an integral part of our team, driving the delivery of our services and serving as a bridge between our customers, the engineering team, and the sales team. You will ensure that after a service package is sold, that proper handoff is made between sales and the engineering specialists and that the customers are on boarded and services are delivered with excellence and satisfaction.
+
+Expectations:
+
+Executive Team: Work directly with the CEO and President to build strategic and tactical plans for the Atlassian Service Delivery Team, including:
+Staffing
+Tools and Service Focus
+Approach to engagements
+Quoting and scoping of services
+Translate statements of work into an actionable project plan with the assistance of the engineering team.
+
+Analyze profitability of engagements
+Continue to iterate on how engagements are delivered and scoped,
+Managing resourcing, in conjunction with the , to match the right team members to engagements to ensure successful customer results and high morale among the team.
+Follow up with customers after the ending of engagements to survey for strengths, weaknesses, opportunities and problems.
+Coordinate and report on post-mortem reviews of engagements and any emergent problems after resolution.
+Coordinate with operations on billing, especially for milestone and fixed-bid engagements.
+Review contractor invoices and ensure contractor hours match client billings.
+Skillfully negotiate and resolve deadlines, scope changes, and scheduling conflicts with poise and leadership.
+Identify technical and logistical risks, remove blockers, and solve impediments efficiently and creatively.
+Identify opportunities and drive services and licenses growth within engagements, including upselling and cross-selling opportunities.
+Align project tracking against finances for revenue recognition, billing, costs, expenses, etc.
+Ensure that contract terms and conditions are met.
+Address escalated customer issues with speed and efficiency.
+Work with sales teams to generate new business.
+Coach new service delivery team members.
+Prepare and deliver reports on delivery performance.
+
+
+Required:
+
+At least 8 years of professional experience in similar roles.
+Excellent customer service skills - this is a customer facing role.
+Ability to stay calm under pressure.
+You are a curious person, willing to ask questions and help us figure out how to improve our processes.
+Extremely detail oriented, patient, organized with the ability to juggle shifting priorities and track multiple efforts at once.
+Ability to handle many incoming tasks in a manageable, organized and prioritized fashion
+You are legally authorized to work in the US (we cannot sponsor visas).
+You will agree to security and background checks.
+Extensive experience presenting technology solutions to stakeholders of different disciplines and levels of seniority at a company.
+Agree to security and background checks, including potential US Government SF-85 and SF-86 forms.
+Once travel restrictions are over and you deem it safe, you may be required to travel out of town to clients or events up to7% of the time (expenses paid based on the then-current company policy).
+
+Physical Requirements:
+
+Prolonged periods of sitting at a desk or vehicle and working on a computer.
+Must be able to lift up to 15 pounds at times.
+
+
+
+Benefits:
+
+Competitive salary
+100% Of a Blue Cross/Blue Shield Gold Health Insurance Plan is covered for full-time employees; 50% of the cost to add children to health insurance is covered by HyperVelocity
+Additional coverages / benefits:
+
+Dental insurance
+
+Vision insurance
+Short and long-term disability insurance
+Life insurance
+401K (matching up to 2%)
+Unlimited PTO* (only limited by specific client requirements, schedules and milestones)
+Family-owned and operated company with access to leadership and room for advancement
+Cats and dogs are welcome on all internal company zoom calls.
+
+Join a small but global team of experts in a rapidly growing consulting firm, and grow your responsibilities and opportunities in this fast-growing field!
+
+
+Diversity and Inclusion:
+HyperVelocity Consulting is proud to be an Equal Opportunity Employer. Applicants are considered for all positions without regard to race, color, religion, sex (including pregnancy, childbirth and related conditions), national origin, age, disability, sexual orientation, gender identity or expression, ancestry, marital or protected veteran’s status, or any other characteristic protected by law.
+
+
+Candidates must be willing to participate in and successfully pass a background check and pre-employment drug testing and be authorized to work in the United States. HyperVelocity Consulting is an E-Verify participating employer.
+
+
+
+
+E-Verify Participation Notice: https://e-verify.uscis.gov/web/media/resourcesContents/E-Verify_Participation_Poster_ES.pdf
+E-Verify Right to Work: https://www.e-verify.gov/sites/default/files/everify/posters/IER_RightToWorkPoster%20Eng_Es.pdf
+
+Show Less 
+ReportCompany Description
+
+
+At ServiceNow, our technology makes the world work for everyone, and our people make it possible. We move fast because the world can’t wait, and we innovate in ways no one else can for our customers and communities. By joining ServiceNow, you are part of an ambitious team of change makers who have a restless curiosity and a drive for ingenuity. We know that your best work happens when you live your best life and share your unique talents, so we do everything we can to make that possible. We dream big together, supporting each other to make our individual and collective dreams come true. The future is ours, and it starts with you.
+
+With more than 7,400+ customers, we serve approximately 80% of the Fortune 500, and we're proud to be one of FORTUNE's 100 Best Companies to Work For® and World's Most Admired Companies® 2022.
+
+Learn more on Life at Now blog and hear from our employees about their experiences working at ServiceNow.
+
+Unsure if you meet all the qualifications of a job description but are deeply excited about the role? We still encourage you to apply! At ServiceNow, we are committed to creating an inclusive environment where all voices are heard, valued, and respected. We welcome all candidates, including individuals from non-traditional, varied backgrounds, that might not come from a typical path connected to this role. We believe skills and experience are transferrable, and the desire to dream big makes for great candidates.
+
+
+Job Description
+
+
+ServiceNow is seeking Enterprise Architects to join our Team. The Enterprise Architecture Team is part of our pre-sales organization focused on building credibility and trust with the technical leaders in our largest customers by developing cross-functional strategies and solutions. Our team brings technical expertise, real-world experience, strong executive engagement skills and an inspirational mindset to help our customers understand the opportunities of the “platform of platforms” vision. We act as technical leaders for our customers most complex solutions, designed to ensure that they can realize the value they need. We do this by leveraging best practice and industry standards to build customer trust and architect best in class solutions.
+
+While collaborating with customers, partners, and the wider ServiceNow sales team, the right candidate will create and communicate high-level architectures and strategies that are both written and verbal, to audiences up to and including the CIO/CTO level. The Enterprise Architect will elegantly articulate the advantage of ServiceNow being built on a single cloud platform consisting of a single user interface, one code base and one data model. The Enterprise Architect will also lead and participate in the delivery of workshops, best practice overviews, and educational sessions to existing customers and partners.
+
+What you get to do in this role:
+
+Engage with customer executives to identify pain points and opportunities to deliver value and then translate them into solutions from ServiceNow
+Work with a wide variety of customers, colleagues and partners to help them understand the power of the Now platform and the potential opportunities of the future of work
+Lead architecture and design engagements to demonstrate how ServiceNow meets the needs of strategic customers, including; IT Transformation, Digital Products/Services, Platform as a Service, Enterprise Service Management, and the co-creation of industry specific solutions.
+Understand the business strategy of the customer and articulate how ServiceNow can enable and deliver value to their organization, seamlessly integrating into their current and future technology landscape
+Understand the detail behind the ServiceNow and platform of platforms architecture and communicate it at various levels
+Work with architecture development methods, modelling approaches and architecture patterns for integration
+Interact at multiple levels within a customer account (Enterprise Architects, Domain Architects, Directors, VPs, and CXOs) and maintain these relationships throughout their customer journey.
+Provide thought leadership and collaborate with internal ServiceNow business units
+Identify, lead and contribute to the creation of best practices, white papers, workshops, etc
+
+Qualifications
+
+
+To be successful in this role you have:
+
+Passion and energy for building business relationships and is accustomed to driving the simplification of complex concepts into compelling customer proposals
+Drive for results using out-of-the-box innovative thinking together with excellent problem-solving skills
+An intrinsic ability to understand and prioritize work and is willing to make big bets when the time is right, to invest time and energy in the right areas.
+Willingness to jump-in and roll-up their sleeves alongside customers, colleagues and partners to get things done faster and better.
+10 or more years of proven success in influencing senior technology leaders to drive change in a pre-sales, customer, or delivery focused role.
+A track record of success in using Human Centered Design techniques to explore the customers current reality and set a vision for the future.
+Expertise designing, implementing and managing advanced architectures in an application domain and integrating multiple systems or platforms
+Experience with Enterprise Architecture or Application Architecture pre-sales in a software vendor or professional services environment.
+Familiarity with common Enterprise and Industry Architecture frameworks such as: TOGAF, Zachman, IT4IT, BIAN, TMForum, etc.
+Excellent understanding of the architectural principles for cloud-based platforms that include SaaS, PaaS, multi-tenancy, and automation
+Experience and understanding of multiple technical domains - application, data, DevOps, AI/ML, integration, big data, mobility, analytics, etc.
+Intrinsically curious and passionate about researching current and emerging technologies and developing innovative solutions
+Experience presenting architecture concepts, designs, and goals to technology leaders and partners
+
+TR21
+
+
+Additional Information
+
+
+ServiceNow is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, creed, religion, sex, sexual orientation, national origin or nationality, ancestry, age, disability, gender identity or expression, marital status, veteran status or any other category protected by law.
+
+At ServiceNow, we lead with flexibility and trust in our distributed world of work. Click here to learn about our work personas: flexible, remote and required-in-office.
+
+If you require a reasonable accommodation to complete any part of the application process, or are limited in the ability or unable to access or use this online application process and need an alternative method for applying, you may contact us at talent.acquisition@servicenow.com for assistance.
+
+For positions requiring access to technical data subject to export control regulations, including Export Administration Regulations (EAR), ServiceNow may have to obtain export licensing approval from the U.S. Government for certain individuals. All employment is contingent upon ServiceNow obtaining any export license or other approval that may be required by the U.S. Government.
+
+Please Note: Fraudulent job postings/job scams are increasingly common. Click here to learn what to watch out for and how to protect yourself. All genuine ServiceNow job postings can be found through the ServiceNow Careers site.
+
+Start your job application: click Apply Now
+
+Show Less 
+Report

@@ -1,0 +1,1103 @@
+Job Summary
+The Identity and Access Management Administrator shall be responsible for:
+Performing systems management activities for current and future computer systems, related hardware, software, and networking components.
+Evaluating current and projected demands for services and state‑of‑the‑art in computer software. Recommending modifications to the current architectures, procedures, and configurations to maximize utilization of existing resources. Design and implement customizations to the computer environment as required to meet the needs of the Children's Hospital User Community.
+Recommending software acquisitions to meet projected demands. Perform product evaluations and trials as part of a continuing effort to improve productivity of existing software.
+Interacting with Application, Network, End User Support staff, vendors, and the End User Community to design and evaluate all new computer system environments and associated applications.
+Identifying end user/application requirements as they relate to the computer systems environments in order to develop and execute a plan within project time frames.
+Responding to computer system problems resolving them on a timely basis adhering to problem resolution and escalation procedures.
+Maintaining computer system security. Keep current on all published security warnings. Monitor daily security audit trail for multiple systems. Inform management of any security breaches or holes in computer system security and propose solutions.
+Providing consulting services and technical support to peers, operating staff, application staff, research computing, and end user services.
+Assisting in maintaining performance statistics and provides performance tuning.
+Identifying problem areas and develop disaster recovery and backup strategies.
+
+In order to qualify you must have:
+Knowledge of theories, principles, and concepts typically acquired through completion of a Bachelor's degree in computer science or a closely related field and a minimum of five years of experience.
+Analytical skills to collect information from diverse sources, apply professional principles in performing various analyses, and summarize the information and data in order to solve problems OR design relatively complex systems and programs that cross department/divisional lines.
+Communication skills in order to effectively deal with conflicting views or issues and mediate fair solutions, or well‑developed writing skills
+
+Boston Children’s Hospital offers competitive compensation and unmatched benefits, including a rotating days/evenings and week-end schedule, affordable health, vision and dental insurance, generous levels of time off, 403(b) Retirement Savings plan, Pension, Tuition Reimbursement, cell phone plan discounts and discounted rates on T-passes (50% off). Discover your best.
+Show Less Systems Administrator (Hybrid Remote)
+
+Christar is an interdenominational mission organization based in Richardson, TX. Our goal is to proclaim the Gospel and establish churches within the least-reached communities worldwide.
+
+The Christar Mobilization Center U.S. (CMCUS) is seeking a System Administrator with skills, knowledge, and tested experience to plan, maintain and deploy an information technology infrastructure that contains both cloud and on-premises components. Additionally, the System Administrator will serve the organization by aiding end users as they interact with those technologies.
+
+The ideal candidate will leverage excellent communication skills, emotional intelligence, and enthusiasm to harness secure, flexible technologies. The Systems Administer will work in cooperation with Christar’s Director of Information Technology to provide these services. The candidate must demonstrate integrity, maturity, and proven experience.
+
+This is a hybrid remote position. The need to be in-person at the office will be dictated by the essential job duties that must be done on-site. Approximately 50% of the time worked will be onsite.
+
+Essential Duties and Responsibilities:
+
+Work with the Director of Information Technology and other division leaders to build the technology deployment roadmap.
+Negotiate contracts for leased data equipment and services; competitively bid out purchases for data equipment, software, and computing services.
+Maintain the confidentiality, integrity, and availability of Christar data.
+Install, configure, and maintain company-owned hardware and software.
+Administer and configure cloud services including Microsoft Azure Active Directory, Endpoint Security, and Identity and Access Management.
+Administer, configure, and develop new services for Site Stacker.
+Manage the backup of data, including automatic backup routines and testing data integrity.
+Maintain best practices for network documentation.
+Maintain a working disaster recovery plan.
+Assist all Christar personnel with software and computing device problems in cooperation with other technical staff, as needed.
+Supply technology purchase assistance to workers, as needed.
+Perform end-user training with departments or staff on the effective and productive use of the new systems, policies, and practices; may require documentation of process steps, instruction manuals, learning sessions, etc.
+Supply information security training to workers.
+
+Requirements:
+
+A committed Christian who is comfortable working in a missionary environment with the following qualifications: applicant must affirm Christar’s beliefs and core values as part of the application.
+Bachelor’s degree
+Minimum of 2 years of System Administration experience.
+Security certifications (like Comp TIA Security+).
+Experience in a Microsoft AD and Azure Cloud services environment. Certifications that support Azure Endpoint Security and Azure Mobile Device Management are a plus.
+Some comfort with writing SQL.
+Strong written, verbal, and interpersonal communication skills.
+The ability to be a team player who works collaboratively.
+Strong organizational skills.
+The ability to prioritize and handle multiple projects simultaneously and work calmly under the pressure of goals and deadlines.
+Strong troubleshooting and problem-solving skills.
+Strong customer-service orientation at all times.
+Must be able to effectively communicate with individuals within all levels of the organization.
+Willingness to learn and embrace emerging technology.
+
+Job Type: Full-time
+
+Pay: $50,000.00 - $70,000.00 per year
+
+Benefits:
+
+Health insurance
+Paid time off
+
+Schedule:
+
+8 hour shift
+Monday to Friday
+
+Experience:
+
+System administration: 2 years (Required)
+Active Directory: 2 years (Preferred)
+Azure: 2 years (Preferred)
+
+License/Certification:
+
+CompTIA Security+ (Preferred)
+
+Work Location: Hybrid remote in Richardson, TX 75081
+
+Show Less IT Administrator/Helpdesk
+If you are a IT Administrator with at least two years of experience, please read on!
+
+Based in the heart of Silicon Valley we are a unified communications company that is expanding rapidly. Our state of the art software has taken off and we're in need of a talented individual to add to our IT team!
+Top Reasons to Work with Us
+Company is growing at an unbelievable pace
+Room for upward growth in your career
+2022 Product of the Year
+2022 Remote Work Pioneer Award
+What You Will Be Doing
+As an IT Helpdesk Administrator you will:
+
+
+Maintain, repair and upgrade the operating system including hardware and software
+Responding to queries via chat, email, or phone
+Monitor the performance of existing computer systems and IT infrastructures
+Set up and manage accounts and workstations
+Troubleshoot issues and outages
+Ensure security through access controls, backups and firewalls
+What You Need for this Position
+Must Have:
+
+
+At least 2 years of experience in an IT helpdesk related role for a technology company
+At least 2 years of Windows Administration experience (laptops, desktops, monitoring, user management)
+Linux cli basic experience 1 year
+At least 1 year of experience with VMware
+
+Nice to Have:
+
+JunOS or PanOS
+Cloud experience (AWS, GCP, Azure)
+What's In It for You
+$60k-$80k Salary
+401k match
+Unlimited PTO
+Hybrid workplace (on site 2 days a week)
+Medical, dental, vision
+So, if you are a IT Administrator with experience, please apply today!
+
+Applicants must be authorized to work in the U.S.
+
+
+CyberCoders, Inc is proud to be an Equal Opportunity Employer
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law.
+
+Your Right to Work – In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.
+Show Less 
+ReportIT Administrator/Helpdesk L2/L3
+If you are a IT Administrator with at least two years of experience, please read on!
+
+Based in the heart of Silicon Valley we are a unified communications company that is expanding rapidly. Our state of the art software has taken off and we're in need of a talented individual to add to our IT team!
+Top Reasons to Work with Us
+Company is growing at an unbelievable pace
+Room for upward growth in your career
+2022 Product of the Year
+2022 Remote Work Pioneer Award
+What You Will Be Doing
+As an IT Helpdesk Administrator you will:
+
+
+Maintain, repair and upgrade the operating system including hardware and software
+Responding to queries via chat, email, or phone
+Monitor the performance of existing computer systems and IT infrastructures
+Set up and manage accounts and workstations
+Troubleshoot issues and outages
+Ensure security through access controls, backups and firewalls
+What You Need for this Position
+Must Have:
+
+
+At least 2 years of experience in an IT helpdesk related role for a technology company
+At least 2 years of Windows Administration experience (laptops, desktops, monitoring, user management)
+Linux cli basic experience 1 year
+At least 1 year of experience with VMware
+
+Nice to Have:
+
+JunOS or PanOS
+Cloud experience (AWS, GCP, Azure)
+What's In It for You
+$60k-$80k Salary
+401k match
+Unlimited PTO
+Hybrid workplace (on site 2 days a week)
+Medical, dental, vision
+So, if you are a IT Administrator with experience, please apply today!
+
+Applicants must be authorized to work in the U.S.
+
+
+CyberCoders, Inc is proud to be an Equal Opportunity Employer
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law.
+
+Your Right to Work – In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.
+Show Less 
+ReportDeloitte Global is the engine of the Deloitte network. Our professionals reach across disciplines and borders to develop and lead global initiatives. We deliver strategic programs and services that unite our organization.
+
+Work you'll do
+
+The Identity Access Management AD Systems Administrator will support the business and IT staff security related identity and access issues.
+
+Responsibilities
+
+Application and user identity and access administration (including maintaining end user security access rules and profiles across multiple systems and platforms)
+Assisting in policies and procedures (including staff support for security related to identity and access incidents and awareness)
+Responsible for working incidents and service requests in Service Desk within SLA.
+Analyze and resolve technology and end user incidents during standard business hours and on-call rotations; Monitor issue resolutions and collaborates with the application teams, vendors and engineers when necessary to resolve issues.
+Manage user accounts and access permissions for Deloitte computer systems and applications by reviewing user IDs or access request forms to determine if they are accurate, complete, approved and appropriate. Contact requestor, manager and/or data owner as necessary. If in order, establish the requested access and notify the user.
+Conduct periodic audits of accounts and access by performing online research and producing reports of users with access to particular systems or resources. Provide updated user listings periodically for review or upon request by management or Data Owners.
+Ensure timely removal or modification of access based upon termination listings, emergency requests and change request forms.
+Develop procedural documentation for Access Services and Auditing purposes and maintain access request audit trail.
+Identify and work with appropriate referral resource groups (Messaging Operations, Applications
+
+The team
+
+Deloitte Technology works at the forefront of technology development and processes to support and protect Deloitte around the world. In this truly global environment, we operate not in "what is" but rather "what can be" to help Deloitte deliver and connect with its clients, its communities, and one another in ways not previously conceived.
+
+Qualifications
+
+B.E, B.Tech, M.C.A, Graduation degree with seven+ years of relevant work experience.
+Minimum six years of experience or training in computer security, auditing of user accounts, elevated accounts and access management.
+Proven teamwork qualities with emphasis on customer service and team building.
+Organizational skills and ability to multitask under pressure and project deadlines.
+Ability to troubleshoot user access problems and determine appropriate corrective action.
+Ability to view incidents and problems from customer perspective and taking initiative to represent the customer when working with other teams toward a resolution.
+Proven performance in monitoring performance against defined Service Level Agreements with internal customers, internal departments and external vendors. Dedicated to increasing performance levels.
+Excellent presentation and communications skills - both oral and written.
+Experience with Enterprise directory services (Active Directory)
+Familiar with running Powershell scripts.
+Intermediate MS Office/Outlook
+Familiar with SAP, Hana, and other applications as required.
+Experience with Active Directory and SharePoint preferred.
+Experience with remote server administration from offshore.
+Nice to Have: Microsoft Identity manager (MIM) administration, SailPoint IIQ.
+
+Our culture
+
+At Deloitte Global people are valued and respected for who they are - with opportunities to bring their unique perspectives, talents and passions to business challenges. Our global workspace creates room for individuality and collaboration. Ours is an inclusive, supportive, connected culture with a focus on development, flexibility, and well-being. This culture makes Deloitte Global one of the most rewarding places to work, and to transform your career.
+
+Professional development
+
+From entry-level employees to senior leaders, we believe in investing in you, helping you identify and hone your unique strengths at every step of your career. We offer opportunities to build new skills, take on leadership opportunities, and connect and grow through mentorship. From on-the-job learning experiences to formal development programs, our professionals have a variety of opportunities to continue to grow throughout their career.
+
+Benefits
+
+At Deloitte, we value our people and offer employees a broad range of benefits. Our Total Rewards program reflects our continued commitment to lead from the front in everything we do-that's why we take pride in offering a comprehensive variety of programs and resources to support your health and well-being.
+
+#LI-Hybrid Hybrid work, remote may be an option
+
+Start your job application: click Apply Now
+
+Show More GCyber is hiring an Identity and Access Management (IDAM) Administrator to support the deployment, configuration, and management of a cloud identity and access management (IDAM) solution that will ultimately serve as the Identity as a Services (IDaaS) platform supporting the Defense and Intelligence community’s information sharing needs.
+As an IDAM Administrator you will:
+
+
+Monitor the health status, and perform operations and maintenance of identity management systems (e.g., Active Directory, Active Directory Federation Services (ADFS), Microsoft Identity Manager (MIM), AWS Identity Manager)
+Configure and maintain AWS IAM federated sign in through ADFS
+Implement and maintain attribute-based access controls to support alignment with zero-trust principles
+Troubleshoot incidents, and assist with transitioning new IDaaS capabilities from the engineering team to production
+Support backup and recovery operations
+
+The work location will be full time onsite at customer-site in Arlington, VA.
+Minimum Qualifications and Experience:
+
+
+Bachelor’s degree and 6+ years of experience, additional years of relevant experience accepted in lieu of a degree
+Hands-on experience with Active Directory, federation protocols (SAML, OAUTH, OpenID)
+Understanding of zero trust principles
+Experience with cloud identity management services (e.g., AWS Identity Manager) preferred
+Must have an active Top Secret (TS) Clearance and be able to obtain a TS/SCI Clearance with CI Polygraph
+One of the following certifications must be obtained within 120 days of hire: Amazon System Operations certification or Amazon Developer certification
+DoD 8570 IAT II Certification or higher (e.g., Security+, CCNA Security, CySA+, GICSP, GSEC, CND, SSCP) https://public.cyber.mil/cw/cwmp/dod-approved-8570-baseline-certifications/
+
+GCyber is an Equal Opportunity Employer. This means you don’t have to worry about whether your application process will be fair. We consider all applicants without regard to race, color, religion, age, ancestry, ethnicity, gender, gender identity, gender expression, sexual orientation, veteran status, or disability.
+For future job notifications please be follow GCyber on LinkedIn.https://linkedin.com/company/gcyber
+
+
+uYj3SvO4EZ
+
+
+Job Type: Full-time
+
+
+Show Less RESPONSIBILITIES:
+A Kforce client is seeking to hire an Identity Access Administrator in Boca Raton, Florida (FL).
+
+Summary:
+The Identity Access Administrator will work closely with a team of engineers, administrators, and specialists. This team is responsible for the infrastructure and support of all identity and access tools; Regular Patching and vulnerability processes will be followed. All this development will be done in a non-production environment and change management processes will be followed. The Administrator will be expected to deal directly with their team, customers, and other teams comprising identity, access, security, audit, and governance.
+
+Responsibilities include:
+
+The Identity Access Administrator applies all policies and patches to maintain the high expectations of the client's security requirements and guidelines
+Provide solutions and oversight on all aspects of identity and access
+Organizations will come to this team for solutions to their identity and access needs
+An Identity Access Administrator will work with our vendors to ensure our environments remain stable and any issues are resolved appropriately
+Perform infrastructure problem resolution and assist in the development and documentation of technical standards
+The Identity Access Administrator will monitor systems performance, ensure capacity planning is performed, is proactive in assessing and providing recommendations for improvement
+Analyze and monitor protocol compatibility, perform systems tuning, and provide recommendations for improvements
+An Identity Access Administrator will perform as an internal consultant, advocate, mentor, and change agent
+Coordinate, execute, assess, and support proof of concept, programs, and applications
+The Identity Access Administrator implements architectural principles, approaches for simple and complex systems within multiple environments (Hybrids)
+REQUIREMENTS:
+
+Bachelor's degree or equivalent experience
+3-5+ years of experience
+Experience in SailPoint Access Governance Connectors, Microsoft Active Directory and Azure, Java/JSON, Postman, .Net, Collaboration skills include Office 365, SharePoint, One Drive, Teams, Yammer, Zoom, and Identity NOW
+Demonstrates leading edge knowledge of concepts and theories in own discipline
+Perceived internally and externally as knowledgeable in the function
+Demonstrates broad experience and knowledge in application architecture for complex, cross-functional applications, with extensive knowledge in the identity and access environment
+Ability to teach others the technical and functional knowledge and skills needed to achieve results at a high level of performance
+Experience in conflict management and continuous improvement
+Applies leading edge knowledge to drive strategic direction of the function and the business in partnership
+Functional and technical skills
+Self-development and versatility
+Oracle HR system knowledge and Google Cloud Platform a plus
+Kforce is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, sexual orientation, gender identity, national origin, age, protected veteran status, or disability status.
+
+To apply to this job, click Apply Now
+
+Show Less Typical Duties and Responsibilities:
+
+Identify and develop role-based security access to match job requirements and adhere to the least privilege principle.
+Manage the user lifecycle - create, modify and disable user accounts, as requested, provided appropriate approvals.
+Ensure access rights are updated in a timely manner as user roles change
+Update and close tickets associated with access management requests
+Implement improvements to automated user access request workflows.
+Perform routine access reviews to ensure access to resources matches job function.
+Ensure compliance with related industry regulations and respond to information security audits.
+Assist and support the Cyber Security team and development project teams with the integration of programs that intersect with user administration.
+Implementation of SAML SSO applications and troubleshooting existing SSO applications
+Assist User Services team with Google account management as needed.
+Develop and document user administration and audit practices.
+Administration of Azure AD Connect Application
+
+
+
+#CB
+
+Experience
+Required
+2 year(s): Identity & Access management experience Active Directory administration Azure Active Directory administration in a Hybrid environment Experience with implementation and administration of Conditional Access Controls, MFA, SAML, and federated authentication methods Experience with PowerShell scripting for use with Active Directory and Azure AD.
+Show Less SQL Server Database Administrator - 100% REMOTE!!!
+
+Healthcare organization seeking a seasoned SQL Server DBA who will own responsibility for providing operational database services to the organization. This is a production DBA role and requires a service oriented mentality.
+
+The nature of the DBA work needed varies day-to-day. Some days may involve pure maintenance while others can involve more database development. Typical responsibilities include some or all of the following.
+
+Primary Duties:
+
+Ensuring that storage, archiving, back-up, and recovery procedures are appropriate and functioning correctly
+Monitoring SQL Server performance and managing parameters to provide fast query responses to front-end users
+Assist in maintaining data and security standards, including adherence to the data protection act, HIPAA, and HITECH.
+Writing database documentation, including server topology, data standards, procedures and definitions for the data dictionary.
+Controlling database access permissions and privileges.
+Working closely with IT project managers and application developers to ensure that all data warehouses and database object design meets current and attempt to account possible future needs.
+Communicating regularly with technical, applications, and operational staff to ensure database integrity and security standards are met and maintained.
+
+Position Requirements:
+
+Experience with Database Administration for MSSQL Server versions 2017 and higher.
+Experience with SSRS and SSIS and Transparent Data Encryption (TDE).
+Experience with planning and implementing version upgrades to MS SQL Server.
+Experience in troubleshooting and resolving database problems.
+Experience in Performance Tuning and Optimization (PTO), using native monitoring and troubleshooting tools.
+Experience with backups, restores and recovery models.
+Knowledge of High Availability (HA) and Disaster Recovery (DR) options for MS SQL Server.
+Experience in implementing operational automation using scripts.
+Knowledge of indexes, index management, and statistics.
+Good communication and documentation skills.
+
+Preferred Candidates may also meet some of the following:
+
+Involvement with the MSSQL Server Community; membership in PASS, active in forums or newsgroups.
+Experience/Knowledge of Advantage Database Server.
+SQL Server Certification i.e. MCTS, MCITP, MVP, MCSA.
+Experience working with Windows server, Active Directory and proper disk configurations.
+Solid working experience in any of the following: External web data services, EDI, data cubes, Business Intelligence Analytics, TFS, Git.
+The Perks: Great benefits, sound leadership, collaborative team and excellent growth opportunity all while working 100% from your home office! Please send detailed resume and LinkedIn profile today!
+
+
+Equal Employment Opportunity
+
+MATRIX is committed to providing a work environment that values diversity, equity, inclusion and respect. We do not discriminate based upon race, religious creed, color, national origin, ancestry, physical or mental disability, medical condition, genetic information, marital status (including registered domestic partnership status), sex (including pregnancy, childbirth, lactation and related medical conditions), gender (including gender identity and expression), age (40 and over), sexual orientation, military and veteran status and/or any other characteristic protected by federal, state or local law.
+MATRIX is committed to providing access and reasonable accommodations for qualified individuals with disabilities. Supporting medical or religious documentation will be required where applicable. If you are a qualified individual with a disability, you may request a reasonable accommodation under the American Disability Act (ADA) by emailing MATRIX_HR@MatrixRes.com. To ensure a quick response to your request, please use the words ‚ÄúAccommodation request‚Äù as the subject line of your email.
+
+For hourly W2 contract roles MATRIX offers a highly competitive benefit package including Medical, Dental, Vision, Life, Disability, HSA, and 401(k) with pre and post-tax options. Please see MatrixRes.com/Benefits for more information.
+For direct hire placement with our clients, benefits will be offered in accordance with that particular client‚Äôs offerings. This may include PTO, Medical, Dental, Vision, 401K and other pre and post-tax options.
+Show Less METCOR/LSI has a need for an LMS Administrator to support the delivery of learning materials for federal employees. The LMS Administrator position is full-time, remote, and offers a long-term opportunity for internal growth within an established organization.
+
+The LMS Administrator role includes, but is not limited to:
+
+Maintain system documentation to include user manuals, ATO/LMS configuration documents, and system reports
+Manage content types to ensure correct formats are uploaded
+Provide Tier II support for the various user roles
+Attend bi-weekly and quarterly support meetings with the LMS vendor
+Coordinate updates and patches with the client
+Determine functionality of existing courseware after patches or updates are applied
+Collaborate with the LMS vendor and stakeholders to minimize system downtime
+Create and update user records
+Assist with building and accurately assigning each role's (supervisor, instructor, etc.) accounts
+Provide virtual small group training to LMS users
+
+What You Bring to the Table:
+
+3+ years managing an LMS to include user (records, accounts, etc.) management
+Experience with Help Desk and/or Troubleshooting
+SAP Success Factors LMS experience preferred
+Experience training, coaching, or instructing others virtually
+Excellent written and verbal communication skills
+Proficient with Microsoft Office
+High degree of adaptability and flexibility
+
+Education
+
+Bachelor's degree in a related field
+
+About the Company
+
+METCOR/LSI is a verified small business with a focus on developing and delivering learning solutions that exceed customer expectations. We view every customer as a long-term partner and dedicate ourselves to exceptionally high standards of excellence every program, every time. Our culture is characterized by a small company feeling of personal ownership, where our people enjoy knowing they can access company leadership to make things happen, have the influence to make a difference, and understand they make a productive contribution in the lives of our customers.
+
+All positions require the ability to pass a background investigation conducted by a federal government agency and a drug test. US citizenship is required.
+
+Benefits
+
+METCOR/LSI offers a competitive salary and benefits package that includes medical/dental/vision coverage, company sponsored Life & Disability insurance, paid vacation/sick/holidays, 401k, profit sharing, and pretax commuter benefits.
+
+Company Culture
+
+METCOR/LSI fosters a collaborative culture in which people are encouraged to grow and innovate. Included in this effort are Communities of Practice, monthly Lunch & Learns, and weekly allotted professional development time.
+
+METCOR/LSI is an Equal Opportunity Employer/Veterans/Disabled. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, or protected veteran status and will not be discriminated against based on disability. Reasonable Accommodation Policy
+
+Show Less Job Title/Position: Remote Identity & Access Management Security Administrator - IAM Administrator (100% Remote)
+
+** NOTE: Ideal candidate would have experience with CyberArk or SailPoint technologies.
+
+Location: 100% Remote (anywhere in the US)
+
+Job Summary:
+
+The Security Operations Engineer Consultant I contributes to technical tasks supporting Identity Governance and Administration (IGA), including the development and administration of IGA systems and technical solutions to provide and maintain cybersecurity for the organization’s technology architecture and products.
+
+Key Responsibilities:
+
+Completes tasks in support of Identity Lifecycle Management, including user account and access provisioning and deprovisioning for joiners, leavers, and movers
+Develops, executes, and administers Identity and Access Management (IAM) solutions, platforms, tasks, and processes
+Assists more-senior Information Security roles with reviewing and evaluating business technology needs, security, and systems requirements; performs development, integration, and programming tasks in support of cybersecurity applications, systems and solutions, according to defined specifications
+Supports research, contributes to compiling data, and contributes to testing plans to identify and initially assess potential vulnerabilities and areas for exploitation in technology applications, systems, and solutions
+Learns and becomes familiar with strategies for effective communication and successful interaction with technical peers
+
+Supervisory Responsibilities:
+
+This job does not have supervisory duties
+
+Preferred Qualifications:
+
+Education and Experience
+
+Bachelor’s Degree or equivalent experience
+2 or more years of related experience
+Knowledge of SailPoint, CyberArk, or similar IAM platforms
+
+Certificates, Licenses, Registrations
+
+IMI Certified Access Management Specialist (CAMS), CompTia Security+, or other cybersecurity certifications
+
+Functional Skills
+
+Basic decision-making skills and ability to escalate when appropriate
+Ability to establish and manage relationships with internal and external partners
+Basic time and project management skills including ability to prioritize and organize
+Work effectively in a team environment
+Perform well in a face-paced environment
+Intermediate knowledge of Microsoft Suite (Word, Excel, PowerPoint)
+Ability to think conceptually, analytically, and creatively
+Good oral and written communication skills
+Ability to analyze data and apply it to problem resolution
+
+#LI-PJ1
+
+#LI-Remote
+#Remote
+
+National General Holdings Corp. is an Equal Opportunity (EO) employer – Veterans/Disabled and other protected categories. All qualified applicants will receive consideration for employment regardless of any characteristic protected by law. Candidates must possess authorization to work in the United States, as it is not our practice to sponsor individuals for work visas.
+
+In the event you need assistance or accommodation in completing your online application, please contact NGIC main office by phone at (336) 435-2000.
+
+
+
+
+About National General Holdings:
+
+National General Holdings Corp., a member of the Allstate family of companies, is headquartered in New York City. National General traces its roots to 1939, has a financial strength rating of A– (excellent) from A.M. Best, and provides personal and commercial automobile, homeowners, umbrella, recreational vehicle, motorcycle, supplemental health, and other niche insurance products. We are a specialty personal lines insurance holding company. Through our subsidiaries, we provide a variety of insurance products, including personal and commercial automobile, homeowners, umbrella, recreational vehicle, supplemental health, lender-placed and other niche insurance products.
+
+National General is a fast paced, dynamic, and entrepreneurial organization. Our team members live by and exemplify what we call the 4Es. At National General, we are Energized, Engaged, Empowered, and we Execute every day in order to provide an exceptional experience for our customers! We are passionate about our organization and the value that we add every day. A successful candidate with National General will embody the 4Es. Our team is poised to outperform the competition. We are National General Insurance and with us you can be extraordinary! Come join our team!
+
+Companies and Partners
+
+Direct General Auto & Life, Personal Express Insurance, Century-National Insurance, ABC Insurance Agencies, NatGen Preferred, NatGen Premier, Seattle Specialty, National General Lender Services, ARS, RAC Insurance Partners, Mountain Valley Indemnity, New Jersey Skylands, Adirondack Insurance Exchange, VelaPoint, Quotit, HealthCompare, AHCP, NHIC, Healthcare Solutions Team, North Star Marketing, Euro Accident.
+
+In addition to a phenomenal career opportunity, National General Insurance offers an excellent benefits package including:
+
+Paid Training
+Medical, Dental, Vision benefits
+Wellness Programs
+Life and Short/Long Term Disability Insurance
+401k w/ Company Match
+Company Paid Holidays & Generous Time-off policy
+Employee Discount Program
+Career Advancement and Development Opportunities
+On-site Healthcare Clinic (Winston-Salem and Cleveland offices)
+On-site Fitness Center (Cleveland and Dallas offices)
+Subsidized parking (Cleveland office)
+
+National General Holdings Corp. is an Equal Opportunity (EO) employer – Veterans/Disabled and other protected categories. All qualified applicants will receive consideration for employment regardless of any characteristic protected by law. Candidates must possess authorization to work in the United States, as it is not our practice to sponsor individuals for work visas.
+
+In the event you need assistance or accommodation in completing your online application, please contact NGIC main office by phone at (336) 435-2000.
+
+Start your job application: click Apply Now
+
+Show Less OTS is seeking an Oracle SSO Identity and Access Administrator to join our growing team. In this role, you will implement, analyze, and resolve Single Sign-On (SSO) Identity and Access issues and initiatives within a highly visible, mission-critical (24x7) environment.
+
+Duties and Responsibilities
+
+Work with large enterprise-wide Oracle Single Sign-On (SSO) implementations involving attributes/role-based authorization model(s) and experience with configuration of Oracle OAM environments for high availability requirements and hands-on experience integrating Oracle Middleware Identity and Access Management with Oracle unified directory used to implement role-based access control authorization model(s)
+Support Oracle SSO integration with enterprise production applications (Oracle R12.2.x, OBIEE, and Oracle Federal Financials R12.2.x) as well as supporting dev/test / ite environments, as well as the planning, design, development, enhancement, build, migration, patch, and test activities which support the enterprise
+Build new instances and perform refreshes and upgrades/migrations (OAM, OUD, OHS) which would include evaluating additional functionality and tools and to also utilize current functionality and tools in other ways to increase the benefits of the Oracle SSO enabled applications enterprise-wide
+Assists in the operations, development, and engineering support staff/teams and will be working directly with internal and external functional teams who also provide support to the enterprise.
+Provide support and maintenance of the Oracle SSO configuration(s) as it relates to the enterprise integrated systems and infrastructure to ensure operational viability
+Provide support for the installation, configuration, administration, and troubleshooting issues related to WebLogic and WebCenter platforms which include the ability to perform patch analysis on middleware components and provides guidance and recommendations to engineering for implementation of new requirements which will be supported by the operations staff and supports the resolution of defects and provide bug fixes related to Oracle SSO and it's other components
+Review, validate, and update approved requirements in order to produce system architecture design(s) for Oracle SSO solution(s) and supporting activities such as capacity planning, testing, problem/issue resolution activities while supporting the planning and execution of the Oracle SSO enterprise-wide solution(s) which support the enterprise
+
+Basic Qualifications
+
+Proficient with implementing, configuring, integrating, and administering the following; Oracle Access Management (OAM) versions 11g (11.1.2.x) and 12c (12.2.1.x), Oracle Unified Directory (OUD) versions 11g (11.1.2.x) and 12c (12.2.1.x), Oracle HTTP Server (OHS) version 11g (11.1.2.x) and 12c (12.2.1.x)
+Experience upgrading OUD and OHS from 11g.x to 12c
+At least one full lifecycle engagement as an Oracle SSO Technical Specialist in a large-scale implementation and/or large-scale upgrade
+Demonstrated experience with installations, configurations, administration and troubleshooting SSO issues related to WebLogic and WebCenter platforms along with the ability to perform patch analysis on middleware components and provide engineering guidance and recommendations for implementation by support staff
+Demonstrated experience with Oracle's SSO which utilizes the following Oracle components: Oracle SSO, Oracle Identity Management (IDM), Oracle Identity and Access Management (IAM), Oracle Access Manager (OAM), Oracle Virtual Directory (OVD), Oracle OHS (Oracle HTTP Server), Oracle Directory Services Manager (ODSM), Oracle WebGate, and Oracle Internet Directory / Unified Directory (OID/OUD)
+
+Desired Skills
+
+Possess strong analytical, collaborative, organizational, and proactive problem-solving skills
+Demonstrates the ability to work independently with minimal supervision
+Ability to work on a large team with a high OPS Tempo
+
+Required:
+
+COMPTIA Sec+ IAW DoD 8570
+NACLC/T3 Investigation
+Show Less Introduction
+
+Are you searching for an opportunity to play a key role in driving the dramatic growth of a highly successful software company?
+
+Here at Poppulo the market's most comprehensive omnichannel employee communications platform with unmatched personalization, measurement capabilities, and class-leading space management solution. And we want you to be part of it.
+
+We serve 6,000+ customers, connecting with and serving content to over 35 million employees in more than 80 countries.
+
+Confidence can sometimes hold us back from applying for a job. But truly, there's no such thing as a 'perfect' candidate. We are a place where everyone can grow. So however you identify and whatever background you bring with you, please apply if you meet the requirements of this role in the broadest sense and if this is a role that would make you excited to come to work every day.
+
+Key Responsibilities
+
+Responsible for administering and maintaining user and service account access to information systems and physical assets.
+Performs routine audits of user access to a variety of systems.
+Meets with data and system owners to review user access, provide guidance, and document outcome.
+Documents service account usage, ownership, business justification, and related details
+Support incident response activities, ensuring security incidents are properly contained, eradicated, and recovered
+Maintains documentation for system and physical access policies and procedures
+Manages the inventory of systems requiring user access, user permissions, and privileged access
+Ensure proper security logs are generated and sent to the organization's Security Information and Event Management (SIEM) system
+Manages security alerts relating to user, application, and service account access.
+
+Experience/Skills Required
+
+1-3 years' experience in information technology.
+Understanding of authentication and authorization principles.
+Working knowledge of SAML, OAuth, SSO, and basic auth.
+Understands the different methods of MFA and the risks and benefits associated with those methods.
+Ability to quickly learn and understand a variety of user interfaces.
+Familiarity with identity providers and directory services.
+
+Requirements for Success
+
+High degree of personal integrity and trustworthiness
+Excellent organization skills and attention to detail
+Knowledge of industry best practices around identity and access control
+Excellent verbal, written communication and interpersonal skills, with the ability to build and maintain successful relationships with all levels of executives, internal team members, and other stakeholders and partners
+Knowledge of Microsoft Office applications (Word, Excel, PowerPoint, Outlook), and other relevant business applications and systems
+Willingness to learn Splunk SPL query language.
+Makes recommendations to security leaders, system owners, and IT to improve access control and security.
+
+Compensation range: $60,000 - $75,000 plus variable.
+
+Why Us?
+
+A "Great Places to Work" listed company – so we really do value people
+Ability to meaningfully impact our business and play a key role in our success
+Flexible PTO and 10 days paid leave.
+Competitive compensation package
+Potential for career advancement in a fast paced growing organization
+Competitive Medical, Dental, and Vision Benefits and Monthly contributions to your Health Savings Account
+401k with Employer Match
+Fun, flexible working environment
+Maternity, Parental, Adoption and Bereavement Leave. Funding towards adoption costs.
+Life Insurance
+
+Who We Are
+
+We are a values-driven organization that encourages our employees to bring their authentic selves to work every day and empowers everyone to make a tangible impact on our products, clients and culture. We offer a dynamic environment with driven, fun and flexible individuals, who thrive on challenge and responsibility. This is an opportunity to contribute to our culture and join a company that's on the move.
+
+Named a Great Place to Work in 2015, 2016, 2017, 2018, 2019, 2020 and 2021 , we are one of the fastest growing technology companies in Ireland with additional offices in the US and the UK.
+
+This is an opportunity to contribute to our culture and join a company that's on the move. We live the Poppulo company values each day and they are key to everything we do.
+
+"Bring Your Best Self", "See It", "Own It", "Solve It", and "Together We're Better"
+
+Poppulo is an equal opportunity employer.
+
+We disclose your personal information to our private equity sponsor, Vista Equity Partners, and its affiliates, including Vista Consulting Group (collectively, "Vista"), for administration, research, database development, workforce analytics and business operation purposes, in line with the terms of this Privacy Policy. Vista processes and shares your personal information with its affiliates, including other Vista portfolio companies, on the basis of its legitimate interests in managing, administering and improving its business and overseeing the recruitment process and, if applicable, your employment relationship with Four Winds Interactive LLC. If you have consented to us doing so, we also share your personal information with other Vista portfolio companies for the purpose of being considered for other job opportunities in the pooling system, both inside and outside the EEA. Please find a full list of all Vista portfolio companies at: https://www.vistaequitypartners.com/companies/ and Vista's privacy policy at https://www.vistaequitypartners.com/privacy/. Where this requires us to transfer your personal information outside of the EEA, please refer to the FWI Privacy Policy for further details on cross-border transfers. In connection with the recruitment process, your personal data may be transferred outside of the EEA to iCIMS and/or Greenhouse, Hirebridge, LLC and Criteria Corp., which provide applicant tracking and evaluation services. Hirebridge, LLC and Criteria Corp. have agreed to comply with the EU Standard Contractual Clauses to ensure that your personal information is adequately protected whilst outside of the EEA.Show Less  Role : Siteminder admin
+
+Location : Remote
+
+Type : Contract
+
+Relevant Exp 7+ years in Siteminder technology
+
+Candidate has an engineering background with SiteMinder experience
+
+Should have worked on CA Siteminder version 12.52 and above (12.8)
+
+Access gateway experience is must
+OIDC and Federation knowledge is must
+Guide the business through SSO/SAML intakes
+Troubleshoot failing connections and SiteMinder issues
+Knows how to install and upgrade SiteMinder releases
+Should be familiar with the server level and can address security findings
+Siteminder policy creation and setup
+Should have good understanding of ITIL process
+
+Job Type: Contract
+
+Pay: $60.00 - $63.00 per hour
+
+Schedule:
+
+8 hour shift
+
+Experience:
+
+Siteminder: 4 years (Preferred)
+Identity & access management: 5 years (Preferred)
+Information security: 6 years (Preferred)
+
+Work Location: Remote
+
+Speak with the employer
++91 +1-248-306-8442
+
+Show Less Identity and Access Management Systems Administrator (0520U), Berkeley IT - 41278 About Berkeley
+
+At the University of California, Berkeley, we are committed to creating a community that fosters equity of experience and opportunity, and ensures that students, faculty, and staff of all backgrounds feel safe, welcome and included. Our culture of openness, freedom and belonging make it a special place for students, faculty and staff.
+
+The University of California, Berkeley, is one of the world's leading institutions of higher education, distinguished by its combination of internationally recognized academic and research excellence; the transformative opportunity it provides to a large and diverse student body; its public mission and commitment to equity and social justice; and its roots in the California experience, animated by such values as innovation, questioning the status quo, and respect for the environment and nature. Since its founding in 1868, Berkeley has fueled a perpetual renaissance, generating unparalleled intellectual, economic and social value in California, the United States and the world.
+
+We are looking for equity-minded applicants who represent the full diversity of California and who demonstrate a sensitivity to and understanding of the diverse academic, socioeconomic, cultural, disability, gender identity, sexual orientation, and ethnic backgrounds present in our community. When you join the team at Berkeley, you can expect to be part of an inclusive, innovative and equity-focused community that approaches higher education as a matter of social justice that requires broad collaboration among faculty, staff, students and community partners. In deciding whether to apply for a position at Berkeley, you are strongly encouraged to consider whether your values align with our Guiding Values and Principles , our Principles of Community , and our Strategic Plan .
+
+Departmental Overview
+
+Berkeley IT believes in and fosters a workplace environment where people can bring their diverse skills, perspectives and experiences toward achieving our goals through a process of critical inquiry, discovery, innovation, while simultaneously committing to making positive contributions towards the betterment of our world.
+
+In addition, members of the Berkeley IT community have created and endorse the following values for our organization to augment and amplify the campus principles:
+
+We champion diversity.
+We act with integrity.
+We deliver.
+We innovate.
+
+Diversity, Inclusion, and Belonging are more than just suggestions for us. They are the guiding principles underlying how we come together, develop leaders at all levels of the organization, and create an environment that unites us. We affirm the dignity of all individuals, call upon our leaders to address critical issues with integrity and intention, respect our differences as well as our commonalities, and strive to uphold a just community free from discrimination and hate.
+
+The Information Security Office (ISO) in Berkeley IT coordinates the risk management process for UC Berkeley's information systems and directs campus-wide efforts to adequately secure Institutional data. ISO is led by the Chief Information Security Officer and consists of seven areas: Information Security Policy, Information Security Operations, Information Security Development, Identity and Access Management,
+
+Information Security Assessments, Outreach and Engagement, and Service Management. This position is part of the Identity and Access Management team (CalNet) and reports to the IAM Manager.
+
+The incumbent researches, conceptualizes, plans and implements complete and integrated identity management technical solutions for the UC Berkeley campus. Regularly works on highly complex issues where analysis of situations or data requires an in-depth evaluation of variable factors. Exercises judgment in selecting methods, techniques and evaluation criteria for obtaining results. Gives technical presentations to associated technical teams including the CalNet Technical Team and Steering Committee, the campus IT Architecture Committee, the Campus Information Security and Privacy Committee, and the UC Trust working group.
+
+Application Review Date
+
+The First Review Date for this job is: September 2, 2022.
+
+Responsibilities
+
+**This is a remote-friendly position, eligible for 100% remote capability.**
+
+CalNet is seeking an experienced, organized and collaborative technologist to design, develop, implement and support a broad suite of Identity and Access Management applications and services. The successful candidate will split time between analyzing complex data issues and implementing technical solutions and. They will be equally comfortable working with people and technology.
+
+As a key member of this team, you will be responsible for helping to deliver a complex service portfolio. You will tackle log analysis in ELK, schema analysis in LDAP and data analysis in PostgreSQL. You will interact with deeply technical and non-technical members of the team. You will design and develop solutions to increase automation and the reliability of CalNet service delivery. Your goal will be to make your mark on this core campus infrastructure by being creative, reliable and skilled.
+
+Required Qualifications
+Expert-level knowledge of system and applications design and implementation. Solid understanding of and experience managing LDAP directory services and integration. Substantial experience with *NIX systems, particularly Red Hat Enterprise Linux. Familiarity with web servers (especially NGINX and/or Apache/Tomcat), load balancers, firewalls, DNS. Familiarity with technologies/frameworks/concepts critical to implementing middleware solutions, including messaging technologies, a variety of DB platforms (especially Oracle), and SOA/REST/Web Services/etc. Ability to write complex code in one or more of the following: Ruby, Java, Javascript, Python, and Groovy. Expert knowledge of PostgreSQL. Experience developing and maintaining secure web applications. Experience running Tomcat or similar application servers. Experience performing log analysis with Elastic Stack. Advanced level judgment and leadership to solve the most complex technical problems. Ability to establish and maintain effective working relationships at all levels with staff internal and external to bIT as well as with vendors and clients. Must be able to communicate technical information in a clear and concise manner across the organization and at varying levels. Ability to produce clearly written technical documentation. Has knowledge necessary to design, set-up, operate, and correct malfunctions involving application of technology systems. Demonstrated commitment to the advancement of diversity, equity, inclusion, belonging, and justice.
+Education
+Bachelor's degree in related area and/or equivalent experience/training.
+Preferred Qualifications
+Requires knowledge of other areas of IT. Expert knowledge of Identity and Access Management practices and technologies. Experience with ForgeRock Directory Services. Experience with the Internet2 Trusted Access Platform, specifically Grouper and Shibboleth. Experience with AWS, Azure and/or Google Cloud. Experience automating systems build and provisioning using tools such as Ansible, Terraform, and CloudFormation. Experience deploying containerized systems in a production environment.
+Salary & Benefits
+This is a full-time (40 hours/week), career position, and eligible for full UC benefits. This is an exempt, monthly paid position. The annual salary is commensurate with experience within the range of $101,300.00 - $146,800.00. For information on the comprehensive benefits package offered by the University visit: https://ucnet.universityofcalifornia.edu/compensation-and-benefits/index.html
+Show Less Summary:
+
+We are looking for an Identity and Access Management (IAM) Administrator to leverage and expand our company’s implementation of Okta's Identity Lifecycle, Workflow Automation, and Application Integration Platform. This team is responsible for designing, configuring, deploying, and supporting comprehensive single-sign-on, MFA, user management, workflow, and mobile integrations to all appropriate cloud services.
+
+The team is responsible for designing and building top-notch workflow integrations between business solutions, as well as ensuring the tools IT employs to support the business are fully utilized, integrated, and automated wherever possible. In this role, you will analyze processes both IT and business document, design, and deploy solutions to automate, integrate, and/or streamline said processes while maintaining necessary compliance and auditing standards, which may vary by business unit. You may also review multiple business processes to offer insight regarding which would benefit the most from the architecture team’s focus and effort.
+
+About Our Company:
+
+Wilks Brothers is a multifaceted, family-based partnership headquartered in Cisco, Texas with employees working in offices in We invest in relationships and recognize the value in people, communities, and businesses.
+
+Our customers are not a number; they are a name, a family member, a friend. In the good times and in difficult times we treat them all equally – exactly how we want to be treated. We believe that business is not just about profit – it is personal too.
+
+At Wilks Brothers, we respect the people that make our business grow: our employees and our customers.
+
+Our goal is to develop mutually beneficial partnerships utilizing our core values of: Faith, Integrity, Team, Growth and Loyalty.
+
+Website: www.wilksbrothers.com
+
+Benefits:
+
+Competitive Base Pay
+Medical
+Dental
+Vision
+401(k) Savings Plan
+Company paid Life Insurance and AD&D
+Company paid LTD
+Employee paid additional Life Insurance and AD&D
+Additional employee paid coverage includes critical illness, accident insurance, short term disability and whole life insurance plans.
+Paid Holidays
+Paid Time Off (PTO)
+Employee Assistance Program
+Education Assistance
+
+Essential Responsibilities:
+
+Collaborate with various teams to support and optimize onboarding and offboarding workflow and automation.
+Analyze, execute, and develop plans to integrate applications into our Okta platform.
+Plan and execute workflows to eliminate manual processes from the environment.
+Provide support to IT Team Helpdesk and Sys Admins.
+Collaborate with business units to evaluate risks and improvements in Okta security and ensure demonstrated compliance with various standards, including SOX.
+Create and maintain technical knowledge base documents.
+Create & manage technical system procedure documentation & ensure it is updated and current.
+Stay current with trends and best practices in the IAM world and propose timely enhancements or replacements of products.
+Assist with change management and communications with various internal teams as needed.
+Represent Identity and Access Management within the Enterprise Architecture team to ensure IAM technology policies and standards are considered in design and recommendations.
+Ensure design and solutions follow various Information Security, Compliance, Legal, and/or regulatory requirements as applicable.
+Recommend design and implementation best practices; guide technical teams to understand non-functional requirements for availability, scalability, robustness, and security.
+Provide high-level estimates for various tasks and projects and assist with project planning.
+Continuously review the existing implementation and propose ways to optimize the setup.
+Contribute to the identification, evaluation, selection, and development of innovative solutions.
+
+Requirements:
+
+Experience with Okta SSO, MFA, Universal Directory, and Lifecycle Management.
+
+Nice to Have:
+
+API design experience, including web API integration.
+Experience enhancing a system of scale.
+Experience developing reusable software components that other developers and business users will leverage.
+Experience integrations with HRIS such as Workday/UltiPro.
+
+Mental and Physical Requirements:
+
+Able to read, speak and write in English.
+Sitting up to 6 to 7 hours per day.
+Mobility ability to reach equipment and perform some diagnosis and limited repair in limited space.
+Communication - phone communication, communication with personnel and Vendors.
+Hearing - able to understand personnel, vendors, and supervisors.
+Seeing - able to see the computer screen and to endure the “eye strain”
+Climbing - able to go up and downstairs.
+Position will require a minimum of 40 hours per week unless otherwise directed by supervisor.
+
+Wilks Brothers is an Equal Opportunity Employer #LI-BR1
+
+Show Less Announcement
+Details
+
+Open Date
+11/18/2022
+
+
+Requisition Number
+PRN33055B
+
+
+Job Title
+Systems Administrator
+
+
+Working Title
+Systems Administrator I
+
+
+Job Grade
+F
+
+
+FLSA Code
+Computer Employee
+
+
+Patient Sensitive Job Code?
+No
+
+
+Standard Hours per Week
+40.00
+
+
+Full Time or Part Time?
+Full Time
+
+
+Shift
+Day
+
+
+Work Schedule Summary
+as arranged
+
+
+VP Area
+U of U Health - Academics
+
+
+Department
+00209 - Univ Medical Billing - Oper
+
+
+Location
+Other
+
+
+City
+Salt Lake City, UT
+
+
+Type of Recruitment
+External Posting
+
+
+Pay Rate Range
+55000-66000
+
+
+Close Date
+
+
+Open Until Filled
+Yes
+
+
+Job Summary
+University Medical Billing (UMB) is a dynamic billing office that services the University’s professional departments. All team members are eligible for the University’s comprehensive benefit package that includes medical insurance, reduced tuition, a generous retirement contribution, and more. UMB offers a hybrid work environment and career growth opportunities in the health care information field.
+Job Summary
+The Systems Administrator I is primarily responsible for computer and system support for a team of 180. The position will partner with the Systems Administrator II or Senior to install new operating systems, software releases and system upgrades; and evaluate and install software patches and resolve related problems. Will collaborate to determine department computing requirements, systems improvements, and implementation.
+
+Currently, this position is a hybrid position with approximately 50% onsite and 50% remote work.
+
+
+Responsibilities
+Applicants must demonstrate the potential ability to perform the essential functions of the job as outlined in the position description.
+Essential Functions
+1. Provide end-usersupport, resolving or directing technical issues and providing technical assistance for all operating systems and applications.
+2. Using the ServiceNow system, respond to incident requests for department IT assistance and complete by the agreed upon turnaround time.
+3. Setup, configure, and maintain laptop and/or desktop machines per role specifications.
+4. Create and maintain user accounts for all applications and systems used in the department.
+5. Diagnose issues with hardware and software systems; report findings and collaborate to find
+solutions.
+6. Create and maintain user guides and tip-sheets for end-users. Maintain related information log.
+7. Assist with monitoring and verifying compliance of network and hardware security.
+8. Participate in the planning and execution of product deployment and/or integration.
+9. Test, validate and installing operating system and application security/performance.
+10. Perform regular audits on hardware, software, licenses, and users.
+11. Complete all IT tasks as assigned on task management platform.
+12. Audit and evaluate systems for efficiency and improvements. Diagnose issues with hardware and software systems. Report on findings and be involved in creating action towards a solution.
+13. Create and maintain information logs and documentation on how to properly use systems and resources.
+Disclaimer
+This job description has been designed to indicate the general nature and level of work performed by employees within this classification. It is not designed to contain or be interpreted as a comprehensive inventory of all duties, responsibilities and qualifications required of employees assigned to the job.
+Work Environment and Level of Frequency typically required
+Nearly
+Continuously: Office environment.
+Physical Requirements and Level of Frequency that may be required
+Nearly Continuously: Sitting, hearing, listening, talking.
+Often: Repetitive hand motion (such as typing), walking.
+Seldom: Bending, reaching overhead.
+
+
+
+
+Minimum Qualifications
+
+Requires a bachelor’s degree in a related area or equivalency with at least 2 years of experience in the field or in a related area.
+
+Applicants must demonstrate the potential ability to perform the essential functions of the job as outlined in the position description.
+
+
+
+
+
+Preferences
+Working knowledge of Windows Server
+Working knowledge of managing groups and users within Active Directory
+Ability to write scripts using programming language (VB, JS, Python, C#)
+Working knowledge of PowerShell
+Professional IT Certification (A+, CCNA, MCSA, Server+, etc.)
+Basic SQL Knowledge
+Ability to build strong customer relationships and deliver customer-centric solutions
+Ability to anticipate and adopt innovations in business – experience building/implementing digital and technology applications.
+Proven ability to develop and deliver multi-mode communications that convey a clear understanding of the unique needs of different audiences.
+Readily acts in the face of challenges; organizes efforts and follows through on efforts effectively
+
+
+Type
+Benefited Staff
+
+
+Special Instructions Summary
+
+
+Additional Information
+
+The University of Utah values candidates who have experience working in settings with students from diverse backgrounds and possess a strong commitment to improving access to higher education for historically underrepresented students.
+
+
+Individuals from historically underrepresented groups, such as minorities, women, qualified persons with disabilities and protected veterans are encouraged to apply. Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
+
+
+
+
+
+The University of Utah is an Affirmative Action/Equal Opportunity employer and does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34CFRpart 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
+
+
+
+
+
+To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Affirmative Action:
+
+
+Director/ Title IX Coordinator
+Office of Equal Opportunity and Affirmative Action (OEO/AA)
+135 Park Building
+Salt Lake City, UT 84112
+801-581-8365
+oeo@utah.edu
+
+Online reports may be submitted atoeo.utah.edu
+
+To inquire about this posting, email:employment@utah.eduor call 801-581-2300.
+
+
+The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with priorURSservice, may elect to enroll inURSif they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits fromURSare subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
+
+
+This position may require the successful completion of a criminal background check and/or drug screen.
+
+Show Less 
+ReportJob#: 1312572
+
+Job Description:
+Apex Systems is seeking a User and Device Administrator. For immediate consideration, please email your resume to Adison at arunderwood@apexsystems.com or Alex at awakefield@apexsystems.com
+
+POSITION SUMMARY:
+The User and Device Administrator works with the Service Desk, Windows Engineers, System Architects and Security Teams to support users, computers, personal devices, and related technologies in an enterprise environment. This position requires a highly technical person that has a deep understanding of user and device management in a Microsoft centric ecosystem. The position requires operational experience, and the ability to isolate, analyze, and resolve technical issues.
+
+Essential Duties and Responsibilities:
+Work with the security team and partners to ensure all devices in the infrastructure are patched within stated SLAs. Remediate non-compliant devices in a timely manner
+Support the security team with any incident response events as necessary
+Assist the Service Desk and Clinical Applications teams in deploying and updating applications through Group Policies, Endpoint Central, Intune and related technologies
+Consolidate Group Policies and Endpoint Central configurations to reduce complexity and provide enhanced performance
+Under the guidance of the Enterprise Architect, implement standards for Roles Based User Access workstation naming conventions, and Organizational Unit structure
+Automate repetitive tasks such as user provisioning, M365 licensing, and rights assignment with PowerShell or similar tools
+Administer User Authentication and Application Access with OneLogin
+Develop and maintain documentation including SOPs, Run Books, configuration standards, and new user documentation
+Assist with new user Onboarding
+Provide regular status reports on tasks accomplished, current issues, and progress toward goals.
+Leverage the use of ServiceNow workflow ticketing system
+Communicate to end users, technical teams, and management in a clear and concise manner
+Work closely with other members of Information Technology Department to assist with project implementations and other tasks as requested
+
+Minimum Qualifications:
+Education/Licensing/Certification:
+AS in Computer Science preferred or equivalent work experience
+Microsoft Certified Systems Associate, Microsoft Certified Desktop Associate, Windows Operating System Fundamentals, or related information technology certifications preferred
+
+Experience:
+3+ years of progressive experience in designing, implementing, and supporting users and endpoint devices in a Windows Active Directory environment
+Previous experience working at an organization focused on M&A efforts a plus
+
+Knowledge and Skills:
+Effective oral, written, and interpersonal communication skills
+Exceptional customer service skills
+
+Non-Essential Duties and Responsibilities-
+
+Perform other duties as assigned
+
+EEO Employer
+
+Apex Systems is an equal opportunity employer. We do not discriminate or allow discrimination on the basis of race, color, religion, creed, sex (including pregnancy, childbirth, breastfeeding, or related medical conditions), age, sexual orientation, gender identity, national origin, ancestry, citizenship, genetic information, registered domestic partner status, marital status, disability, status as a crime victim, protected veteran status, political affiliation, union membership, or any other characteristic protected by law. Apex will consider qualified applicants with criminal histories in a manner consistent with the requirements of applicable law. If you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation in using our website for a search or application, please contact our Employee Services Department at employeeservices@apexsystems.com or 844-463-6178.
+
+Employee Type:
+Contract
+
+Location:
+Raleigh, NC, US
+
+Job Type:
+Engineering and Technicians
+
+Date Posted:
+November 22, 2022
+Show Less 
+ReportPosition: Senior Database Engineer
+Location: Remote - AZ candidates only
+Term: Permanent hire
+Salary: $130K DOE
+
+POSITION SUMMARY:
+
+The Senior Database Administrator/Engineer also works closely with the Infrastructure and Applications team to design and consult on new and existing systems to optimize performance and reliability.
+
+PRINCIPLE RESPONSIBILITIES:
+Manages installation, patching and upgrades on all enterprise database systems.
+Manages user provisioning and security on all enterprise database systems.
+Maintains the integrity of data within the production environment, including the execution of proper backup and restoration policies and procedures.
+Provides guidance and input on the selection and implementation of all database administration tools.
+Administers database cleanup and optimization activities.
+Assists with database design, particularly regarding design maintainability and scalability.
+Prepares detailed technical specifications.
+Provides assistance in database programming, troubleshooting and management of problems affecting IT and enterprise database applications, as well as developing the area for future expansion.
+Provides escalated support and resolution of open database issues from IT Customer Support.
+Manages and reviews code for deployment and promotion from development environments into QA and production systems.
+Monitors performance metrics and makes enhancements or suggestions on design and infrastructure as necessary.
+Plans and projects system capacity requirements for budgeting and licensing purposes.
+Provides guidance, mentors staff and developers, and acts as technical escalation point for the team.
+Provides database best practices and standards, performance testing and R&D.
+Develops strong vendor relationships to resolve problems and coordinates the delivery of IT products and services.
+Provides on-call support on a rotating schedule.
+Performs other job-related duties as assigned or apparent.
+QUALIFICATIONS:
+Performance Tuning, Query Execution Plans, Stored Procedures, T-SQL, PL/SQL, Data Warehousing, and DBMS internals.
+SQL Server 2012 and higher on virtualized platforms.
+Database architectural design and performance assessments.
+Experience writing database server code
+Possess expert knowledge of the entire Software Development Lifecycle (Waterfall and Agile)
+Knowledge of Big Data is a plus
+Knowledge of MDM is a plus
+Capable of prioritizing and managing assignments, tasks, and significant projects to completion with minimal supervision.
+Ability to create and maintain documentation of development standards in use at Republic Services.
+Ability to write reports, business correspondence, and procedures manuals
+Ability to interact with IT personnel on all levels to resolve issues and provide solutions in a timely manner
+Capable of prioritizing and managing assignments, tasks, and significant projects to completion with minimal supervision.
+Ability to create and maintain documentation of development standards in use at Republic Services.
+Ability to write reports, business correspondence, and procedures manuals
+Ability to interact with IT personnel on all levels to resolve issues and provide solutions in a timely manner
+MINIMUM QUALIFICATIONS:
+Bachelor’s degree or higher in Computer Sciences, Information Technology, Engineering or related degree. (Required)
+Minimum 5 years applicable experience in two or more relational database systems such as SQL Server (2012 or higher), Oracle (12c or higher), and MySQL. (Required)
+Minimum 2 years applicable experience in NoSQL database systems such as DynamoDB, MarkLogic, Mongo DB, Hadoop. (Required)
+Minimum 2 years applicable experience in Cloud environments such as AWS, Google, Microsoft Azure, Oracle Cloud. (Required)
+
+
+
+
+
+
+
+Equal Employment Opportunity
+
+MATRIX is committed to providing a work environment that values diversity, equity, inclusion and respect. We do not discriminate based upon race, religious creed, color, national origin, ancestry, physical or mental disability, medical condition, genetic information, marital status (including registered domestic partnership status), sex (including pregnancy, childbirth, lactation and related medical conditions), gender (including gender identity and expression), age (40 and over), sexual orientation, military and veteran status and/or any other characteristic protected by federal, state or local law.
+MATRIX is committed to providing access and reasonable accommodations for qualified individuals with disabilities. Supporting medical or religious documentation will be required where applicable. If you are a qualified individual with a disability, you may request a reasonable accommodation under the American Disability Act (ADA) by emailing MATRIX_HR@MatrixRes.com. To ensure a quick response to your request, please use the words “Accommodation request” as the subject line of your email.
+
+For hourly W2 contract roles MATRIX offers a highly competitive benefit package including Medical, Dental, Vision, Life, Disability, HSA, and 401(k) with pre and post-tax options. Please see MatrixRes.com/Benefits for more information.
+For direct hire placement with our clients, benefits will be offered in accordance with that particular client’s offerings. This may include PTO, Medical, Dental, Vision, 401K and other pre and post-tax options.
+Show Less 
+ReportM&S Consulting was conceived in 2002 with the vision of creating highly effective teams of elite consultants to deliver strategic process and technology solutions to enterprise organizations across the US. Our commitment to delivery in complex environments and long-term customer success has merged process and technology into innovative solutions, established deep pockets of expertise, and enabled innovative transformation for evolving businesses.
+
+We have intentionally cultivated steady growth focused on being approachable and helpful to our dearly valued clients and closely cared-for employees. M&S people simply “care hard”, and this reflects in our work products, our interactions, and our culture.
+
+Job Description:
+
+M&S Consulting is looking for Systems Administrators with all Levels of experience to support a Federal contract. Secret or Top secret clearance is required. We are interested in someone who possesses and applies exceptional comprehensive knowledge across key tasks, multiple complex work assignments and works well with others.
+
+Job Requirements:
+
+Responsible for the upkeep, configuration, and reliable operation of computer systems. System administrator will ensure the uptime, performance, resources, and security of the computers they manage meet the needs of the users. The systems administrator could be focused in one or more of the following areas:
+A database administrator (DBA) maintains a database system, and is responsible for the integrity of the data and the efficiency and performance of the system.
+A network administrator maintains network infrastructure such as switches and routers, and diagnoses problems with these or with the behavior of network-attached computers.
+A security administrator is a specialist in computer and network security, including the administration of security devices such as firewalls, as well as consulting on general security measures.
+A web administrator maintains web server services that allow for internal or external access to web sites. Tasks include managing multiple sites, administering security, and configuring necessary components and software. Responsibilities may also include software change management.
+A system programmer creates, modifies, and test the code, forms, and script that allow computer applications to run. They may also develop and write computer programs to store, locate, and retrieve specific documents, data, and information.
+A computer operator performs routine maintenance and upkeep, such as changing backup tapes or replacing failed drives.
+Secret or Top Secret Clearance
+
+Remote Work
+
+Most work can be performed remotely; however, staff may be required to support face-to-face meetings with the business line or end users. There is potential for face-to-face SAFe ceremonies on occasion
+M&S Consulting proactively fulfills its role as an equal opportunity employer. We do not discriminate against any employee or applicant for employment because of race, color, sex, religion, age, sexual orientation, gender identity and expression, national origin, marital status, physical or mental disability, status as a protected veteran, or any other characteristic protected by law.
+
+YsuN3E4bXo
+
+Show Less 
+Report

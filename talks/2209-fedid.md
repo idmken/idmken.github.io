@@ -17,3 +17,6 @@ Panelists:
 - Ken Myers, Director and Chief FICAM Architect @ General Services Administration, Office of Government-wide Policy
 - David Temoshok, Senior Advisor, Applied Cybersecurity @ U.S. National Institute for Standards and Technology
 - Patrice C. Wilmot, Director, Identity and Access Management @ U.S. Internal Revenue Service
+
+
+![talk graphic](2209-fedid-tile.png)

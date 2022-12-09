@@ -1,1172 +1,6126 @@
 ,0
-0,"job summary
-the identity and access management administrator shall be responsible for:
-performing systems management activities for current and future computer systems, related hardware, software, and networking components."
-1,evaluating current and projected demands for services and state‑of‑the‑art in computer software.
-2,"recommending modifications to the current architectures, procedures, and configurations to maximize utilization of existing resources."
-3,design and implement customizations to the computer environment as required to meet the needs of the children's hospital user community.
-4,recommending software acquisitions to meet projected demands.
-5,perform product evaluations and trials as part of a continuing effort to improve productivity of existing software.
-6,"interacting with application, network, end user support staff, vendors, and the end user community to design and evaluate all new computer system environments and associated applications."
-7,identifying end user/application requirements as they relate to the computer systems environments in order to develop and execute a plan within project time frames.
-8,responding to computer system problems resolving them on a timely basis adhering to problem resolution and escalation procedures.
-9,maintaining computer system security.
-10,keep current on all published security warnings.
-11,monitor daily security audit trail for multiple systems.
-12,inform management of any security breaches or holes in computer system security and propose solutions.
-13,"providing consulting services and technical support to peers, operating staff, application staff, research computing, and end user services."
-14,assisting in maintaining performance statistics and provides performance tuning.
-15,identifying problem areas and develop disaster recovery and backup strategies.
-16,"in order to qualify you must have:
-knowledge of theories, principles, and concepts typically acquired through completion of a bachelor's degree in computer science or a closely related field and a minimum of five years of experience."
-17,"analytical skills to collect information from diverse sources, apply professional principles in performing various analyses, and summarize the information and data in order to solve problems or design relatively complex systems and programs that cross department/divisional lines."
-18,"communication skills in order to effectively deal with conflicting views or issues and mediate fair solutions, or well‑developed writing skills
-
-boston children’s hospital offers competitive compensation and unmatched benefits, including a rotating days/evenings and week-end schedule, affordable health, vision and dental insurance, generous levels of time off, 403(b) retirement savings plan, pension, tuition reimbursement, cell phone plan discounts and discounted rates on t-passes (50% off)."
-19,discover your best.
-20,"show less systems administrator (hybrid remote)
-
-christar is an interdenominational mission organization based in richardson, tx."
-21,our goal is to proclaim the gospel and establish churches within the least-reached communities worldwide.
-22,"the christar mobilization center u.s. (cmcus) is seeking a system administrator with skills, knowledge, and tested experience to plan, maintain and deploy an information technology infrastructure that contains both cloud and on-premises components."
-23,"additionally, the system administrator will serve the organization by aiding end users as they interact with those technologies."
-24,"the ideal candidate will leverage excellent communication skills, emotional intelligence, and enthusiasm to harness secure, flexible technologies."
-25,the systems administer will work in cooperation with christar’s director of information technology to provide these services.
-26,"the candidate must demonstrate integrity, maturity, and proven experience."
-27,this is a hybrid remote position.
-28,the need to be in-person at the office will be dictated by the essential job duties that must be done on-site.
-29,approximately 50% of the time worked will be onsite.
-30,"essential duties and responsibilities:
-
-work with the director of information technology and other division leaders to build the technology deployment roadmap."
-31,"negotiate contracts for leased data equipment and services; competitively bid out purchases for data equipment, software, and computing services."
-32,"maintain the confidentiality, integrity, and availability of christar data."
-33,"install, configure, and maintain company-owned hardware and software."
-34,"administer and configure cloud services including microsoft azure active directory, endpoint security, and identity and access management."
-35,"administer, configure, and develop new services for site stacker."
-36,"manage the backup of data, including automatic backup routines and testing data integrity."
-37,maintain best practices for network documentation.
-38,maintain a working disaster recovery plan.
-39,"assist all christar personnel with software and computing device problems in cooperation with other technical staff, as needed."
-40,"supply technology purchase assistance to workers, as needed."
-41,"perform end-user training with departments or staff on the effective and productive use of the new systems, policies, and practices; may require documentation of process steps, instruction manuals, learning sessions, etc."
-42,supply information security training to workers.
-43,"requirements:
-
-a committed christian who is comfortable working in a missionary environment with the following qualifications: applicant must affirm christar’s beliefs and core values as part of the application."
-44,"bachelor’s degree
-minimum of 2 years of system administration experience."
-45,security certifications (like comp tia security+).
-46,experience in a microsoft ad and azure cloud services environment.
-47,certifications that support azure endpoint security and azure mobile device management are a plus.
-48,some comfort with writing sql.
-49,"strong written, verbal, and interpersonal communication skills."
-50,the ability to be a team player who works collaboratively.
-51,strong organizational skills.
-52,the ability to prioritize and handle multiple projects simultaneously and work calmly under the pressure of goals and deadlines.
-53,strong troubleshooting and problem-solving skills.
-54,strong customer-service orientation at all times.
-55,must be able to effectively communicate with individuals within all levels of the organization.
-56,willingness to learn and embrace emerging technology.
-57,"job type: full-time
-
-pay: $50,000.00 - $70,000.00 per year
-
-benefits:
-
-health insurance
-paid time off
-
-schedule:
-
-8 hour shift
-monday to friday
-
-experience:
-
-system administration: 2 years (required)
-active directory: 2 years (preferred)
-azure: 2 years (preferred)
-
-license/certification:
-
-comptia security+ (preferred)
-
-work location: hybrid remote in richardson, tx 75081
-
-show less it administrator/helpdesk
-if you are a it administrator with at least two years of experience, please read on!"
-58,based in the heart of silicon valley we are a unified communications company that is expanding rapidly.
-59,our state of the art software has taken off and we're in need of a talented individual to add to our it team!
-60,"top reasons to work with us
-company is growing at an unbelievable pace
-room for upward growth in your career
-2022 product of the year
-2022 remote work pioneer award
-what you will be doing
-as an it helpdesk administrator you will:
-
-
-maintain, repair and upgrade the operating system including hardware and software
-responding to queries via chat, email, or phone
-monitor the performance of existing computer systems and it infrastructures
-set up and manage accounts and workstations
-troubleshoot issues and outages
-ensure security through access controls, backups and firewalls
-what you need for this position
-must have:
-
-
-at least 2 years of experience in an it helpdesk related role for a technology company
-at least 2 years of windows administration experience (laptops, desktops, monitoring, user management)
-linux cli basic experience 1 year
-at least 1 year of experience with vmware
-
-nice to have:
-
-junos or panos
-cloud experience (aws, gcp, azure)
-what's in it for you
-$60k-$80k salary
-401k match
-unlimited pto
-hybrid workplace (on site 2 days a week)
-medical, dental, vision
-so, if you are a it administrator with experience, please apply today!"
-61,"applicants must be authorized to work in the u.s.
-
-
-cybercoders, inc is proud to be an equal opportunity employer
-
-all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law."
-62,"your right to work – in compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the united states and to complete the required employment eligibility verification document form upon hire."
-63,"show less 
-reportit administrator/helpdesk l2/l3
-if you are a it administrator with at least two years of experience, please read on!"
-64,based in the heart of silicon valley we are a unified communications company that is expanding rapidly.
-65,our state of the art software has taken off and we're in need of a talented individual to add to our it team!
-66,"top reasons to work with us
-company is growing at an unbelievable pace
-room for upward growth in your career
-2022 product of the year
-2022 remote work pioneer award
-what you will be doing
-as an it helpdesk administrator you will:
-
-
-maintain, repair and upgrade the operating system including hardware and software
-responding to queries via chat, email, or phone
-monitor the performance of existing computer systems and it infrastructures
-set up and manage accounts and workstations
-troubleshoot issues and outages
-ensure security through access controls, backups and firewalls
-what you need for this position
-must have:
-
-
-at least 2 years of experience in an it helpdesk related role for a technology company
-at least 2 years of windows administration experience (laptops, desktops, monitoring, user management)
-linux cli basic experience 1 year
-at least 1 year of experience with vmware
-
-nice to have:
-
-junos or panos
-cloud experience (aws, gcp, azure)
-what's in it for you
-$60k-$80k salary
-401k match
-unlimited pto
-hybrid workplace (on site 2 days a week)
-medical, dental, vision
-so, if you are a it administrator with experience, please apply today!"
-67,"applicants must be authorized to work in the u.s.
-
-
-cybercoders, inc is proud to be an equal opportunity employer
-
-all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law."
-68,"your right to work – in compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the united states and to complete the required employment eligibility verification document form upon hire."
-69,"show less 
-reportdeloitte global is the engine of the deloitte network."
-70,our professionals reach across disciplines and borders to develop and lead global initiatives.
-71,we deliver strategic programs and services that unite our organization.
-72,"work you'll do
-
-the identity access management ad systems administrator will support the business and it staff security related identity and access issues."
-73,"responsibilities
-
-application and user identity and access administration (including maintaining end user security access rules and profiles across multiple systems and platforms)
-assisting in policies and procedures (including staff support for security related to identity and access incidents and awareness)
-responsible for working incidents and service requests in service desk within sla."
-74,"analyze and resolve technology and end user incidents during standard business hours and on-call rotations; monitor issue resolutions and collaborates with the application teams, vendors and engineers when necessary to resolve issues."
-75,"manage user accounts and access permissions for deloitte computer systems and applications by reviewing user ids or access request forms to determine if they are accurate, complete, approved and appropriate."
-76,"contact requestor, manager and/or data owner as necessary."
-77,"if in order, establish the requested access and notify the user."
-78,conduct periodic audits of accounts and access by performing online research and producing reports of users with access to particular systems or resources.
-79,provide updated user listings periodically for review or upon request by management or data owners.
-80,"ensure timely removal or modification of access based upon termination listings, emergency requests and change request forms."
-81,develop procedural documentation for access services and auditing purposes and maintain access request audit trail.
-82,"identify and work with appropriate referral resource groups (messaging operations, applications
-
-the team
-
-deloitte technology works at the forefront of technology development and processes to support and protect deloitte around the world."
-83,"in this truly global environment, we operate not in ""what is"" but rather ""what can be"" to help deloitte deliver and connect with its clients, its communities, and one another in ways not previously conceived."
-84,"qualifications
-
-b.e, b.tech, m.c.a, graduation degree with seven+ years of relevant work experience."
-85,"minimum six years of experience or training in computer security, auditing of user accounts, elevated accounts and access management."
-86,proven teamwork qualities with emphasis on customer service and team building.
-87,organizational skills and ability to multitask under pressure and project deadlines.
-88,ability to troubleshoot user access problems and determine appropriate corrective action.
-89,ability to view incidents and problems from customer perspective and taking initiative to represent the customer when working with other teams toward a resolution.
-90,"proven performance in monitoring performance against defined service level agreements with internal customers, internal departments and external vendors."
-91,dedicated to increasing performance levels.
-92,excellent presentation and communications skills - both oral and written.
-93,"experience with enterprise directory services (active directory)
-familiar with running powershell scripts."
-94,"intermediate ms office/outlook
-familiar with sap, hana, and other applications as required."
-95,experience with active directory and sharepoint preferred.
-96,experience with remote server administration from offshore.
-97,"nice to have: microsoft identity manager (mim) administration, sailpoint iiq."
-98,"our culture
-
-at deloitte global people are valued and respected for who they are - with opportunities to bring their unique perspectives, talents and passions to business challenges."
-99,our global workspace creates room for individuality and collaboration.
-100,"ours is an inclusive, supportive, connected culture with a focus on development, flexibility, and well-being."
-101,"this culture makes deloitte global one of the most rewarding places to work, and to transform your career."
-102,"professional development
-
-from entry-level employees to senior leaders, we believe in investing in you, helping you identify and hone your unique strengths at every step of your career."
-103,"we offer opportunities to build new skills, take on leadership opportunities, and connect and grow through mentorship."
-104,"from on-the-job learning experiences to formal development programs, our professionals have a variety of opportunities to continue to grow throughout their career."
-105,"benefits
-
-at deloitte, we value our people and offer employees a broad range of benefits."
-106,our total rewards program reflects our continued commitment to lead from the front in everything we do-that's why we take pride in offering a comprehensive variety of programs and resources to support your health and well-being.
-107,"#li-hybrid hybrid work, remote may be an option
-
-start your job application: click apply now
-
-show more gcyber is hiring an identity and access management (idam) administrator to support the deployment, configuration, and management of a cloud identity and access management (idam) solution that will ultimately serve as the identity as a services (idaas) platform supporting the defense and intelligence community’s information sharing needs."
-108,"as an idam administrator you will:
-
-
-monitor the health status, and perform operations and maintenance of identity management systems (e.g., active directory, active directory federation services (adfs), microsoft identity manager (mim), aws identity manager)
-configure and maintain aws iam federated sign in through adfs
-implement and maintain attribute-based access controls to support alignment with zero-trust principles
-troubleshoot incidents, and assist with transitioning new idaas capabilities from the engineering team to production
-support backup and recovery operations
-
-the work location will be full time onsite at customer-site in arlington, va."
-109,"minimum qualifications and experience:
-
-
-bachelor’s degree and 6+ years of experience, additional years of relevant experience accepted in lieu of a degree
-hands-on experience with active directory, federation protocols (saml, oauth, openid)
-understanding of zero trust principles
-experience with cloud identity management services (e.g., aws identity manager) preferred
-must have an active top secret (ts) clearance and be able to obtain a ts/sci clearance with ci polygraph
-one of the following certifications must be obtained within 120 days of hire: amazon system operations certification or amazon developer certification
-dod 8570 iat ii certification or higher (e.g., security+, ccna security, cysa+, gicsp, gsec, cnd, sscp) https://public.cyber.mil/cw/cwmp/dod-approved-8570-baseline-certifications/
-
-gcyber is an equal opportunity employer."
-110,this means you don’t have to worry about whether your application process will be fair.
-111,"we consider all applicants without regard to race, color, religion, age, ancestry, ethnicity, gender, gender identity, gender expression, sexual orientation, veteran status, or disability."
-112,"for future job notifications please be follow gcyber on linkedin.https://linkedin.com/company/gcyber
-
-
-uyj3svo4ez
-
-
-job type: full-time
-
-
-show less responsibilities:
-a kforce client is seeking to hire an identity access administrator in boca raton, florida (fl)."
-113,"summary:
-the identity access administrator will work closely with a team of engineers, administrators, and specialists."
-114,this team is responsible for the infrastructure and support of all identity and access tools; regular patching and vulnerability processes will be followed.
-115,all this development will be done in a non-production environment and change management processes will be followed.
-116,"the administrator will be expected to deal directly with their team, customers, and other teams comprising identity, access, security, audit, and governance."
-117,"responsibilities include:
-
-the identity access administrator applies all policies and patches to maintain the high expectations of the client's security requirements and guidelines
-provide solutions and oversight on all aspects of identity and access
-organizations will come to this team for solutions to their identity and access needs
-an identity access administrator will work with our vendors to ensure our environments remain stable and any issues are resolved appropriately
-perform infrastructure problem resolution and assist in the development and documentation of technical standards
-the identity access administrator will monitor systems performance, ensure capacity planning is performed, is proactive in assessing and providing recommendations for improvement
-analyze and monitor protocol compatibility, perform systems tuning, and provide recommendations for improvements
-an identity access administrator will perform as an internal consultant, advocate, mentor, and change agent
-coordinate, execute, assess, and support proof of concept, programs, and applications
-the identity access administrator implements architectural principles, approaches for simple and complex systems within multiple environments (hybrids)
-requirements:
-
-bachelor's degree or equivalent experience
-3-5+ years of experience
-experience in sailpoint access governance connectors, microsoft active directory and azure, java/json, postman, .net, collaboration skills include office 365, sharepoint, one drive, teams, yammer, zoom, and identity now
-demonstrates leading edge knowledge of concepts and theories in own discipline
-perceived internally and externally as knowledgeable in the function
-demonstrates broad experience and knowledge in application architecture for complex, cross-functional applications, with extensive knowledge in the identity and access environment
-ability to teach others the technical and functional knowledge and skills needed to achieve results at a high level of performance
-experience in conflict management and continuous improvement
-applies leading edge knowledge to drive strategic direction of the function and the business in partnership
-functional and technical skills
-self-development and versatility
-oracle hr system knowledge and google cloud platform a plus
-kforce is an equal opportunity/affirmative action employer."
-118,"all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, sexual orientation, gender identity, national origin, age, protected veteran status, or disability status."
-119,"to apply to this job, click apply now
-
-show less typical duties and responsibilities:
-
-identify and develop role-based security access to match job requirements and adhere to the least privilege principle."
-120,"manage the user lifecycle - create, modify and disable user accounts, as requested, provided appropriate approvals."
-121,"ensure access rights are updated in a timely manner as user roles change
-update and close tickets associated with access management requests
-implement improvements to automated user access request workflows."
-122,perform routine access reviews to ensure access to resources matches job function.
-123,ensure compliance with related industry regulations and respond to information security audits.
-124,assist and support the cyber security team and development project teams with the integration of programs that intersect with user administration.
-125,"implementation of saml sso applications and troubleshooting existing sso applications
-assist user services team with google account management as needed."
-126,develop and document user administration and audit practices.
-127,"administration of azure ad connect application
-
-
-
-#cb
-
-experience
-required
-2 year(s): identity & access management experience active directory administration azure active directory administration in a hybrid environment experience with implementation and administration of conditional access controls, mfa, saml, and federated authentication methods experience with powershell scripting for use with active directory and azure ad."
-128,show less sql server database administrator - 100% remote!!!
-129,healthcare organization seeking a seasoned sql server dba who will own responsibility for providing operational database services to the organization.
-130,this is a production dba role and requires a service oriented mentality.
-131,the nature of the dba work needed varies day-to-day.
-132,some days may involve pure maintenance while others can involve more database development.
-133,typical responsibilities include some or all of the following.
-134,"primary duties:
-
-ensuring that storage, archiving, back-up, and recovery procedures are appropriate and functioning correctly
-monitoring sql server performance and managing parameters to provide fast query responses to front-end users
-assist in maintaining data and security standards, including adherence to the data protection act, hipaa, and hitech."
-135,"writing database documentation, including server topology, data standards, procedures and definitions for the data dictionary."
-136,controlling database access permissions and privileges.
-137,working closely with it project managers and application developers to ensure that all data warehouses and database object design meets current and attempt to account possible future needs.
-138,"communicating regularly with technical, applications, and operational staff to ensure database integrity and security standards are met and maintained."
-139,"position requirements:
-
-experience with database administration for mssql server versions 2017 and higher."
-140,experience with ssrs and ssis and transparent data encryption (tde).
-141,experience with planning and implementing version upgrades to ms sql server.
-142,experience in troubleshooting and resolving database problems.
-143,"experience in performance tuning and optimization (pto), using native monitoring and troubleshooting tools."
-144,"experience with backups, restores and recovery models."
-145,knowledge of high availability (ha) and disaster recovery (dr) options for ms sql server.
-146,experience in implementing operational automation using scripts.
-147,"knowledge of indexes, index management, and statistics."
-148,good communication and documentation skills.
-149,"preferred candidates may also meet some of the following:
-
-involvement with the mssql server community; membership in pass, active in forums or newsgroups."
-150,experience/knowledge of advantage database server.
-151,sql server certification i.e.
-152,"mcts, mcitp, mvp, mcsa."
-153,"experience working with windows server, active directory and proper disk configurations."
-154,"solid working experience in any of the following: external web data services, edi, data cubes, business intelligence analytics, tfs, git."
-155,"the perks: great benefits, sound leadership, collaborative team and excellent growth opportunity all while working 100% from your home office!"
-156,please send detailed resume and linkedin profile today!
-157,"equal employment opportunity
-
-matrix is committed to providing a work environment that values diversity, equity, inclusion and respect."
-158,"we do not discriminate based upon race, religious creed, color, national origin, ancestry, physical or mental disability, medical condition, genetic information, marital status (including registered domestic partnership status), sex (including pregnancy, childbirth, lactation and related medical conditions), gender (including gender identity and expression), age (40 and over), sexual orientation, military and veteran status and/or any other characteristic protected by federal, state or local law."
-159,matrix is committed to providing access and reasonable accommodations for qualified individuals with disabilities.
-160,supporting medical or religious documentation will be required where applicable.
-161,"if you are a qualified individual with a disability, you may request a reasonable accommodation under the american disability act (ada) by emailing matrix_hr@matrixres.com."
-162,"to ensure a quick response to your request, please use the words ‚äúaccommodation request‚äù as the subject line of your email."
-163,"for hourly w2 contract roles matrix offers a highly competitive benefit package including medical, dental, vision, life, disability, hsa, and 401(k) with pre and post-tax options."
-164,please see matrixres.com/benefits for more information.
-165,"for direct hire placement with our clients, benefits will be offered in accordance with that particular client‚äôs offerings."
-166,"this may include pto, medical, dental, vision, 401k and other pre and post-tax options."
-167,show less metcor/lsi has a need for an lms administrator to support the delivery of learning materials for federal employees.
-168,"the lms administrator position is full-time, remote, and offers a long-term opportunity for internal growth within an established organization."
-169,"the lms administrator role includes, but is not limited to:
-
-maintain system documentation to include user manuals, ato/lms configuration documents, and system reports
-manage content types to ensure correct formats are uploaded
-provide tier ii support for the various user roles
-attend bi-weekly and quarterly support meetings with the lms vendor
-coordinate updates and patches with the client
-determine functionality of existing courseware after patches or updates are applied
-collaborate with the lms vendor and stakeholders to minimize system downtime
-create and update user records
-assist with building and accurately assigning each role's (supervisor, instructor, etc.)"
-170,"accounts
-provide virtual small group training to lms users
-
-what you bring to the table:
-
-3+ years managing an lms to include user (records, accounts, etc.)"
-171,"management
-experience with help desk and/or troubleshooting
-sap success factors lms experience preferred
-experience training, coaching, or instructing others virtually
-excellent written and verbal communication skills
-proficient with microsoft office
-high degree of adaptability and flexibility
-
-education
-
-bachelor's degree in a related field
-
-about the company
-
-metcor/lsi is a verified small business with a focus on developing and delivering learning solutions that exceed customer expectations."
-172,"we view every customer as a long-term partner and dedicate ourselves to exceptionally high standards of excellence every program, every time."
-173,"our culture is characterized by a small company feeling of personal ownership, where our people enjoy knowing they can access company leadership to make things happen, have the influence to make a difference, and understand they make a productive contribution in the lives of our customers."
-174,all positions require the ability to pass a background investigation conducted by a federal government agency and a drug test.
-175,us citizenship is required.
-176,"benefits
-
-metcor/lsi offers a competitive salary and benefits package that includes medical/dental/vision coverage, company sponsored life & disability insurance, paid vacation/sick/holidays, 401k, profit sharing, and pretax commuter benefits."
-177,"company culture
-
-metcor/lsi fosters a collaborative culture in which people are encouraged to grow and innovate."
-178,"included in this effort are communities of practice, monthly lunch & learns, and weekly allotted professional development time."
-179,metcor/lsi is an equal opportunity employer/veterans/disabled.
-180,"all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, or protected veteran status and will not be discriminated against based on disability."
-181,"reasonable accommodation policy
-
-show less job title/position: remote identity & access management security administrator - iam administrator (100% remote)
-
-** note: ideal candidate would have experience with cyberark or sailpoint technologies."
-182,"location: 100% remote (anywhere in the us)
-
-job summary:
-
-the security operations engineer consultant i contributes to technical tasks supporting identity governance and administration (iga), including the development and administration of iga systems and technical solutions to provide and maintain cybersecurity for the organization’s technology architecture and products."
-183,"key responsibilities:
-
-completes tasks in support of identity lifecycle management, including user account and access provisioning and deprovisioning for joiners, leavers, and movers
-develops, executes, and administers identity and access management (iam) solutions, platforms, tasks, and processes
-assists more-senior information security roles with reviewing and evaluating business technology needs, security, and systems requirements; performs development, integration, and programming tasks in support of cybersecurity applications, systems and solutions, according to defined specifications
-supports research, contributes to compiling data, and contributes to testing plans to identify and initially assess potential vulnerabilities and areas for exploitation in technology applications, systems, and solutions
-learns and becomes familiar with strategies for effective communication and successful interaction with technical peers
-
-supervisory responsibilities:
-
-this job does not have supervisory duties
-
-preferred qualifications:
-
-education and experience
-
-bachelor’s degree or equivalent experience
-2 or more years of related experience
-knowledge of sailpoint, cyberark, or similar iam platforms
-
-certificates, licenses, registrations
-
-imi certified access management specialist (cams), comptia security+, or other cybersecurity certifications
-
-functional skills
-
-basic decision-making skills and ability to escalate when appropriate
-ability to establish and manage relationships with internal and external partners
-basic time and project management skills including ability to prioritize and organize
-work effectively in a team environment
-perform well in a face-paced environment
-intermediate knowledge of microsoft suite (word, excel, powerpoint)
-ability to think conceptually, analytically, and creatively
-good oral and written communication skills
-ability to analyze data and apply it to problem resolution
-
-#li-pj1
-
-#li-remote
-#remote
-
-national general holdings corp. is an equal opportunity (eo) employer – veterans/disabled and other protected categories."
-184,all qualified applicants will receive consideration for employment regardless of any characteristic protected by law.
-185,"candidates must possess authorization to work in the united states, as it is not our practice to sponsor individuals for work visas."
-186,"in the event you need assistance or accommodation in completing your online application, please contact ngic main office by phone at (336) 435-2000."
-187,"about national general holdings:
-
-national general holdings corp., a member of the allstate family of companies, is headquartered in new york city."
-188,"national general traces its roots to 1939, has a financial strength rating of a– (excellent) from a.m. best, and provides personal and commercial automobile, homeowners, umbrella, recreational vehicle, motorcycle, supplemental health, and other niche insurance products."
-189,we are a specialty personal lines insurance holding company.
-190,"through our subsidiaries, we provide a variety of insurance products, including personal and commercial automobile, homeowners, umbrella, recreational vehicle, supplemental health, lender-placed and other niche insurance products."
-191,"national general is a fast paced, dynamic, and entrepreneurial organization."
-192,our team members live by and exemplify what we call the 4es.
-193,"at national general, we are energized, engaged, empowered, and we execute every day in order to provide an exceptional experience for our customers!"
-194,we are passionate about our organization and the value that we add every day.
-195,a successful candidate with national general will embody the 4es.
-196,our team is poised to outperform the competition.
-197,we are national general insurance and with us you can be extraordinary!
-198,come join our team!
-199,"companies and partners
-
-direct general auto & life, personal express insurance, century-national insurance, abc insurance agencies, natgen preferred, natgen premier, seattle specialty, national general lender services, ars, rac insurance partners, mountain valley indemnity, new jersey skylands, adirondack insurance exchange, velapoint, quotit, healthcompare, ahcp, nhic, healthcare solutions team, north star marketing, euro accident."
-200,"in addition to a phenomenal career opportunity, national general insurance offers an excellent benefits package including:
-
-paid training
-medical, dental, vision benefits
-wellness programs
-life and short/long term disability insurance
-401k w/ company match
-company paid holidays & generous time-off policy
-employee discount program
-career advancement and development opportunities
-on-site healthcare clinic (winston-salem and cleveland offices)
-on-site fitness center (cleveland and dallas offices)
-subsidized parking (cleveland office)
-
-national general holdings corp. is an equal opportunity (eo) employer – veterans/disabled and other protected categories."
-201,all qualified applicants will receive consideration for employment regardless of any characteristic protected by law.
-202,"candidates must possess authorization to work in the united states, as it is not our practice to sponsor individuals for work visas."
-203,"in the event you need assistance or accommodation in completing your online application, please contact ngic main office by phone at (336) 435-2000."
-204,"start your job application: click apply now
-
-show less ots is seeking an oracle sso identity and access administrator to join our growing team."
-205,"in this role, you will implement, analyze, and resolve single sign-on (sso) identity and access issues and initiatives within a highly visible, mission-critical (24x7) environment."
-206,"duties and responsibilities
-
-work with large enterprise-wide oracle single sign-on (sso) implementations involving attributes/role-based authorization model(s) and experience with configuration of oracle oam environments for high availability requirements and hands-on experience integrating oracle middleware identity and access management with oracle unified directory used to implement role-based access control authorization model(s)
-support oracle sso integration with enterprise production applications (oracle r12.2.x, obiee, and oracle federal financials r12.2.x) as well as supporting dev/test / ite environments, as well as the planning, design, development, enhancement, build, migration, patch, and test activities which support the enterprise
-build new instances and perform refreshes and upgrades/migrations (oam, oud, ohs) which would include evaluating additional functionality and tools and to also utilize current functionality and tools in other ways to increase the benefits of the oracle sso enabled applications enterprise-wide
-assists in the operations, development, and engineering support staff/teams and will be working directly with internal and external functional teams who also provide support to the enterprise."
-207,"provide support and maintenance of the oracle sso configuration(s) as it relates to the enterprise integrated systems and infrastructure to ensure operational viability
-provide support for the installation, configuration, administration, and troubleshooting issues related to weblogic and webcenter platforms which include the ability to perform patch analysis on middleware components and provides guidance and recommendations to engineering for implementation of new requirements which will be supported by the operations staff and supports the resolution of defects and provide bug fixes related to oracle sso and it's other components
-review, validate, and update approved requirements in order to produce system architecture design(s) for oracle sso solution(s) and supporting activities such as capacity planning, testing, problem/issue resolution activities while supporting the planning and execution of the oracle sso enterprise-wide solution(s) which support the enterprise
-
-basic qualifications
-
-proficient with implementing, configuring, integrating, and administering the following; oracle access management (oam) versions 11g (11.1.2.x) and 12c (12.2.1.x), oracle unified directory (oud) versions 11g (11.1.2.x) and 12c (12.2.1.x), oracle http server (ohs) version 11g (11.1.2.x) and 12c (12.2.1.x)
-experience upgrading oud and ohs from 11g.x to 12c
-at least one full lifecycle engagement as an oracle sso technical specialist in a large-scale implementation and/or large-scale upgrade
-demonstrated experience with installations, configurations, administration and troubleshooting sso issues related to weblogic and webcenter platforms along with the ability to perform patch analysis on middleware components and provide engineering guidance and recommendations for implementation by support staff
-demonstrated experience with oracle's sso which utilizes the following oracle components: oracle sso, oracle identity management (idm), oracle identity and access management (iam), oracle access manager (oam), oracle virtual directory (ovd), oracle ohs (oracle http server), oracle directory services manager (odsm), oracle webgate, and oracle internet directory / unified directory (oid/oud)
-
-desired skills
-
-possess strong analytical, collaborative, organizational, and proactive problem-solving skills
-demonstrates the ability to work independently with minimal supervision
-ability to work on a large team with a high ops tempo
-
-required:
-
-comptia sec+ iaw dod 8570
-naclc/t3 investigation
-show less introduction
-
-are you searching for an opportunity to play a key role in driving the dramatic growth of a highly successful software company?"
-208,"here at poppulo the market's most comprehensive omnichannel employee communications platform with unmatched personalization, measurement capabilities, and class-leading space management solution."
-209,and we want you to be part of it.
-210,"we serve 6,000+ customers, connecting with and serving content to over 35 million employees in more than 80 countries."
-211,confidence can sometimes hold us back from applying for a job.
-212,"but truly, there's no such thing as a 'perfect' candidate."
-213,we are a place where everyone can grow.
-214,"so however you identify and whatever background you bring with you, please apply if you meet the requirements of this role in the broadest sense and if this is a role that would make you excited to come to work every day."
-215,"key responsibilities
-
-responsible for administering and maintaining user and service account access to information systems and physical assets."
-216,performs routine audits of user access to a variety of systems.
-217,"meets with data and system owners to review user access, provide guidance, and document outcome."
-218,"documents service account usage, ownership, business justification, and related details
-support incident response activities, ensuring security incidents are properly contained, eradicated, and recovered
-maintains documentation for system and physical access policies and procedures
-manages the inventory of systems requiring user access, user permissions, and privileged access
-ensure proper security logs are generated and sent to the organization's security information and event management (siem) system
-manages security alerts relating to user, application, and service account access."
-219,"experience/skills required
-
-1-3 years' experience in information technology."
-220,understanding of authentication and authorization principles.
-221,"working knowledge of saml, oauth, sso, and basic auth."
-222,understands the different methods of mfa and the risks and benefits associated with those methods.
-223,ability to quickly learn and understand a variety of user interfaces.
-224,familiarity with identity providers and directory services.
-225,"requirements for success
-
-high degree of personal integrity and trustworthiness
-excellent organization skills and attention to detail
-knowledge of industry best practices around identity and access control
-excellent verbal, written communication and interpersonal skills, with the ability to build and maintain successful relationships with all levels of executives, internal team members, and other stakeholders and partners
-knowledge of microsoft office applications (word, excel, powerpoint, outlook), and other relevant business applications and systems
-willingness to learn splunk spl query language."
-226,"makes recommendations to security leaders, system owners, and it to improve access control and security."
-227,"compensation range: $60,000 - $75,000 plus variable."
-228,why us?
-229,"a ""great places to work"" listed company – so we really do value people
-ability to meaningfully impact our business and play a key role in our success
-flexible pto and 10 days paid leave."
-230,"competitive compensation package
-potential for career advancement in a fast paced growing organization
-competitive medical, dental, and vision benefits and monthly contributions to your health savings account
-401k with employer match
-fun, flexible working environment
-maternity, parental, adoption and bereavement leave."
-231,funding towards adoption costs.
-232,"life insurance
-
-who we are
-
-we are a values-driven organization that encourages our employees to bring their authentic selves to work every day and empowers everyone to make a tangible impact on our products, clients and culture."
-233,"we offer a dynamic environment with driven, fun and flexible individuals, who thrive on challenge and responsibility."
-234,this is an opportunity to contribute to our culture and join a company that's on the move.
-235,"named a great place to work in 2015, 2016, 2017, 2018, 2019, 2020 and 2021 , we are one of the fastest growing technology companies in ireland with additional offices in the us and the uk."
-236,this is an opportunity to contribute to our culture and join a company that's on the move.
-237,we live the poppulo company values each day and they are key to everything we do.
-238,"""bring your best self"", ""see it"", ""own it"", ""solve it"", and ""together we're better""
-
-poppulo is an equal opportunity employer."
-239,"we disclose your personal information to our private equity sponsor, vista equity partners, and its affiliates, including vista consulting group (collectively, ""vista""), for administration, research, database development, workforce analytics and business operation purposes, in line with the terms of this privacy policy."
-240,"vista processes and shares your personal information with its affiliates, including other vista portfolio companies, on the basis of its legitimate interests in managing, administering and improving its business and overseeing the recruitment process and, if applicable, your employment relationship with four winds interactive llc."
-241,"if you have consented to us doing so, we also share your personal information with other vista portfolio companies for the purpose of being considered for other job opportunities in the pooling system, both inside and outside the eea."
-242,please find a full list of all vista portfolio companies at: https://www.vistaequitypartners.com/companies/ and vista's privacy policy at https://www.vistaequitypartners.com/privacy/.
-243,"where this requires us to transfer your personal information outside of the eea, please refer to the fwi privacy policy for further details on cross-border transfers."
-244,"in connection with the recruitment process, your personal data may be transferred outside of the eea to icims and/or greenhouse, hirebridge, llc and criteria corp., which provide applicant tracking and evaluation services."
-245,"hirebridge, llc and criteria corp. have agreed to comply with the eu standard contractual clauses to ensure that your personal information is adequately protected whilst outside of the eea.show less  role : siteminder admin
-
-location : remote
-
-type : contract
-
-relevant exp 7+ years in siteminder technology
-
-candidate has an engineering background with siteminder experience
-
-should have worked on ca siteminder version 12.52 and above (12.8)
-
-access gateway experience is must
-oidc and federation knowledge is must
-guide the business through sso/saml intakes
-troubleshoot failing connections and siteminder issues
-knows how to install and upgrade siteminder releases
-should be familiar with the server level and can address security findings
-siteminder policy creation and setup
-should have good understanding of itil process
-
-job type: contract
-
-pay: $60.00 - $63.00 per hour
-
-schedule:
-
-8 hour shift
-
-experience:
-
-siteminder: 4 years (preferred)
-identity & access management: 5 years (preferred)
-information security: 6 years (preferred)
-
-work location: remote
-
-speak with the employer
-+91 +1-248-306-8442
-
-show less identity and access management systems administrator (0520u), berkeley it - 41278 about berkeley
-
-at the university of california, berkeley, we are committed to creating a community that fosters equity of experience and opportunity, and ensures that students, faculty, and staff of all backgrounds feel safe, welcome and included."
-246,"our culture of openness, freedom and belonging make it a special place for students, faculty and staff."
-247,"the university of california, berkeley, is one of the world's leading institutions of higher education, distinguished by its combination of internationally recognized academic and research excellence; the transformative opportunity it provides to a large and diverse student body; its public mission and commitment to equity and social justice; and its roots in the california experience, animated by such values as innovation, questioning the status quo, and respect for the environment and nature."
-248,"since its founding in 1868, berkeley has fueled a perpetual renaissance, generating unparalleled intellectual, economic and social value in california, the united states and the world."
-249,"we are looking for equity-minded applicants who represent the full diversity of california and who demonstrate a sensitivity to and understanding of the diverse academic, socioeconomic, cultural, disability, gender identity, sexual orientation, and ethnic backgrounds present in our community."
-250,"when you join the team at berkeley, you can expect to be part of an inclusive, innovative and equity-focused community that approaches higher education as a matter of social justice that requires broad collaboration among faculty, staff, students and community partners."
-251,"in deciding whether to apply for a position at berkeley, you are strongly encouraged to consider whether your values align with our guiding values and principles , our principles of community , and our strategic plan ."
-252,"departmental overview
-
-berkeley it believes in and fosters a workplace environment where people can bring their diverse skills, perspectives and experiences toward achieving our goals through a process of critical inquiry, discovery, innovation, while simultaneously committing to making positive contributions towards the betterment of our world."
-253,"in addition, members of the berkeley it community have created and endorse the following values for our organization to augment and amplify the campus principles:
-
-we champion diversity."
-254,we act with integrity.
-255,we deliver.
-256,we innovate.
-257,"diversity, inclusion, and belonging are more than just suggestions for us."
-258,"they are the guiding principles underlying how we come together, develop leaders at all levels of the organization, and create an environment that unites us."
-259,"we affirm the dignity of all individuals, call upon our leaders to address critical issues with integrity and intention, respect our differences as well as our commonalities, and strive to uphold a just community free from discrimination and hate."
-260,the information security office (iso) in berkeley it coordinates the risk management process for uc berkeley's information systems and directs campus-wide efforts to adequately secure institutional data.
-261,"iso is led by the chief information security officer and consists of seven areas: information security policy, information security operations, information security development, identity and access management,
-
-information security assessments, outreach and engagement, and service management."
-262,this position is part of the identity and access management team (calnet) and reports to the iam manager.
-263,"the incumbent researches, conceptualizes, plans and implements complete and integrated identity management technical solutions for the uc berkeley campus."
-264,regularly works on highly complex issues where analysis of situations or data requires an in-depth evaluation of variable factors.
-265,"exercises judgment in selecting methods, techniques and evaluation criteria for obtaining results."
-266,"gives technical presentations to associated technical teams including the calnet technical team and steering committee, the campus it architecture committee, the campus information security and privacy committee, and the uc trust working group."
-267,"application review date
-
-the first review date for this job is: september 2, 2022."
-268,"responsibilities
-
-**this is a remote-friendly position, eligible for 100% remote capability."
-269,"**
-
-calnet is seeking an experienced, organized and collaborative technologist to design, develop, implement and support a broad suite of identity and access management applications and services."
-270,the successful candidate will split time between analyzing complex data issues and implementing technical solutions and.
-271,they will be equally comfortable working with people and technology.
-272,"as a key member of this team, you will be responsible for helping to deliver a complex service portfolio."
-273,"you will tackle log analysis in elk, schema analysis in ldap and data analysis in postgresql."
-274,you will interact with deeply technical and non-technical members of the team.
-275,you will design and develop solutions to increase automation and the reliability of calnet service delivery.
-276,"your goal will be to make your mark on this core campus infrastructure by being creative, reliable and skilled."
-277,"required qualifications
-expert-level knowledge of system and applications design and implementation."
-278,solid understanding of and experience managing ldap directory services and integration.
-279,"substantial experience with *nix systems, particularly red hat enterprise linux."
-280,"familiarity with web servers (especially nginx and/or apache/tomcat), load balancers, firewalls, dns."
-281,"familiarity with technologies/frameworks/concepts critical to implementing middleware solutions, including messaging technologies, a variety of db platforms (especially oracle), and soa/rest/web services/etc."
-282,"ability to write complex code in one or more of the following: ruby, java, javascript, python, and groovy."
-283,expert knowledge of postgresql.
-284,experience developing and maintaining secure web applications.
-285,experience running tomcat or similar application servers.
-286,experience performing log analysis with elastic stack.
-287,advanced level judgment and leadership to solve the most complex technical problems.
-288,ability to establish and maintain effective working relationships at all levels with staff internal and external to bit as well as with vendors and clients.
-289,must be able to communicate technical information in a clear and concise manner across the organization and at varying levels.
-290,ability to produce clearly written technical documentation.
-291,"has knowledge necessary to design, set-up, operate, and correct malfunctions involving application of technology systems."
-292,"demonstrated commitment to the advancement of diversity, equity, inclusion, belonging, and justice."
-293,"education
-bachelor's degree in related area and/or equivalent experience/training."
-294,"preferred qualifications
-requires knowledge of other areas of it."
-295,expert knowledge of identity and access management practices and technologies.
-296,experience with forgerock directory services.
-297,"experience with the internet2 trusted access platform, specifically grouper and shibboleth."
-298,"experience with aws, azure and/or google cloud."
-299,"experience automating systems build and provisioning using tools such as ansible, terraform, and cloudformation."
-300,experience deploying containerized systems in a production environment.
-301,"salary & benefits
-this is a full-time (40 hours/week), career position, and eligible for full uc benefits."
-302,"this is an exempt, monthly paid position."
-303,"the annual salary is commensurate with experience within the range of $101,300.00 - $146,800.00."
-304,"for information on the comprehensive benefits package offered by the university visit: https://ucnet.universityofcalifornia.edu/compensation-and-benefits/index.html
-show less summary:
-
-we are looking for an identity and access management (iam) administrator to leverage and expand our company’s implementation of okta's identity lifecycle, workflow automation, and application integration platform."
-305,"this team is responsible for designing, configuring, deploying, and supporting comprehensive single-sign-on, mfa, user management, workflow, and mobile integrations to all appropriate cloud services."
-306,"the team is responsible for designing and building top-notch workflow integrations between business solutions, as well as ensuring the tools it employs to support the business are fully utilized, integrated, and automated wherever possible."
-307,"in this role, you will analyze processes both it and business document, design, and deploy solutions to automate, integrate, and/or streamline said processes while maintaining necessary compliance and auditing standards, which may vary by business unit."
-308,you may also review multiple business processes to offer insight regarding which would benefit the most from the architecture team’s focus and effort.
-309,"about our company:
-
-wilks brothers is a multifaceted, family-based partnership headquartered in cisco, texas with employees working in offices in we invest in relationships and recognize the value in people, communities, and businesses."
-310,"our customers are not a number; they are a name, a family member, a friend."
-311,in the good times and in difficult times we treat them all equally – exactly how we want to be treated.
-312,we believe that business is not just about profit – it is personal too.
-313,"at wilks brothers, we respect the people that make our business grow: our employees and our customers."
-314,"our goal is to develop mutually beneficial partnerships utilizing our core values of: faith, integrity, team, growth and loyalty."
-315,"website: www.wilksbrothers.com
-
-benefits:
-
-competitive base pay
-medical
-dental
-vision
-401(k) savings plan
-company paid life insurance and ad&d
-company paid ltd
-employee paid additional life insurance and ad&d
-additional employee paid coverage includes critical illness, accident insurance, short term disability and whole life insurance plans."
-316,"paid holidays
-paid time off (pto)
-employee assistance program
-education assistance
-
-essential responsibilities:
-
-collaborate with various teams to support and optimize onboarding and offboarding workflow and automation."
-317,"analyze, execute, and develop plans to integrate applications into our okta platform."
-318,plan and execute workflows to eliminate manual processes from the environment.
-319,provide support to it team helpdesk and sys admins.
-320,"collaborate with business units to evaluate risks and improvements in okta security and ensure demonstrated compliance with various standards, including sox."
-321,create and maintain technical knowledge base documents.
-322,create & manage technical system procedure documentation & ensure it is updated and current.
-323,stay current with trends and best practices in the iam world and propose timely enhancements or replacements of products.
-324,assist with change management and communications with various internal teams as needed.
-325,represent identity and access management within the enterprise architecture team to ensure iam technology policies and standards are considered in design and recommendations.
-326,"ensure design and solutions follow various information security, compliance, legal, and/or regulatory requirements as applicable."
-327,"recommend design and implementation best practices; guide technical teams to understand non-functional requirements for availability, scalability, robustness, and security."
-328,provide high-level estimates for various tasks and projects and assist with project planning.
-329,continuously review the existing implementation and propose ways to optimize the setup.
-330,"contribute to the identification, evaluation, selection, and development of innovative solutions."
-331,"requirements:
-
-experience with okta sso, mfa, universal directory, and lifecycle management."
-332,"nice to have:
-
-api design experience, including web api integration."
-333,experience enhancing a system of scale.
-334,experience developing reusable software components that other developers and business users will leverage.
-335,experience integrations with hris such as workday/ultipro.
-336,"mental and physical requirements:
-
-able to read, speak and write in english."
-337,sitting up to 6 to 7 hours per day.
-338,mobility ability to reach equipment and perform some diagnosis and limited repair in limited space.
-339,"communication - phone communication, communication with personnel and vendors."
-340,"hearing - able to understand personnel, vendors, and supervisors."
-341,"seeing - able to see the computer screen and to endure the “eye strain”
-climbing - able to go up and downstairs."
-342,position will require a minimum of 40 hours per week unless otherwise directed by supervisor.
-343,"wilks brothers is an equal opportunity employer #li-br1
-
-show less announcement
-details
-
-open date
-11/18/2022
-
-
-requisition number
-prn33055b
-
-
-job title
-systems administrator
-
-
-working title
-systems administrator i
-
-
-job grade
-f
-
-
-flsa code
-computer employee
-
-
-patient sensitive job code?"
-344,"no
-
-
-standard hours per week
-40.00
-
-
-full time or part time?"
-345,"full time
-
-
-shift
-day
-
-
-work schedule summary
-as arranged
-
-
-vp area
-u of u health - academics
-
-
-department
-00209 - univ medical billing - oper
-
-
-location
-other
-
-
-city
-salt lake city, ut
-
-
-type of recruitment
-external posting
-
-
-pay rate range
-55000-66000
-
-
-close date
-
-
-open until filled
-yes
-
-
-job summary
-university medical billing (umb) is a dynamic billing office that services the university’s professional departments."
-346,"all team members are eligible for the university’s comprehensive benefit package that includes medical insurance, reduced tuition, a generous retirement contribution, and more."
-347,umb offers a hybrid work environment and career growth opportunities in the health care information field.
-348,"job summary
-the systems administrator i is primarily responsible for computer and system support for a team of 180."
-349,"the position will partner with the systems administrator ii or senior to install new operating systems, software releases and system upgrades; and evaluate and install software patches and resolve related problems."
-350,"will collaborate to determine department computing requirements, systems improvements, and implementation."
-351,"currently, this position is a hybrid position with approximately 50% onsite and 50% remote work."
-352,"responsibilities
-applicants must demonstrate the potential ability to perform the essential functions of the job as outlined in the position description."
-353,"essential functions
-1."
-354,"provide end-usersupport, resolving or directing technical issues and providing technical assistance for all operating systems and applications."
-355,2.
-356,"using the servicenow system, respond to incident requests for department it assistance and complete by the agreed upon turnaround time."
-357,3.
-358,"setup, configure, and maintain laptop and/or desktop machines per role specifications."
-359,4.
-360,create and maintain user accounts for all applications and systems used in the department.
-361,5.
-362,"diagnose issues with hardware and software systems; report findings and collaborate to find
-solutions."
-363,6.
-364,create and maintain user guides and tip-sheets for end-users.
-365,maintain related information log.
-366,7.
-367,assist with monitoring and verifying compliance of network and hardware security.
-368,8.
-369,participate in the planning and execution of product deployment and/or integration.
-370,9.
-371,"test, validate and installing operating system and application security/performance."
-372,10.
-373,"perform regular audits on hardware, software, licenses, and users."
-374,11.
-375,complete all it tasks as assigned on task management platform.
-376,12.
-377,audit and evaluate systems for efficiency and improvements.
-378,diagnose issues with hardware and software systems.
-379,report on findings and be involved in creating action towards a solution.
-380,13.
-381,create and maintain information logs and documentation on how to properly use systems and resources.
-382,"disclaimer
-this job description has been designed to indicate the general nature and level of work performed by employees within this classification."
-383,"it is not designed to contain or be interpreted as a comprehensive inventory of all duties, responsibilities and qualifications required of employees assigned to the job."
-384,"work environment and level of frequency typically required
-nearly
-continuously: office environment."
-385,"physical requirements and level of frequency that may be required
-nearly continuously: sitting, hearing, listening, talking."
-386,"often: repetitive hand motion (such as typing), walking."
-387,"seldom: bending, reaching overhead."
-388,"minimum qualifications
-
-requires a bachelor’s degree in a related area or equivalency with at least 2 years of experience in the field or in a related area."
-389,applicants must demonstrate the potential ability to perform the essential functions of the job as outlined in the position description.
-390,"preferences
-working knowledge of windows server
-working knowledge of managing groups and users within active directory
-ability to write scripts using programming language (vb, js, python, c#)
-working knowledge of powershell
-professional it certification (a+, ccna, mcsa, server+, etc.)"
-391,"basic sql knowledge
-ability to build strong customer relationships and deliver customer-centric solutions
-ability to anticipate and adopt innovations in business – experience building/implementing digital and technology applications."
-392,proven ability to develop and deliver multi-mode communications that convey a clear understanding of the unique needs of different audiences.
-393,"readily acts in the face of challenges; organizes efforts and follows through on efforts effectively
-
-
-type
-benefited staff
-
-
-special instructions summary
-
-
-additional information
-
-the university of utah values candidates who have experience working in settings with students from diverse backgrounds and possess a strong commitment to improving access to higher education for historically underrepresented students."
-394,"individuals from historically underrepresented groups, such as minorities, women, qualified persons with disabilities and protected veterans are encouraged to apply."
-395,"veterans’ preference is extended to qualified applicants, upon request and consistent with university policy and utah state law."
-396,"upon request, reasonable accommodations in the application process will be provided to individuals with disabilities."
-397,"the university of utah is an affirmative action/equal opportunity employer and does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status."
-398,"the university does not discriminate on the basis of sex in the education program or activity that it operates, as required by title ix and 34cfrpart 106."
-399,the requirement not to discriminate in education programs or activities extends to admission and employment.
-400,"inquiries about the application of title ix and its regulations may be referred to the title ix coordinator, to the department of education, office for civil rights, or both."
-401,"to request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the director/title ix coordinator in the office of equal opportunity and affirmative action:
-
-
-director/ title ix coordinator
-office of equal opportunity and affirmative action (oeo/aa)
-135 park building
-salt lake city, ut 84112
-801-581-8365
-oeo@utah.edu
-
-online reports may be submitted atoeo.utah.edu
-
-to inquire about this posting, email:employment@utah.eduor call 801-581-2300."
-402,the university is a participating employer with utah retirement systems (“urs”).
-403,"eligible new hires with priorursservice, may elect to enroll inursif they make the election before they become eligible for retirement (usually the first day of work)."
-404,contact human resources at (801) 581-7447 for information.
-405,individuals who previously retired and are receiving monthly retirement benefits fromursare subject to urs’ post-retirement rules and restrictions.
-406,please contact utah retirement systems at (801) 366-7770 or (800) 695-4877 or university human resource management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-407,this position may require the successful completion of a criminal background check and/or drug screen.
-408,"show less 
-reportjob#: 1312572
-
-job description:
-apex systems is seeking a user and device administrator."
-409,"for immediate consideration, please email your resume to adison at arunderwood@apexsystems.com or alex at awakefield@apexsystems.com
-
-position summary:
-the user and device administrator works with the service desk, windows engineers, system architects and security teams to support users, computers, personal devices, and related technologies in an enterprise environment."
-410,this position requires a highly technical person that has a deep understanding of user and device management in a microsoft centric ecosystem.
-411,"the position requires operational experience, and the ability to isolate, analyze, and resolve technical issues."
-412,"essential duties and responsibilities:
-work with the security team and partners to ensure all devices in the infrastructure are patched within stated slas."
-413,"remediate non-compliant devices in a timely manner
-support the security team with any incident response events as necessary
-assist the service desk and clinical applications teams in deploying and updating applications through group policies, endpoint central, intune and related technologies
-consolidate group policies and endpoint central configurations to reduce complexity and provide enhanced performance
-under the guidance of the enterprise architect, implement standards for roles based user access workstation naming conventions, and organizational unit structure
-automate repetitive tasks such as user provisioning, m365 licensing, and rights assignment with powershell or similar tools
-administer user authentication and application access with onelogin
-develop and maintain documentation including sops, run books, configuration standards, and new user documentation
-assist with new user onboarding
-provide regular status reports on tasks accomplished, current issues, and progress toward goals."
-414,"leverage the use of servicenow workflow ticketing system
-communicate to end users, technical teams, and management in a clear and concise manner
-work closely with other members of information technology department to assist with project implementations and other tasks as requested
-
-minimum qualifications:
-education/licensing/certification:
-as in computer science preferred or equivalent work experience
-microsoft certified systems associate, microsoft certified desktop associate, windows operating system fundamentals, or related information technology certifications preferred
-
-experience:
-3+ years of progressive experience in designing, implementing, and supporting users and endpoint devices in a windows active directory environment
-previous experience working at an organization focused on m&a efforts a plus
-
-knowledge and skills:
-effective oral, written, and interpersonal communication skills
-exceptional customer service skills
-
-non-essential duties and responsibilities-
-
-perform other duties as assigned
-
-eeo employer
-
-apex systems is an equal opportunity employer."
-415,"we do not discriminate or allow discrimination on the basis of race, color, religion, creed, sex (including pregnancy, childbirth, breastfeeding, or related medical conditions), age, sexual orientation, gender identity, national origin, ancestry, citizenship, genetic information, registered domestic partner status, marital status, disability, status as a crime victim, protected veteran status, political affiliation, union membership, or any other characteristic protected by law."
-416,apex will consider qualified applicants with criminal histories in a manner consistent with the requirements of applicable law.
-417,"if you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation in using our website for a search or application, please contact our employee services department at employeeservices@apexsystems.com or 844-463-6178."
-418,"employee type:
-contract
-
-location:
-raleigh, nc, us
-
-job type:
-engineering and technicians
-
-date posted:
-november 22, 2022
-show less 
-reportposition: senior database engineer
-location: remote - az candidates only
-term: permanent hire
-salary: $130k doe
-
-position summary:
-
-the senior database administrator/engineer also works closely with the infrastructure and applications team to design and consult on new and existing systems to optimize performance and reliability."
-419,"principle responsibilities:
-manages installation, patching and upgrades on all enterprise database systems."
-420,manages user provisioning and security on all enterprise database systems.
-421,"maintains the integrity of data within the production environment, including the execution of proper backup and restoration policies and procedures."
-422,provides guidance and input on the selection and implementation of all database administration tools.
-423,administers database cleanup and optimization activities.
-424,"assists with database design, particularly regarding design maintainability and scalability."
-425,prepares detailed technical specifications.
-426,"provides assistance in database programming, troubleshooting and management of problems affecting it and enterprise database applications, as well as developing the area for future expansion."
-427,provides escalated support and resolution of open database issues from it customer support.
-428,manages and reviews code for deployment and promotion from development environments into qa and production systems.
-429,monitors performance metrics and makes enhancements or suggestions on design and infrastructure as necessary.
-430,plans and projects system capacity requirements for budgeting and licensing purposes.
-431,"provides guidance, mentors staff and developers, and acts as technical escalation point for the team."
-432,"provides database best practices and standards, performance testing and r&d."
-433,develops strong vendor relationships to resolve problems and coordinates the delivery of it products and services.
-434,provides on-call support on a rotating schedule.
-435,performs other job-related duties as assigned or apparent.
-436,"qualifications:
-performance tuning, query execution plans, stored procedures, t-sql, pl/sql, data warehousing, and dbms internals."
-437,sql server 2012 and higher on virtualized platforms.
-438,database architectural design and performance assessments.
-439,"experience writing database server code
-possess expert knowledge of the entire software development lifecycle (waterfall and agile)
-knowledge of big data is a plus
-knowledge of mdm is a plus
-capable of prioritizing and managing assignments, tasks, and significant projects to completion with minimal supervision."
-440,ability to create and maintain documentation of development standards in use at republic services.
-441,"ability to write reports, business correspondence, and procedures manuals
-ability to interact with it personnel on all levels to resolve issues and provide solutions in a timely manner
-capable of prioritizing and managing assignments, tasks, and significant projects to completion with minimal supervision."
-442,ability to create and maintain documentation of development standards in use at republic services.
-443,"ability to write reports, business correspondence, and procedures manuals
-ability to interact with it personnel on all levels to resolve issues and provide solutions in a timely manner
-minimum qualifications:
-bachelor’s degree or higher in computer sciences, information technology, engineering or related degree."
-444,"(required)
-minimum 5 years applicable experience in two or more relational database systems such as sql server (2012 or higher), oracle (12c or higher), and mysql."
-445,"(required)
-minimum 2 years applicable experience in nosql database systems such as dynamodb, marklogic, mongo db, hadoop."
-446,"(required)
-minimum 2 years applicable experience in cloud environments such as aws, google, microsoft azure, oracle cloud."
-447,"(required)
-
-
-
-
-
-
-
-equal employment opportunity
-
-matrix is committed to providing a work environment that values diversity, equity, inclusion and respect."
-448,"we do not discriminate based upon race, religious creed, color, national origin, ancestry, physical or mental disability, medical condition, genetic information, marital status (including registered domestic partnership status), sex (including pregnancy, childbirth, lactation and related medical conditions), gender (including gender identity and expression), age (40 and over), sexual orientation, military and veteran status and/or any other characteristic protected by federal, state or local law."
-449,matrix is committed to providing access and reasonable accommodations for qualified individuals with disabilities.
-450,supporting medical or religious documentation will be required where applicable.
-451,"if you are a qualified individual with a disability, you may request a reasonable accommodation under the american disability act (ada) by emailing matrix_hr@matrixres.com."
-452,"to ensure a quick response to your request, please use the words “accommodation request” as the subject line of your email."
-453,"for hourly w2 contract roles matrix offers a highly competitive benefit package including medical, dental, vision, life, disability, hsa, and 401(k) with pre and post-tax options."
-454,please see matrixres.com/benefits for more information.
-455,"for direct hire placement with our clients, benefits will be offered in accordance with that particular client’s offerings."
-456,"this may include pto, medical, dental, vision, 401k and other pre and post-tax options."
-457,"show less 
-reportm&s consulting was conceived in 2002 with the vision of creating highly effective teams of elite consultants to deliver strategic process and technology solutions to enterprise organizations across the us."
-458,"our commitment to delivery in complex environments and long-term customer success has merged process and technology into innovative solutions, established deep pockets of expertise, and enabled innovative transformation for evolving businesses."
-459,we have intentionally cultivated steady growth focused on being approachable and helpful to our dearly valued clients and closely cared-for employees.
-460,"m&s people simply “care hard”, and this reflects in our work products, our interactions, and our culture."
-461,"job description:
-
-m&s consulting is looking for systems administrators with all levels of experience to support a federal contract."
-462,secret or top secret clearance is required.
-463,"we are interested in someone who possesses and applies exceptional comprehensive knowledge across key tasks, multiple complex work assignments and works well with others."
-464,"job requirements:
-
-responsible for the upkeep, configuration, and reliable operation of computer systems."
-465,"system administrator will ensure the uptime, performance, resources, and security of the computers they manage meet the needs of the users."
-466,"the systems administrator could be focused in one or more of the following areas:
-a database administrator (dba) maintains a database system, and is responsible for the integrity of the data and the efficiency and performance of the system."
-467,"a network administrator maintains network infrastructure such as switches and routers, and diagnoses problems with these or with the behavior of network-attached computers."
-468,"a security administrator is a specialist in computer and network security, including the administration of security devices such as firewalls, as well as consulting on general security measures."
-469,a web administrator maintains web server services that allow for internal or external access to web sites.
-470,"tasks include managing multiple sites, administering security, and configuring necessary components and software."
-471,responsibilities may also include software change management.
-472,"a system programmer creates, modifies, and test the code, forms, and script that allow computer applications to run."
-473,"they may also develop and write computer programs to store, locate, and retrieve specific documents, data, and information."
-474,"a computer operator performs routine maintenance and upkeep, such as changing backup tapes or replacing failed drives."
-475,"secret or top secret clearance
-
-remote work
-
-most work can be performed remotely; however, staff may be required to support face-to-face meetings with the business line or end users."
-476,"there is potential for face-to-face safe ceremonies on occasion
-m&s consulting proactively fulfills its role as an equal opportunity employer."
-477,"we do not discriminate against any employee or applicant for employment because of race, color, sex, religion, age, sexual orientation, gender identity and expression, national origin, marital status, physical or mental disability, status as a protected veteran, or any other characteristic protected by law."
-478,"ysun3e4bxo
-
-show less 
-report"
+0,announcement
+1,details
+2,open
+3,date
+4,11/18/2022
+5,requisition
+6,number
+7,prn33055b
+8,title
+9,systems
+10,administrator
+11,working
+12,title
+13,systems
+14,administrator
+15,grade
+16,f
+17,flsa
+18,code
+19,computer
+20,patient
+21,sensitive
+22,code
+23,standard
+24,hours
+25,week
+26,40.00
+27,full
+28,part
+29,full
+30,schedule
+31,summary
+32,arranged
+33,vp
+34,area
+35,u
+36,u
+37,academics
+38,department
+39,00209
+40,univ
+41,billing
+42,oper
+43,city
+44,salt
+45,lake
+46,city
+47,ut
+48,recruitment
+49,external
+50,posting
+51,rate
+52,55000-66000
+53,close
+54,date
+55,open
+56,filled
+57,yes
+58,summary
+59,university
+60,billing
+61,umb
+62,dynamic
+63,billing
+64,office
+65,university
+66,professional
+67,departments
+68,eligible
+69,university
+70,comprehensive
+71,benefit
+72,includes
+73,reduced
+74,tuition
+75,generous
+76,retirement
+77,contribution
+78,umb
+79,offers
+80,hybrid
+81,environment
+82,career
+83,growth
+84,opportunities
+85,care
+86,information
+87,field
+88,summary
+89,systems
+90,administrator
+91,primarily
+92,computer
+93,system
+94,support
+95,180
+96,position
+97,partner
+98,systems
+99,administrator
+100,ii
+101,senior
+102,install
+103,operating
+104,systems
+105,software
+106,releases
+107,system
+108,upgrades
+109,evaluate
+110,install
+111,software
+112,patches
+113,resolve
+114,related
+115,problems
+116,collaborate
+117,determine
+118,department
+119,computing
+120,systems
+121,improvements
+122,implementation
+123,currently
+124,position
+125,hybrid
+126,position
+127,approximately
+128,50
+129,onsite
+130,50
+131,must
+132,demonstrate
+133,potential
+134,perform
+135,outlined
+136,position
+137,1
+138,provide
+139,end-usersupport
+140,resolving
+141,directing
+142,technical
+143,issues
+144,providing
+145,technical
+146,operating
+147,systems
+148,applications
+149,2
+150,using
+151,servicenow
+152,system
+153,respond
+154,incident
+155,requests
+156,department
+157,complete
+158,agreed
+159,upon
+160,turnaround
+161,3
+162,setup
+163,configure
+164,maintain
+165,laptop
+166,and/or
+167,desktop
+168,machines
+169,role
+170,specifications
+171,4
+172,create
+173,maintain
+174,user
+175,accounts
+176,applications
+177,systems
+178,used
+179,department
+180,5
+181,diagnose
+182,issues
+183,hardware
+184,software
+185,systems
+186,report
+187,findings
+188,collaborate
+189,find
+190,solutions
+191,6
+192,create
+193,maintain
+194,user
+195,guides
+196,tip-sheets
+197,end-users
+198,maintain
+199,related
+200,information
+201,log
+202,7
+203,assist
+204,monitoring
+205,verifying
+206,compliance
+207,network
+208,hardware
+209,security
+210,8
+211,participate
+212,planning
+213,execution
+214,product
+215,deployment
+216,and/or
+217,integration
+218,9
+219,test
+220,validate
+221,installing
+222,operating
+223,system
+224,application
+225,security/performance
+226,10
+227,perform
+228,regular
+229,audits
+230,hardware
+231,software
+232,licenses
+233,users
+234,11
+235,complete
+236,tasks
+237,assigned
+238,task
+239,management
+240,platform
+241,12
+242,audit
+243,evaluate
+244,systems
+245,efficiency
+246,improvements
+247,diagnose
+248,issues
+249,hardware
+250,software
+251,systems
+252,report
+253,findings
+254,involved
+255,creating
+256,towards
+257,solution
+258,13
+259,create
+260,maintain
+261,information
+262,logs
+263,documentation
+264,properly
+265,use
+266,systems
+267,resources
+268,disclaimer
+269,designed
+270,indicate
+271,general
+272,nature
+273,level
+274,performed
+275,employees
+276,within
+277,classification
+278,designed
+279,contain
+280,interpreted
+281,comprehensive
+282,inventory
+283,employees
+284,assigned
+285,environment
+286,level
+287,frequency
+288,typically
+289,nearly
+290,continuously
+291,office
+292,environment
+293,level
+294,frequency
+295,may
+296,nearly
+297,continuously
+298,sitting
+299,hearing
+300,listening
+301,talking
+302,often
+303,repetitive
+304,hand
+305,motion
+306,typing
+307,walking
+308,seldom
+309,bending
+310,reaching
+311,overhead
+312,requires
+313,bachelor
+314,degree
+315,related
+316,area
+317,equivalency
+318,least
+319,2
+320,years
+321,field
+322,related
+323,area
+324,must
+325,demonstrate
+326,potential
+327,perform
+328,outlined
+329,position
+330,preferences
+331,working
+332,knowledge
+333,windows
+334,server
+335,working
+336,knowledge
+337,managing
+338,groups
+339,users
+340,within
+341,active
+342,directory
+343,write
+344,scripts
+345,using
+346,programming
+347,language
+348,vb
+349,js
+350,python
+351,c
+352,working
+353,knowledge
+354,powershell
+355,professional
+356,certification
+357,a+
+358,ccna
+359,mcsa
+360,server+
+361,etc
+362,basic
+363,sql
+364,knowledge
+365,build
+366,strong
+367,customer
+368,relationships
+369,deliver
+370,customer-centric
+371,solutions
+372,anticipate
+373,adopt
+374,innovations
+375,–
+376,building/implementing
+377,digital
+378,technology
+379,applications
+380,proven
+381,develop
+382,deliver
+383,multi-mode
+384,communications
+385,convey
+386,clear
+387,understanding
+388,unique
+389,different
+390,audiences
+391,readily
+392,acts
+393,face
+394,challenges
+395,organizes
+396,efforts
+397,follows
+398,efforts
+399,effectively
+400,benefited
+401,staff
+402,special
+403,instructions
+404,summary
+405,additional
+406,information
+407,university
+408,utah
+409,values
+410,candidates
+411,working
+412,settings
+413,students
+414,diverse
+415,backgrounds
+416,possess
+417,strong
+418,commitment
+419,improving
+420,access
+421,higher
+422,education
+423,historically
+424,underrepresented
+425,students
+426,historically
+427,underrepresented
+428,groups
+429,minorities
+430,women
+431,qualified
+432,persons
+433,veterans
+434,encouraged
+435,veterans
+436,preference
+437,extended
+438,qualified
+439,upon
+440,request
+441,consistent
+442,university
+443,policy
+444,utah
+445,upon
+446,request
+447,accommodations
+448,application
+449,process
+450,provided
+451,university
+452,utah
+453,action/equal
+454,discriminate
+455,based
+456,upon
+457,ethnicity
+458,identity
+459,expression
+460,pregnancy
+461,pregnancy-related
+462,conditions
+463,genetic
+464,information
+465,university
+466,discriminate
+467,basis
+468,education
+469,program
+470,activity
+471,operates
+472,title
+473,ix
+474,34cfrpart
+475,106
+476,requirement
+477,discriminate
+478,education
+479,programs
+480,activities
+481,extends
+482,admission
+483,inquiries
+484,application
+485,title
+486,ix
+487,regulations
+488,may
+489,referred
+490,title
+491,ix
+492,coordinator
+493,department
+494,education
+495,office
+496,civil
+497,rights
+498,request
+499,someone
+500,know
+501,experienced
+502,discrimination
+503,misconduct
+504,including
+505,harassment
+506,may
+507,contact
+508,director/title
+509,ix
+510,coordinator
+511,office
+512,director/
+513,title
+514,ix
+515,coordinator
+516,office
+517,oeo/aa
+518,135
+519,park
+520,building
+521,salt
+522,lake
+523,city
+524,ut
+525,84112
+526,801-581-8365
+527,oeo
+528,utah.edu
+529,online
+530,reports
+531,may
+532,submitted
+533,atoeo.utah.edu
+534,inquire
+535,posting
+536,email
+537,utah.eduor
+538,call
+539,801-581-2300
+540,university
+541,participating
+542,utah
+543,retirement
+544,systems
+545,“
+546,urs
+547,”
+548,eligible
+549,hires
+550,priorursservice
+551,may
+552,elect
+553,enroll
+554,inursif
+555,make
+556,election
+557,become
+558,eligible
+559,retirement
+560,usually
+561,first
+562,contact
+563,human
+564,resources
+565,801
+566,581-7447
+567,information
+568,previously
+569,retired
+570,receiving
+571,monthly
+572,retirement
+573,fromursare
+574,subject
+575,urs
+576,post-retirement
+577,rules
+578,restrictions
+579,contact
+580,utah
+581,retirement
+582,systems
+583,801
+584,366-7770
+585,800
+586,695-4877
+587,university
+588,human
+589,resource
+590,management
+591,801
+592,581-7447
+593,questions
+594,regarding
+595,post-retirement
+596,rules
+597,position
+598,may
+599,require
+600,successful
+601,completion
+602,criminal
+603,background
+604,check
+605,and/or
+606,drug
+607,screen
+608,reportdeloitte
+609,global
+610,engine
+611,deloitte
+612,network
+613,professionals
+614,reach
+615,disciplines
+616,borders
+617,develop
+618,lead
+619,global
+620,initiatives
+621,deliver
+622,strategic
+623,programs
+624,unite
+625,organization
+626,'ll
+627,identity
+628,access
+629,management
+630,ad
+631,systems
+632,administrator
+633,support
+634,staff
+635,security
+636,related
+637,identity
+638,access
+639,issues
+640,application
+641,user
+642,identity
+643,access
+644,administration
+645,including
+646,maintaining
+647,end
+648,user
+649,security
+650,access
+651,rules
+652,profiles
+653,multiple
+654,systems
+655,platforms
+656,assisting
+657,policies
+658,procedures
+659,including
+660,staff
+661,support
+662,security
+663,related
+664,identity
+665,access
+666,incidents
+667,awareness
+668,working
+669,incidents
+670,service
+671,requests
+672,service
+673,desk
+674,within
+675,sla
+676,analyze
+677,resolve
+678,technology
+679,end
+680,user
+681,incidents
+682,standard
+683,hours
+684,on-call
+685,rotations
+686,monitor
+687,issue
+688,resolutions
+689,collaborates
+690,application
+691,teams
+692,vendors
+693,engineers
+694,necessary
+695,resolve
+696,issues
+697,manage
+698,user
+699,accounts
+700,access
+701,permissions
+702,deloitte
+703,computer
+704,systems
+705,applications
+706,reviewing
+707,user
+708,ids
+709,access
+710,request
+711,forms
+712,determine
+713,accurate
+714,complete
+715,approved
+716,appropriate
+717,contact
+718,requestor
+719,manager
+720,and/or
+721,data
+722,owner
+723,necessary
+724,order
+725,establish
+726,requested
+727,access
+728,notify
+729,user
+730,conduct
+731,periodic
+732,audits
+733,accounts
+734,access
+735,performing
+736,online
+737,research
+738,producing
+739,reports
+740,users
+741,access
+742,particular
+743,systems
+744,resources
+745,provide
+746,updated
+747,user
+748,listings
+749,periodically
+750,review
+751,upon
+752,request
+753,management
+754,data
+755,owners
+756,ensure
+757,timely
+758,removal
+759,modification
+760,access
+761,based
+762,upon
+763,termination
+764,listings
+765,emergency
+766,requests
+767,change
+768,request
+769,forms
+770,develop
+771,procedural
+772,documentation
+773,access
+774,auditing
+775,purposes
+776,maintain
+777,access
+778,request
+779,audit
+780,trail
+781,identify
+782,appropriate
+783,referral
+784,resource
+785,groups
+786,messaging
+787,operations
+788,applications
+789,deloitte
+790,technology
+791,works
+792,forefront
+793,technology
+794,development
+795,processes
+796,support
+797,protect
+798,deloitte
+799,around
+800,world
+801,truly
+802,global
+803,environment
+804,operate
+805,``
+806,''
+807,rather
+808,``
+809,''
+810,help
+811,deloitte
+812,deliver
+813,connect
+814,clients
+815,communities
+816,another
+817,ways
+818,previously
+819,conceived
+820,b.e
+821,b.tech
+822,m.c.a
+823,graduation
+824,degree
+825,seven+
+826,years
+827,relevant
+828,six
+829,years
+830,training
+831,computer
+832,security
+833,auditing
+834,user
+835,accounts
+836,elevated
+837,accounts
+838,access
+839,management
+840,proven
+841,teamwork
+842,qualities
+843,emphasis
+844,customer
+845,service
+846,building
+847,organizational
+848,skills
+849,multitask
+850,pressure
+851,project
+852,deadlines
+853,troubleshoot
+854,user
+855,access
+856,problems
+857,determine
+858,appropriate
+859,corrective
+860,view
+861,incidents
+862,problems
+863,customer
+864,perspective
+865,taking
+866,initiative
+867,represent
+868,customer
+869,working
+870,teams
+871,toward
+872,resolution
+873,proven
+874,performance
+875,monitoring
+876,performance
+877,defined
+878,service
+879,level
+880,agreements
+881,internal
+882,customers
+883,internal
+884,departments
+885,external
+886,vendors
+887,dedicated
+888,increasing
+889,performance
+890,levels
+891,excellent
+892,presentation
+893,communications
+894,skills
+895,oral
+896,written
+897,enterprise
+898,directory
+899,active
+900,directory
+901,familiar
+902,running
+903,powershell
+904,scripts
+905,intermediate
+906,ms
+907,office/outlook
+908,familiar
+909,sap
+910,hana
+911,applications
+912,active
+913,directory
+914,sharepoint
+915,preferred
+916,server
+917,administration
+918,offshore
+919,nice
+920,microsoft
+921,identity
+922,manager
+923,mim
+924,administration
+925,sailpoint
+926,iiq
+927,culture
+928,deloitte
+929,global
+930,people
+931,valued
+932,respected
+933,opportunities
+934,bring
+935,unique
+936,perspectives
+937,talents
+938,passions
+939,challenges
+940,global
+941,workspace
+942,creates
+943,room
+944,individuality
+945,collaboration
+946,inclusive
+947,supportive
+948,connected
+949,culture
+950,focus
+951,development
+952,flexibility
+953,well-being
+954,culture
+955,makes
+956,deloitte
+957,global
+958,rewarding
+959,places
+960,transform
+961,career
+962,professional
+963,development
+964,entry-level
+965,employees
+966,senior
+967,leaders
+968,believe
+969,investing
+970,helping
+971,identify
+972,hone
+973,unique
+974,strengths
+975,step
+976,career
+977,offer
+978,opportunities
+979,build
+980,skills
+981,take
+982,leadership
+983,opportunities
+984,connect
+985,grow
+986,mentorship
+987,on-the-job
+988,learning
+989,experiences
+990,formal
+991,development
+992,programs
+993,professionals
+994,variety
+995,opportunities
+996,continue
+997,grow
+998,throughout
+999,career
+1000,deloitte
+1001,value
+1002,people
+1003,offer
+1004,employees
+1005,broad
+1006,total
+1007,rewards
+1008,program
+1009,reflects
+1010,continued
+1011,commitment
+1012,lead
+1013,front
+1014,everything
+1015,do-that
+1016,take
+1017,pride
+1018,offering
+1019,comprehensive
+1020,variety
+1021,programs
+1022,resources
+1023,support
+1024,well-being
+1025,li-hybrid
+1026,hybrid
+1027,may
+1028,option
+1029,application
+1030,gcyber
+1031,hiring
+1032,identity
+1033,access
+1034,management
+1035,idam
+1036,administrator
+1037,support
+1038,deployment
+1039,configuration
+1040,management
+1041,cloud
+1042,identity
+1043,access
+1044,management
+1045,idam
+1046,solution
+1047,ultimately
+1048,serve
+1049,identity
+1050,idaas
+1051,platform
+1052,supporting
+1053,defense
+1054,intelligence
+1055,community
+1056,information
+1057,sharing
+1058,idam
+1059,administrator
+1060,monitor
+1061,perform
+1062,operations
+1063,maintenance
+1064,identity
+1065,management
+1066,systems
+1067,e.g.
+1068,active
+1069,directory
+1070,active
+1071,directory
+1072,federation
+1073,adfs
+1074,microsoft
+1075,identity
+1076,manager
+1077,mim
+1078,aws
+1079,identity
+1080,manager
+1081,configure
+1082,maintain
+1083,aws
+1084,federated
+1085,sign
+1086,adfs
+1087,implement
+1088,maintain
+1089,attribute-based
+1090,access
+1091,controls
+1092,support
+1093,alignment
+1094,zero-trust
+1095,principles
+1096,troubleshoot
+1097,incidents
+1098,assist
+1099,transitioning
+1100,idaas
+1101,capabilities
+1102,engineering
+1103,production
+1104,support
+1105,backup
+1106,recovery
+1107,operations
+1108,full
+1109,onsite
+1110,customer-site
+1111,arlington
+1112,va
+1113,bachelor
+1114,degree
+1115,6+
+1116,years
+1117,additional
+1118,years
+1119,relevant
+1120,accepted
+1121,lieu
+1122,degree
+1123,hands-on
+1124,active
+1125,directory
+1126,federation
+1127,protocols
+1128,saml
+1129,oauth
+1130,openid
+1131,understanding
+1132,zero
+1133,trust
+1134,principles
+1135,cloud
+1136,identity
+1137,management
+1138,e.g.
+1139,aws
+1140,identity
+1141,manager
+1142,preferred
+1143,must
+1144,active
+1145,top
+1146,secret
+1147,ts
+1148,clearance
+1149,able
+1150,obtain
+1151,ts/sci
+1152,clearance
+1153,ci
+1154,polygraph
+1155,following
+1156,certifications
+1157,must
+1158,obtained
+1159,within
+1160,120
+1161,days
+1162,hire
+1163,amazon
+1164,system
+1165,operations
+1166,certification
+1167,amazon
+1168,developer
+1169,certification
+1170,dod
+1171,8570
+1172,iat
+1173,ii
+1174,certification
+1175,higher
+1176,e.g.
+1177,security+
+1178,ccna
+1179,security
+1180,cysa+
+1181,gicsp
+1182,gsec
+1183,cnd
+1184,sscp
+1185,https
+1186,//public.cyber.mil/cw/cwmp/dod-approved-8570-baseline-certifications/
+1187,gcyber
+1188,means
+1189,worry
+1190,whether
+1191,application
+1192,process
+1193,fair
+1194,consider
+1195,ancestry
+1196,ethnicity
+1197,identity
+1198,expression
+1199,future
+1200,notifications
+1201,follow
+1202,gcyber
+1203,linkedin.https
+1204,//linkedin.com/company/gcyber
+1205,uyj3svo4ez
+1206,full-time
+1207,identity
+1208,access
+1209,management
+1210,systems
+1211,administrator
+1212,0520u
+1213,berkeley
+1214,41278
+1215,berkeley
+1216,university
+1217,california
+1218,berkeley
+1219,committed
+1220,creating
+1221,community
+1222,fosters
+1223,equity
+1224,ensures
+1225,students
+1226,faculty
+1227,staff
+1228,backgrounds
+1229,feel
+1230,safe
+1231,welcome
+1232,included
+1233,culture
+1234,openness
+1235,freedom
+1236,belonging
+1237,make
+1238,special
+1239,place
+1240,students
+1241,faculty
+1242,staff
+1243,university
+1244,california
+1245,berkeley
+1246,world
+1247,leading
+1248,institutions
+1249,higher
+1250,education
+1251,distinguished
+1252,combination
+1253,internationally
+1254,recognized
+1255,academic
+1256,research
+1257,excellence
+1258,transformative
+1259,provides
+1260,large
+1261,diverse
+1262,student
+1263,body
+1264,public
+1265,mission
+1266,commitment
+1267,equity
+1268,social
+1269,justice
+1270,roots
+1271,california
+1272,animated
+1273,values
+1274,innovation
+1275,questioning
+1276,quo
+1277,respect
+1278,environment
+1279,nature
+1280,since
+1281,founding
+1282,1868
+1283,berkeley
+1284,fueled
+1285,perpetual
+1286,renaissance
+1287,generating
+1288,unparalleled
+1289,intellectual
+1290,economic
+1291,social
+1292,value
+1293,california
+1294,world
+1295,looking
+1296,equity-minded
+1297,represent
+1298,full
+1299,diversity
+1300,california
+1301,demonstrate
+1302,sensitivity
+1303,understanding
+1304,diverse
+1305,academic
+1306,socioeconomic
+1307,cultural
+1308,identity
+1309,ethnic
+1310,backgrounds
+1311,present
+1312,community
+1313,berkeley
+1314,expect
+1315,part
+1316,inclusive
+1317,innovative
+1318,equity-focused
+1319,community
+1320,approaches
+1321,higher
+1322,education
+1323,matter
+1324,social
+1325,justice
+1326,requires
+1327,broad
+1328,collaboration
+1329,among
+1330,faculty
+1331,staff
+1332,students
+1333,community
+1334,partners
+1335,deciding
+1336,whether
+1337,position
+1338,berkeley
+1339,strongly
+1340,encouraged
+1341,consider
+1342,whether
+1343,values
+1344,align
+1345,guiding
+1346,values
+1347,principles
+1348,principles
+1349,community
+1350,strategic
+1351,plan
+1352,departmental
+1353,overview
+1354,berkeley
+1355,believes
+1356,fosters
+1357,workplace
+1358,environment
+1359,people
+1360,bring
+1361,diverse
+1362,skills
+1363,perspectives
+1364,experiences
+1365,toward
+1366,achieving
+1367,goals
+1368,process
+1369,critical
+1370,inquiry
+1371,discovery
+1372,innovation
+1373,simultaneously
+1374,committing
+1375,making
+1376,positive
+1377,contributions
+1378,towards
+1379,betterment
+1380,world
+1381,addition
+1382,berkeley
+1383,community
+1384,created
+1385,endorse
+1386,following
+1387,values
+1388,organization
+1389,augment
+1390,amplify
+1391,campus
+1392,principles
+1393,champion
+1394,diversity
+1395,act
+1396,integrity
+1397,deliver
+1398,innovate
+1399,diversity
+1400,inclusion
+1401,belonging
+1402,suggestions
+1403,us
+1404,guiding
+1405,principles
+1406,underlying
+1407,come
+1408,together
+1409,develop
+1410,leaders
+1411,levels
+1412,organization
+1413,create
+1414,environment
+1415,unites
+1416,us
+1417,affirm
+1418,dignity
+1419,call
+1420,upon
+1421,leaders
+1422,address
+1423,critical
+1424,issues
+1425,integrity
+1426,intention
+1427,respect
+1428,differences
+1429,well
+1430,commonalities
+1431,strive
+1432,uphold
+1433,community
+1434,free
+1435,discrimination
+1436,hate
+1437,information
+1438,security
+1439,office
+1440,iso
+1441,berkeley
+1442,coordinates
+1443,risk
+1444,management
+1445,process
+1446,uc
+1447,berkeley
+1448,information
+1449,systems
+1450,directs
+1451,campus-wide
+1452,efforts
+1453,adequately
+1454,secure
+1455,institutional
+1456,data
+1457,iso
+1458,led
+1459,chief
+1460,information
+1461,security
+1462,officer
+1463,consists
+1464,seven
+1465,areas
+1466,information
+1467,security
+1468,policy
+1469,information
+1470,security
+1471,operations
+1472,information
+1473,security
+1474,development
+1475,identity
+1476,access
+1477,management
+1478,information
+1479,security
+1480,assessments
+1481,outreach
+1482,engagement
+1483,service
+1484,management
+1485,position
+1486,part
+1487,identity
+1488,access
+1489,management
+1490,calnet
+1491,reports
+1492,manager
+1493,incumbent
+1494,researches
+1495,conceptualizes
+1496,plans
+1497,implements
+1498,complete
+1499,integrated
+1500,identity
+1501,management
+1502,technical
+1503,solutions
+1504,uc
+1505,berkeley
+1506,campus
+1507,regularly
+1508,works
+1509,highly
+1510,complex
+1511,issues
+1512,analysis
+1513,situations
+1514,data
+1515,requires
+1516,in-depth
+1517,evaluation
+1518,variable
+1519,factors
+1520,exercises
+1521,judgment
+1522,selecting
+1523,methods
+1524,techniques
+1525,evaluation
+1526,criteria
+1527,obtaining
+1528,results
+1529,gives
+1530,technical
+1531,presentations
+1532,associated
+1533,technical
+1534,teams
+1535,including
+1536,calnet
+1537,technical
+1538,steering
+1539,committee
+1540,campus
+1541,architecture
+1542,committee
+1543,campus
+1544,information
+1545,security
+1546,privacy
+1547,committee
+1548,uc
+1549,trust
+1550,working
+1551,group
+1552,application
+1553,review
+1554,date
+1555,first
+1556,review
+1557,date
+1558,september
+1559,2
+1560,2022
+1561,remote-friendly
+1562,position
+1563,eligible
+1564,100
+1565,capability
+1566,calnet
+1567,seeking
+1568,experienced
+1569,organized
+1570,collaborative
+1571,technologist
+1572,design
+1573,develop
+1574,implement
+1575,support
+1576,broad
+1577,suite
+1578,identity
+1579,access
+1580,management
+1581,applications
+1582,successful
+1583,split
+1584,analyzing
+1585,complex
+1586,data
+1587,issues
+1588,implementing
+1589,technical
+1590,solutions
+1591,equally
+1592,comfortable
+1593,working
+1594,people
+1595,technology
+1596,key
+1597,member
+1598,helping
+1599,deliver
+1600,complex
+1601,service
+1602,portfolio
+1603,tackle
+1604,log
+1605,analysis
+1606,elk
+1607,schema
+1608,analysis
+1609,ldap
+1610,data
+1611,analysis
+1612,postgresql
+1613,interact
+1614,deeply
+1615,technical
+1616,non-technical
+1617,design
+1618,develop
+1619,solutions
+1620,increase
+1621,automation
+1622,reliability
+1623,calnet
+1624,service
+1625,delivery
+1626,goal
+1627,make
+1628,mark
+1629,core
+1630,campus
+1631,infrastructure
+1632,creative
+1633,reliable
+1634,skilled
+1635,expert-level
+1636,knowledge
+1637,system
+1638,applications
+1639,design
+1640,implementation
+1641,solid
+1642,understanding
+1643,managing
+1644,ldap
+1645,directory
+1646,integration
+1647,substantial
+1648,nix
+1649,systems
+1650,particularly
+1651,red
+1652,hat
+1653,enterprise
+1654,linux
+1655,familiarity
+1656,web
+1657,servers
+1658,especially
+1659,nginx
+1660,and/or
+1661,apache/tomcat
+1662,load
+1663,balancers
+1664,firewalls
+1665,dns
+1666,familiarity
+1667,technologies/frameworks/concepts
+1668,critical
+1669,implementing
+1670,middleware
+1671,solutions
+1672,including
+1673,messaging
+1674,technologies
+1675,variety
+1676,db
+1677,platforms
+1678,especially
+1679,oracle
+1680,soa/rest/web
+1681,services/etc
+1682,write
+1683,complex
+1684,code
+1685,following
+1686,ruby
+1687,java
+1688,javascript
+1689,python
+1690,groovy
+1691,expert
+1692,knowledge
+1693,postgresql
+1694,developing
+1695,maintaining
+1696,secure
+1697,web
+1698,applications
+1699,running
+1700,tomcat
+1701,similar
+1702,application
+1703,servers
+1704,performing
+1705,log
+1706,analysis
+1707,elastic
+1708,stack
+1709,advanced
+1710,level
+1711,judgment
+1712,leadership
+1713,solve
+1714,complex
+1715,technical
+1716,problems
+1717,establish
+1718,maintain
+1719,effective
+1720,working
+1721,relationships
+1722,levels
+1723,staff
+1724,internal
+1725,external
+1726,bit
+1727,well
+1728,vendors
+1729,clients
+1730,must
+1731,able
+1732,communicate
+1733,technical
+1734,information
+1735,clear
+1736,concise
+1737,manner
+1738,organization
+1739,varying
+1740,levels
+1741,produce
+1742,clearly
+1743,written
+1744,technical
+1745,documentation
+1746,knowledge
+1747,necessary
+1748,design
+1749,set-up
+1750,operate
+1751,correct
+1752,malfunctions
+1753,involving
+1754,application
+1755,technology
+1756,systems
+1757,demonstrated
+1758,commitment
+1759,advancement
+1760,diversity
+1761,equity
+1762,inclusion
+1763,belonging
+1764,justice
+1765,education
+1766,bachelor
+1767,degree
+1768,related
+1769,area
+1770,and/or
+1771,equivalent
+1772,experience/training
+1773,preferred
+1774,requires
+1775,knowledge
+1776,areas
+1777,expert
+1778,knowledge
+1779,identity
+1780,access
+1781,management
+1782,technologies
+1783,forgerock
+1784,directory
+1785,internet2
+1786,trusted
+1787,access
+1788,platform
+1789,specifically
+1790,grouper
+1791,shibboleth
+1792,aws
+1793,azure
+1794,and/or
+1795,google
+1796,cloud
+1797,automating
+1798,systems
+1799,build
+1800,provisioning
+1801,using
+1802,tools
+1803,ansible
+1804,terraform
+1805,cloudformation
+1806,deploying
+1807,containerized
+1808,systems
+1809,production
+1810,environment
+1811,full-time
+1812,40
+1813,hours/week
+1814,career
+1815,position
+1816,eligible
+1817,full
+1818,uc
+1819,exempt
+1820,monthly
+1821,position
+1822,annual
+1823,commensurate
+1824,within
+1825,"101,300.00"
+1826,"146,800.00"
+1827,information
+1828,comprehensive
+1829,offered
+1830,university
+1831,https
+1832,//ucnet.universityofcalifornia.edu/compensation-and-benefits/index.html
+1833,introduction
+1834,searching
+1835,play
+1836,key
+1837,role
+1838,driving
+1839,dramatic
+1840,growth
+1841,highly
+1842,successful
+1843,software
+1844,company
+1845,poppulo
+1846,market
+1847,comprehensive
+1848,omnichannel
+1849,communications
+1850,platform
+1851,unmatched
+1852,personalization
+1853,measurement
+1854,capabilities
+1855,class-leading
+1856,space
+1857,management
+1858,solution
+1859,want
+1860,part
+1861,serve
+1862,"6,000+"
+1863,customers
+1864,connecting
+1865,serving
+1866,content
+1867,35
+1868,million
+1869,employees
+1870,80
+1871,countries
+1872,confidence
+1873,sometimes
+1874,hold
+1875,us
+1876,back
+1877,applying
+1878,truly
+1879,thing
+1880,'perfect
+1881,place
+1882,everyone
+1883,grow
+1884,however
+1885,identify
+1886,whatever
+1887,background
+1888,bring
+1889,meet
+1890,role
+1891,broadest
+1892,sense
+1893,role
+1894,would
+1895,make
+1896,excited
+1897,come
+1898,key
+1899,administering
+1900,maintaining
+1901,user
+1902,service
+1903,account
+1904,access
+1905,information
+1906,systems
+1907,assets
+1908,performs
+1909,routine
+1910,audits
+1911,user
+1912,access
+1913,variety
+1914,systems
+1915,meets
+1916,data
+1917,system
+1918,owners
+1919,review
+1920,user
+1921,access
+1922,provide
+1923,guidance
+1924,document
+1925,outcome
+1926,documents
+1927,service
+1928,account
+1929,usage
+1930,ownership
+1931,justification
+1932,related
+1933,details
+1934,support
+1935,incident
+1936,response
+1937,activities
+1938,ensuring
+1939,security
+1940,incidents
+1941,properly
+1942,contained
+1943,eradicated
+1944,recovered
+1945,maintains
+1946,documentation
+1947,system
+1948,access
+1949,policies
+1950,procedures
+1951,manages
+1952,inventory
+1953,systems
+1954,requiring
+1955,user
+1956,access
+1957,user
+1958,permissions
+1959,privileged
+1960,access
+1961,ensure
+1962,proper
+1963,security
+1964,logs
+1965,generated
+1966,sent
+1967,organization
+1968,security
+1969,information
+1970,event
+1971,management
+1972,siem
+1973,system
+1974,manages
+1975,security
+1976,alerts
+1977,relating
+1978,user
+1979,application
+1980,service
+1981,account
+1982,access
+1983,experience/skills
+1984,1-3
+1985,years
+1986,information
+1987,technology
+1988,understanding
+1989,authentication
+1990,authorization
+1991,principles
+1992,working
+1993,knowledge
+1994,saml
+1995,oauth
+1996,sso
+1997,basic
+1998,auth
+1999,understands
+2000,different
+2001,methods
+2002,mfa
+2003,risks
+2004,associated
+2005,methods
+2006,quickly
+2007,learn
+2008,understand
+2009,variety
+2010,user
+2011,interfaces
+2012,familiarity
+2013,identity
+2014,providers
+2015,directory
+2016,success
+2017,high
+2018,degree
+2019,personal
+2020,integrity
+2021,trustworthiness
+2022,excellent
+2023,organization
+2024,skills
+2025,attention
+2026,detail
+2027,knowledge
+2028,industry
+2029,around
+2030,identity
+2031,access
+2032,control
+2033,excellent
+2034,written
+2035,interpersonal
+2036,skills
+2037,build
+2038,maintain
+2039,successful
+2040,relationships
+2041,levels
+2042,executives
+2043,internal
+2044,stakeholders
+2045,partners
+2046,knowledge
+2047,microsoft
+2048,office
+2049,applications
+2050,word
+2051,excel
+2052,powerpoint
+2053,outlook
+2054,relevant
+2055,applications
+2056,systems
+2057,willingness
+2058,learn
+2059,splunk
+2060,spl
+2061,query
+2062,language
+2063,makes
+2064,recommendations
+2065,security
+2066,leaders
+2067,system
+2068,owners
+2069,improve
+2070,access
+2071,control
+2072,security
+2073,"60,000"
+2074,"75,000"
+2075,plus
+2076,variable
+2077,us
+2078,``
+2079,great
+2080,places
+2081,''
+2082,listed
+2083,company
+2084,–
+2085,really
+2086,value
+2087,people
+2088,meaningfully
+2089,impact
+2090,play
+2091,key
+2092,role
+2093,success
+2094,pto
+2095,10
+2096,days
+2097,competitive
+2098,potential
+2099,career
+2100,advancement
+2101,fast
+2102,paced
+2103,growing
+2104,organization
+2105,competitive
+2106,monthly
+2107,contributions
+2108,account
+2109,401k
+2110,match
+2111,fun
+2112,working
+2113,environment
+2114,maternity
+2115,adoption
+2116,bereavement
+2117,funding
+2118,towards
+2119,adoption
+2120,costs
+2121,life
+2122,values-driven
+2123,organization
+2124,encourages
+2125,employees
+2126,bring
+2127,authentic
+2128,selves
+2129,empowers
+2130,everyone
+2131,make
+2132,tangible
+2133,impact
+2134,products
+2135,clients
+2136,culture
+2137,offer
+2138,dynamic
+2139,environment
+2140,driven
+2141,fun
+2142,thrive
+2143,challenge
+2144,responsibility
+2145,contribute
+2146,culture
+2147,company
+2148,move
+2149,named
+2150,great
+2151,place
+2152,2015
+2153,2016
+2154,2017
+2155,2018
+2156,2019
+2157,2020
+2158,2021
+2159,fastest
+2160,growing
+2161,technology
+2162,companies
+2163,ireland
+2164,additional
+2165,offices
+2166,us
+2167,uk
+2168,contribute
+2169,culture
+2170,company
+2171,move
+2172,live
+2173,poppulo
+2174,company
+2175,values
+2176,key
+2177,everything
+2178,``
+2179,bring
+2180,self
+2181,''
+2182,``
+2183,see
+2184,''
+2185,``
+2186,''
+2187,``
+2188,solve
+2189,''
+2190,``
+2191,together
+2192,'re
+2193,better
+2194,''
+2195,poppulo
+2196,disclose
+2197,personal
+2198,information
+2199,private
+2200,equity
+2201,sponsor
+2202,vista
+2203,equity
+2204,partners
+2205,affiliates
+2206,including
+2207,vista
+2208,consulting
+2209,group
+2210,collectively
+2211,``
+2212,vista
+2213,''
+2214,administration
+2215,research
+2216,database
+2217,development
+2218,workforce
+2219,analytics
+2220,operation
+2221,purposes
+2222,line
+2223,terms
+2224,privacy
+2225,policy
+2226,vista
+2227,processes
+2228,shares
+2229,personal
+2230,information
+2231,affiliates
+2232,including
+2233,vista
+2234,portfolio
+2235,companies
+2236,basis
+2237,legitimate
+2238,interests
+2239,managing
+2240,administering
+2241,improving
+2242,overseeing
+2243,recruitment
+2244,process
+2245,relationship
+2246,four
+2247,winds
+2248,interactive
+2249,llc
+2250,consented
+2251,us
+2252,also
+2253,share
+2254,personal
+2255,information
+2256,vista
+2257,portfolio
+2258,companies
+2259,purpose
+2260,considered
+2261,opportunities
+2262,pooling
+2263,system
+2264,inside
+2265,outside
+2266,eea
+2267,find
+2268,full
+2269,list
+2270,vista
+2271,portfolio
+2272,companies
+2273,https
+2274,//www.vistaequitypartners.com/companies/
+2275,vista
+2276,privacy
+2277,policy
+2278,https
+2279,//www.vistaequitypartners.com/privacy/
+2280,requires
+2281,us
+2282,transfer
+2283,personal
+2284,information
+2285,outside
+2286,eea
+2287,refer
+2288,fwi
+2289,privacy
+2290,policy
+2291,details
+2292,cross-border
+2293,transfers
+2294,connection
+2295,recruitment
+2296,process
+2297,personal
+2298,data
+2299,may
+2300,transferred
+2301,outside
+2302,eea
+2303,icims
+2304,and/or
+2305,greenhouse
+2306,hirebridge
+2307,llc
+2308,criteria
+2309,corp.
+2310,provide
+2311,applicant
+2312,tracking
+2313,evaluation
+2314,hirebridge
+2315,llc
+2316,criteria
+2317,corp.
+2318,agreed
+2319,comply
+2320,eu
+2321,standard
+2322,contractual
+2323,clauses
+2324,ensure
+2325,personal
+2326,information
+2327,adequately
+2328,whilst
+2329,outside
+2330,eea.show
+2331,administrator/helpdesk
+2332,administrator
+2333,least
+2334,two
+2335,years
+2336,read
+2337,based
+2338,heart
+2339,silicon
+2340,valley
+2341,unified
+2342,communications
+2343,company
+2344,expanding
+2345,rapidly
+2346,art
+2347,software
+2348,taken
+2349,'re
+2350,need
+2351,talented
+2352,individual
+2353,add
+2354,top
+2355,reasons
+2356,us
+2357,company
+2358,growing
+2359,unbelievable
+2360,pace
+2361,room
+2362,upward
+2363,growth
+2364,career
+2365,2022
+2366,product
+2367,year
+2368,2022
+2369,pioneer
+2370,award
+2371,helpdesk
+2372,administrator
+2373,maintain
+2374,repair
+2375,upgrade
+2376,operating
+2377,system
+2378,including
+2379,hardware
+2380,software
+2381,responding
+2382,queries
+2383,via
+2384,chat
+2385,email
+2386,phone
+2387,monitor
+2388,performance
+2389,existing
+2390,computer
+2391,systems
+2392,infrastructures
+2393,set
+2394,manage
+2395,accounts
+2396,workstations
+2397,troubleshoot
+2398,issues
+2399,outages
+2400,ensure
+2401,security
+2402,access
+2403,controls
+2404,backups
+2405,firewalls
+2406,need
+2407,position
+2408,must
+2409,least
+2410,2
+2411,years
+2412,helpdesk
+2413,related
+2414,role
+2415,technology
+2416,company
+2417,least
+2418,2
+2419,years
+2420,windows
+2421,administration
+2422,laptops
+2423,desktops
+2424,monitoring
+2425,user
+2426,management
+2427,linux
+2428,cli
+2429,basic
+2430,1
+2431,year
+2432,least
+2433,1
+2434,year
+2435,vmware
+2436,nice
+2437,junos
+2438,panos
+2439,cloud
+2440,aws
+2441,gcp
+2442,azure
+2443,60k-
+2444,80k
+2445,401k
+2446,match
+2447,unlimited
+2448,pto
+2449,hybrid
+2450,workplace
+2451,site
+2452,2
+2453,days
+2454,week
+2455,administrator
+2456,today
+2457,must
+2458,authorized
+2459,u.s.
+2460,cybercoders
+2461,inc
+2462,proud
+2463,qualified
+2464,right
+2465,–
+2466,compliance
+2467,persons
+2468,hired
+2469,verify
+2470,identity
+2471,eligibility
+2472,complete
+2473,eligibility
+2474,verification
+2475,document
+2476,form
+2477,upon
+2478,hire
+2479,reportjob
+2480,summary
+2481,identity
+2482,access
+2483,management
+2484,administrator
+2485,shall
+2486,performing
+2487,systems
+2488,management
+2489,activities
+2490,current
+2491,future
+2492,computer
+2493,systems
+2494,related
+2495,hardware
+2496,software
+2497,networking
+2498,components
+2499,evaluating
+2500,current
+2501,projected
+2502,demands
+2503,state‑of‑the‑art
+2504,computer
+2505,software
+2506,recommending
+2507,modifications
+2508,current
+2509,architectures
+2510,procedures
+2511,configurations
+2512,maximize
+2513,utilization
+2514,existing
+2515,resources
+2516,design
+2517,implement
+2518,customizations
+2519,computer
+2520,environment
+2521,meet
+2522,children
+2523,hospital
+2524,user
+2525,community
+2526,recommending
+2527,software
+2528,acquisitions
+2529,meet
+2530,projected
+2531,demands
+2532,perform
+2533,product
+2534,evaluations
+2535,trials
+2536,part
+2537,continuing
+2538,effort
+2539,improve
+2540,productivity
+2541,existing
+2542,software
+2543,interacting
+2544,application
+2545,network
+2546,end
+2547,user
+2548,support
+2549,staff
+2550,vendors
+2551,end
+2552,user
+2553,community
+2554,design
+2555,evaluate
+2556,computer
+2557,system
+2558,environments
+2559,associated
+2560,applications
+2561,identifying
+2562,end
+2563,user/application
+2564,relate
+2565,computer
+2566,systems
+2567,environments
+2568,order
+2569,develop
+2570,execute
+2571,plan
+2572,within
+2573,project
+2574,frames
+2575,responding
+2576,computer
+2577,system
+2578,problems
+2579,resolving
+2580,timely
+2581,basis
+2582,adhering
+2583,problem
+2584,resolution
+2585,escalation
+2586,procedures
+2587,maintaining
+2588,computer
+2589,system
+2590,security
+2591,keep
+2592,current
+2593,published
+2594,security
+2595,warnings
+2596,monitor
+2597,daily
+2598,security
+2599,audit
+2600,trail
+2601,multiple
+2602,systems
+2603,inform
+2604,management
+2605,security
+2606,breaches
+2607,holes
+2608,computer
+2609,system
+2610,security
+2611,propose
+2612,solutions
+2613,providing
+2614,consulting
+2615,technical
+2616,support
+2617,peers
+2618,operating
+2619,staff
+2620,application
+2621,staff
+2622,research
+2623,computing
+2624,end
+2625,user
+2626,assisting
+2627,maintaining
+2628,performance
+2629,statistics
+2630,provides
+2631,performance
+2632,tuning
+2633,identifying
+2634,problem
+2635,areas
+2636,develop
+2637,disaster
+2638,recovery
+2639,backup
+2640,strategies
+2641,order
+2642,qualify
+2643,must
+2644,knowledge
+2645,theories
+2646,principles
+2647,concepts
+2648,typically
+2649,acquired
+2650,completion
+2651,bachelor
+2652,degree
+2653,computer
+2654,science
+2655,related
+2656,field
+2657,five
+2658,years
+2659,analytical
+2660,skills
+2661,collect
+2662,information
+2663,diverse
+2664,sources
+2665,professional
+2666,principles
+2667,performing
+2668,various
+2669,analyses
+2670,summarize
+2671,information
+2672,data
+2673,order
+2674,solve
+2675,problems
+2676,design
+2677,relatively
+2678,complex
+2679,systems
+2680,programs
+2681,cross
+2682,department/divisional
+2683,lines
+2684,skills
+2685,order
+2686,effectively
+2687,deal
+2688,conflicting
+2689,views
+2690,issues
+2691,mediate
+2692,fair
+2693,solutions
+2694,well‑developed
+2695,writing
+2696,skillsjob
+2697,title/position
+2698,identity
+2699,access
+2700,management
+2701,security
+2702,administrator
+2703,administrator
+2704,100
+2705,note
+2706,would
+2707,cyberark
+2708,sailpoint
+2709,technologies
+2710,100
+2711,anywhere
+2712,us
+2713,summary
+2714,security
+2715,operations
+2716,engineer
+2717,consultant
+2718,contributes
+2719,technical
+2720,tasks
+2721,supporting
+2722,identity
+2723,governance
+2724,administration
+2725,iga
+2726,including
+2727,development
+2728,administration
+2729,iga
+2730,systems
+2731,technical
+2732,solutions
+2733,provide
+2734,maintain
+2735,cybersecurity
+2736,organization
+2737,technology
+2738,architecture
+2739,products
+2740,key
+2741,completes
+2742,tasks
+2743,support
+2744,identity
+2745,lifecycle
+2746,management
+2747,including
+2748,user
+2749,account
+2750,access
+2751,provisioning
+2752,deprovisioning
+2753,joiners
+2754,leavers
+2755,movers
+2756,develops
+2757,executes
+2758,administers
+2759,identity
+2760,access
+2761,management
+2762,solutions
+2763,platforms
+2764,tasks
+2765,processes
+2766,assists
+2767,more-senior
+2768,information
+2769,security
+2770,roles
+2771,reviewing
+2772,evaluating
+2773,technology
+2774,security
+2775,systems
+2776,performs
+2777,development
+2778,integration
+2779,programming
+2780,tasks
+2781,support
+2782,cybersecurity
+2783,applications
+2784,systems
+2785,solutions
+2786,according
+2787,defined
+2788,specifications
+2789,supports
+2790,research
+2791,contributes
+2792,compiling
+2793,data
+2794,contributes
+2795,testing
+2796,plans
+2797,identify
+2798,initially
+2799,assess
+2800,potential
+2801,vulnerabilities
+2802,areas
+2803,exploitation
+2804,technology
+2805,applications
+2806,systems
+2807,solutions
+2808,learns
+2809,becomes
+2810,familiar
+2811,strategies
+2812,effective
+2813,successful
+2814,interaction
+2815,technical
+2816,peers
+2817,supervisory
+2818,supervisory
+2819,preferred
+2820,education
+2821,bachelor
+2822,degree
+2823,equivalent
+2824,2
+2825,years
+2826,related
+2827,knowledge
+2828,sailpoint
+2829,cyberark
+2830,similar
+2831,platforms
+2832,certificates
+2833,licenses
+2834,registrations
+2835,imi
+2836,certified
+2837,access
+2838,management
+2839,specialist
+2840,cams
+2841,comptia
+2842,security+
+2843,cybersecurity
+2844,certifications
+2845,functional
+2846,skills
+2847,basic
+2848,decision-making
+2849,skills
+2850,escalate
+2851,appropriate
+2852,establish
+2853,manage
+2854,relationships
+2855,internal
+2856,external
+2857,partners
+2858,basic
+2859,project
+2860,management
+2861,skills
+2862,including
+2863,prioritize
+2864,organize
+2865,effectively
+2866,environment
+2867,perform
+2868,well
+2869,face-paced
+2870,environment
+2871,intermediate
+2872,knowledge
+2873,microsoft
+2874,suite
+2875,word
+2876,excel
+2877,powerpoint
+2878,think
+2879,conceptually
+2880,analytically
+2881,creatively
+2882,good
+2883,oral
+2884,written
+2885,skills
+2886,analyze
+2887,data
+2888,problem
+2889,resolution
+2890,li-pj1
+2891,li-remote
+2892,general
+2893,holdings
+2894,corp.
+2895,eo
+2896,–
+2897,veterans/disabled
+2898,categories
+2899,qualified
+2900,regardless
+2901,candidates
+2902,must
+2903,possess
+2904,authorization
+2905,practice
+2906,sponsor
+2907,visas
+2908,event
+2909,need
+2910,completing
+2911,online
+2912,application
+2913,contact
+2914,ngic
+2915,main
+2916,office
+2917,phone
+2918,336
+2919,435-2000
+2920,general
+2921,holdings
+2922,general
+2923,holdings
+2924,corp.
+2925,member
+2926,allstate
+2927,family
+2928,companies
+2929,headquartered
+2930,city
+2931,general
+2932,traces
+2933,roots
+2934,1939
+2935,strength
+2936,rating
+2937,a–
+2938,excellent
+2939,a.m.
+2940,provides
+2941,personal
+2942,commercial
+2943,automobile
+2944,homeowners
+2945,umbrella
+2946,recreational
+2947,vehicle
+2948,motorcycle
+2949,supplemental
+2950,niche
+2951,products
+2952,specialty
+2953,personal
+2954,lines
+2955,holding
+2956,company
+2957,subsidiaries
+2958,provide
+2959,variety
+2960,products
+2961,including
+2962,personal
+2963,commercial
+2964,automobile
+2965,homeowners
+2966,umbrella
+2967,recreational
+2968,vehicle
+2969,supplemental
+2970,lender-placed
+2971,niche
+2972,products
+2973,general
+2974,fast
+2975,paced
+2976,dynamic
+2977,entrepreneurial
+2978,organization
+2979,live
+2980,exemplify
+2981,call
+2982,4es
+2983,general
+2984,energized
+2985,engaged
+2986,empowered
+2987,execute
+2988,order
+2989,provide
+2990,exceptional
+2991,customers
+2992,passionate
+2993,organization
+2994,value
+2995,add
+2996,successful
+2997,general
+2998,embody
+2999,4es
+3000,poised
+3001,outperform
+3002,competition
+3003,general
+3004,us
+3005,extraordinary
+3006,come
+3007,companies
+3008,partners
+3009,direct
+3010,general
+3011,auto
+3012,life
+3013,personal
+3014,express
+3015,century-national
+3016,abc
+3017,agencies
+3018,natgen
+3019,preferred
+3020,natgen
+3021,premier
+3022,seattle
+3023,specialty
+3024,general
+3025,lender
+3026,ars
+3027,rac
+3028,partners
+3029,mountain
+3030,valley
+3031,indemnity
+3032,jersey
+3033,skylands
+3034,adirondack
+3035,exchange
+3036,velapoint
+3037,quotit
+3038,healthcompare
+3039,ahcp
+3040,nhic
+3041,healthcare
+3042,solutions
+3043,north
+3044,star
+3045,marketing
+3046,euro
+3047,accident
+3048,addition
+3049,phenomenal
+3050,career
+3051,general
+3052,offers
+3053,excellent
+3054,including
+3055,training
+3056,wellness
+3057,programs
+3058,life
+3059,short/long
+3060,term
+3061,401k
+3062,w/
+3063,company
+3064,match
+3065,company
+3066,holidays
+3067,generous
+3068,time-off
+3069,policy
+3070,discount
+3071,program
+3072,career
+3073,advancement
+3074,development
+3075,opportunities
+3076,on-site
+3077,healthcare
+3078,clinic
+3079,winston-salem
+3080,cleveland
+3081,offices
+3082,on-site
+3083,fitness
+3084,center
+3085,cleveland
+3086,dallas
+3087,offices
+3088,subsidized
+3089,parking
+3090,cleveland
+3091,office
+3092,general
+3093,holdings
+3094,corp.
+3095,eo
+3096,–
+3097,veterans/disabled
+3098,categories
+3099,qualified
+3100,regardless
+3101,candidates
+3102,must
+3103,possess
+3104,authorization
+3105,practice
+3106,sponsor
+3107,visas
+3108,event
+3109,need
+3110,completing
+3111,online
+3112,application
+3113,contact
+3114,ngic
+3115,main
+3116,office
+3117,phone
+3118,336
+3119,435-2000
+3120,application
+3121,1312572
+3122,apex
+3123,systems
+3124,seeking
+3125,user
+3126,device
+3127,administrator
+3128,immediate
+3129,email
+3130,resume
+3131,adison
+3132,arunderwood
+3133,apexsystems.com
+3134,alex
+3135,awakefield
+3136,apexsystems.com
+3137,position
+3138,summary
+3139,user
+3140,device
+3141,administrator
+3142,works
+3143,service
+3144,desk
+3145,windows
+3146,engineers
+3147,system
+3148,architects
+3149,security
+3150,teams
+3151,support
+3152,users
+3153,computers
+3154,personal
+3155,devices
+3156,related
+3157,technologies
+3158,enterprise
+3159,environment
+3160,position
+3161,requires
+3162,highly
+3163,technical
+3164,person
+3165,deep
+3166,understanding
+3167,user
+3168,device
+3169,management
+3170,microsoft
+3171,centric
+3172,ecosystem
+3173,position
+3174,requires
+3175,operational
+3176,isolate
+3177,analyze
+3178,resolve
+3179,technical
+3180,issues
+3181,security
+3182,partners
+3183,ensure
+3184,devices
+3185,infrastructure
+3186,patched
+3187,within
+3188,stated
+3189,slas
+3190,remediate
+3191,non-compliant
+3192,devices
+3193,timely
+3194,manner
+3195,support
+3196,security
+3197,incident
+3198,response
+3199,events
+3200,necessary
+3201,assist
+3202,service
+3203,desk
+3204,clinical
+3205,applications
+3206,teams
+3207,deploying
+3208,updating
+3209,applications
+3210,group
+3211,policies
+3212,endpoint
+3213,central
+3214,intune
+3215,related
+3216,technologies
+3217,consolidate
+3218,group
+3219,policies
+3220,endpoint
+3221,central
+3222,configurations
+3223,reduce
+3224,complexity
+3225,provide
+3226,enhanced
+3227,performance
+3228,guidance
+3229,enterprise
+3230,architect
+3231,implement
+3232,standards
+3233,roles
+3234,based
+3235,user
+3236,access
+3237,workstation
+3238,naming
+3239,conventions
+3240,organizational
+3241,unit
+3242,structure
+3243,automate
+3244,repetitive
+3245,tasks
+3246,user
+3247,provisioning
+3248,m365
+3249,licensing
+3250,rights
+3251,assignment
+3252,powershell
+3253,similar
+3254,tools
+3255,administer
+3256,user
+3257,authentication
+3258,application
+3259,access
+3260,onelogin
+3261,develop
+3262,maintain
+3263,documentation
+3264,including
+3265,sops
+3266,run
+3267,books
+3268,configuration
+3269,standards
+3270,user
+3271,documentation
+3272,assist
+3273,user
+3274,onboarding
+3275,provide
+3276,regular
+3277,reports
+3278,tasks
+3279,accomplished
+3280,current
+3281,issues
+3282,progress
+3283,toward
+3284,goals
+3285,leverage
+3286,use
+3287,servicenow
+3288,workflow
+3289,ticketing
+3290,system
+3291,communicate
+3292,end
+3293,users
+3294,technical
+3295,teams
+3296,management
+3297,clear
+3298,concise
+3299,manner
+3300,information
+3301,technology
+3302,department
+3303,assist
+3304,project
+3305,implementations
+3306,tasks
+3307,requested
+3308,education/licensing/certification
+3309,computer
+3310,science
+3311,preferred
+3312,equivalent
+3313,microsoft
+3314,certified
+3315,systems
+3316,associate
+3317,microsoft
+3318,certified
+3319,desktop
+3320,associate
+3321,windows
+3322,operating
+3323,system
+3324,fundamentals
+3325,related
+3326,information
+3327,technology
+3328,certifications
+3329,preferred
+3330,3+
+3331,years
+3332,progressive
+3333,designing
+3334,implementing
+3335,supporting
+3336,users
+3337,endpoint
+3338,devices
+3339,windows
+3340,active
+3341,directory
+3342,environment
+3343,previous
+3344,working
+3345,organization
+3346,focused
+3347,efforts
+3348,plus
+3349,knowledge
+3350,skills
+3351,effective
+3352,oral
+3353,written
+3354,interpersonal
+3355,skills
+3356,exceptional
+3357,customer
+3358,service
+3359,skills
+3360,non-essential
+3361,responsibilities-
+3362,perform
+3363,assigned
+3364,eeo
+3365,apex
+3366,systems
+3367,discriminate
+3368,allow
+3369,discrimination
+3370,basis
+3371,creed
+3372,including
+3373,pregnancy
+3374,childbirth
+3375,breastfeeding
+3376,related
+3377,conditions
+3378,identity
+3379,ancestry
+3380,citizenship
+3381,genetic
+3382,information
+3383,registered
+3384,domestic
+3385,partner
+3386,crime
+3387,victim
+3388,political
+3389,affiliation
+3390,union
+3391,membership
+3392,apex
+3393,consider
+3394,qualified
+3395,criminal
+3396,histories
+3397,manner
+3398,consistent
+3399,visited
+3400,website
+3401,search
+3402,information
+3403,opportunities
+3404,position
+3405,require
+3406,using
+3407,website
+3408,search
+3409,application
+3410,contact
+3411,department
+3412,employeeservices
+3413,apexsystems.com
+3414,844-463-6178
+3415,contract
+3416,raleigh
+3417,nc
+3418,us
+3419,engineering
+3420,technicians
+3421,date
+3422,posted
+3423,november
+3424,22
+3425,2022
+3426,reportm
+3427,consulting
+3428,conceived
+3429,2002
+3430,creating
+3431,highly
+3432,effective
+3433,teams
+3434,elite
+3435,consultants
+3436,deliver
+3437,strategic
+3438,process
+3439,technology
+3440,solutions
+3441,enterprise
+3442,organizations
+3443,us
+3444,commitment
+3445,delivery
+3446,complex
+3447,environments
+3448,long-term
+3449,customer
+3450,success
+3451,merged
+3452,process
+3453,technology
+3454,innovative
+3455,solutions
+3456,established
+3457,deep
+3458,pockets
+3459,expertise
+3460,enabled
+3461,innovative
+3462,transformation
+3463,evolving
+3464,businesses
+3465,intentionally
+3466,cultivated
+3467,steady
+3468,growth
+3469,focused
+3470,approachable
+3471,helpful
+3472,dearly
+3473,valued
+3474,clients
+3475,cared-for
+3476,employees
+3477,people
+3478,simply
+3479,“
+3480,care
+3481,hard
+3482,”
+3483,reflects
+3484,products
+3485,interactions
+3486,culture
+3487,consulting
+3488,looking
+3489,systems
+3490,administrators
+3491,levels
+3492,support
+3493,contract
+3494,secret
+3495,top
+3496,secret
+3497,clearance
+3498,interested
+3499,someone
+3500,possesses
+3501,applies
+3502,exceptional
+3503,comprehensive
+3504,knowledge
+3505,key
+3506,tasks
+3507,multiple
+3508,complex
+3509,assignments
+3510,works
+3511,well
+3512,others
+3513,upkeep
+3514,configuration
+3515,reliable
+3516,operation
+3517,computer
+3518,systems
+3519,system
+3520,administrator
+3521,ensure
+3522,uptime
+3523,performance
+3524,resources
+3525,security
+3526,computers
+3527,manage
+3528,meet
+3529,users
+3530,systems
+3531,administrator
+3532,could
+3533,focused
+3534,following
+3535,areas
+3536,database
+3537,administrator
+3538,dba
+3539,maintains
+3540,database
+3541,system
+3542,integrity
+3543,data
+3544,efficiency
+3545,performance
+3546,system
+3547,network
+3548,administrator
+3549,maintains
+3550,network
+3551,infrastructure
+3552,switches
+3553,routers
+3554,diagnoses
+3555,problems
+3556,behavior
+3557,network-attached
+3558,computers
+3559,security
+3560,administrator
+3561,specialist
+3562,computer
+3563,network
+3564,security
+3565,including
+3566,administration
+3567,security
+3568,devices
+3569,firewalls
+3570,well
+3571,consulting
+3572,general
+3573,security
+3574,measures
+3575,web
+3576,administrator
+3577,maintains
+3578,web
+3579,server
+3580,allow
+3581,internal
+3582,external
+3583,access
+3584,web
+3585,sites
+3586,tasks
+3587,include
+3588,managing
+3589,multiple
+3590,sites
+3591,administering
+3592,security
+3593,configuring
+3594,necessary
+3595,components
+3596,software
+3597,may
+3598,also
+3599,include
+3600,software
+3601,change
+3602,management
+3603,system
+3604,programmer
+3605,creates
+3606,modifies
+3607,test
+3608,code
+3609,forms
+3610,script
+3611,allow
+3612,computer
+3613,applications
+3614,run
+3615,may
+3616,also
+3617,develop
+3618,write
+3619,computer
+3620,programs
+3621,store
+3622,locate
+3623,retrieve
+3624,specific
+3625,documents
+3626,data
+3627,information
+3628,computer
+3629,operator
+3630,performs
+3631,routine
+3632,maintenance
+3633,upkeep
+3634,changing
+3635,backup
+3636,tapes
+3637,replacing
+3638,failed
+3639,drives
+3640,secret
+3641,top
+3642,secret
+3643,clearance
+3644,performed
+3645,remotely
+3646,however
+3647,staff
+3648,may
+3649,support
+3650,face-to-face
+3651,meetings
+3652,line
+3653,end
+3654,users
+3655,potential
+3656,face-to-face
+3657,safe
+3658,ceremonies
+3659,occasion
+3660,consulting
+3661,proactively
+3662,fulfills
+3663,role
+3664,discriminate
+3665,applicant
+3666,identity
+3667,expression
+3668,ysun3e4bxo
+3669,reportmetcor/lsi
+3670,need
+3671,lms
+3672,administrator
+3673,support
+3674,delivery
+3675,learning
+3676,materials
+3677,employees
+3678,lms
+3679,administrator
+3680,position
+3681,full-time
+3682,offers
+3683,long-term
+3684,internal
+3685,growth
+3686,within
+3687,established
+3688,organization
+3689,lms
+3690,administrator
+3691,role
+3692,includes
+3693,maintain
+3694,system
+3695,documentation
+3696,include
+3697,user
+3698,manuals
+3699,ato/lms
+3700,configuration
+3701,documents
+3702,system
+3703,reports
+3704,manage
+3705,content
+3706,types
+3707,ensure
+3708,correct
+3709,formats
+3710,uploaded
+3711,provide
+3712,tier
+3713,ii
+3714,support
+3715,various
+3716,user
+3717,roles
+3718,attend
+3719,bi-weekly
+3720,quarterly
+3721,support
+3722,meetings
+3723,lms
+3724,vendor
+3725,coordinate
+3726,updates
+3727,patches
+3728,client
+3729,determine
+3730,functionality
+3731,existing
+3732,courseware
+3733,patches
+3734,updates
+3735,applied
+3736,collaborate
+3737,lms
+3738,vendor
+3739,stakeholders
+3740,minimize
+3741,system
+3742,downtime
+3743,create
+3744,update
+3745,user
+3746,records
+3747,assist
+3748,building
+3749,accurately
+3750,assigning
+3751,role
+3752,supervisor
+3753,instructor
+3754,etc
+3755,accounts
+3756,provide
+3757,virtual
+3758,small
+3759,group
+3760,training
+3761,lms
+3762,users
+3763,bring
+3764,table
+3765,3+
+3766,years
+3767,managing
+3768,lms
+3769,include
+3770,user
+3771,records
+3772,accounts
+3773,etc
+3774,management
+3775,help
+3776,desk
+3777,and/or
+3778,troubleshooting
+3779,sap
+3780,success
+3781,factors
+3782,lms
+3783,preferred
+3784,training
+3785,coaching
+3786,instructing
+3787,others
+3788,virtually
+3789,excellent
+3790,written
+3791,skills
+3792,proficient
+3793,microsoft
+3794,office
+3795,high
+3796,degree
+3797,adaptability
+3798,flexibility
+3799,education
+3800,bachelor
+3801,degree
+3802,related
+3803,field
+3804,company
+3805,metcor/lsi
+3806,verified
+3807,small
+3808,focus
+3809,developing
+3810,delivering
+3811,learning
+3812,solutions
+3813,exceed
+3814,customer
+3815,expectations
+3816,view
+3817,customer
+3818,long-term
+3819,partner
+3820,dedicate
+3821,exceptionally
+3822,high
+3823,standards
+3824,excellence
+3825,program
+3826,culture
+3827,characterized
+3828,small
+3829,company
+3830,feeling
+3831,personal
+3832,ownership
+3833,people
+3834,enjoy
+3835,knowing
+3836,access
+3837,company
+3838,leadership
+3839,make
+3840,things
+3841,happen
+3842,influence
+3843,make
+3844,difference
+3845,understand
+3846,make
+3847,productive
+3848,contribution
+3849,lives
+3850,customers
+3851,positions
+3852,require
+3853,pass
+3854,background
+3855,investigation
+3856,conducted
+3857,government
+3858,agency
+3859,drug
+3860,test
+3861,us
+3862,citizenship
+3863,metcor/lsi
+3864,offers
+3865,competitive
+3866,includes
+3867,medical/dental/vision
+3868,coverage
+3869,company
+3870,sponsored
+3871,life
+3872,vacation/sick/holidays
+3873,401k
+3874,profit
+3875,sharing
+3876,pretax
+3877,commuter
+3878,company
+3879,culture
+3880,metcor/lsi
+3881,fosters
+3882,collaborative
+3883,culture
+3884,people
+3885,encouraged
+3886,grow
+3887,innovate
+3888,included
+3889,effort
+3890,communities
+3891,practice
+3892,monthly
+3893,lunch
+3894,learns
+3895,weekly
+3896,allotted
+3897,professional
+3898,development
+3899,metcor/lsi
+3900,employer/veterans/disabled
+3901,qualified
+3902,identity
+3903,discriminated
+3904,based
+3905,policy
+3906,ots
+3907,seeking
+3908,oracle
+3909,sso
+3910,identity
+3911,access
+3912,administrator
+3913,growing
+3914,role
+3915,implement
+3916,analyze
+3917,resolve
+3918,single
+3919,sign-on
+3920,sso
+3921,identity
+3922,access
+3923,issues
+3924,initiatives
+3925,within
+3926,highly
+3927,visible
+3928,mission-critical
+3929,24x7
+3930,environment
+3931,large
+3932,enterprise-wide
+3933,oracle
+3934,single
+3935,sign-on
+3936,sso
+3937,implementations
+3938,involving
+3939,attributes/role-based
+3940,authorization
+3941,model
+3942,configuration
+3943,oracle
+3944,oam
+3945,environments
+3946,high
+3947,availability
+3948,hands-on
+3949,integrating
+3950,oracle
+3951,middleware
+3952,identity
+3953,access
+3954,management
+3955,oracle
+3956,unified
+3957,directory
+3958,used
+3959,implement
+3960,role-based
+3961,access
+3962,control
+3963,authorization
+3964,model
+3965,support
+3966,oracle
+3967,sso
+3968,integration
+3969,enterprise
+3970,production
+3971,applications
+3972,oracle
+3973,r12.2.x
+3974,obiee
+3975,oracle
+3976,financials
+3977,r12.2.x
+3978,well
+3979,supporting
+3980,dev/test
+3981,ite
+3982,environments
+3983,well
+3984,planning
+3985,design
+3986,development
+3987,enhancement
+3988,build
+3989,migration
+3990,patch
+3991,test
+3992,activities
+3993,support
+3994,enterprise
+3995,build
+3996,instances
+3997,perform
+3998,refreshes
+3999,upgrades/migrations
+4000,oam
+4001,oud
+4002,ohs
+4003,would
+4004,include
+4005,evaluating
+4006,additional
+4007,functionality
+4008,tools
+4009,also
+4010,utilize
+4011,current
+4012,functionality
+4013,tools
+4014,ways
+4015,increase
+4016,oracle
+4017,sso
+4018,enabled
+4019,applications
+4020,enterprise-wide
+4021,assists
+4022,operations
+4023,development
+4024,engineering
+4025,support
+4026,staff/teams
+4027,working
+4028,directly
+4029,internal
+4030,external
+4031,functional
+4032,teams
+4033,also
+4034,provide
+4035,support
+4036,enterprise
+4037,provide
+4038,support
+4039,maintenance
+4040,oracle
+4041,sso
+4042,configuration
+4043,relates
+4044,enterprise
+4045,integrated
+4046,systems
+4047,infrastructure
+4048,ensure
+4049,operational
+4050,viability
+4051,provide
+4052,support
+4053,installation
+4054,configuration
+4055,administration
+4056,troubleshooting
+4057,issues
+4058,related
+4059,weblogic
+4060,webcenter
+4061,platforms
+4062,include
+4063,perform
+4064,patch
+4065,analysis
+4066,middleware
+4067,components
+4068,provides
+4069,guidance
+4070,recommendations
+4071,engineering
+4072,implementation
+4073,supported
+4074,operations
+4075,staff
+4076,supports
+4077,resolution
+4078,defects
+4079,provide
+4080,bug
+4081,fixes
+4082,related
+4083,oracle
+4084,sso
+4085,components
+4086,review
+4087,validate
+4088,update
+4089,approved
+4090,order
+4091,produce
+4092,system
+4093,architecture
+4094,design
+4095,oracle
+4096,sso
+4097,solution
+4098,supporting
+4099,activities
+4100,capacity
+4101,planning
+4102,testing
+4103,problem/issue
+4104,resolution
+4105,activities
+4106,supporting
+4107,planning
+4108,execution
+4109,oracle
+4110,sso
+4111,enterprise-wide
+4112,solution
+4113,support
+4114,enterprise
+4115,basic
+4116,proficient
+4117,implementing
+4118,configuring
+4119,integrating
+4120,administering
+4121,following
+4122,oracle
+4123,access
+4124,management
+4125,oam
+4126,versions
+4127,11g
+4128,11.1.2.x
+4129,12c
+4130,12.2.1.x
+4131,oracle
+4132,unified
+4133,directory
+4134,oud
+4135,versions
+4136,11g
+4137,11.1.2.x
+4138,12c
+4139,12.2.1.x
+4140,oracle
+4141,http
+4142,server
+4143,ohs
+4144,version
+4145,11g
+4146,11.1.2.x
+4147,12c
+4148,12.2.1.x
+4149,upgrading
+4150,oud
+4151,ohs
+4152,11g.x
+4153,12c
+4154,least
+4155,full
+4156,lifecycle
+4157,engagement
+4158,oracle
+4159,sso
+4160,technical
+4161,specialist
+4162,large-scale
+4163,implementation
+4164,and/or
+4165,large-scale
+4166,upgrade
+4167,demonstrated
+4168,installations
+4169,configurations
+4170,administration
+4171,troubleshooting
+4172,sso
+4173,issues
+4174,related
+4175,weblogic
+4176,webcenter
+4177,platforms
+4178,along
+4179,perform
+4180,patch
+4181,analysis
+4182,middleware
+4183,components
+4184,provide
+4185,engineering
+4186,guidance
+4187,recommendations
+4188,implementation
+4189,support
+4190,staff
+4191,demonstrated
+4192,oracle
+4193,sso
+4194,utilizes
+4195,following
+4196,oracle
+4197,components
+4198,oracle
+4199,sso
+4200,oracle
+4201,identity
+4202,management
+4203,idm
+4204,oracle
+4205,identity
+4206,access
+4207,management
+4208,oracle
+4209,access
+4210,manager
+4211,oam
+4212,oracle
+4213,virtual
+4214,directory
+4215,ovd
+4216,oracle
+4217,ohs
+4218,oracle
+4219,http
+4220,server
+4221,oracle
+4222,directory
+4223,manager
+4224,odsm
+4225,oracle
+4226,webgate
+4227,oracle
+4228,internet
+4229,directory
+4230,unified
+4231,directory
+4232,oid/oud
+4233,desired
+4234,skills
+4235,possess
+4236,strong
+4237,analytical
+4238,collaborative
+4239,organizational
+4240,proactive
+4241,problem-solving
+4242,skills
+4243,demonstrates
+4244,independently
+4245,minimal
+4246,supervision
+4247,large
+4248,high
+4249,ops
+4250,tempo
+4251,comptia
+4252,sec+
+4253,iaw
+4254,dod
+4255,8570
+4256,naclc/t3
+4257,investigation
+4258,position
+4259,senior
+4260,database
+4261,engineer
+4262,az
+4263,candidates
+4264,term
+4265,permanent
+4266,hire
+4267,130k
+4268,doe
+4269,position
+4270,summary
+4271,senior
+4272,database
+4273,administrator/engineer
+4274,also
+4275,works
+4276,infrastructure
+4277,applications
+4278,design
+4279,consult
+4280,existing
+4281,systems
+4282,optimize
+4283,performance
+4284,reliability
+4285,principle
+4286,manages
+4287,installation
+4288,patching
+4289,upgrades
+4290,enterprise
+4291,database
+4292,systems
+4293,manages
+4294,user
+4295,provisioning
+4296,security
+4297,enterprise
+4298,database
+4299,systems
+4300,maintains
+4301,integrity
+4302,data
+4303,within
+4304,production
+4305,environment
+4306,including
+4307,execution
+4308,proper
+4309,backup
+4310,restoration
+4311,policies
+4312,procedures
+4313,provides
+4314,guidance
+4315,input
+4316,selection
+4317,implementation
+4318,database
+4319,administration
+4320,tools
+4321,administers
+4322,database
+4323,cleanup
+4324,optimization
+4325,activities
+4326,assists
+4327,database
+4328,design
+4329,particularly
+4330,regarding
+4331,design
+4332,maintainability
+4333,scalability
+4334,prepares
+4335,detailed
+4336,technical
+4337,specifications
+4338,provides
+4339,database
+4340,programming
+4341,troubleshooting
+4342,management
+4343,problems
+4344,affecting
+4345,enterprise
+4346,database
+4347,applications
+4348,well
+4349,developing
+4350,area
+4351,future
+4352,expansion
+4353,provides
+4354,escalated
+4355,support
+4356,resolution
+4357,open
+4358,database
+4359,issues
+4360,customer
+4361,support
+4362,manages
+4363,reviews
+4364,code
+4365,deployment
+4366,promotion
+4367,development
+4368,environments
+4369,qa
+4370,production
+4371,systems
+4372,monitors
+4373,performance
+4374,metrics
+4375,makes
+4376,enhancements
+4377,suggestions
+4378,design
+4379,infrastructure
+4380,necessary
+4381,plans
+4382,projects
+4383,system
+4384,capacity
+4385,budgeting
+4386,licensing
+4387,purposes
+4388,provides
+4389,guidance
+4390,mentors
+4391,staff
+4392,developers
+4393,acts
+4394,technical
+4395,escalation
+4396,point
+4397,provides
+4398,database
+4399,standards
+4400,performance
+4401,testing
+4402,r
+4403,develops
+4404,strong
+4405,vendor
+4406,relationships
+4407,resolve
+4408,problems
+4409,coordinates
+4410,delivery
+4411,products
+4412,provides
+4413,on-call
+4414,support
+4415,rotating
+4416,schedule
+4417,performs
+4418,job-related
+4419,assigned
+4420,apparent
+4421,performance
+4422,tuning
+4423,query
+4424,execution
+4425,plans
+4426,stored
+4427,procedures
+4428,t-sql
+4429,pl/sql
+4430,data
+4431,warehousing
+4432,dbms
+4433,internals
+4434,sql
+4435,server
+4436,2012
+4437,higher
+4438,virtualized
+4439,platforms
+4440,database
+4441,architectural
+4442,design
+4443,performance
+4444,assessments
+4445,writing
+4446,database
+4447,server
+4448,code
+4449,possess
+4450,expert
+4451,knowledge
+4452,entire
+4453,software
+4454,development
+4455,lifecycle
+4456,waterfall
+4457,agile
+4458,knowledge
+4459,big
+4460,data
+4461,plus
+4462,knowledge
+4463,mdm
+4464,plus
+4465,capable
+4466,prioritizing
+4467,managing
+4468,assignments
+4469,tasks
+4470,significant
+4471,projects
+4472,completion
+4473,minimal
+4474,supervision
+4475,create
+4476,maintain
+4477,documentation
+4478,development
+4479,standards
+4480,use
+4481,republic
+4482,write
+4483,reports
+4484,correspondence
+4485,procedures
+4486,manuals
+4487,interact
+4488,personnel
+4489,levels
+4490,resolve
+4491,issues
+4492,provide
+4493,solutions
+4494,timely
+4495,manner
+4496,capable
+4497,prioritizing
+4498,managing
+4499,assignments
+4500,tasks
+4501,significant
+4502,projects
+4503,completion
+4504,minimal
+4505,supervision
+4506,create
+4507,maintain
+4508,documentation
+4509,development
+4510,standards
+4511,use
+4512,republic
+4513,write
+4514,reports
+4515,correspondence
+4516,procedures
+4517,manuals
+4518,interact
+4519,personnel
+4520,levels
+4521,resolve
+4522,issues
+4523,provide
+4524,solutions
+4525,timely
+4526,manner
+4527,bachelor
+4528,degree
+4529,higher
+4530,computer
+4531,sciences
+4532,information
+4533,technology
+4534,engineering
+4535,related
+4536,degree
+4537,5
+4538,years
+4539,two
+4540,relational
+4541,database
+4542,systems
+4543,sql
+4544,server
+4545,2012
+4546,higher
+4547,oracle
+4548,12c
+4549,higher
+4550,mysql
+4551,2
+4552,years
+4553,nosql
+4554,database
+4555,systems
+4556,dynamodb
+4557,marklogic
+4558,mongo
+4559,db
+4560,hadoop
+4561,2
+4562,years
+4563,cloud
+4564,environments
+4565,aws
+4566,google
+4567,microsoft
+4568,azure
+4569,oracle
+4570,cloud
+4571,matrix
+4572,committed
+4573,providing
+4574,environment
+4575,values
+4576,diversity
+4577,equity
+4578,inclusion
+4579,respect
+4580,discriminate
+4581,based
+4582,upon
+4583,religious
+4584,creed
+4585,ancestry
+4586,condition
+4587,genetic
+4588,information
+4589,including
+4590,registered
+4591,domestic
+4592,partnership
+4593,including
+4594,pregnancy
+4595,childbirth
+4596,lactation
+4597,related
+4598,conditions
+4599,including
+4600,identity
+4601,expression
+4602,40
+4603,military
+4604,and/or
+4605,matrix
+4606,committed
+4607,providing
+4608,access
+4609,accommodations
+4610,qualified
+4611,supporting
+4612,religious
+4613,documentation
+4614,qualified
+4615,individual
+4616,may
+4617,request
+4618,american
+4619,act
+4620,ada
+4621,emailing
+4622,matrix_hr
+4623,matrixres.com
+4624,ensure
+4625,quick
+4626,response
+4627,request
+4628,use
+4629,words
+4630,“
+4631,request
+4632,”
+4633,subject
+4634,line
+4635,email
+4636,hourly
+4637,w2
+4638,contract
+4639,roles
+4640,matrix
+4641,offers
+4642,highly
+4643,competitive
+4644,benefit
+4645,including
+4646,life
+4647,hsa
+4648,401
+4649,pre
+4650,post-tax
+4651,options
+4652,see
+4653,matrixres.com/benefits
+4654,information
+4655,direct
+4656,hire
+4657,placement
+4658,clients
+4659,offered
+4660,accordance
+4661,particular
+4662,client
+4663,offerings
+4664,may
+4665,include
+4666,pto
+4667,401k
+4668,pre
+4669,post-tax
+4670,options
+4671,reportresponsibilities
+4672,kforce
+4673,client
+4674,seeking
+4675,hire
+4676,identity
+4677,access
+4678,administrator
+4679,boca
+4680,raton
+4681,florida
+4682,fl
+4683,summary
+4684,identity
+4685,access
+4686,administrator
+4687,engineers
+4688,administrators
+4689,specialists
+4690,infrastructure
+4691,support
+4692,identity
+4693,access
+4694,tools
+4695,regular
+4696,patching
+4697,vulnerability
+4698,processes
+4699,followed
+4700,development
+4701,done
+4702,non-production
+4703,environment
+4704,change
+4705,management
+4706,processes
+4707,followed
+4708,administrator
+4709,expected
+4710,deal
+4711,directly
+4712,customers
+4713,teams
+4714,comprising
+4715,identity
+4716,access
+4717,security
+4718,audit
+4719,governance
+4720,include
+4721,identity
+4722,access
+4723,administrator
+4724,applies
+4725,policies
+4726,patches
+4727,maintain
+4728,high
+4729,expectations
+4730,client
+4731,security
+4732,guidelines
+4733,provide
+4734,solutions
+4735,oversight
+4736,aspects
+4737,identity
+4738,access
+4739,organizations
+4740,come
+4741,solutions
+4742,identity
+4743,access
+4744,identity
+4745,access
+4746,administrator
+4747,vendors
+4748,ensure
+4749,environments
+4750,remain
+4751,stable
+4752,issues
+4753,resolved
+4754,appropriately
+4755,perform
+4756,infrastructure
+4757,problem
+4758,resolution
+4759,assist
+4760,development
+4761,documentation
+4762,technical
+4763,standards
+4764,identity
+4765,access
+4766,administrator
+4767,monitor
+4768,systems
+4769,performance
+4770,ensure
+4771,capacity
+4772,planning
+4773,performed
+4774,proactive
+4775,assessing
+4776,providing
+4777,recommendations
+4778,improvement
+4779,analyze
+4780,monitor
+4781,protocol
+4782,compatibility
+4783,perform
+4784,systems
+4785,tuning
+4786,provide
+4787,recommendations
+4788,improvements
+4789,identity
+4790,access
+4791,administrator
+4792,perform
+4793,internal
+4794,consultant
+4795,advocate
+4796,mentor
+4797,change
+4798,agent
+4799,coordinate
+4800,execute
+4801,assess
+4802,support
+4803,proof
+4804,concept
+4805,programs
+4806,applications
+4807,identity
+4808,access
+4809,administrator
+4810,implements
+4811,architectural
+4812,principles
+4813,approaches
+4814,simple
+4815,complex
+4816,systems
+4817,within
+4818,multiple
+4819,environments
+4820,hybrids
+4821,bachelor
+4822,degree
+4823,equivalent
+4824,3-5+
+4825,years
+4826,sailpoint
+4827,access
+4828,governance
+4829,connectors
+4830,microsoft
+4831,active
+4832,directory
+4833,azure
+4834,java/json
+4835,postman
+4836,.net
+4837,collaboration
+4838,skills
+4839,include
+4840,office
+4841,365
+4842,sharepoint
+4843,drive
+4844,teams
+4845,yammer
+4846,zoom
+4847,identity
+4848,demonstrates
+4849,leading
+4850,edge
+4851,knowledge
+4852,concepts
+4853,theories
+4854,discipline
+4855,perceived
+4856,internally
+4857,externally
+4858,knowledgeable
+4859,function
+4860,demonstrates
+4861,broad
+4862,knowledge
+4863,application
+4864,architecture
+4865,complex
+4866,cross-functional
+4867,applications
+4868,extensive
+4869,knowledge
+4870,identity
+4871,access
+4872,environment
+4873,teach
+4874,others
+4875,technical
+4876,functional
+4877,knowledge
+4878,skills
+4879,needed
+4880,achieve
+4881,results
+4882,high
+4883,level
+4884,performance
+4885,conflict
+4886,management
+4887,continuous
+4888,improvement
+4889,applies
+4890,leading
+4891,edge
+4892,knowledge
+4893,drive
+4894,strategic
+4895,direction
+4896,function
+4897,partnership
+4898,functional
+4899,technical
+4900,skills
+4901,self-development
+4902,versatility
+4903,oracle
+4904,hr
+4905,system
+4906,knowledge
+4907,google
+4908,cloud
+4909,platform
+4910,plus
+4911,kforce
+4912,opportunity/affirmative
+4913,qualified
+4914,pregnancy
+4915,identity
+4916,role
+4917,siteminder
+4918,admin
+4919,contract
+4920,relevant
+4921,exp
+4922,7+
+4923,years
+4924,siteminder
+4925,technology
+4926,engineering
+4927,background
+4928,siteminder
+4929,worked
+4930,ca
+4931,siteminder
+4932,version
+4933,12.52
+4934,12.8
+4935,access
+4936,gateway
+4937,must
+4938,oidc
+4939,federation
+4940,knowledge
+4941,must
+4942,guide
+4943,sso/saml
+4944,intakes
+4945,troubleshoot
+4946,failing
+4947,connections
+4948,siteminder
+4949,issues
+4950,knows
+4951,install
+4952,upgrade
+4953,siteminder
+4954,releases
+4955,familiar
+4956,server
+4957,level
+4958,address
+4959,security
+4960,findings
+4961,siteminder
+4962,policy
+4963,creation
+4964,setup
+4965,good
+4966,understanding
+4967,itil
+4968,process
+4969,contract
+4970,60.00
+4971,63.00
+4972,schedule
+4973,8
+4974,siteminder
+4975,4
+4976,years
+4977,preferred
+4978,identity
+4979,access
+4980,management
+4981,5
+4982,years
+4983,preferred
+4984,information
+4985,security
+4986,6
+4987,years
+4988,preferred
+4989,speak
+4990,+91
+4991,+1-248-306-8442
+4992,sql
+4993,server
+4994,database
+4995,administrator
+4996,100
+4997,healthcare
+4998,organization
+4999,seeking
+5000,seasoned
+5001,sql
+5002,server
+5003,dba
+5004,responsibility
+5005,providing
+5006,operational
+5007,database
+5008,organization
+5009,production
+5010,dba
+5011,role
+5012,requires
+5013,service
+5014,oriented
+5015,mentality
+5016,nature
+5017,dba
+5018,needed
+5019,varies
+5020,day-to-day
+5021,days
+5022,may
+5023,involve
+5024,pure
+5025,maintenance
+5026,others
+5027,involve
+5028,database
+5029,development
+5030,typical
+5031,include
+5032,following
+5033,primary
+5034,ensuring
+5035,storage
+5036,archiving
+5037,back-up
+5038,recovery
+5039,procedures
+5040,appropriate
+5041,functioning
+5042,correctly
+5043,monitoring
+5044,sql
+5045,server
+5046,performance
+5047,managing
+5048,parameters
+5049,provide
+5050,fast
+5051,query
+5052,responses
+5053,front-end
+5054,users
+5055,assist
+5056,maintaining
+5057,data
+5058,security
+5059,standards
+5060,including
+5061,adherence
+5062,data
+5063,protection
+5064,act
+5065,hipaa
+5066,hitech
+5067,writing
+5068,database
+5069,documentation
+5070,including
+5071,server
+5072,topology
+5073,data
+5074,standards
+5075,procedures
+5076,definitions
+5077,data
+5078,dictionary
+5079,controlling
+5080,database
+5081,access
+5082,permissions
+5083,privileges
+5084,working
+5085,project
+5086,managers
+5087,application
+5088,developers
+5089,ensure
+5090,data
+5091,warehouses
+5092,database
+5093,object
+5094,design
+5095,meets
+5096,current
+5097,attempt
+5098,account
+5099,possible
+5100,future
+5101,communicating
+5102,regularly
+5103,technical
+5104,applications
+5105,operational
+5106,staff
+5107,ensure
+5108,database
+5109,integrity
+5110,security
+5111,standards
+5112,met
+5113,maintained
+5114,position
+5115,database
+5116,administration
+5117,mssql
+5118,server
+5119,versions
+5120,2017
+5121,higher
+5122,ssrs
+5123,ssis
+5124,transparent
+5125,data
+5126,encryption
+5127,tde
+5128,planning
+5129,implementing
+5130,version
+5131,upgrades
+5132,ms
+5133,sql
+5134,server
+5135,troubleshooting
+5136,resolving
+5137,database
+5138,problems
+5139,performance
+5140,tuning
+5141,optimization
+5142,pto
+5143,using
+5144,native
+5145,monitoring
+5146,troubleshooting
+5147,tools
+5148,backups
+5149,restores
+5150,recovery
+5151,models
+5152,knowledge
+5153,high
+5154,availability
+5155,ha
+5156,disaster
+5157,recovery
+5158,dr
+5159,options
+5160,ms
+5161,sql
+5162,server
+5163,implementing
+5164,operational
+5165,automation
+5166,using
+5167,scripts
+5168,knowledge
+5169,indexes
+5170,index
+5171,management
+5172,statistics
+5173,good
+5174,documentation
+5175,skills
+5176,preferred
+5177,candidates
+5178,may
+5179,also
+5180,meet
+5181,following
+5182,involvement
+5183,mssql
+5184,server
+5185,community
+5186,membership
+5187,pass
+5188,active
+5189,forums
+5190,newsgroups
+5191,experience/knowledge
+5192,advantage
+5193,database
+5194,server
+5195,sql
+5196,server
+5197,certification
+5198,i.e
+5199,mcts
+5200,mcitp
+5201,mvp
+5202,mcsa
+5203,working
+5204,windows
+5205,server
+5206,active
+5207,directory
+5208,proper
+5209,disk
+5210,configurations
+5211,solid
+5212,working
+5213,following
+5214,external
+5215,web
+5216,data
+5217,edi
+5218,data
+5219,cubes
+5220,intelligence
+5221,analytics
+5222,tfs
+5223,git
+5224,perks
+5225,great
+5226,sound
+5227,leadership
+5228,collaborative
+5229,excellent
+5230,growth
+5231,working
+5232,100
+5233,home
+5234,office
+5235,send
+5236,detailed
+5237,resume
+5238,linkedin
+5239,profile
+5240,today
+5241,matrix
+5242,committed
+5243,providing
+5244,environment
+5245,values
+5246,diversity
+5247,equity
+5248,inclusion
+5249,respect
+5250,discriminate
+5251,based
+5252,upon
+5253,religious
+5254,creed
+5255,ancestry
+5256,condition
+5257,genetic
+5258,information
+5259,including
+5260,registered
+5261,domestic
+5262,partnership
+5263,including
+5264,pregnancy
+5265,childbirth
+5266,lactation
+5267,related
+5268,conditions
+5269,including
+5270,identity
+5271,expression
+5272,40
+5273,military
+5274,and/or
+5275,matrix
+5276,committed
+5277,providing
+5278,access
+5279,accommodations
+5280,qualified
+5281,supporting
+5282,religious
+5283,documentation
+5284,qualified
+5285,individual
+5286,may
+5287,request
+5288,american
+5289,act
+5290,ada
+5291,emailing
+5292,matrix_hr
+5293,matrixres.com
+5294,ensure
+5295,quick
+5296,response
+5297,request
+5298,use
+5299,words
+5300,‚äúaccommodation
+5301,request‚äù
+5302,subject
+5303,line
+5304,email
+5305,hourly
+5306,w2
+5307,contract
+5308,roles
+5309,matrix
+5310,offers
+5311,highly
+5312,competitive
+5313,benefit
+5314,including
+5315,life
+5316,hsa
+5317,401
+5318,pre
+5319,post-tax
+5320,options
+5321,see
+5322,matrixres.com/benefits
+5323,information
+5324,direct
+5325,hire
+5326,placement
+5327,clients
+5328,offered
+5329,accordance
+5330,particular
+5331,client‚äôs
+5332,offerings
+5333,may
+5334,include
+5335,pto
+5336,401k
+5337,pre
+5338,post-tax
+5339,options
+5340,summary
+5341,looking
+5342,identity
+5343,access
+5344,management
+5345,administrator
+5346,leverage
+5347,expand
+5348,company
+5349,implementation
+5350,okta
+5351,identity
+5352,lifecycle
+5353,workflow
+5354,automation
+5355,application
+5356,integration
+5357,platform
+5358,designing
+5359,configuring
+5360,deploying
+5361,supporting
+5362,comprehensive
+5363,single-sign-on
+5364,mfa
+5365,user
+5366,management
+5367,workflow
+5368,mobile
+5369,integrations
+5370,appropriate
+5371,cloud
+5372,designing
+5373,building
+5374,top-notch
+5375,workflow
+5376,integrations
+5377,solutions
+5378,well
+5379,ensuring
+5380,tools
+5381,employs
+5382,support
+5383,fully
+5384,utilized
+5385,integrated
+5386,automated
+5387,wherever
+5388,possible
+5389,role
+5390,analyze
+5391,processes
+5392,document
+5393,design
+5394,deploy
+5395,solutions
+5396,automate
+5397,integrate
+5398,and/or
+5399,streamline
+5400,said
+5401,processes
+5402,maintaining
+5403,necessary
+5404,compliance
+5405,auditing
+5406,standards
+5407,may
+5408,vary
+5409,unit
+5410,may
+5411,also
+5412,review
+5413,multiple
+5414,processes
+5415,offer
+5416,insight
+5417,regarding
+5418,would
+5419,benefit
+5420,architecture
+5421,focus
+5422,effort
+5423,company
+5424,wilks
+5425,brothers
+5426,multifaceted
+5427,family-based
+5428,partnership
+5429,headquartered
+5430,cisco
+5431,texas
+5432,employees
+5433,working
+5434,offices
+5435,invest
+5436,relationships
+5437,recognize
+5438,value
+5439,people
+5440,communities
+5441,businesses
+5442,customers
+5443,number
+5444,name
+5445,family
+5446,member
+5447,friend
+5448,good
+5449,times
+5450,difficult
+5451,times
+5452,treat
+5453,equally
+5454,–
+5455,exactly
+5456,want
+5457,treated
+5458,believe
+5459,profit
+5460,–
+5461,personal
+5462,wilks
+5463,brothers
+5464,respect
+5465,people
+5466,make
+5467,grow
+5468,employees
+5469,customers
+5470,goal
+5471,develop
+5472,mutually
+5473,beneficial
+5474,partnerships
+5475,utilizing
+5476,core
+5477,values
+5478,faith
+5479,integrity
+5480,growth
+5481,loyalty
+5482,website
+5483,www.wilksbrothers.com
+5484,competitive
+5485,base
+5486,401
+5487,plan
+5488,company
+5489,life
+5490,ad
+5491,company
+5492,ltd
+5493,additional
+5494,life
+5495,ad
+5496,additional
+5497,coverage
+5498,includes
+5499,critical
+5500,illness
+5501,accident
+5502,short
+5503,term
+5504,whole
+5505,life
+5506,plans
+5507,holidays
+5508,pto
+5509,program
+5510,education
+5511,collaborate
+5512,various
+5513,teams
+5514,support
+5515,optimize
+5516,onboarding
+5517,offboarding
+5518,workflow
+5519,automation
+5520,analyze
+5521,execute
+5522,develop
+5523,plans
+5524,integrate
+5525,applications
+5526,okta
+5527,platform
+5528,plan
+5529,execute
+5530,workflows
+5531,eliminate
+5532,manual
+5533,processes
+5534,environment
+5535,provide
+5536,support
+5537,helpdesk
+5538,sys
+5539,admins
+5540,collaborate
+5541,units
+5542,evaluate
+5543,risks
+5544,improvements
+5545,okta
+5546,security
+5547,ensure
+5548,demonstrated
+5549,compliance
+5550,various
+5551,standards
+5552,including
+5553,sox
+5554,create
+5555,maintain
+5556,technical
+5557,knowledge
+5558,base
+5559,documents
+5560,create
+5561,manage
+5562,technical
+5563,system
+5564,procedure
+5565,documentation
+5566,ensure
+5567,updated
+5568,current
+5569,stay
+5570,current
+5571,trends
+5572,world
+5573,propose
+5574,timely
+5575,enhancements
+5576,replacements
+5577,products
+5578,assist
+5579,change
+5580,management
+5581,communications
+5582,various
+5583,internal
+5584,teams
+5585,needed
+5586,represent
+5587,identity
+5588,access
+5589,management
+5590,within
+5591,enterprise
+5592,architecture
+5593,ensure
+5594,technology
+5595,policies
+5596,standards
+5597,considered
+5598,design
+5599,recommendations
+5600,ensure
+5601,design
+5602,solutions
+5603,follow
+5604,various
+5605,information
+5606,security
+5607,compliance
+5608,legal
+5609,and/or
+5610,regulatory
+5611,recommend
+5612,design
+5613,implementation
+5614,guide
+5615,technical
+5616,teams
+5617,understand
+5618,non-functional
+5619,availability
+5620,scalability
+5621,robustness
+5622,security
+5623,provide
+5624,high-level
+5625,estimates
+5626,various
+5627,tasks
+5628,projects
+5629,assist
+5630,project
+5631,planning
+5632,continuously
+5633,review
+5634,existing
+5635,implementation
+5636,propose
+5637,ways
+5638,optimize
+5639,setup
+5640,contribute
+5641,identification
+5642,evaluation
+5643,selection
+5644,development
+5645,innovative
+5646,solutions
+5647,okta
+5648,sso
+5649,mfa
+5650,universal
+5651,directory
+5652,lifecycle
+5653,management
+5654,nice
+5655,api
+5656,design
+5657,including
+5658,web
+5659,api
+5660,integration
+5661,enhancing
+5662,system
+5663,scale
+5664,developing
+5665,reusable
+5666,software
+5667,components
+5668,developers
+5669,users
+5670,leverage
+5671,integrations
+5672,hris
+5673,workday/ultipro
+5674,able
+5675,read
+5676,speak
+5677,write
+5678,english
+5679,sitting
+5680,6
+5681,7
+5682,hours
+5683,mobility
+5684,reach
+5685,equipment
+5686,perform
+5687,diagnosis
+5688,repair
+5689,space
+5690,phone
+5691,personnel
+5692,vendors
+5693,hearing
+5694,able
+5695,understand
+5696,personnel
+5697,vendors
+5698,supervisors
+5699,seeing
+5700,able
+5701,see
+5702,computer
+5703,screen
+5704,endure
+5705,“
+5706,eye
+5707,strain
+5708,”
+5709,climbing
+5710,able
+5711,go
+5712,downstairs
+5713,position
+5714,require
+5715,40
+5716,hours
+5717,week
+5718,unless
+5719,otherwise
+5720,directed
+5721,supervisor
+5722,wilks
+5723,brothers
+5724,li-br1
+5725,christar
+5726,mobilization
+5727,center
+5728,u.s.
+5729,cmcus
+5730,seeking
+5731,system
+5732,administrator
+5733,skills
+5734,knowledge
+5735,tested
+5736,plan
+5737,maintain
+5738,deploy
+5739,information
+5740,technology
+5741,infrastructure
+5742,contains
+5743,cloud
+5744,on-premises
+5745,components
+5746,additionally
+5747,system
+5748,administrator
+5749,serve
+5750,organization
+5751,aiding
+5752,end
+5753,users
+5754,interact
+5755,technologies
+5756,leverage
+5757,excellent
+5758,skills
+5759,emotional
+5760,intelligence
+5761,enthusiasm
+5762,harness
+5763,secure
+5764,technologies
+5765,systems
+5766,administer
+5767,cooperation
+5768,christar
+5769,director
+5770,information
+5771,technology
+5772,provide
+5773,must
+5774,demonstrate
+5775,integrity
+5776,maturity
+5777,proven
+5778,director
+5779,information
+5780,technology
+5781,division
+5782,leaders
+5783,build
+5784,technology
+5785,deployment
+5786,roadmap
+5787,negotiate
+5788,contracts
+5789,leased
+5790,data
+5791,equipment
+5792,competitively
+5793,bid
+5794,purchases
+5795,data
+5796,equipment
+5797,software
+5798,computing
+5799,maintain
+5800,confidentiality
+5801,integrity
+5802,availability
+5803,christar
+5804,data
+5805,install
+5806,configure
+5807,maintain
+5808,company-owned
+5809,hardware
+5810,software
+5811,administer
+5812,configure
+5813,cloud
+5814,including
+5815,microsoft
+5816,azure
+5817,active
+5818,directory
+5819,endpoint
+5820,security
+5821,identity
+5822,access
+5823,management
+5824,administer
+5825,configure
+5826,develop
+5827,site
+5828,stacker
+5829,manage
+5830,backup
+5831,data
+5832,including
+5833,automatic
+5834,backup
+5835,routines
+5836,testing
+5837,data
+5838,integrity
+5839,maintain
+5840,network
+5841,documentation
+5842,maintain
+5843,working
+5844,disaster
+5845,recovery
+5846,plan
+5847,assist
+5848,christar
+5849,personnel
+5850,software
+5851,computing
+5852,device
+5853,problems
+5854,cooperation
+5855,technical
+5856,staff
+5857,needed
+5858,supply
+5859,technology
+5860,purchase
+5861,workers
+5862,needed
+5863,perform
+5864,end-user
+5865,training
+5866,departments
+5867,staff
+5868,effective
+5869,productive
+5870,use
+5871,systems
+5872,policies
+5873,may
+5874,require
+5875,documentation
+5876,process
+5877,steps
+5878,instruction
+5879,manuals
+5880,learning
+5881,sessions
+5882,etc
+5883,supply
+5884,information
+5885,security
+5886,training
+5887,workers
+5888,committed
+5889,christian
+5890,comfortable
+5891,working
+5892,missionary
+5893,environment
+5894,following
+5895,applicant
+5896,must
+5897,affirm
+5898,christar
+5899,beliefs
+5900,core
+5901,values
+5902,part
+5903,application
+5904,bachelor
+5905,degree
+5906,2
+5907,years
+5908,system
+5909,administration
+5910,security
+5911,certifications
+5912,like
+5913,comp
+5914,tia
+5915,security+
+5916,microsoft
+5917,ad
+5918,azure
+5919,cloud
+5920,environment
+5921,certifications
+5922,support
+5923,azure
+5924,endpoint
+5925,security
+5926,azure
+5927,mobile
+5928,device
+5929,management
+5930,plus
+5931,comfort
+5932,writing
+5933,sql
+5934,strong
+5935,written
+5936,interpersonal
+5937,skills
+5938,player
+5939,works
+5940,collaboratively
+5941,strong
+5942,organizational
+5943,skills
+5944,prioritize
+5945,handle
+5946,multiple
+5947,projects
+5948,simultaneously
+5949,calmly
+5950,pressure
+5951,goals
+5952,deadlines
+5953,strong
+5954,troubleshooting
+5955,problem-solving
+5956,skills
+5957,strong
+5958,customer-service
+5959,times
+5960,must
+5961,able
+5962,effectively
+5963,communicate
+5964,within
+5965,levels
+5966,organization
+5967,willingness
+5968,learn
+5969,embrace
+5970,emerging
+5971,technology
+5972,system
+5973,administration
+5974,2
+5975,years
+5976,active
+5977,directory
+5978,2
+5979,years
+5980,preferred
+5981,azure
+5982,2
+5983,years
+5984,preferred
+5985,license/certification
+5986,comptia
+5987,security+
+5988,preferred
+5989,hybrid
+5990,richardson
+5991,tx
+5992,75081
+5993,typical
+5994,identify
+5995,develop
+5996,role-based
+5997,security
+5998,access
+5999,match
+6000,adhere
+6001,least
+6002,privilege
+6003,principle
+6004,manage
+6005,user
+6006,lifecycle
+6007,create
+6008,modify
+6009,disable
+6010,user
+6011,accounts
+6012,requested
+6013,provided
+6014,appropriate
+6015,approvals
+6016,ensure
+6017,access
+6018,rights
+6019,updated
+6020,timely
+6021,manner
+6022,user
+6023,roles
+6024,change
+6025,update
+6026,close
+6027,tickets
+6028,associated
+6029,access
+6030,management
+6031,requests
+6032,implement
+6033,improvements
+6034,automated
+6035,user
+6036,access
+6037,request
+6038,workflows
+6039,perform
+6040,routine
+6041,access
+6042,reviews
+6043,ensure
+6044,access
+6045,resources
+6046,matches
+6047,function
+6048,ensure
+6049,compliance
+6050,related
+6051,industry
+6052,regulations
+6053,respond
+6054,information
+6055,security
+6056,audits
+6057,assist
+6058,support
+6059,cyber
+6060,security
+6061,development
+6062,project
+6063,teams
+6064,integration
+6065,programs
+6066,intersect
+6067,user
+6068,administration
+6069,implementation
+6070,saml
+6071,sso
+6072,applications
+6073,troubleshooting
+6074,existing
+6075,sso
+6076,applications
+6077,assist
+6078,user
+6079,google
+6080,account
+6081,management
+6082,needed
+6083,develop
+6084,document
+6085,user
+6086,administration
+6087,audit
+6088,administration
+6089,azure
+6090,ad
+6091,connect
+6092,application
+6093,cb
+6094,2
+6095,year
+6096,identity
+6097,access
+6098,management
+6099,active
+6100,directory
+6101,administration
+6102,azure
+6103,active
+6104,directory
+6105,administration
+6106,hybrid
+6107,environment
+6108,implementation
+6109,administration
+6110,conditional
+6111,access
+6112,controls
+6113,mfa
+6114,saml
+6115,federated
+6116,authentication
+6117,methods
+6118,powershell
+6119,scripting
+6120,use
+6121,active
+6122,directory
+6123,azure
+6124,ad

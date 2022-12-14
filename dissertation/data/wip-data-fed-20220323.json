@@ -1,6 +1,6 @@
 [
   {
-    "id":37,
+    "id":38,
     "source": "n/a",
     "title": "n/a",
     "org": "n/a",
@@ -23,6 +23,31 @@
     "summary": "n/a",
     "duties": "n/a",
     "specialized": "n/a"
+  },
+  {
+    "id":37,
+    "source": "https://www.usajobs.gov/job/694431700",
+    "title": "Lead IT Specialist (INFOSEC)",
+    "org": "Department of the Army",
+    "division": "United States Army Futures Command, Command, Control, Communications, Computers, Cyber, Intelligence, Surveillance, and Reconnaissance (C5ISR) Center",
+    "openDate": "12/13/2022",
+    "closeDate": "12/27/2022",
+    "grade": "DE-3",
+    "city": "washington",
+    "state": "dc",
+    "appointment": "Permanent",
+    "service": "Competitive",
+    "jobFamily": "2210",
+    "supervisory": "no",
+    "clearance": "TS/SCI",
+    "announcement": "NEAD220553477462HLF",
+    "controlNumber": "694431700",
+    "ncwfCode": "n/a",
+    "pd": "n/a",
+    "authority": "dha",
+    "summary": "This is a public notice flyer to notify interested applicants of anticipated vacancies. Applications will NOT be accepted through this flyer. Interested applicants should review the 'How to Apply' section of this flyer for more information on how to be considered. This flyer will be used as positions become available. There may or may not be actual vacancies filled from this flyer.",
+    "duties": "(1) Serves the Team Lead as a technical expert with the ability to direct and oversee a workforce that is responsible for Identity, Credential, Access Management (ICAM), Public Key Infrastructure (PKI). (2) Dynamic Access Control for Tactical (DACT), Zero Trust, Tactical Hardening for Quantum, testing of possible technologies to meet requirements, and Research and Development associated with tactical implementation. (3) Engages with customer organizations to ensure high customer satisfaction and maintains effective working relationships with customer organizations and leaders. (4) Leads a team of highly technical experts/engineers/scientists in the research, development, experimentation of ICAM related projects in support of Science / Technology stakeholders and reimbursable customers. (5) Responsible for technical execution of several ICAM/PKI related Science and Technology and several Customer programs/Projects/tasks (SBIRS, Prototypes, Pilots, etc) within programmed resources, cost, schedule, and performance requirements. (6) Coordinate/Collaborate with CCDC, C5ISR Center, Cross functional teams, PEOS, PMs, CC/S/As, Industry, DoD and Federal organizations, Academia etc WRT to ICAM and PKI. (7) Provides oversight of research and development contracts with private industry, academia and Government agencies, ensuring alignment and compliance with established requirements, policy and procedures. (8) Researches, interprets and applies policies, directives, and regulatory guidance in the ICAM field. (9) Provides guidance/technical evaluation of ICAM related technologies for implementation in a tactical environment.",
+    "specialized": "To qualify for this position, your resume must describe at least one year of specialized experience equivalent to the next lower grade level (DE-02 or GS-11) or equivalent pay band in the Federal service which includes one or more of the following: 1) Providing technical guidance to customers, subordinates, or peers; 2) Planning/directing programs or projects; 3) Evaluating engineering/scientific data for use in program/project improvement or troubleshooting; and 4) Conduct design or development for a supported technical program. This definition of specialized experience is typical of work performed at the next lower pay band/grade level position in the federal service (DE-02/GS-11)."
   },
   {
     "id":36,

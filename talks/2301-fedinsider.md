@@ -18,7 +18,7 @@ Moderator:
  
 Panelists:
 - Tom Clancy; Principal ICAM Engineer & MITRE
-- Ross Foard; IT Specialist @ Cybersecurity and Infrastructure Security Agency
+- Ross Foard; IT Specialist (INFOSEC), DHS CDM @ Cybersecurity and Infrastructure Security Agency
 - Bryan Rosensteel; U.S. Federal CTO @ Ping Identity
 - Wesley Smith; CTO @ SelecTech
 - Kenneth Myers; Director, Identity Assurance and Trusted Access Division @ General Services Administration

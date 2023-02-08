@@ -1,6 +1,6 @@
 [
-  {
-    "id":45,
+    {
+    "id":46,
     "source": "n/a",
     "title": "n/a",
     "org": "n/a",
@@ -28,6 +28,33 @@
     "summary": "n/a",
     "duties": "n/a",
     "specialized": "n/a"
+  },
+  {
+    "id":45,
+    "source": "https://www.usajobs.gov/job/705187000",
+    "title": "Supervisory IT Specialist (NETWORK)",
+    "org": "Department of the Interior",
+    "division": "National Park Service",
+    "openDate": "02/08/2023",
+    "closeDate": "02/21/2023",
+    "grade": "GS-14",
+    "city": "anywhere",
+    "state": "usa",
+    "remoteJob": "yes",
+    "telework": "n/a",
+    "appointment": "permanent",
+    "service": "competitive",
+    "promotionPotential": "14",
+    "jobFamily": "2210",
+    "supervisory": "yes",
+    "clearance": "n/a",
+    "positionRisk": "high risk",
+    "trustDetermination": "suitability/fitness, national security",
+    "announcement": "WO-1614-IR-23-11810095-ST",
+    "controlNumber": "705187000",
+    "summary": "The purpose of the position is to provide competent authority, guidance, and management of all activities related to the Wide Area Network (WAN), public and production WiFi, directory services, mobile device management, and Identity, Credential, and Access Management (ICAM) credentialing stations for the National Park Service.",
+    "duties": "The major duties of the Supervisory IT Specialist (NETWORK) position include, but are not limited to, the following: Lead a team of government and contracted employees to provide engineering and administration of the Bureau's network, directory services, mobile devices and Identity, Credential, and Access Management (ICAM) credentialing stations. Lead the Information Resources' mission to upgrade bandwidth to levels in line with modern requirements at maximum possible Bureau sites. Represent the Bureau with the Department of Interior (DOI) Office of Chief Information Officer (OCIO) on matters related to Bureau Network, Directory Services, Mobile Devices and ICAM credentialing stations. Forecast and manage budgets for acquisition of products and services for on-prem and cloud environments.Perform duties of a Contracting Officer's Representative (COR) for acquisition of all products and services needed for the network management branch.",
+    "specialized": "At least one full year of specialized experience comparable in scope and responsibility to the GS-13 grade level in the Federal service (obtained in either the public or private sectors). This experience must include all of the following: 1) Develop and interpret policies, procedures and strategies governing the planning and management of services for the Agency's physical Wide Area Network (WAN) and virtual Active Directory (AD) network; 2) Provide expert technical advice, guidance, and recommendations to the organization's leadership and other technical specialists on critical information technology (IT) issues that affect the physical and virtual networks; 3) Forecast and manage budgets for acquisition of products and services for the Agency's network; 4) Isolate and define unprecedented conditions and resolving critical problems; 5) Plan, assign, or prioritize work among employees as a technical team lead or supervisor. You must include your resume with hours worked per week annotated. Volunteer Experience: Experience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., Peace Corps, AmeriCorps) and other organizations (e.g., professional; philanthropic; religious; spiritual; community, student, social). Volunteer work helps build critical competencies, knowledge, and skills and can provide valuable training and experience that translates directly to paid employment. You will receive credit for all qualifying experience, including volunteer experience. You must include months, years and hours per week worked to receive credit for your work and/or volunteer experience. One year of specialized experience is equivalent to 12 months at 40 hours per week. Part-time hours are prorated. You will not receive any credit for experience that does not indicate exact hours per week or is listed as varies. Experience listed as full-time will be credited at 40 hours per week."
   },
   {
     "id":44,

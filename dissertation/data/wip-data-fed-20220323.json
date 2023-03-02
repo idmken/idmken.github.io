@@ -1,6 +1,6 @@
 [
     {
-    "id":46,
+    "id":47,
     "source": "n/a",
     "title": "n/a",
     "org": "n/a",
@@ -28,6 +28,34 @@
     "summary": "n/a",
     "duties": "n/a",
     "specialized": "n/a"
+  },
+      {
+    "id":46,
+    "source": "https://www.usajobs.gov/job/709480200",
+    "title": "IT Cybersecurity - DIRECT HIRE",
+    "org": "Department of Transportation",
+    "division": "Office of the Secretary of Transportation",
+    "openDate": "02/28/2023",
+    "closeDate": "02/28/2024",
+    "grade": "GS-13; GS-14",
+    "city": "washington",
+    "state": "dc",
+    "remoteJob": "no",
+    "telework": "yes",
+    "appointment": "permanent",
+    "service": "competitive",
+    "promotionPotential": "14",
+    "jobFamily": "2210",
+    "supervisory": "no",
+    "clearance": "n/a",
+    "positionRisk": "noncritical-sensitive/moderate risk",
+    "trustDetermination": "suitability/fitness",
+    "announcement": "OST.CIO-2023-0024",
+    "controlNumber": "709480200",
+    "authority": "dha",
+    "summary": "The incumbent is a senior level technical expert, for all facets of cybersecurity, for Department of Transportation (DOT) wide cloud services and may serve as Team Lead on assigned projects and special assignments as assigned by the supervisor.",
+    "duties": "The IT Cybersecurity: Assists with development of risk analysis, accreditation, and certification packages to include disaster recovery plans in accordance with agency requirements. Assists Information Assurance (IA) personnel in conducting risk analysis and security tests and evaluations. Works with other security officers, users, and other support personnel to ensure security regulations are followed. Ensures agency security standards are met. Participates with user support personnel to train personnel and functional users on use of automated information systems, computers, local and wide area networks, and other automated systems management tools. Attends available commercial and Agency/OCIO courses needed to maintain current technical knowledge and depth as needed. Plans, develops, and administers training programs implementing the standardization, control, and/or guidance of communications programs.Ensures the rigorous application of information security/ information assurance policies, principles, and practices to the systems analysis process. Ensure all facets of network connectivity (e.g., WAN architecture) and security controls including perimeter security are architect-ed in a manner to safeguard DOT’s assets, applications and data including personally identifiable information (PII) in adherence to federal standards and industry best practices. Supports the implementation, and evaluation of security programs in assigned organizations, including the implementation of security programs designed to anticipate, assess, and minimize system vulnerabilities. Assists in coordinating the implementation of security programs across platforms and establishes vulnerability reporting criteria. Coordinates with other DOT staff on the development of information security system and application policies, guidelines, standards, requirements, and procedures. Recommends ways to protect the organization’s information and information systems. Conducts training of personnel on the Department’s Cybersecurity Annual Training. Develops, plans, coordinates, delivers, and/or evaluates training courses, methods, and techniques as appropriate. The Ideal Candidate Statement: DOT OCIO is looking for a seasoned professional, motivated self-starter who can share their expertise in planning, development, and implementation of cyber security incident management and response programs; establishing policies and processes/procedures to prevent, mitigate, and remediate cyber risks across the dynamic Departmental organization IT infrastructure; and knowledgeable of collective cyber security policies and best practices.",
+    "specialized": "To qualify for the Grade 13, you must have at least one year of experience equal or equivalent to the GS-12, it must include: Experience interpreting policy and guidance related to information system security management, such as National Institute of Standards and Technology (NIST) to successfully implement standards and other policies, standards, guidelines and regulations governing information technology and cybersecurity. Experience performing hands-on configuration and troubleshooting of Identity, Credential, and Access Management (ICAM) tools and technologies, as well as analyzing business processes for gaps and opportunities for improvement. To qualify for the Grade 14, you must have at least one year of experience equal or equivalent to the GS-13, it must include: Experience leveraging with Identity, Credential, and Access Management (ICAM) tools and technologies such as including SailPoint Identity IQ, Radiant Logic, Okta, CyberArk Privileged Access Security, Entrust Identity Guard, Active Directory/LDAP or similar products to implement and review security requirements or software designs for potential security risks. Experience application of information security/ information assurance policies, principles, and practices to the systems analysis process of the tools/technologies required to implement or oversee hardware/software asset management; Identity, credential, and access management(ICAM); Data discovery; Secure cloud services; Intrusion detection and prevention; Endpoint detection and response; Cyber threat intelligence; Enterprise cybersecurity risk management; Supply chain risk. Experience in identifying and driving requirements, for the modernization of Identity, Credential, and Access Management (ICAM) services in hybrid and cloud environments (e.g., AWS, SaaS) with mobility and automation. Experience in planning and managing multiple full life-cycle IT operations-related projects with a focus on Cyber security including; developing detailed project work plans; identifying schedules and budgets; developing marketing strategies; preparing and delivering formal and informal presentations; meeting project milestones and finalizing project close-out reports."
   },
   {
     "id":45,

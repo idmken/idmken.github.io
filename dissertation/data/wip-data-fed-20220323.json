@@ -1,6 +1,6 @@
 [
     {
-    "id":47,
+    "id":48,
     "source": "n/a",
     "title": "n/a",
     "org": "n/a",
@@ -29,7 +29,37 @@
     "duties": "n/a",
     "specialized": "n/a"
   },
-      {
+    {
+    "id":48,
+    "source": "https://www.usajobs.gov/job/710532900",
+    "title": "IT Specialist (INFOSEC)",
+    "org": "Department of Commerce",
+    "division": "National Oceanic and Atmospheric Administration (NOAA), National Marine Fisheries Service (NMFS), Alaska Fisheries Science Center (AFSC)",
+    "openDate": "03/06/2023",
+    "closeDate": "03/13/2023",
+    "grade": "ZP-3",
+    "city": "juneau, seattle",
+    "state": "ak, wa",
+    "remoteJob": "no",
+    "telework": "yes",
+    "appointment": "permanent",
+    "service": "competitive",
+    "promotionPotential": "3",
+    "jobFamily": "2210",
+    "supervisory": "no",
+    "clearance": "other",
+    "positionRisk": "moderate risk",
+    "trustDetermination": "suitability/fitness",
+    "announcement": "NMFS AKFSC-23-11852890-DE",
+    "controlNumber": "710532900",
+    "ncwfCode": "n/a",
+    "pd": "n/a",
+    "authority": "dha",
+    "summary": "This position is located within the Department of Commerce (DOC), National Oceanic and Atmospheric Administration (NOAA), National Marine Fisheries Service (NMFS), Alaska Fisheries Science Center (AFSC) with one vacancy located in Seattle, WA or Juneau, AK.",
+    "duties": "As an IT Specialist (INFOSEC), you will perform the following duties: Assist team with all activities to ensure the confidentiality, integrity, and availability of systems, networks, and data through the full systems development lifecycle and the enhancement of information systems security programs, policies, procedures, and tools, in accordance with information security/assurance policies and the Federal Information Security Management Act (FISMA). Support all aspects of information technology infrastructure, from enterprise storage, virtualization, and other on-premises and cloud solutions, to authentication, technology services, and a variety of systems and applications, and coordinate solutions development, its installation, testing, and day to day operation and maintenance, monitoring, configuration, deployment, back up, restoration, security, documentation, and automation. Diagnose and resolve problems in response to customer reported incidents, and develop and manage customer service performance requirements, providing feedback on problematic trends and ensuring adherence to information security assurance policies and procedures. Manage accounts, system rights, and access to systems and equipment, and coordinate migration to new software applications through structured change management. Conduct assessments of planned and installed information systems to identify vulnerabilities, risks, and protection needs, and implement threat mitigating factors, contributing to systems contingency plans, disaster recovery procedures, updates, patches, backups and restoration.",
+    "specialized": "In addition to meeting the IT competencies above, applicants must also possess one full year (52 weeks) of specialized experience equivalent to the ZP-3 or GS-11 in the Federal service. Specialized experience MUST include all of the following: Assisting with system administration throughout the life cycle process (e.g. Customer support, development of new systems, or deploying patches); and Assisting with the implementation of information security policies and procedures (e.g. Identity, Credentialing, and Access Management (ICAM))."
+  },
+    {
     "id":46,
     "source": "https://www.usajobs.gov/job/709480200",
     "title": "IT Cybersecurity - DIRECT HIRE",

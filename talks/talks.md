@@ -6,10 +6,10 @@ Previous and upcoming speaking engagements with the presentation if I can share 
 
 | Session Title or Role | Event Name | Format | Location | Date |
 | --------------------- | ---------- | :----: | :------: | :--: |
-| [4. GSA Playbooks: Guiding Agencies Through ICAM Implemention](2304-dsi.md) | Defense Strategies Institute Identity Management Symposium | Presenter | National Harbor, MD | April 2023 |
-| [3. #197 - GSA & CISA PAM Playbook with Ken Myers and Ross Foard](2301-idac.md) | Identity at the Center Podcast | Interviewee | Podcast | January 2023 |
-| [2. Mobile and Cyber with Jim Kovach and Special Guest, Kenneth Myers](2301-atarc.md) | ATARC Federal IT Newscast | Interviewee | Podcast | January 2023 |
-| [1. Leveraging Derived Credentials to Secure User Access Across the Enterprise](2301-fedinsider.md) | FedInsider Webinar | Panelist | Virtual | January 2023 |
+| [04. GSA Playbooks: Guiding Agencies Through ICAM Implemention](2304-dsi.md) | Defense Strategies Institute Identity Management Symposium | Presenter | National Harbor, MD | April 2023 |
+| [03. #197 - GSA & CISA PAM Playbook with Ken Myers and Ross Foard](2301-idac.md) | Identity at the Center Podcast | Interviewee | Podcast | January 2023 |
+| [02. Mobile and Cyber with Jim Kovach and Special Guest, Kenneth Myers](2301-atarc.md) | ATARC Federal IT Newscast | Interviewee | Podcast | January 2023 |
+| [01. Leveraging Derived Credentials to Secure User Access Across the Enterprise](2301-fedinsider.md) | FedInsider Webinar | Panelist | Virtual | January 2023 |
 
 # 2022
 

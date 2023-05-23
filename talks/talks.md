@@ -6,7 +6,9 @@ Previous and upcoming speaking engagements with the presentation if I can share 
 
 | Session Title or Role | Event Name | Format | Location | Date |
 | --------------------- | ---------- | :----: | :------: | :--: |
-| [04. GSA Playbooks: Guiding Agencies Through ICAM Implemention](2304-dsi.md) | Defense Strategies Institute Identity Management Symposium | Presenter | National Harbor, MD | April 2023 |
+| [06. Digital Insanity: Exploring the Flexibility of NIST Digital Identity Assurance Levels](2305-marymount.md) | 2023 Marymount University Cybersecurity Celebration | Presenter | Arlington, VA | May 2023 |
+| [05. GSA Playbooks: Guiding Agencies Through ICAM Implementation](2304-dsi.md) | Defense Strategies Institute 2023 Identity Management Symposium | Presenter | National Harbor, MD | April 2023 |
+| [04. Digital Insanity: Exploring the Flexibility of NIST Digital Identity Assurance Levels](2302-iccws.md) | 18th International Conference on Cyber Warfare and Security | Presenter | Towson, MD | February 2023 |
 | [03. #197 - GSA & CISA PAM Playbook with Ken Myers and Ross Foard](2301-idac.md) | Identity at the Center Podcast | Interviewee | Podcast | January 2023 |
 | [02. Mobile and Cyber with Jim Kovach and Special Guest, Kenneth Myers](2301-atarc.md) | ATARC Federal IT Newscast | Interviewee | Podcast | January 2023 |
 | [01. Leveraging Derived Credentials to Secure User Access Across the Enterprise](2301-fedinsider.md) | FedInsider Webinar | Panelist | Virtual | January 2023 |

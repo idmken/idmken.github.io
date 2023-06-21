@@ -6,7 +6,7 @@ Previous and upcoming speaking engagements with the presentation if I can share 
 
 | Session Title or Role | Event Name | Format | Location | Date |
 | --------------------- | ---------- | :----: | :------: | :--: |
-| [07. Agencies Onboarding Contractors Need More Diverse Authentication Technologies](https://fedtechmagazine.com/article/2023/04/agencies-onboarding-contractors-need-more-diverse-authentication-technologies) | FedTech Magazine | Quoted | Magazine | April 2017 |
+| [07. Agencies Onboarding Contractors Need More Diverse Authentication Technologies](https://fedtechmagazine.com/article/2023/04/agencies-onboarding-contractors-need-more-diverse-authentication-technologies){:target="_blank"}{:rel="noopener noreferrer"} | FedTech Magazine | Quoted | Magazine | April 2017 |
 | [06. Digital Insanity: Exploring the Flexibility of NIST Digital Identity Assurance Levels](2305-marymount.md) | 2023 Marymount University Cybersecurity Celebration | Presenter | Arlington, VA | May 2023 |
 | [05. GSA Playbooks: Guiding Agencies Through ICAM Implementation](2304-dsi.md) | Defense Strategies Institute 2023 Identity Management Symposium | Presenter | National Harbor, MD | April 2023 |
 | [04. Digital Insanity: Exploring the Flexibility of NIST Digital Identity Assurance Levels](2302-iccws.md) | 18th International Conference on Cyber Warfare and Security | Presenter | Towson, MD | February 2023 |

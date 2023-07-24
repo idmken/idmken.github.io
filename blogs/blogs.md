@@ -2,6 +2,12 @@
 
 Articles or blog posts where I'm the author or co-author. Reproduced here with source location.
 
+## 2023
+| Title | Topic | Date | Role | Published Link |
+| ----- | -------- | ---- | ----- | ------ |
+| 1. Digital Autopen Playbook pinpoints how agencies can leverage technology for digital signatures | Digital Signature | May 2023 | Co-Author | [Digital.gov Blog](https://digital.gov/2023/05/23/digital-autopen-playbook-pinpoints-how-agencies-can-leverage-technology-for-digital-signatures/){:target="_blank"}{:rel="noopener noreferrer"} |
+
+
 ## 2022
 
 | Title | Topic | Date | Role | Published Link |

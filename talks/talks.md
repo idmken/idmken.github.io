@@ -5,9 +5,11 @@ Previous and upcoming speaking engagements with the presentation if I can share 
 # 2023
 
 | Session Title or Role | Event Name | Format | Location | Date |
-| --------------------- | ---------- | :----: | :------: | :--: | 
-| [12. Privileged Identity and Lifecycle Management](2310-identity.md) | 2023 Identity Week America | Presenter | Washington, DC | October 2023 |
-| [11. Evolution of MFA and ICAM Modernization](2309-afcea.md) | 2023 AFCEA International Federal Identity Forum and Expo | Presenter | Dulles, VA | Sep 2023 |
+| --------------------- | ---------- | :----: | :------: | :--: |
+| [14. Privileged Identity and Lifecycle Management](2310-identity.md) | 2023 Identity Week America | Presenter | Washington, DC | October 2023 |
+| 13. Successfully Managing AI Machine Identities for Digital Workers | 2023 Machine Identity Management Summit | Presenter | Virtual | September 2023 |
+| [12. Agency Spotlight: GSA](2309-nextgov.md) | NextGov Cyber Defenders Episode 2 | Presenter | Virtual | September 2023 |
+| [11. Evolution of MFA and ICAM Modernization](2309-afcea.md) | 2023 AFCEA International Federal Identity Forum and Expo | Presenter | Dulles, VA | September 2023 |
 | [10. Privileged Identity and Digital Identity Risk Assessment Playbooks](2307-isacagwdc.md) | ISACA GWDC Summer Seminar - Cybersecurity | Presenter | Virtual | July 2023 |
 | [09. Securing Access to Data: An Exploration of ICAM and ABAC](2307-atarc.md) | ATARC Webinar | Panelist | Virtual | July 2023 |
 | [08. Identity Day - Horizons of Identity Security Workshop](2306-sailpoint.md) | Horizons of Identity Security Workshop | Panelist | Reston, VA | June 2023 |

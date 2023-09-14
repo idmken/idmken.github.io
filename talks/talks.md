@@ -6,6 +6,7 @@ Previous and upcoming speaking engagements with the presentation if I can share 
 
 | Session Title or Role | Event Name | Format | Location | Date |
 | --------------------- | ---------- | :----: | :------: | :--: |
+| [15. Identity Governance; A Critical Enabler of Zero Trust](2310-atarc.md) | ATARC Webinar | Panelist | Virtual | October 2023 |
 | [14. Privileged Identity and Lifecycle Management](2310-identity.md) | 2023 Identity Week America | Presenter | Washington, DC | October 2023 |
 | [13. Successfully Managing AI Machine Identities for Digital Workers](2309-venafi.md) | 2023 Machine Identity Management Summit | Presenter | Virtual | September 2023 |
 | [12. Agency Spotlight: GSA](2309-nextgov.md) | NextGov Cyber Defenders Episode 2 | Presenter | Virtual | September 2023 |

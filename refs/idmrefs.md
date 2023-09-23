@@ -41,8 +41,11 @@ Sources, articles or training to increase our digital identity knowledge. I've r
 - [Achieving National Institute of Standards and Technology Authenticator Assurance Levels with the Microsoft Identity Platform By: Microsoft (25 min Read)](https://azure.microsoft.com/mediahandler/files/resourcefiles/microsoft-nist/Achieving%20NIST%20Authentication%20Assurance%20Levels%20with%20the%20Microsoft%20Identity%20Platform.pdf){:target="_blank"}{:rel="noopener noreferrer"} **How to achieve NIST 800-63-3 levels using Azure AD.**
 - [Selecting Secure Multi-factor Authentication Solutions By: NSA (25 min read)](https://media.defense.gov/2020/Sep/22/2002502665/-1/-1/0/CSI_MULTIFACTOR_AUTHENTICATION_SOLUTIONS_UOO17091520.PDF){:target="_blank"}{:rel="noopener noreferrer"} **Good overview on authenticators and how some modern solutions stack up to NIST 800-63-3B requirements.***
 
-### Artciles on National Identity Systems
+### Articles on National Identity Systems
 - [Path Dependency on National Digital Identity By: Henk Marsman via LinkedIN (10 min read)](https://www.linkedin.com/pulse/path-dependency-national-digital-identity-eid-henk-marsman){:target="_blank"}{:rel="noopener noreferrer"} **Great article on path dependency in successful national identity systems.**
+
+### Articles on Identity Verification
+- [Logging In and Providing Proof: A Guide to U.S. Government Actions on Digital Identity By: Ariel Kennan, Elizabeth Bynum Sorrell, and Milda Aksamitauskas via Beech Center for Social Impact + Innovation at Georgetown University (13 min read](https://www.digitalbenefitshub.org/publications/guide-to-us-federal-government-digital-identity){:target="_blank"}{:rel="noopener noreferrer"} **Overview of U.S. Federal Government efforts in national identity or improving digital benefit delivery.**
 
 ### Articles Related to Privilege Escalation
 - [Attacking Azure, Azure AD, and Introducing PowerZure By: Ryan Hausknecht via SpectorOps (14 min read)](https://posts.specterops.io/attacking-azure-azure-ad-and-introducing-powerzure-ca70b330511a){:target="_blank"}{:rel="noopener noreferrer"}

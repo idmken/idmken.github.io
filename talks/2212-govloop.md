@@ -23,3 +23,6 @@ Panelists:
 - Frank Briguglio; Public Sector CTO @ SailPoint
 - Treb Farrales; Managing Director @ Deloitte
 - Kenneth Myers; Director, Identity Assurance and Trusted Access Division @ General Services Administration
+
+## Press Related to Event
+1. [Identity-Centric Strategies Drive Government Security By: Adam Stone, GovLoop](https://www.govloop.com/identity-centric-strategies-drive-government-security/){:target="_blank"}{:rel="noopener noreferrer"} 

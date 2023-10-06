@@ -14,7 +14,8 @@ Moderator:
 - Kiersten Patton; Consultant @ ATARC
 
 Panelists:
-- Shane Barney; Chief Information Security Officer, Office of Information Technology @ U.S. Citizenship and Immigration Services
+- Louis Eichenbaum; Deputy Director, Program Management Divison, DOI Zero Trust Program Manager @ U.S. Department of the Interior Office of the Chief Information Officer
 - Donald Bauer; Chief Technology Officer, Global Talent Management @ U.S. Department of State
-- Dr. Sarbari Gupta; Founder & Chief Executive Officer @ Electrosoft
-- Kenneth Myers; Director, Identity Assurance and Trusted Access Division @ General Services Administration
+- Amer Helmy; Manager, Federal Identity, Credential, and Access Management @ U.S. Department of Labor
+- Dr Nnamdi Osia; ICAM SME @ Electrosoft
+- Kenneth Myers; Director, Identity Assurance and Trusted Access Division @ General Services Administration Office of Government-wide Policy

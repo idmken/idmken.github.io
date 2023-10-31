@@ -6,7 +6,7 @@ Previous and upcoming speaking engagements with the presentation if I can share 
 
 | Session Title or Role | Event Name | Format | Location | Date |
 | --------------------- | ---------- | :----: | :------: | :--: |
-| [17. Automating ICAM for the Future of Workforce Management](2310-nextgov.md) | NextGov/FCW Webinar | Panelist | Virtual | October 2023. |
+| [17. Automating ICAM for the Future of Workforce Management](2310-govexec.md) | NextGov/FCW Webinar | Panelist | Virtual | October 2023. |
 | [16. FIDO Adoption on US Government Mobile Devices and So, What Does the U.S. Government Think About FIDO Authentication?](2310-fido.md) | FIDO Authenticate 2023 | Panelist | San Diego, CA | October 2023 |
 | [15. Identity Governance; A Critical Enabler of Zero Trust](2310-atarc.md) | ATARC Webinar | Panelist | Virtual | October 2023 |
 | [14. Privileged Identity and Lifecycle Management](2310-identity.md) | 2023 Identity Week America | Presenter | Washington, DC | October 2023 |

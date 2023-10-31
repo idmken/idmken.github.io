@@ -3,7 +3,8 @@ Hosted by: Government Executive<br>
 Date: October 24, 2023<br>
 Venue: Virtual<br>
 Details: 
-- [Agenda](https://events.govexec.com/okta-automating-icam-for-the-future-of-workforce-management/){:target="_blank"}{:rel="noopener noreferrer"} 
+- [Agenda](https://events.govexec.com/okta-automating-icam-for-the-future-of-workforce-management/){:target="_blank"}{:rel="noopener noreferrer"}
+- [Recording](https://events.govexec.com/okta-automating-icam-for-the-future-of-workforce-management/on-demand/){:target="_blank"}{:rel="noopener noreferrer"}
 
 ## Automating ICAM for the Future of Workforce Management
 As the workplace expands, identity is imperative to maintain an incentive to collaborate without interruptions or losing hold of a strong cybersecurity posture. As a result, Identity, Credential, and Access Management (ICAM) must be made a personalized and protected experience.

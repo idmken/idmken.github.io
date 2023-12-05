@@ -1,0 +1,161 @@
+catalog:
+  title: Conformance Criteria for NIST SP 800-63A Enrollment and Identity Proofing and NIST SP 800-63B Authentication and Lifecycle Management
+  metadata:
+    published: 2020-06-01
+    last-modified: 2020-06-01
+    version: 1.0
+    oscal-version: 1.0.0
+    source: [NIST SP 800-63A Conformance Criteria](^1^) [NIST SP 800-63B Conformance Criteria](^2^)
+  groups:
+    - id: general
+      title: General Requirements
+      controls:
+        - id: GEN-1
+          title: Identity proofing SHALL NOT be performed to determine suitability or entitlement to gain access to services or benefits[^3^][3][^4^][4].
+          properties:
+            - name: section
+              value: 4.2
+            - name: assurance-level
+              value: IAL2, IAL3
+        - id: GEN-2
+          title: Collection of PII SHALL be limited to the minimum necessary to resolve to a unique identity in a given context and to validate the existence of the claimed identity and associate the claimed identity with the applicant providing identity evidence for appropriate identity resolution, validation, and verification[^5^][5][^6^][6].
+          properties:
+            - name: section
+              value: 4.4.1.1, 4.2
+            - name: assurance-level
+              value: IAL2, IAL3
+        - id: GEN-3
+          title: The CSP SHALL provide explicit notice to the applicant at the time of collection regarding the purpose for collecting and maintaining a record of the attributes necessary for identity proofing, including whether such attributes are voluntary or mandatory to complete the identity proofing process, and the consequences for not providing the attributes[^7^][7].
+          properties:
+            - name: section
+              value: 4.2
+            - name: assurance-level
+              value: IAL2, IAL3
+        - id: GEN-4a
+          title: If CSPs process attributes for purposes other than identity proofing, authentication, or attribute assertions (collectively “identity service”), related fraud mitigation, or to comply with law or legal process, then CSPs SHALL implement measures to maintain predictability and manageability commensurate with the privacy risk arising from the additional processing[^8^][8].
+          properties:
+            - name: section
+              value: 4.2
+            - name: assurance-level
+              value: IAL2, IAL3
+        - id: GEN-4b
+          title: If the CSP employs consent as part of its measures to maintain predictability and manageability, then it SHALL NOT make consent for the additional processing a condition of the identity service[^9^][9].
+          properties:
+            - name: section
+              value: 4.2
+            - name: assurance-level
+              value: IAL2, IAL3
+        - id: GEN-5a
+          title: The CSP SHALL provide mechanisms for redress of applicant complaints or problems arising from the identity proofing[^10^][10][^11^][11]. These mechanisms SHALL be easy for applicants to find and use[^12^][12][^13^][13].
+          properties:
+            - name: section
+              value: 4.2
+            - name: assurance-level
+              value: IAL2, IAL3
+        - id: GEN-5b
+          title: The CSP SHALL assess the mechanisms for their efficacy in achieving resolution of complaints or problems.
+          properties:
+            - name: section
+              value: 4.2
+            - name: assurance-level
+              value: IAL2, IAL3
+        - id: GEN-6
+          title: The identity proofing and enrollment processes SHALL be performed according to an applicable written policy or practice statement that specifies the particular steps taken to verify identities[^14^][14].
+          properties:
+            - name: section
+              value: 4.2
+            - name: assurance-level
+              value: IAL2, IAL3
+        - id: GEN-7
+          title: The practice statement SHALL include control information detailing how the CSP handles proofing errors that result in an applicant not being successfully enrolled[^15^][15].
+          properties:
+            - name: section
+              value: 4.2
+            - name: assurance-level
+              value: IAL2, IAL3
+        - id: GEN-8a
+          title: The CSP SHALL maintain a record, including audit logs, of all steps taken to verify the identity of the applicant[^16^][16][^17^][17].
+          properties:
+            - name: section
+              value: 4.2
+            - name: assurance-level
+              value: IAL2, IAL3
+        - id: GEN-8b
+          title: The CSP SHALL record the types of identity evidence presented in the proofing process[^18^][18][^19^][19].
+          properties:
+            - name: section
+              value: 4.2
+            - name: assurance-level
+              value: IAL2, IAL3
+        - id: GEN-8c
+          title: The CSP SHALL conduct a risk management process, including assessments of privacy and security risks to determine any steps that it will take to verify the identity of the applicant beyond any mandatory requirements specified herein, the PII, including any biometrics, images, scans, or other copies of the identity evidence that the CSP will maintain as a record of identity proofing, and the schedule of retention for these records[^20^][20].
+          properties:
+            - name: section
+              value: 4.2
+            - name: assurance-level
+              value: IAL2, IAL3
+        - id: GEN-9
+          title: All PII collected as part of the enrollment process SHALL be protected to ensure confidentiality, integrity, and attribution of the information source[^21^][21].
+          properties:
+            - name: section
+              value: 4.2
+            - name: assurance-level
+              value: IAL2, IAL3
+        - id: GEN-10
+          title: The entire proofing transaction, including transactions that involve a third party, SHALL occur over authenticated protected channels[^22^][22][^23^][23].
+          properties:
+            - name: section
+              value: 4.2
+            - name: assurance-level
+              value: IAL2, IAL3
+        - id: GEN-11
+          title: If the CSP uses fraud mitigation measures, then the CSP SHALL conduct a privacy risk assessment for these mitigation measures[^24^][24]. Such assessments SHALL include any privacy risk mitigations or other technological mitigations, and be documented per requirement 4.2 (7) above[^25^][25].
+          properties:
+            - name: section
+              value: 4.2
+            - name: assurance-level
+              value: IAL2, IAL3
+        - id: GEN-12
+          title: In the event a CSP ceases to conduct identity proofing and enrollment processes, then the CSP SHALL be responsible for fully disposing of or destroying any sensitive data including PII, or its protection from unauthorized access for the duration of retention[^26^][26][^27^][27].
+          properties:
+            - name: section
+              value: 4.2
+            - name: assurance-level
+              value: IAL2, IAL3
+        - id: GEN-13
+          title: Regardless of whether the CSP is a federal agency or non-federal entity, the following requirements apply to the federal agency offering or using the proofing service: The agency SHALL consult with their Senior Agency Official for Privacy (SAOP) to conduct an analysis determining whether the collection of PII to conduct identity proofing triggers Privacy Act requirements[^28^][28]. The agency SHALL publish a System of Records Notice (SORN) to cover such collection, as applicable[^29^][29][^30^][30]. The agency SHALL consult with their SAOP to conduct an analysis determining whether the collection of PII to conduct identity proofing triggers E-Government Act of 2002 requirements[^31^][31][^28^][28]. The agency SHALL publish a Privacy Impact Assessment (PIA) to cover such collection, as applicable[^32^][32][^30^][30].
+          properties:
+            - name: section
+              value: 4.2
+            - name: assurance-level
+              value: IAL2, IAL3
+        - id: GEN-14
+          title: An enrollment code SHALL be comprised of one of the following: Minimally, a random six character alphanumeric or equivalent entropy[^33^][33]. For example, a code generated using an approved random number generator or a serial number for a physical hardware authenticator; OR A machine-readable optical label, such as a QR Code, that contains data of similar or higher entropy as a random six character alphanumeric[^34^][34][^35^][35].
+          properties:
+            - name: section
+              value: 4.6
+            - name: assurance-level
+              value: IAL2, IAL3
+        - id: GEN-15
+          title: The CSP SHALL send the enrollment code to the validated address of record within 10 minutes of the identity verification.
+          properties:
+            - name: section
+              value: 5.2
+            - name: assurance-level
+              value: IAL2
+        - id: GEN-16
+          title: The CSP SHALL ensure that the enrollment code is valid for a minimum of 10 minutes and a maximum of 24 hours.
+          properties:
+            - name: section
+              value: 5.3.4.1
+            - name: assurance-level
+              value: IAL2
+        - id: GEN-17
+          title: The CSP SHALL ensure that the enrollment code is only used once and is not reused for any other identity verification transaction.
+          properties:
+            - name: section
+              value: 5.3.4.1
+            - name: assurance-level
+              value: IAL2
+        - id: GEN-18
+          title: The CSP SHALL collect and store a biometric sample from the applicant during

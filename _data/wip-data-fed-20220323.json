@@ -1,6 +1,6 @@
 [
   {
-    "id":96,
+    "id":97,
     "source": "",
     "title": "IT Specialist (INFOSEC)",
     "org": "Department of Defense (DoD)",
@@ -27,6 +27,35 @@
     "summary": "n/a",
     "duties": "",
     "specialized": ""
+  },
+  {
+    "id":96,
+    "source": "https://www.usajobs.gov/job/771915100",
+    "title": "Lead IT Specialist (INFOSEC)",
+    "org": "Department of the Treasury",
+    "division": "Bureau of the Fiscal Service, Information & Security Services (ISS), Identity Credentialing & Access Management (ICAM) Division, Authentication Service Branch",
+    "openDate": "01/23/2024",
+    "closeDate": "02/01/2024",
+    "grade": "GS-13",
+    "city": "various",
+    "state": "various",
+    "remoteJob": "no",
+    "telework": "yes",
+    "appointment": "permanent",
+    "service": "competitive",
+    "promotionPotential": "13",
+    "jobFamily": "2210",
+    "supervisory": "no",
+    "clearance": "ts",
+    "positionRisk": "n/a",
+    "trustDetermination": "n/a",
+    "announcement": "24-FS-194-DH",
+    "controlNumber": "771915100",
+    "ncwfCode": "n/a",
+    "authority": "direct hire",
+    "summary": "The position is located at the Bureau of the Fiscal Service, Information & Security Services (ISS), Identity Credentialing & Access Management (ICAM) Division, Authentication Service Branch, serving as a team leader, assuring work assignments of the team are carried out according to the manager's instructions regarding priorities, deadlines, and quality.",
+    "duties": "As an Lead IT Specialist (INFOSEC), you will Ensure that the organization's strategic plan, mission, vision, and values are communicated to the team and integrated into the team's strategies, goals, objectives, work plans, and work products and services. Articulate and communicate to the team the assignment, project, problem to be solved, actionable events, milestones, priorities, and/or program issues under review, and deadlines and time frames for completion. Provide expert leadership and skill in applying advanced IT principles, concepts, methods, standards, and practices sufficient to accomplish assignments related to the prevention and defense against unauthorized access to systems, networks, and data in addition to the development and operation of Fiscal Service's Identity, Credentialing and Access Management (ICAM) security hardware, operating systems, and/or application software. Serve as an expert on Identity, Credentialing and Access Management (ICAM) security technologies. This includes researching, engineering, acquiring, testing, and implementing tools and techniques for implementing, monitoring, operating, and maintaining advanced hardware and/or software systems. Coach the team in the selection and application of appropriate problem solving methods and techniques; provide advice on work methods, practices, and procedures; and assist the team and/or individual members in identifying the parameters of a viable solution.",
+    "specialized": "For the GS-13, you must have one year of specialized experience at a level of difficulty and responsibility at the GS-12 level in the Federal service or equivalent, which have equipped the candidate with the particular knowledge, skills, and abilities to successfully perform the duties of the position. Specialized experience for this position includes experience performing IT work that involves planning, leading, or developing assignments, and directing or leading administrative and technical IT projects and programs in order to support technologies, operations, applications, and activities within the Branch. For the GS-13, examples of such experience could include Experience leading a team for IT related projects. OR Experience in the technical planning, engineering, deployment, and support of IT systems; OR Experience as an administrator of IT systems or devices with a wide range of server OS (Operating System), software, management, and remote support technologies and techniques at the Tier 3 or 4 support levels.; OR Providing liaison, recommendations and technical information between an organization and customers."
   },
   {
     "id":95,

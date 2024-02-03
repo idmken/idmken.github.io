@@ -1,6 +1,6 @@
 [
   {
-    "id":94,
+    "id":95,
     "source": "",
     "title": "IT Specialist (INFOSEC)",
     "org": "Department of Defense (DoD)",
@@ -27,6 +27,35 @@
     "summary": "n/a",
     "duties": "",
     "specialized": ""
+  },
+  {
+    "id":94,
+    "source": "https://www.usajobs.gov/job/771639000",
+    "title": "Security Specialist (Direct Hire)",
+    "org": "National Aeronautics and Space Administration (NASA)",
+    "division": "Lyndon B. Johnson Space Center",
+    "openDate": "01/23/2024",
+    "closeDate": "01/29/2024",
+    "grade": "GS-09; GS-11",
+    "city": "Houston",
+    "state": "TX",
+    "remoteJob": "no",
+    "telework": "yes",
+    "appointment": "permanent",
+    "service": "competitive",
+    "promotionPotential": "12",
+    "jobFamily": "0080",
+    "supervisory": "no",
+    "clearance": "ts",
+    "positionRisk": "critical-sensitive (cs) / high risk",
+    "trustDetermination": "suitability/fitness",
+    "announcement": "JSC-24-DE-12277158-JN",
+    "controlNumber": "771639000",
+    "ncwfCode": "n/a",
+    "authority": "direct hire",
+    "summary": "Serves as a Security Specialist at Johnson Space Center in the areas of Physical Security, Identity and Credential Management (ICAM), Communication Security (COMSEC), Industrial Security, and Classified National Security Information (CNSI).",
+    "duties": "Duties described below are at the highest grade advertised. Duties assigned at lower grade levels will be of more limited scope, performed with less independence and limited complexity; duties will be commensurate with the grade of selected employee. Protects NASA property and individuals from threats or adversarial influences by carrying out physical security countermeasures designed to protect personnel from potential threats. Prevents unauthorized access to equipment, facilities, materials, and documents while safeguarding NASA assets against damage and theft. Implements NASA physical security requirements by conducting facility security assessments, effecting appropriate levels of protection while providing Center organizations with guidance on meeting physical security requirements. Serves as the alternate COMSEC (Communications Security) Account Manager (CAM) handling, controlling, and safeguarding sensitive COMSEC material and encryption equipment while supporting investigations of COMSEC incidents, and audits. Supports Industrial Security processes for classification and clearance levels required for contract performance; product classification; and access to communications security, intelligence, or international organization information. Supports the Center's Classified National Security Information (CNSI) program by following policies, instructions, and procedures for classification and declassification authorities in the physical storage, safeguarding, and control of documents. Supports the Identity, Credentialing, and Access Control Management (ICAM) program by authorizing credentials, conducting background checks, and managing tour accesses. Fosters a culture of engagement, diversity, inclusiveness, excellence and innovation. Champions NASAs commitment to Diversity, Equity, Inclusion and Accessibility to create an environment that promotes a commitment to safety, integrity, and teamwork.",
+    "specialized": "a) One year of directly related specialized experience equivalent to the GS-07 or GS-09 level including assisting in the evaluation of security-related reports, analyzing finds and providing recommendations; communicating security processes, regulations, or trainings utilizing security reports; and assisting in the identification and implementation of methods to enhance protection and security in areas such as Physical Security, Communication Security (COMSEC), Industrial Security, Classified Information Security Information (CNSI), and Identity and Credential Management (ICAM) OR b) Completed all requirements for a doctoral degree (i.e., Ph.D. or equivalent) in an appropriate field OR c) Completed 3 full academic years of progressively higher-level graduate education leading to a Ph.D. degree or equivalent doctoral degree in an appropriate field OR d) LL.M., if related OR e) Have an equivalent combination of experience and graduate study as discussed in a), b), c) and d) above."
   },
   {
     "id":93,

@@ -1,6 +1,6 @@
 [
   {
-    "id":98,
+    "id":99,
     "source": "",
     "title": "IT Specialist (INFOSEC)",
     "org": "Department of Defense (DoD)",
@@ -27,6 +27,35 @@
     "summary": "n/a",
     "duties": "",
     "specialized": ""
+  },
+  {
+    "id":98,
+    "source": "https://www.usajobs.gov/job/772132500",
+    "title": "Program Manager (PACS)",
+    "org": "Department of the Treasury",
+    "division": "Departmental Offices",
+    "openDate": "01/23/2024",
+    "closeDate": "01/30/2024",
+    "grade": "GS-15",
+    "city": "Washington",
+    "state": "DC",
+    "remoteJob": "no",
+    "telework": "yes",
+    "appointment": "permanent",
+    "service": "competitive",
+    "promotionPotential": "15",
+    "jobFamily": "0301",
+    "supervisory": "no",
+    "clearance": "n/a",
+    "positionRisk": "n/a",
+    "trustDetermination": "n/a",
+    "announcement": "24-DO-295",
+    "controlNumber": "772132500",
+    "ncwfCode": "n/a",
+    "authority": "merit promotion",
+    "summary": "This position is located at Departmental Offices,Management CFO- Info Systems and CIO. As a Program Manager (PACS), you will serve as the Physical Access Control Systems (PACS) Program Manager for the Department of the Treasury and are responsible for the implementation of HSPD-12 PACS.",
+    "duties": "As a Program Manager (PACS), you will Serve as the agency expert on Homeland Security Presidential Directive (HSPD-12), FIPS-201, SP 800-116, Federal Identity Credential & Access Management (FICAM), and other regulations associated with PACS. Develop plans and set priorities for Treasury to successfully implement and ensure compliance with HSPD-12 requirements and federal guidance. Provide guidance and technical direction for the implementation of HSPD-12 requirements for both PIV card issuance and PACS upgrades. Manage the development of policies and operational procedures for Department-wide PACS. Oversee the development of objectives, prioritize requirements, and document the funding justification for PACS budgeting.",
+    "specialized": "For the GS-15, you must have one year of specialized experience at a level of difficulty and responsibility equivalent to the GS-14 grade level in the Federal service. Specialized Experience for this position includes Monitoring program compliance to requirements, regulations, or established performance levels; AND Experience with program analysis, including the experience guiding and structuring work and understanding large quantities of information and the production of a wide variety of written materials; AND Serving as a Physical Access Control Systems (PACS) Program Manager and experience with Identity, Credential and Access Management (ICAM), gained either in the public or private sector; AND Participating as a team leader on interdisciplinary project teams."
   },
   {
     "id":97,

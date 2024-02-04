@@ -1,6 +1,6 @@
 [
   {
-    "id":101,
+    "id":102,
     "source": "",
     "title": "IT Specialist (INFOSEC)",
     "org": "Department of Defense (DoD)",
@@ -27,6 +27,35 @@
     "summary": "n/a",
     "duties": "",
     "specialized": ""
+  },
+  {
+    "id":101,
+    "source": "https://www.usajobs.gov/job/772919000",
+    "title": "Supervisory IT Specialist (PLCYPLN)",
+    "org": "Department of Commerce",
+    "division": "International Trade Administration, Office of the Undersecretary, Office of the Chief Information Officer",
+    "openDate": "01/26/2024",
+    "closeDate": "02/07/2024",
+    "grade": "GS-15",
+    "city": "Washington",
+    "state": "DC",
+    "remoteJob": "no",
+    "telework": "yes",
+    "appointment": "permanent",
+    "service": "competitive",
+    "promotionPotential": "15",
+    "jobFamily": "2210",
+    "supervisory": "yes",
+    "clearance": "n/a",
+    "positionRisk": "non-sensitive (ns)/low risk",
+    "trustDetermination": "suitability/fitness",
+    "announcement": "ITA-OCIO-ICTAP-24-12292244",
+    "controlNumber": "772919000",
+    "ncwfCode": "n/a",
+    "authority": "n/a",
+    "summary": "This vacancy is for a Supervisory IT Specialist (PLCYPLN) in the International Trade Administration within the Department of Commerce.",
+    "duties": "As a Supervisory IT Specialist (PLCYPLN), you will perform the following duties Serve as senior expert and consultant to top agency management officials providing authoritative advice and guidance related to the ITA IT policy. Provide program management services including policy formulation and adoption, budget formulation and compliance, capital planning, strategic planning, establishment of program performance metrics and reporting. Supervise staff, plan work and determine priorities in allocating resources; evaluate staff performance and provide counseling and instruction to subordinate staff. Prepare, present and and implement OCIO's strategic plan; and present briefings to senior management on policy and strategic planning programs. Provides credible, cogent, and timely advice and counsel to the Chief Information Officer and other ITA senior management on programmatic, infrastructure, and administrative aspects of policy and strategic planning.",
+    "specialized": "You must possess one full year (52 weeks) of specialized experience equivalent to the GS-14 in the Federal service performing the following work Oversight of an Information Technology (IT) Program, including leading teams and/or supervising IT staff. Serving as a leading technical (IT) expert performing planning, organizing, and directing the service delivery of an IT Program and/or related services. Interpreting, developing, and implementing information system policies and procedures, i.e., in Technology Business Management (TBM); Federal Identity, Credential, and Access Management (ICAM ); and Enterprise Architecture and framework and Homeland Security Presidential Directive 12 (HSPD-12). Communicating technical information to a wide range of audiences, including the most senior agency and/or organization officials. Oversight and responsibility for IT-related budget formulation, compliance, and risk management."
   },
   {
     "id":100,

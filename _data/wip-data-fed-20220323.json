@@ -1,6 +1,6 @@
 [
   {
-    "id":99,
+    "id":100,
     "source": "",
     "title": "IT Specialist (INFOSEC)",
     "org": "Department of Defense (DoD)",
@@ -27,6 +27,35 @@
     "summary": "n/a",
     "duties": "",
     "specialized": ""
+  },
+  {
+    "id":99,
+    "source": "https://www.usajobs.gov/job/771673800",
+    "title": "Information Technology Specialist",
+    "org": "Judicial Branch",
+    "division": "Administrative Office of the U.S. Courts, Department of Technology Services (DTS), Systems Development and Support Office (SDSO), Software Infrastructure Division (SID), Directory Services Branch (DSB)",
+    "openDate": "01/24/2024",
+    "closeDate": "02/07/2024",
+    "grade": "AD 00",
+    "city": "Washington",
+    "state": "DC",
+    "remoteJob": "no",
+    "telework": "yes",
+    "appointment": "permanent",
+    "service": "Excepted",
+    "promotionPotential": "00",
+    "jobFamily": "2210",
+    "supervisory": "no",
+    "clearance": "n/a",
+    "positionRisk": "n/a",
+    "trustDetermination": "n/a",
+    "announcement": "24-DTS-12284583",
+    "controlNumber": "771673800",
+    "ncwfCode": "n/a",
+    "authority": "n/a",
+    "summary": "This position is located in the Department of Technology Services (DTS), Systems Development and Support Office (SDSO), Software Infrastructure Division (SID), Directory Services Branch (DSB) in Washington, DC.",
+    "duties": "Given the substantial user base includes over 35,000 judiciary users and 3.2 million public users, the incumbent will be a hands-on technical leader. Collaborating closely with peers and various departments, you will play a key role in shaping and implementing a multi-cloud hybrid Identity, Credential, and Access Management (ICAM) environment. We seek a candidate with a distinguished track record that speaks volumes about their ability to acquire and share knowledge through hands-on cross-training with fellow team members. The successful candidate will demonstrate dedication to collaborative growth and the mutual enrichment of shared expertise. Duties of the position include, but are not limited to Installing, configuring, administrating, fine-tuning, and resolving challenges associated with IBM Security Verify Governance / Identity Manager. Guiding installation procedures, implementing automation strategies, managing clusters, applying patches, executing backups, and overseeing various administrative functions. Creating and modifying workflows. Performing Python and Bash programming to optimize the technology stack. Crafting provisioning policies and implementing joiner, mover, and leaver functionalities. Establishing robust security protocols encompassing vital areas like Web Access Management, federation, cross-domain authentication, multifactor authentication, and cutting-edge authentication/authorization technologies.",
+    "specialized": "Applicants must have at least one full year (52 weeks) of specialized experience which is in or directly related to the line of work of this position. Specialized experience is demonstrated history of providing comprehensive enterprise administrative support for the IBM Security Verify suite."
   },
   {
     "id":98,

@@ -1,6 +1,6 @@
 [
   {
-    "id":102,
+    "id":103,
     "source": "",
     "title": "IT Specialist (INFOSEC)",
     "org": "Department of Defense (DoD)",
@@ -27,6 +27,35 @@
     "summary": "n/a",
     "duties": "",
     "specialized": ""
+  },
+  {
+    "id":102,
+    "source": "https://www.usajobs.gov/job/773085600",
+    "title": "Operations Officer",
+    "org": "Department of Defense (DoD)",
+    "division": "Department of the Army, U.S. Army Acquisitions Support Center, Program Executive Office, Command Control Communications-Tactical (PEO C3T)",
+    "openDate": "01/29/2024",
+    "closeDate": "02/02/2024",
+    "grade": "NH 3",
+    "city": "Fort Belvoir",
+    "state": "VA",
+    "remoteJob": "no",
+    "telework": "yes",
+    "appointment": "permanent",
+    "service": "competitive",
+    "promotionPotential": "3",
+    "jobFamily": "0301",
+    "supervisory": "no",
+    "clearance": "secret",
+    "positionRisk": "noncritical-sensitive (ncs)/moderate risk",
+    "trustDetermination": "suitability/fitness",
+    "announcement": "MCAD248213960058HW",
+    "controlNumber": "773085600",
+    "ncwfCode": "n/a",
+    "authority": "direct hire",
+    "summary": "This Operations Officer position is assigned to the Product Lead for Enterprise- Identity Credential and Access Management (E-ICAM), within Program Executive Office, Command, Control, Communications - Tactical (PEO C3T) and located at Fort Belvoir, Virginia.",
+    "duties": "Exercises delegated authority and broad responsibility for planning and administering all technical and operational aspects of management support functions. Serves as the Chief of the Operations Office. Initiates and develops program plans and investigates approaches with broad authority and minimal direction for planning and administering the assigned responsibilities. Oversees projects, programs, and assigned functions. Directs work which includes complex administrative or technical services that directly affect the organization as a whole or represent a major segment of a program critical to the organization’s mission.",
+    "specialized": "One year of specialized experience which includes:1) Develops plans and investigates methods with authority and minimal direction for administering the assigned functional responsibilities; 2) Utilizes appropriate data collection techniques for work reviewed; 3) Approving expenses associated with the purchase of goods and services. This definition of specialized experience is typical of work performed at the next lower grade/level position in the federal service (NH-02 or GS-11)."
   },
   {
     "id":101,

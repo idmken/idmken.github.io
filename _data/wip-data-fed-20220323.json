@@ -1,6 +1,6 @@
 [
   {
-    "id":103,
+    "id":104,
     "source": "",
     "title": "IT Specialist (INFOSEC)",
     "org": "Department of Defense (DoD)",
@@ -27,6 +27,35 @@
     "summary": "n/a",
     "duties": "",
     "specialized": ""
+  },
+  {
+    "id":103,
+    "source": "https://www.usajobs.gov/job/773425400",
+    "title": "Information Technology Specialist",
+    "org": "Judicial Branch",
+    "division": "Administrative Office of the U.S. Courts, Department of Technology Services (DTS), Systems Development and Support Office (SDSO)",
+    "openDate": "01/31/2024",
+    "closeDate": "02/03/2024",
+    "grade": "AD 00",
+    "city": "anywhere",
+    "state": "anywhere",
+    "remoteJob": "yes",
+    "telework": "n/a",
+    "appointment": "permanent",
+    "service": "excepted",
+    "promotionPotential": "00",
+    "jobFamily": "2210",
+    "supervisory": "no",
+    "clearance": "n/a",
+    "positionRisk": "n/a",
+    "trustDetermination": "n/a",
+    "announcement": "24-DTS-12290287",
+    "controlNumber": "773425400",
+    "ncwfCode": "n/a",
+    "authority": "merit promotion",
+    "summary": "This position is located in the Department of Technology Services (DTS), Systems Development and Support Office (SDSO).",
+    "duties": "The Full Stack Identity Architect is pivotal in designing, building, and maintaining the Judiciary's Identity, Credential, and Access Management systems. This role encompasses tasks in software development, integration, project management, and architectural design tailored for the Judiciary's unique needs across on-prem and cloud environments. They will be a part of the Administrative Office of the U.S. Courts (AO), which provides a range of services to federal courts. Duties may include but are not limited to Architecting, designing, and ensuring the implementation of robust ICAM solutions tailored for the Judiciary's unique needs both on-premise and in cloud-based multi-tenant environments. Collaborating with diverse teams to gather and consolidate ICAM requirements. Coordinating with software developers and IT specialists for the seamless integration of ICAM solutions. Supporting the Judiciary by providing technical product documentation. Ensuring all ICAM solutions are secure, resilient, and adhere to approved policies. Ensuring all ICAM solutions have appropriate levels of security, resilience, replication, disaster recovery, and adherence to approved Change, Configuration, and Release Management policies.",
+    "specialized": "Applicants must have at least one full year (52 weeks) of specialized experience which is in or directly related to the line of work of this position. Specialized experience is demonstrated experience in ALL of the following (1) Create standard IdAM practices and take charge of build and development decisions, infrastructure and systems solutions to identity related problems that meet both security and operational objectives; AND (2) Execute detail design tasks, create associated work and advise on right-sizing decisions for infrastructure, software solutions, and services. (Your resume must show clear and convincing evidence of all areas of specialized experience.) Desirable but not required. Experience with RESTful APIs, microservices, and message-based architectures. Experience with cloud technologies such as AWS, Azure, or Google Cloud Platform. Strong software development skills in Java, C#, or Python. Strong project management skills. Experience with the federal Judiciary is a plus."
   },
   {
     "id":102,

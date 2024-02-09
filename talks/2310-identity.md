@@ -10,4 +10,4 @@ Privileged users continue to be the most valuable and targeted accounts within a
 
 Presenters:
 - Ross Foard; Senior Engineer, Cybersecurity Division @ Cybersecurity and Infrastructure Security Agency
-- Dr. Kenneth Myers; Director, Identity Assurance and Trusted Access Division, Office of Government-wide Policy @ General Services Administration
+- Dr. Kenneth Myers; Director, Identity Assurance and Trusted Access Division @ U.S. General Services Administration Office of Government-wide Policy

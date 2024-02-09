@@ -18,4 +18,4 @@ Panelists:
 - Darek Kitlinski; Chief, Cloud Services Division, Enterprise Cloud Management Agency @ U.S. Army
 - Surendra Babu; Deputy Chief, Cloud Hosting and Networks Office @ Administrative Office of the U.S. Courts
 - Bryan Rosensteel; Federal CTO @ Ping Identity
-- Kenneth Myers; Director, Identity Assurance and Trusted Access Division @ General Services Administration
+- Dr. Kenneth Myers; Director, Identity Assurance and Trusted Access Division @ U.S. General Services Administration Office of Government-wide Policy

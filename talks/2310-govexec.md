@@ -17,4 +17,4 @@ Moderator:
 Panelists:
 - Brentley Catoe; Information Security Management @ Nashville Electric Service
 - Joey Barkley; Senior Solutions Engineer @ Okta Federal
-- Dr. Kenneth Myers; Director, Identity Assurance and Trusted Access Division, Office of Government-wide Policy @ General Services Administration
+- Dr. Kenneth Myers; Director, Identity Assurance and Trusted Access Division @ U.S. General Services Administration Office of Government-wide Policy

@@ -14,4 +14,4 @@ Moderator:
 Panelists:
 - Shane Barney; Chief Information Security Officer, U.S. Citizenship and Immigration Service @ Department of Homeland Security
 - Trevor Brenn; Manager of Engineering @ Varonis
-- Kenneth Myers; Director, Identity Assurance and Trusted Access Division, Office of Government-wide Policy @ General Services Administration
+- Dr. Kenneth Myers; Director, Identity Assurance and Trusted Access Division, Office of Government-wide Policy @ General Services Administration

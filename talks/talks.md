@@ -1,12 +1,18 @@
 # Talks
 
-Previous and upcoming speaking engagements with the presentation if I can share it. Reach out if you're interested in a topic.
+A list of previous and upcoming speaking engagements with the presentation if I can share it. Reach out if you're interested in a topic.
 
-# 2023
+## 2024
 
 | Session Title or Role | Event Name | Format | Location | Date |
 | --------------------- | ---------- | :----: | :------: | :--: |
-| [17. Automating ICAM for the Future of Workforce Management](2310-govexec.md) | NextGov/FCW Webinar | Panelist | Virtual | October 2023. |
+| [01. Zero Trust and the Cloud](2401-cyberscoop.md) | Cyberscoop Zero Trust Summit 2024 | Panelist | Washington, DC | February 2024 |
+
+## 2023
+
+| Session Title or Role | Event Name | Format | Location | Date |
+| --------------------- | ---------- | :----: | :------: | :--: |
+| [17. Automating ICAM for the Future of Workforce Management](2310-govexec.md) | NextGov/FCW Webinar | Panelist | Virtual | October 2023 |
 | [16. FIDO Adoption on US Government Mobile Devices and So, What Does the U.S. Government Think About FIDO Authentication?](2310-fido.md) | FIDO Authenticate 2023 | Panelist | San Diego, CA | October 2023 |
 | [15. Identity Governance; A Critical Enabler of Zero Trust](2310-atarc.md) | ATARC Webinar | Panelist | Virtual | October 2023 |
 | [14. Privileged Identity and Lifecycle Management](2310-identity.md) | 2023 Identity Week America | Presenter | Washington, DC | October 2023 |
@@ -24,7 +30,7 @@ Previous and upcoming speaking engagements with the presentation if I can share 
 | [02. Mobile and Cyber with Jim Kovach and Special Guest, Kenneth Myers](2301-atarc.md) | ATARC Federal IT Newscast | Interviewee | Podcast | January 2023 |
 | [01. Leveraging Derived Credentials to Secure User Access Across the Enterprise](2301-fedinsider.md) | FedInsider Webinar | Panelist | Virtual | January 2023 |
 
-# 2022
+## 2022
 
 | Session Title or Role | Event Name | Format | Location | Date |
 | --------------------- | ---------- | :----: | :------: | :--: |
@@ -44,7 +50,7 @@ Previous and upcoming speaking engagements with the presentation if I can share 
 | [02. Managing Millions of Identities Across Hybrid Cloud Environments](2203-atarc.md) | ATARC's Hybrid Virtual Cloud Summit | Panelist | Virtual Summit | March 2022 |
 | [01. Zero Trust and the Federal Identity-Centric Security Roadmap](2202-atarc.md) | ATARC’s Mission Critical Identity Security Virtual Summit | Panelist | Virtual Summit |  February 2022 | 
 
-# 2021
+## 2021
 
 | Session Title or Role | Event Name | Format | Location | Date |
 | --------------------- | ---------- | :----: | :------: | :--: |
@@ -61,7 +67,7 @@ Previous and upcoming speaking engagements with the presentation if I can share 
 | [02. GSA Digital Worker Identity Playbook](2104-DSIIDMGSADWPlaybook.md) | Defense Strategies Institute (DSI) Identity Management Symposium 2021 | Speaker | Virtual | April 2021 |
 | [01. Identity-Centric Security: The New Agency Perimeter](2104-ATARCIdentity.md) | ATARC/BeyondTrust Webinar | Panelist | Virtual | April 2021 |
 
-# 2020
+## 2020
 
 | Session Title or Role | Event Name | Format | Location | Date |
 | --------------------- | ---------- | :----: | :------: | :--: |
@@ -71,14 +77,14 @@ Previous and upcoming speaking engagements with the presentation if I can share 
 | [02. Breaking into identity Management with Azure!](2004-BreakingIdentity.md) | ISACA GWDC Cyber Workshop 2020 | Speaker | Virtual | April 2020 |
 | [01. Someone's Borrowed my Identity!](2002-cycon3.md) | CyCon 3.0 Conference | Speaker | Reston, VA | February 2020 |
 
-# 2019
+## 2019
 
 | Session Title or Role | Event Name | Format | Location | Date |
 | --------------------- | ---------- | :----: | :------: | :--: |
 | [02. Intro to PKI Audit and the Federal PKI](1910-pkiaudit.md) | Institute of Internal Auditors (IIA) Training Workshop | Trainer | Washington, D.C. | October 2019 |
 | [01. Identity and Access Management in the Cloud](1906-prowebinar.md) | Protiviti Event | Speaker | Webinar | June 2019 |
 
-# 2015
+## 2015
 
 | Session Title or Role | Event Name | Format | Location | Date |
 | --------------------- | ---------- | :----: | :------: | :--: |

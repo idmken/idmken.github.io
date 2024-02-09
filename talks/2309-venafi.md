@@ -11,4 +11,4 @@ Federal agencies use digital workers to automate processes, increase efficiencie
 
 Presenters:
 - Ross Foard; IT Specialist, Cybersecurity and Infrastructure Division @ Department of Homeland Security
-- Kenneth Myers; Director, Identity Assurance and Trusted Access Division @ General Services Administration
+- Dr. Kenneth Myers; Director, Identity Assurance and Trusted Access Division @ U.S. General Services Administration Office of Government-wide Policy

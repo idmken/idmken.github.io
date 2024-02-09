@@ -18,4 +18,4 @@ Panelists:
 - Donald Bauer; Chief Technology Officer, Global Talent Management @ U.S. Department of State
 - Amer Helmy; Manager, Federal Identity, Credential, and Access Management @ U.S. Department of Labor
 - Dr Nnamdi Osia; ICAM SME @ Electrosoft
-- Kenneth Myers; Director, Identity Assurance and Trusted Access Division @ General Services Administration Office of Government-wide Policy
+- Dr. Kenneth Myers; Director, Identity Assurance and Trusted Access Division @ U.S. General Services Administration Office of Government-wide Policy

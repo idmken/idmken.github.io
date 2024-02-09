@@ -20,4 +20,4 @@ Hear about the new ICAM Subcommittee structure and standing working groups from 
 Presenters:
 - Ross Foard; Senior Engineer, Cybersecurity Division @ Cybersecurity and Infrastructure Security Agency
 - Ramon Burks; Assistant Director. Architecture, Engineering, and ICAM @ Department of Justice
-- Kenneth Myers; Director, Identity Assurance and Trusted Access Division @ General Services Administration
+- Dr. Kenneth Myers; Director, Identity Assurance and Trusted Access Division @ U.S. General Services Administration Office of Government-wide Policy

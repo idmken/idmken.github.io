@@ -1,4 +1,4 @@
-# Transforming Digital Government Services for Secure and Equitable Access
+# Carahsoft & 1Kosmos Webinar
 Hosted by: Carahsoft & 1Kosmos<br>
 Date: February 29, 2024<br>
 Venue: Webinar - Virtual<br>

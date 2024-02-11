@@ -6,7 +6,8 @@ A list of previous and upcoming speaking engagements with the presentation if I 
 
 | Session Title or Role | Event Name | Format | Location | Date |
 | --------------------- | ---------- | :----: | :------: | :--: |
-| [01. Zero Trust and the Cloud](2401-cyberscoop.md) | Cyberscoop Zero Trust Summit 2024 | Panelist | Washington, DC | February 2024 |
+| [02. Transforming Digital Government Services for Secure and Equitable Access](2402-1kosmost.md) | 1Kosmos Webinar | Panelist | Virtual | February 2024 |
+| [01. Zero Trust and the Cloud](2402-cyberscoop.md) | Cyberscoop Zero Trust Summit 2024 | Panelist | Washington, DC | February 2024 |
 
 ## 2023
 

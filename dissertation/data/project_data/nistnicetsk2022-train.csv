@@ -1,0 +1,1085 @@
+﻿role,KSA ID,description
+Ability,A0130,Ability to ensure that senior officials within the organization provide information security for the information and systems that support the operations and assets under their control.
+Ability,A0016,Ability to facilitate small group discussions.
+Ability,A0175,Ability to examine digital media on multiple operating system platforms.
+Ability,A0005,Ability to decrypt digital data collections.
+Ability,A0056,Ability to ensure security practices are followed throughout the acquisition process.
+Ability,A0031,Ability to conduct and implement market research to understand government and industry capabilities and appropriate pricing.
+Ability,A0070,Ability to apply critical reading/thinking skills.
+Ability,A0106,Ability to think critically.
+Ability,A0085,Ability to exercise judgment when policies are not well-defined.
+Ability,A0083,"Ability to evaluate information for reliability, validity, and relevance."
+Ability,A0066,"Ability to accurately and completely source all data used in intelligence, assessment and/or planning products."
+Ability,A0110,Ability to monitor advancements in information privacy laws to ensure organizational adaptation and compliance.
+Ability,A0111,"Ability to work across departments and business units to implement organization’s privacy principles and programs, and align privacy objectives with security objectives. "
+Ability,A0115,"Ability to work across departments and business units to implement organization’s privacy principles and programs, and align privacy objectives with security objectives."
+Ability,A0125,Ability to author a privacy disclosure statement based on current laws.
+Ability,A0037,Ability to leverage best practices and lessons learned of external organizations and academic institutions dealing with cyber issues.
+Ability,A0113,Ability to determine whether a security incident violates a privacy principle or legal standard requiring specific legal action.
+Ability,A0105,Ability to tailor technical and planning information to a customer’s level of understanding.
+Ability,A0023,Ability to design valid and reliable assessments.
+Ability,A0089,"Ability to function in a collaborative environment, seeking continuous consultation with other analysts and experts—both internal and external to the organization—to leverage analytical and technical expertise."
+Ability,A0094,"Ability to interpret and apply laws, regulations, policies, and guidance relevant to organization cyber objectives."
+Ability,A0055,"Ability to operate common network tools (e.g., ping, traceroute, nslookup)."
+Ability,A0058,"Ability to execute OS command line (e.g., ipconfig, netstat, dir, nbtstat)."
+Ability,A0104,Ability to select the appropriate implant to achieve operational goals.
+Ability,A0011,Ability to answer questions in a clear and concise manner.
+Ability,A0012,Ability to ask clarifying questions.
+Ability,A0118,"Ability to understand technology, management, and leadership issues related to organization processes and problem solving."
+Ability,A0119,Ability to understand the basic concepts and issues related to cyber and its organizational impact.
+Ability,A0117,"Ability to relate strategy, business, and technology in the context of organizational dynamics."
+Ability,A0033,"Ability to develop policy, plans, and strategy in compliance with laws, regulations, policies, and standards in support of organizational cyber activities."
+Ability,A0034,"Ability to develop, update, and/or maintain standard operating procedures (SOPs)."
+Ability,A0013,"Ability to communicate complex information, concepts, or ideas in a confident and well-organized manner through verbal, written, and/or visual means. "
+Ability,A0018,Ability to prepare and present briefings.
+Ability,A0009,Ability to apply supply chain risk management standards.
+Ability,A0028,Ability to assess and forecast manpower requirements to meet organizational objectives.
+Ability,A0116,Ability to prioritize and allocate cybersecurity resources correctly and efficiently.
+Ability,A0129,Ability to ensure information security management processes are integrated with strategic and operational planning processes.
+Ability,A0063,"Ability to operate different electronic communication systems and methods (e.g., e-mail, VOIP, IM, web forums, Direct Video Broadcasts)."
+Ability,A0004,Ability to develop curriculum that speaks to the topic at the appropriate level for the target audience.
+Ability,A0022,Ability to apply principles of adult learning.
+Ability,A0024,Ability to develop clear directions and instructional materials.
+Ability,A0032,Ability to develop curriculum for use within a virtual environment.
+Ability,A0054,Ability to apply the Instructional System Design (ISD) methodology.
+Ability,A0057,Ability to tailor curriculum that speaks to the topic at the appropriate level for the target audience.
+Ability,A0114,Ability to develop or procure curriculum that speaks to the topic at the appropriate level for the target.
+Ability,A0171,Ability to conduct training and education needs assessment.
+Ability,A0006,"Ability to prepare and deliver education and awareness briefings to ensure that systems, network, and data users are aware of and adhere to systems security policies and procedures."
+Ability,A0017,Ability to gauge learner understanding and knowledge level.
+Ability,A0020,Ability to provide effective feedback to students for improving learning.
+Ability,A0112,Ability to monitor advancements in information privacy technologies to ensure organizational adaptation and compliance.
+Ability,A0046,"Ability to monitor and assess the potential impact of emerging technologies on laws, regulations, and/or policies."
+Ability,A0003,Ability to determine the validity of technology trend data.
+Ability,A0039,Ability to oversee the development and update of the life cycle cost estimate.
+Ability,A0045,Ability to evaluate/ensure the trustworthiness of the supplier and/or product.
+Ability,A0015,Ability to conduct vulnerability scans and recognize vulnerabilities in security systems.
+Ability,A0174,Ability to find and navigate the dark web using the TOR network to locate markets and forums.
+Ability,A0042,Ability to develop career path opportunities.
+Ability,A0053,Ability to determine the validity of workforce trend data.
+Ability,A0019,Ability to produce technical documentation.
+Ability,A0014,Ability to communicate effectively when writing.
+Ability,A0099,"Ability to perform network collection tactics, techniques, and procedures to include decryption capabilities/tools."
+Ability,A0100,Ability to perform wireless collection procedures to include decryption capabilities/tools.
+Ability,A0096,Ability to interpret and understand complex and rapidly evolving concepts.
+Ability,A0087,Ability to focus research efforts to meet the customer’s decision-making needs.
+Ability,A0101,Ability to recognize and mitigate cognitive biases which may affect analysis.
+Ability,A0108,Ability to understand objectives and effects.
+Ability,A0084,"Ability to evaluate, analyze, and synthesize large quantities of data (which may be fragmented and contradictory) into high quality, fused targeting/intelligence products."
+Ability,A0090,Ability to identify external partners with common cyber operations interests.
+Ability,A0091,Ability to identify intelligence gaps.
+Ability,A0102,Ability to recognize and mitigate deception in reporting and analysis.
+Ability,A0109,Ability to utilize multiple intelligence sources across all intelligence disciplines.
+Ability,A0082,Ability to effectively collaborate via virtual teams.
+Ability,A0074,Ability to collaborate effectively with others.
+Ability,A0067,"Ability to adjust to and operate in a diverse, unpredictable, challenging, and fast-paced work environment."
+Ability,A0098,"Ability to participate as a member of planning teams, coordination groups, and task forces as necessary."
+Ability,A0088,"Ability to function effectively in a dynamic, fast-paced environment."
+Ability,A0097,Ability to monitor system operations and react to events in response to triggers and/or observation of trends or unusual activity. 
+Ability,A0077,Ability to coordinate cyber operations with other organization functions or support activities.
+Ability,A0072,Ability to clearly articulate intelligence requirements into well-formulated research questions and data tracking variables for inquiry tracking purposes.
+Ability,A0081,Ability to develop or recommend planning solutions to problems and situations for which no precedent exists.
+Ability,A0080,Ability to develop or recommend analytic approaches or solutions to problems and situations for which information is incomplete or for which no precedent exists.
+Ability,A0095,Ability to interpret and translate customer requirements into operational action.
+Ability,A0086,Ability to expand network access by conducting target analysis and collection to identify targets of interest.
+Ability,A0093,Ability to identify/describe techniques/methods for conducting technical exploitation of the target.
+Ability,A0107,Ability to think like threat actors.
+Ability,A0092,Ability to identify/describe target vulnerability.
+Ability,A0068,Ability to apply approved planning development and staffing processes.
+Ability,A0073,Ability to clearly articulate intelligence requirements into well-formulated research questions and requests for information.
+Ability,A0148,"Ability to serve as the primary liaison between the enterprise architect and the systems security engineer and coordinates with system owners, common control providers, and system security officers on the allocation of security controls as system-specific, hybrid, or common controls."
+Ability,A0043,Ability to conduct forensic analyses in and for both Windows and Unix/Linux environments.
+Ability,A0044,"Ability to apply programming language structures (e.g., source code review) and logic."
+Ability,A0128,Ability to apply techniques for detecting host and network-based intrusions using intrusion detection technologies.
+Ability,A0161,"Ability to integrate information security requirements into the acquisition process; using applicable baseline security controls as one of the sources for security requirements; ensuring a robust software quality control process; and establishing multiple sources (e.g., delivery routes, for critical system elements)."
+Ability,A0021,"Ability to use and understand complex mathematical concepts (e.g., discrete math)."
+Ability,A0163,"Ability to interpret Communications Security (COMSEC) terminology, guidelines and procedures."
+Ability,A0164,Ability to identify the roles and responsibilities for appointed Communications Security (COMSEC) personnel.
+Ability,A0165,"Ability to manage Communications Security (COMSEC) material accounting, control and use procedure."
+Ability,A0167,Ability to recognize the importance of auditing Communications Security (COMSEC) material and accounts.
+Ability,A0168,Ability to Identify the requirements of In-Process accounting for Communications Security (COMSEC).
+Ability,A0177,Ability to recognize the unique aspects of the Communications Security (COMSEC) environment and hierarchy.
+Ability,A0008,"Ability to apply the methods, standards, and approaches for describing, analyzing, and documenting an organization's enterprise information technology (IT) architecture (e.g., Open Group Architecture Framework [TOGAF], Department of Defense Architecture Framework [DoDAF], Federal Enterprise Architecture Framework [FEAF])."
+Ability,A0061,Ability to design architectures and frameworks.
+Ability,A0027,Ability to apply an organization's goals and objectives to develop and maintain architecture.
+Ability,A0166,Ability to identify types of Communications Security (COMSEC) Incidents and how they’re reported.
+Ability,A0121,Ability to design incident response for cloud service models.
+Ability,A0123,"Ability to apply cybersecurity and privacy principles to organizational requirements (relevant to confidentiality, integrity, availability, authentication, non-repudiation)."
+Ability,A0048,"Ability to apply network security architecture concepts including topology, protocols, components, and principles (e.g., application of defense-in-depth)."
+Ability,A0172,Ability to set up a physical or logical sub-networks that separates an internal local area network (LAN) from other untrusted networks.
+Ability,A0170,Ability to identify critical infrastructure systems with information communication technology that were designed without system security considerations.
+Ability,A0038,Ability to optimize systems to meet enterprise performance requirements.
+Ability,A0069,Ability to apply collaborative skills and strategies.
+Ability,A0159,"Ability to interpret the information collected by network tools (e.g. Nslookup, Ping, and Traceroute)."
+Ability,A0040,Ability to translate data and test results into evaluative conclusions.
+Ability,A0035,Ability to dissect a problem and examine the interrelationships between data that may appear unrelated.
+Ability,A0120,Ability to share meaningful insights about the context of an organization’s threat environment that improve its risk management posture.
+Ability,A0036,Ability to identify basic common coding flaws at a high level.
+Ability,A0149,"Ability, in close coordination with system security officers, advise authorizing officials, chief information officers, senior information security officers, and the senior accountable official for risk management/risk executive (function), on a range of security-related issues (e.g. establishing system boundaries; assessing the severity of weaknesses and deficiencies in the system; plans of action and milestones; risk mitigation approaches; security alerts; and potential adverse effects of identified vulnerabilities)."
+Ability,A0049,"Ability to apply secure system design tools, methods and techniques."
+Ability,A0050,"Ability to apply system design tools, methods, and techniques, including automated systems analysis and design tools."
+Ability,A0026,Ability to analyze test data.
+Ability,A0030,"Ability to collect, verify, and validate test data."
+Ability,A0010,Ability to analyze malware.
+Ability,A0001,Ability to identify systemic security issues based on the analysis of vulnerability and configuration data.
+Ability,A0029,Ability to build complex data structures and high-level programming languages.
+Ability,A0041,"Ability to use data visualization tools (e.g., Flare, HighCharts, AmCharts, D3.js, Processing, Google Visualization API, Tableau, Raphael.js)."
+Ability,A0176,"Ability to maintain databases. (i.e., backup, restore, delete data, transaction log files, etc.)."
+Ability,A0060,Ability to build architectures and frameworks.
+Ability,A0122,Ability to design capabilities to find solutions to less common and more complex system problems.
+Ability,A0025,"Ability to accurately define incidents, problems, and events in the trouble ticketing system."
+Ability,A0062,Ability to monitor measures or indicators of system performance and availability.
+Ability,A0002,Ability to match the appropriate knowledge repository technology for a given application or environment.
+Ability,A0052,"Ability to operate network equipment including hubs, routers, switches, bridges, servers, transmission media, and related hardware."
+Ability,A0059,Ability to operate the organization's LAN/WAN pathways.
+Ability,A0065,Ability to monitor traffic flows across the network.
+Ability,A0064,Ability to interpret and translate customer requirements into operational capabilities. 
+Ability,A0124,Ability to establish and maintain automated security control assessments
+Ability,A0047,"Ability to develop secure software according to secure software deployment methodologies, tools, and practices."
+Ability,A0007,Ability to tailor code analysis for application-specific concerns.
+Ability,A0051,Ability to execute technology integration processes.
+Ability,A0079,Ability to correctly employ each organization or element into the collection plan and matrix.
+Ability,A0078,"Ability to coordinate, collaborate and disseminate information to subordinate, lateral and higher-level organizations."
+Ability,A0160,"Ability to translate, track, and prioritize information needs and intelligence collection requirements across the extended enterprise."
+Ability,A0071,Ability to apply language and cultural expertise to analysis.
+Ability,A0076,Ability to coordinate and collaborate with analysts regarding surveillance requirements and essential information development.
+Ability,A0103,Ability to review processed target language materials for accuracy and completeness.
+Knowledge,K0021,Knowledge of data backup and recovery.
+Knowledge,K0118,Knowledge of processes for seizing and preserving digital evidence.
+Knowledge,K0128,Knowledge of types and collection of persistent data.
+Knowledge,K0017,Knowledge of concepts and practices of processing digital forensic data.
+Knowledge,K0122,"Knowledge of investigative implications of hardware, Operating Systems, and network technologies."
+Knowledge,K0132,"Knowledge of which system files (e.g., log files, registry files, configuration files) contain relevant information and where to find those system files."
+Knowledge,K0133,Knowledge of types of digital forensics data and how to recognize them.
+Knowledge,K0134,Knowledge of deployable forensics.
+Knowledge,K0182,"Knowledge of data carving tools and techniques (e.g., Foremost)."
+Knowledge,K0184,"Knowledge of anti-forensics tactics, techniques, and procedures."
+Knowledge,K0185,"Knowledge of forensics lab design configuration and support applications (e.g., VMWare, Wireshark)."
+Knowledge,K0046,Knowledge of intrusion detection methodologies and techniques for detecting host and network-based intrusions.
+Knowledge,K0110,"Knowledge of adversarial tactics, techniques, and procedures."
+Knowledge,K0157,"Knowledge of cyber defense and information security policies, procedures, and regulations."
+Knowledge,K0234,"Knowledge of full spectrum cyber capabilities (e.g., defense, attack, exploitation)."
+Knowledge,K0109,"Knowledge of physical computer components and architectures, including the functions of various components and peripherals (e.g., CPUs, Network Interface Cards, data storage)."
+Knowledge,K0126,Knowledge of Supply Chain Risk Management Practices (NIST SP 800-161)
+Knowledge,K0257,Knowledge of information technology (IT) acquisition/procurement requirements.
+Knowledge,K0270,Knowledge of the acquisition/procurement life cycle process.
+Knowledge,K0043,Knowledge of industry-standard and organizationally accepted analysis principles and methods.
+Knowledge,K0261,Knowledge of Payment Card Industry (PCI) data security standards.
+Knowledge,K0262,Knowledge of Personal Health Information (PHI) data security standards.
+Knowledge,K0615,Knowledge of privacy disclosure statements based on current laws.
+Knowledge,K0066,Knowledge of Privacy Impact Assessments.
+Knowledge,K0305,Knowledge of data concealment (e.g. encryption algorithms and steganography).
+Knowledge,K0101,Knowledge of the organization’s enterprise information technology (IT) goals and objectives.
+Knowledge,K0047,Knowledge of information technology (IT) architectural concepts and frameworks.
+Knowledge,K0200,"Knowledge of service management concepts for networks and related standards (e.g., Information Technology Infrastructure Library, current version [ITIL])."
+Knowledge,K0313,"Knowledge of external organizations and academic institutions with cyber focus (e.g., cyber curriculum/training and Research & Development)."
+Knowledge,K0233,"Knowledge of the National Cybersecurity Workforce Framework, work roles, and associated tasks, knowledge, skills, and abilities."
+Knowledge,K0007,"Knowledge of authentication, authorization, and access control methods."
+Knowledge,K0231,"Knowledge of crisis management protocols, processes, and techniques. "
+Knowledge,K0042,Knowledge of incident response and handling methodologies.
+Knowledge,K0150,"Knowledge of enterprise incident response program, roles, and responsibilities."
+Knowledge,K0246,"Knowledge of relevant concepts, procedures, software, equipment, and technology applications."
+Knowledge,K0287,Knowledge of an organization's information classification program and procedures for information compromise.
+Knowledge,K0120,"Knowledge of how information needs and collection requirements are translated, tracked, and prioritized across the extended enterprise."
+Knowledge,K0004,Knowledge of cybersecurity and privacy principles.
+Knowledge,K0145,Knowledge of security event correlation tools.
+Knowledge,K0179,"Knowledge of network security architecture concepts including topology, protocols, components, and principles (e.g., application of defense-in-depth)."
+Knowledge,K0319,Knowledge of technical delivery capabilities and their limitations.
+Knowledge,K0001,"Knowledge of computer networking concepts and protocols, and network security methodologies. "
+Knowledge,K0114,"Knowledge of electronic devices (e.g., computer systems/components, access control devices, digital cameras, digital scanners, electronic organizers, hard drives, memory cards, modems, network components, networked appliances, networked home control devices, printers, removable storage devices, telephones, copiers, facsimile machines, etc.)."
+Knowledge,K0296,"Knowledge of capabilities, applications, and potential vulnerabilities of network equipment including hubs, routers, switches, bridges, servers, transmission media, and related hardware."
+Knowledge,K0209,Knowledge of covert communication techniques.
+Knowledge,K0312,"Knowledge of intelligence gathering principles, policies, and procedures including legal authorities and restrictions."
+Knowledge,K0194,"Knowledge of Cloud-based knowledge management technologies and concepts related to security, governance, procurement, and administration. "
+Knowledge,K0003,"Knowledge of laws, regulations, policies, and ethics as they relate to cybersecurity and privacy. "
+Knowledge,K0123,Knowledge of legal governance related to admissibility (e.g. Rules of Evidence). 
+Knowledge,K0125,"Knowledge of processes for collecting, packaging, transporting, and storing electronic evidence while maintaining chain of custody."
+Knowledge,K0155,Knowledge of electronic evidence law.
+Knowledge,K0156,Knowledge of legal rules of evidence and court procedure.
+Knowledge,K0168,"Knowledge of applicable laws, statutes (e.g., in Titles 10, 18, 32, 50 in U.S. Code), Presidential Directives, executive branch guidelines, and/or administrative/criminal legal guidelines and procedures."
+Knowledge,K0251,"Knowledge of the judicial process, including the presentation of facts and evidence."
+Knowledge,K0351,"Knowledge of applicable statutes, laws, regulations and policies governing cyber targeting and exploitation."
+Knowledge,K0267,"Knowledge of laws, policies, procedures, or governance relevant to cybersecurity for critical infrastructures."
+Knowledge,K0341,Knowledge of foreign disclosure policies and import/export control regulations as related to cybersecurity. 
+Knowledge,K0127,"Knowledge of the nature and function of the relevant information structure (e.g., National Information Infrastructure)."
+Knowledge,K0196,Knowledge of Import/Export Regulations related to cryptography and other security technologies.
+Knowledge,K0060,Knowledge of operating systems.
+Knowledge,K0077,Knowledge of server and client operating systems.
+Knowledge,K0117,"Knowledge of file system implementations (e.g., New Technology File System [NTFS], File Allocation Table [FAT], File Extension [EXT])."
+Knowledge,K0316,"Knowledge of business or military operation plans, concept operation plans, orders, policies, and standing rules of engagement."
+Knowledge,K0146,Knowledge of the organization's core business/mission processes.
+Knowledge,K0241,"Knowledge of organizational human resource policies, processes, and procedures."
+Knowledge,K0613,"Knowledge of who the organization’s operational planners are, how and where they can be contacted, and what are their expectations."
+Knowledge,K0239,"Knowledge of media production, communication, and dissemination techniques and methods, including alternative ways to inform via written, oral, and visual media."
+Knowledge,K0198,"Knowledge of organizational process improvement concepts and process maturity models (e.g., Capability Maturity Model Integration (CMMI) for Development, CMMI for Services, and CMMI for Acquisitions)."
+Knowledge,K0072,Knowledge of resource management principles and techniques.
+Knowledge,K0249,"Knowledge of sustainment technologies, processes and strategies."
+Knowledge,K0012,Knowledge of capabilities and requirements analysis.
+Knowledge,K0008,Knowledge of applicable business processes and operations of customer organizations.
+Knowledge,K0002,"Knowledge of risk management processes (e.g., methods for assessing and mitigating risk)."
+Knowledge,K0169,"Knowledge of information technology (IT) supply chain security and supply chain risk management policies, requirements, and procedures."
+Knowledge,K0048,Knowledge of Risk Management Framework (RMF) requirements.
+Knowledge,K0154,"Knowledge of supply chain risk management standards, processes, and practices."
+Knowledge,K0165,Knowledge of risk/threat assessment.
+Knowledge,K0186,Knowledge of debugging procedures and tools.
+Knowledge,K0248,Knowledge of strategic theory and practice.
+Knowledge,K0235,"Knowledge of how to leverage research and development centers, think tanks, academic research, and industry systems."
+Knowledge,K0130,Knowledge of virtualization technologies and virtual machine development and maintenance.
+Knowledge,K0078,Knowledge of server diagnostic tools and fault identification techniques.
+Knowledge,K0167,"Knowledge of system administration, network, and operating system hardening techniques."
+Knowledge,K0090,"Knowledge of system life cycle management principles, including software security and usability."
+Knowledge,K0217,Knowledge of Learning Management Systems and their use in managing learning.
+Knowledge,K0220,"Knowledge of modes of learning (e.g., rote learning, observation)."
+Knowledge,K0243,"Knowledge of organizational training and education policies, processes, and procedures."
+Knowledge,K0245,Knowledge of principles and processes for conducting training and education needs assessment.
+Knowledge,K0250,Knowledge of Test & Evaluation processes for learners.
+Knowledge,K0252,"Knowledge of training and education principles and methods for curriculum design, teaching and instruction for individuals and groups, and the measurement of training and education effects."
+Knowledge,K0628,"Knowledge of cyber competitions as a way of developing skills by providing hands-on experience in simulated, real-world situations."
+Knowledge,K0124,Knowledge of multiple cognitive domains and tools and methods applicable for learning in each domain.
+Knowledge,K0204,"Knowledge of learning assessment techniques (rubrics, evaluation plans, tests, quizzes)."
+Knowledge,K0208,Knowledge of computer based training and e-learning services. 
+Knowledge,K0213,"Knowledge of instructional design and evaluation models (e.g., ADDIE, Smith/Ragan model, Gagne’s Events of Instruction, Kirkpatrick’s model of evaluation)."
+Knowledge,K0216,"Knowledge of learning levels (i.e., Bloom’s Taxonomy of learning)."
+Knowledge,K0215,Knowledge of organizational training policies.
+Knowledge,K0218,"Knowledge of learning styles (e.g., assimilator, auditory, kinesthetic)."
+Knowledge,K0226,Knowledge of organizational training systems.
+Knowledge,K0059,Knowledge of new and emerging information technology (IT) and cybersecurity technologies.
+Knowledge,K0115,Knowledge that technology that can be exploited.
+Knowledge,K0309,Knowledge of emerging technologies that have potential for exploitation.
+Knowledge,K0311,Knowledge of industry indicators useful for identifying technology trends.
+Knowledge,K0335,Knowledge of current and emerging cyber technologies.
+Knowledge,K0614,"Knowledge of wireless technologies (e.g., cellular, satellite, GSM) to include the basic structure, architecture, and design of modern wireless communications systems."
+Knowledge,K0148,Knowledge of import/export control regulations and responsible agencies for the purposes of reducing supply chain risk.
+Knowledge,K0164,"Knowledge of functionality, quality, and security requirements and how these will apply to specific items of supply (i.e., elements and processes)."
+Knowledge,K0107,"Knowledge of Insider Threat investigations, reporting, investigative tools and laws/regulations."
+Knowledge,K0144,Knowledge of social dynamics of computer attackers in a global context.
+Knowledge,K0244,Knowledge of physical and physiological behaviors that may indicate suspicious or abnormal activity.
+Knowledge,K0183,Knowledge of reverse engineering concepts.
+Knowledge,K0188,"Knowledge of malware analysis tools (e.g., Oily Debug, Ida Pro)."
+Knowledge,K0189,"Knowledge of malware with virtual machine detection (e.g. virtual aware malware, debugger aware malware, and unpacked malware that looks for VM-related strings in your computer’s display device)."
+Knowledge,K0612,Knowledge of what constitutes a “threat” to a network.
+Knowledge,K0005,Knowledge of cyber threats and vulnerabilities. 
+Knowledge,K0006,Knowledge of specific operational impacts of cybersecurity lapses.
+Knowledge,K0070,"Knowledge of system and application security threats and vulnerabilities (e.g., buffer overflow, mobile code, cross-site scripting, Procedural Language/Structured Query Language [PL/SQL] and injections, race conditions, covert channel, replay, return-oriented attacks, malicious code)."
+Knowledge,K0624,Knowledge of Application Security Risks (e.g. Open Web Application Security Project Top 10 list)
+Knowledge,K0147,"Knowledge of emerging security issues, risks, and vulnerabilities."
+Knowledge,K0009,Knowledge of application vulnerabilities.
+Knowledge,K0106,Knowledge of what constitutes a network attack and a network attack’s relationship to both threats and vulnerabilities.
+Knowledge,K0314,Knowledge of industry technologies’ potential cybersecurity vulnerabilities.
+Knowledge,K0119,Knowledge of hacking methodologies.
+Knowledge,K0187,Knowledge of file type abuse by adversaries for anomalous behavior.
+Knowledge,K0131,"Knowledge of web mail collection, searching/analyzing techniques, tools, and cookies."
+Knowledge,K0371,"Knowledge of principles of the collection development processes (e.g., Dialed Number Recognition, Social Network Analysis)."
+Knowledge,K0557,"Knowledge of terminal or environmental collection (process, objectives, organization, targets, etc.)."
+Knowledge,K0500,"Knowledge of organization and/or partner collection systems, capabilities, and processes (e.g., collection and protocol processors)."
+Knowledge,K0433,Knowledge of forensic implications of operating system structure and operations.
+Knowledge,K0573,Knowledge of the fundamentals of digital forensics to extract actionable intelligence.
+Knowledge,K0447,"Knowledge of how to collect, view, and identify essential information on targets of interest from metadata (e.g., email, http)."
+Knowledge,K0449,"Knowledge of how to extract, analyze, and use metadata."
+Knowledge,K0051,"Knowledge of low-level computer languages (e.g., assembly languages)."
+Knowledge,K0372,"Knowledge of programming concepts (e.g., levels, structures, compiled vs. interpreted languages)."
+Knowledge,K0529,Knowledge of scripting
+Knowledge,K0440,Knowledge of host-based security products and how those products affect exploitation and reduce vulnerability.
+Knowledge,K0530,"Knowledge of security hardware and software options, including the network artifacts they induce and their effects on exploitation."
+Knowledge,K0408,"Knowledge of cyber actions (i.e. cyber defense, information gathering, environment preparation, cyber-attack) principles, capabilities, limitations, and effects."
+Knowledge,K0507,Knowledge of organization or partner exploitation of digital networks.
+Knowledge,K0473,Knowledge of intrusion sets.
+Knowledge,K0405,Knowledge of current computer-based intrusion sets.
+Knowledge,K0424,Knowledge of denial and deception techniques.
+Knowledge,K0472,Knowledge of intrusion detection systems and signature development.
+Knowledge,K0423,Knowledge of deconfliction reporting to include external organization interaction.
+Knowledge,K0422,Knowledge of deconfliction processes and procedures.
+Knowledge,K0142,"Knowledge of collection management processes, capabilities, and limitations."
+Knowledge,K0377,"Knowledge of classification and control markings standards, policies and procedures."
+Knowledge,K0418,Knowledge of data flow process for terminal or environment collection.
+Knowledge,K0484,"Knowledge of midpoint collection (process, objectives, organization, targets, etc.)."
+Knowledge,K0389,Knowledge of collection sources including conventional and non-conventional sources.
+Knowledge,K0567,Knowledge of the data flow from collection origin to repositories and tools. 
+Knowledge,K0373,"Knowledge of basic software applications (e.g., data storage and backup, database applications) and the types of vulnerabilities that have been found in those applications."
+Knowledge,K0420,Knowledge of database theory.
+Knowledge,K0394,Knowledge of common reporting databases and tools. 
+Knowledge,K0403,"Knowledge of cryptologic capabilities, limitations, and contributions to cyber operations."
+Knowledge,K0428,Knowledge of encryption algorithms and tools for wireless local area networks (WLANs).
+Knowledge,K0427,"Knowledge of encryption algorithms and cyber capabilities/tools (e.g., SSL, PGP)."
+Knowledge,K0399,Knowledge of crisis action planning and time sensitive planning procedures.
+Knowledge,K0519,"Knowledge of planning timelines adaptive, crisis action, and time-sensitive planning."
+Knowledge,K0586,Knowledge of the outputs of course of action and exercise analysis.
+Knowledge,K0381,Knowledge of collateral damage and estimating impact(s).
+Knowledge,K0543,Knowledge of target estimated repair and recuperation times.
+Knowledge,K0429,Knowledge of enterprise-wide information management.
+Knowledge,K0468,Knowledge of internal and external partner reporting.
+Knowledge,K0576,Knowledge of the information environment.
+Knowledge,K0354,Knowledge of relevant reporting and dissemination procedures.
+Knowledge,K0451,Knowledge of identification and reporting processes.
+Knowledge,K0409,Knowledge of cyber intelligence/information collection capabilities and repositories.
+Knowledge,K0466,Knowledge of internal and external partner intelligence processes and the development of information requirements and essential information.
+Knowledge,K0462,"Knowledge of intelligence reporting principles, policies, procedures, and vehicles, including report formats, reportability criteria (requirements and priorities), dissemination practices, and legal authorities and restrictions."
+Knowledge,K0483,Knowledge of methods to integrate and summarize information from any potential sources.
+Knowledge,K0435,"Knowledge of fundamental cyber concepts, principles, limitations, and effects."
+Knowledge,K0561,"Knowledge of the basics of network security (e.g., encryption, firewalls, authentication, honey pots, perimeter protection)."
+Knowledge,K0487,"Knowledge of network security (e.g., encryption, firewalls, authentication, honey pots, perimeter protection)."
+Knowledge,K0357,WITHDRAWN: Knowledge of analytical constructs and their use in assessing the operational environment. (See K0224)
+Knowledge,K0486,Knowledge of network construction and topology.
+Knowledge,K0516,"Knowledge of physical and logical network devices and infrastructure to include hubs, switches, routers, firewalls, etc."
+Knowledge,K0565,"Knowledge of the common networking and routing protocols (e.g. TCP/IP), services (e.g., web, mail, DNS), and how they interact to provide network communications."
+Knowledge,K0395,"Knowledge of computer networking fundamentals (i.e., basic computer components of a network, types of networks, etc.)."
+Knowledge,K0417,"Knowledge of data communications terminology (e.g., networking protocols, Ethernet, IP, encryption, optical devices, removable media)."
+Knowledge,K0471,"Knowledge of Internet network addressing (IP addresses, classless inter-domain routing, TCP/UDP port numbering)."
+Knowledge,K0443,"WITHDRAWN: Knowledge of how hubs, switches, routers work together in the design of a network. (See K0143)"
+Knowledge,K0470,Knowledge of Internet and routing protocols.
+Knowledge,K0489,Knowledge of network topology.
+Knowledge,K0437,Knowledge of general Supervisory control and data acquisition (SCADA) system components.
+Knowledge,K0555,Knowledge of TCP/IP networking protocols.
+Knowledge,K0352,"Knowledge of forms of intelligence support needs, topics, and focus areas."
+Knowledge,K0464,"Knowledge of intelligence support to planning, execution, and assessment."
+Knowledge,K0525,Knowledge of required intelligence planning products associated with cyber operational planning.
+Knowledge,K0544,Knowledge of target intelligence gathering and operational preparation techniques and life cycles.
+Knowledge,K0457,Knowledge of intelligence confidence levels.
+Knowledge,K0460,Knowledge of intelligence preparation of the environment and similar processes.
+Knowledge,K0458,Knowledge of intelligence disciplines.
+Knowledge,K0461,Knowledge of intelligence production processes.
+Knowledge,K0550,"Knowledge of target, including related current events, communication profile, actors, and history (language, culture) and/or frame of reference."
+Knowledge,K0411,Knowledge of cyber laws and legal considerations and their effect on cyber planning.
+Knowledge,K0410,Knowledge of cyber laws and their effect on Cyber planning.
+Knowledge,K0478,Knowledge of legal considerations in targeting.
+Knowledge,K0485,Knowledge of network administration.
+Knowledge,K0143,"Knowledge of front-end collection systems, including traffic collection, filtering, and selection."
+Knowledge,K0393,Knowledge of common networking devices and their configurations.
+Knowledge,K0058,Knowledge of network traffic analysis methods.
+Knowledge,K0452,"Knowledge of implementing Unix and Windows systems that provide radius authentication and logging, DNS, mail, web service, FTP server, DHCP, firewall, and SNMP."
+Knowledge,K0608,"Knowledge of Unix/Linux and Windows operating systems structures and internals (e.g., process management, directory structure, installed applications)."
+Knowledge,K0397,"Knowledge of security concepts in operating systems (e.g., Linux, Unix.)"
+Knowledge,K0400,Knowledge of crisis action planning for cyber operations.
+Knowledge,K0414,Knowledge of cyber operations support or enabling processes.
+Knowledge,K0436,"Knowledge of fundamental cyber operations concepts, terminology/lexicon (i.e., environment preparation, cyber-attack, cyber defense), principles, capabilities, limitations, and effects."
+Knowledge,K0465,Knowledge of internal and external partner cyber operations capabilities and tools.
+Knowledge,K0494,"Knowledge of objectives, situation, operational environment, and the status and disposition of internal and external partner collection capabilities available to support planning."
+Knowledge,K0497,Knowledge of operational effectiveness assessment.
+Knowledge,K0499,Knowledge of operations security.
+Knowledge,K0501,"Knowledge of organization cyber operations programs, strategies, and resources."
+Knowledge,K0589,Knowledge of the process used to assess the performance and impact of operations.
+Knowledge,K0590,Knowledge of the processes to synchronize operational assessment procedures with the critical information requirement process.
+Knowledge,K0593,"Knowledge of the range of cyber operations and their underlying intelligence support needs, topics, and focus areas."
+Knowledge,K0594,"Knowledge of the relationships between end states, objectives, effects, lines of operation, etc."
+Knowledge,K0597,Knowledge of the role of network operations in supporting and facilitating other organization operations.
+Knowledge,K0413,"Knowledge of cyber operation objectives, policies, and legalities. "
+Knowledge,K0415,Knowledge of cyber operations terminology/lexicon.
+Knowledge,K0350,Knowledge of accepted organization planning systems.
+Knowledge,K0502,Knowledge of organization decision support tools and/or methods.
+Knowledge,K0504,"Knowledge of organization issues, objectives, and operations in cyber as well as regulations and policy directives governing cyber operations."
+Knowledge,K0506,"Knowledge of organization objectives, leadership priorities, and decision-making risks."
+Knowledge,K0508,Knowledge of organization policies and planning concepts for partnering with internal and/or external organizations.
+Knowledge,K0511,Knowledge of organizational hierarchy and cyber decision-making processes.
+Knowledge,K0512,Knowledge of organizational planning concepts.
+Knowledge,K0514,Knowledge of organizational structures and associated intelligence capabilities.
+Knowledge,K0572,Knowledge of the functions and capabilities of internal teams that emulate threat activities to benefit the organization.
+Knowledge,K0582,Knowledge of the organizational planning and staffing process.
+Knowledge,K0585,"Knowledge of the organizational structure as it pertains to full spectrum cyber operations, including the functions, responsibilities, and interrelationships among distinct internal elements."
+Knowledge,K0598,"Knowledge of the structure and intent of organization specific plans, guidance and authorizations."
+Knowledge,K0509,"Knowledge of organizational and partner authorities, responsibilities, and contributions to achieving objectives."
+Knowledge,K0510,"Knowledge of organizational and partner policies, tools, capabilities, and procedures."
+Knowledge,K0439,Knowledge of governing authorities for targeting.
+Knowledge,K0432,"Knowledge of existing, emerging, and long-range issues related to cyber operations strategy, policy, and organization."
+Knowledge,K0566,Knowledge of the critical information requirements and how they're used in planning.
+Knowledge,K0379,"Knowledge of client organizations, including information needs, objectives, structure, capabilities, etc."
+Knowledge,K0455,"Knowledge of information security concepts, facilitating technologies and methods."
+Knowledge,K0376,"Knowledge of internal and external customers and partner organizations, including information needs, objectives, structure, capabilities, etc."
+Knowledge,K0559,"Knowledge of the basic structure, architecture, and design of converged applications."
+Knowledge,K0518,Knowledge of planning activity initiation.
+Knowledge,K0224,"Knowledge of system administration concepts for operating systems such as but not limited to Unix/Linux, IOS, Android, and Windows operating systems."
+Knowledge,K0363,Knowledge of auditing and logging procedures (including server-based logging).
+Knowledge,K0406,Knowledge of current software and methodologies for active defense and system hardening.
+Knowledge,K0609,Knowledge of virtual machine technologies.
+Knowledge,K0610,"Knowledge of virtualization products (VMware, Virtual PC)."
+Knowledge,K0036,Knowledge of human-computer interaction principles.
+Knowledge,K0347,Knowledge and understanding of operational design.
+Knowledge,K0535,Knowledge of strategies and tools for target research.
+Knowledge,K0549,Knowledge of target vetting and validation procedures.
+Knowledge,K0551,Knowledge of targeting cycles.
+Knowledge,K0426,Knowledge of dynamic and deliberate targeting.
+Knowledge,K0533,"Knowledge of specific target identifiers, and their usage."
+Knowledge,K0542,"Knowledge of target development (i.e., concepts, roles, responsibilities, products, etc.)."
+Knowledge,K0546,"Knowledge of target list development (i.e. Restricted, Joint, Candidate, etc.)."
+Knowledge,K0547,Knowledge of target methods and procedures.
+Knowledge,K0520,"Knowledge of principles and practices related to target development such as target knowledge, associations, communication systems, and infrastructure."
+Knowledge,K0592,Knowledge of the purpose and contribution of target templates.
+Knowledge,K0431,Knowledge of evolving/emerging communications technologies.
+Knowledge,K0523,"Knowledge of products and nomenclature of major vendors (e.g., security suites - Trend Micro, Symantec, McAfee, Outpost, and Panda) and how those products affect exploitation and reduce vulnerabilities."
+Knowledge,K0375,Knowledge of wireless applications vulnerabilities.
+Knowledge,K0438,"Knowledge of mobile cellular communications architecture (e.g., LTE, CDMA, GSM/EDGE and UMTS/HSPA)."
+Knowledge,K0528,Knowledge of satellite-based communication systems.
+Knowledge,K0560,"Knowledge of the basic structure, architecture, and design of modern communication networks."
+Knowledge,K0108,"Knowledge of concepts, terminology, and operations of a wide range of communications media (computer and telephone networks, satellite, fiber, wireless)."
+Knowledge,K0445,Knowledge of how modern digital and telephony networks impact cyber operations.
+Knowledge,K0446,Knowledge of how modern wireless communications systems impact cyber operations.
+Knowledge,K0556,Knowledge of telecommunications fundamentals.
+Knowledge,K0599,"Knowledge of the structure, architecture, and design of modern digital and telephony networks. "
+Knowledge,K0442,"Knowledge of how converged technologies impact cyber operations (e.g., digital, telephony, wireless)."
+Knowledge,K0600,"Knowledge of the structure, architecture, and design of modern wireless communications systems."
+Knowledge,K0430,Knowledge of evasion strategies and techniques.
+Knowledge,K0480,Knowledge of malware.
+Knowledge,K0536,"Knowledge of structure, approach, and strategy of exploitation tools (e.g., sniffers, keyloggers) and techniques (e.g., gaining backdoor access, collecting/exfiltrating data, conducting vulnerability analysis of other systems in the network)."
+Knowledge,K0362,"Knowledge of attack methods and techniques (DDoS, brute force, spoofing, etc.)."
+Knowledge,K0603,Knowledge of the ways in which targets or threats use the Internet.
+Knowledge,K0177,"Knowledge of cyber attack stages (e.g., reconnaissance, scanning, enumeration, gaining access, escalation of privileges, maintaining access, network exploitation, covering tracks)."
+Knowledge,K0368,Knowledge of implants that enable cyber collection and/or preparation activities.
+Knowledge,K0469,Knowledge of internal tactics to anticipate and/or emulate threat capabilities and actions.
+Knowledge,K0604,Knowledge of threat and/or target systems.
+Knowledge,K0479,Knowledge of malware analysis and characteristics.
+Knowledge,K0481,Knowledge of methods and techniques used to detect various exploitation activities.
+Knowledge,K0531,Knowledge of security implications of software configurations.
+Knowledge,K0392,"Knowledge of common computer/network infections (virus, Trojan, etc.) and methods of infection (ports, attachments, etc.)."
+Knowledge,K0538,"Knowledge of target and threat organization structures, critical capabilities, and critical vulnerabilities"
+Knowledge,K0402,"Knowledge of criticality and vulnerability factors (e.g., value, recuperation, cushion, countermeasures) for target selection and applicability to the cyber domain."
+Knowledge,K0349,"Knowledge of website types, administration, functions, and content management system (CMS)."
+Knowledge,K0444,"Knowledge of how Internet applications work (SMTP email, web-based email, chat clients, VOIP)."
+Knowledge,K0388,"Knowledge of collection searching/analyzing techniques and tools for chat/buddy list, emerging technologies, VOIP, Media Over IP, VPN, VSAT/wireless, web mail and cookies."
+Knowledge,K0534,"Knowledge of staff management, assignment, and allocation processes."
+Knowledge,K0026,Knowledge of business continuity and disaster recovery continuity of operations plans.
+Knowledge,K0032,Knowledge of resiliency and redundancy.
+Knowledge,K0210,Knowledge of data backup and restoration concepts.
+Knowledge,K0304,Knowledge of concepts and practices of processing digital forensic data.
+Knowledge,K0139,Knowledge of interpreted and compiled computer languages.
+Knowledge,K0014,Knowledge of complex data structures.
+Knowledge,K0016,Knowledge of computer programming principles 
+Knowledge,K0068,Knowledge of programming language structures and logic.
+Knowledge,K0140,Knowledge of secure coding techniques.
+Knowledge,K0098,Knowledge of the cyber defense Service Provider reporting structure and processes within one’s own organization.
+Knowledge,K0160,Knowledge of the common attack vectors on the network layer.
+Knowledge,K0191,"Knowledge of signature implementation impact for viruses, malware, and attacks."
+Knowledge,K0324,Knowledge of Intrusion Detection System (IDS)/Intrusion Prevention System (IPS) tools and applications.
+Knowledge,K0202,"Knowledge of the application firewall concepts and functions (e.g., Single point of authentication/audit/policy enforcement, message scanning for malicious content, data anonymization for PCI and PII compliance, data loss protection scanning, accelerated cryptographic operations, SSL security, REST/JSON processing)."
+Knowledge,K0030,"Knowledge of electrical engineering as applied to computer architecture (e.g., circuit boards, processors, chips, and computer hardware)."
+Knowledge,K0055,Knowledge of microprocessors.
+Knowledge,K0163,Knowledge of critical information technology (IT) procurement requirements.
+Knowledge,K0260,Knowledge of Personally Identifiable Information (PII) data security standards.
+Knowledge,K0622,"Knowledge of controls related to the use, processing, storage, and transmission of data."
+Knowledge,K0024,Knowledge of database systems.
+Knowledge,K0019,Knowledge of cryptography and cryptographic key management concepts 
+Knowledge,K0018,Knowledge of encryption algorithms 
+Knowledge,K0285,Knowledge of implementing enterprise key escrow systems to support data-at-rest encryption.
+Knowledge,K0104,Knowledge of Virtual Private Network (VPN) security.
+Knowledge,K0190,Knowledge of encryption methodologies.
+Knowledge,K0308,Knowledge of cryptology.
+Knowledge,K0277,"Knowledge of current and emerging data encryption (e.g., Column and Tablespace Encryption, file and disk encryption) security features in databases (e.g. built-in cryptographic key management features)."
+Knowledge,K0199,"Knowledge of security architecture concepts and enterprise architecture reference models (e.g., Zachman, Federal Enterprise Architecture [FEA])."
+Knowledge,K0255,"Knowledge of network architecture concepts including topology, protocols, and components."
+Knowledge,K0063,Knowledge of parallel and distributed computing concepts.
+Knowledge,K0067,Knowledge of process engineering concepts.
+Knowledge,K0291,"Knowledge of the enterprise information technology (IT) architectural concepts and patterns (e.g., baseline, validated design, and target architectures.)"
+Knowledge,K0293,Knowledge of integrating the organization’s goals and objectives into the architecture.
+Knowledge,K0100,Knowledge of the enterprise information technology (IT) architecture.
+Knowledge,K0056,"Knowledge of network access, identity, and access management (e.g., public key infrastructure, Oauth, OpenID, SAML, SPML)."
+Knowledge,K0065,Knowledge of policy-based and risk adaptive access controls.
+Knowledge,K0336,Knowledge of access authentication methods.
+Knowledge,K0041,"Knowledge of incident categories, incident responses, and timelines for responses."
+Knowledge,K0343,Knowledge of root cause analysis techniques.
+Knowledge,K0027,Knowledge of organization's enterprise information security architecture.
+Knowledge,K0037,Knowledge of Security Assessment and Authorization process.
+Knowledge,K0038,"Knowledge of cybersecurity and privacy principles used to manage risks related to the use, processing, storage, and transmission of information or data."
+Knowledge,K0044,"Knowledge of cybersecurity and privacy principles and organizational requirements (relevant to confidentiality, integrity, availability, authentication, non-repudiation)."
+Knowledge,K0054,"Knowledge of current industry methods for evaluating, implementing, and disseminating information technology (IT) security assessment, monitoring, detection, and remediation tools and procedures utilizing standards-based concepts and capabilities."
+Knowledge,K0203,"Knowledge of security models (e.g., Bell-LaPadula model, Biba integrity model, Clark-Wilson integrity model)."
+Knowledge,K0295,"Knowledge of confidentiality, integrity, and availability principles. "
+Knowledge,K0074,"Knowledge of key concepts in security management (e.g., Release Management, Patch Management)."
+Knowledge,K0211,"Knowledge of confidentiality, integrity, and availability requirements."
+Knowledge,K0240,Knowledge of multi-level security systems and cross domain solutions.
+Knowledge,K0049,"Knowledge of information technology (IT) security principles and methods (e.g., firewalls, demilitarized zones, encryption). "
+Knowledge,K0033,"Knowledge of host/network access control mechanisms (e.g., access control list, capabilities lists)."
+Knowledge,K0075,"Knowledge of security system design tools, methods, and techniques."
+Knowledge,K0112,Knowledge of defense-in-depth principles and network security architecture.
+Knowledge,K0045,Knowledge of information security systems engineering principles (NIST SP 800-160).
+Knowledge,K0276,Knowledge of security management.
+Knowledge,K0152,"Knowledge of software related information technology (IT) security principles and methods (e.g., modularization, layering, abstraction, data hiding, simplicity/minimization)."
+Knowledge,K0326,Knowledge of demilitarized zones.
+Knowledge,K0053,Knowledge of measures or indicators of system performance and availability.
+Knowledge,K0170,Knowledge of critical infrastructure systems with information communication technology that were designed without system security considerations.
+Knowledge,K0322,Knowledge of embedded systems.
+Knowledge,K0061,"Knowledge of how traffic flows across the network (e.g., Transmission Control Protocol [TCP] and Internet Protocol [IP], Open System Interconnection Model [OSI], Information Technology Infrastructure Library, current version [ITIL])."
+Knowledge,K0113,"Knowledge of different types of network communication (e.g., LAN, WAN, MAN, WLAN, WWAN)."
+Knowledge,K0221,"Knowledge of OSI model and underlying network protocols (e.g., TCP/IP)."
+Knowledge,K0300,Knowledge of network mapping and recreating network topologies.
+Knowledge,K0303,Knowledge of the use of sub-netting tools.
+Knowledge,K0332,"Knowledge of network protocols such as TCP/IP, Dynamic Host Configuration, Domain Name System (DNS), and directory services."
+Knowledge,K0034,Knowledge of network services and protocols interactions that provide network communications.
+Knowledge,K0230,Knowledge of cloud service models and how those models can limit incident response.
+Knowledge,K0050,Knowledge of local area and wide area networking principles and concepts including bandwidth management.
+Knowledge,K0333,"Knowledge of network design processes, to include understanding of security objectives, operational objectives, and trade-offs."
+Knowledge,K0011,"Knowledge of capabilities and applications of network equipment including routers, switches, bridges, servers, transmission media, and related hardware."
+Knowledge,K0057,Knowledge of network hardware devices and functions.
+Knowledge,K0029,Knowledge of organization's Local and Wide Area Network connections.
+Knowledge,K0265,"Knowledge of infrastructure supporting information technology (IT) for safety, performance, and reliability."
+Knowledge,K0222,"Knowledge of relevant laws, legal authorities, restrictions, and regulations pertaining to cyber defense activities."
+Knowledge,K0015,Knowledge of computer algorithms.
+Knowledge,K0052,"Knowledge of mathematics (e.g. logarithms, trigonometry, linear algebra, calculus, statistics, and operational analysis)."
+Knowledge,K0325,"Knowledge of Information Theory (e.g., source coding, channel coding, algorithm complexity theory, and data compression)."
+Knowledge,K0111,"Knowledge of network tools (e.g., ping, traceroute, nslookup) "
+Knowledge,K0180,"Knowledge of network systems management principles, models, methods (e.g., end-to-end systems performance monitoring), and tools."
+Knowledge,K0334,"Knowledge of network traffic analysis (tools, methodologies, processes)."
+Knowledge,K0116,"Knowledge of file extensions (e.g., .dll, .bat, .zip, .pcap, .gzip)."
+Knowledge,K0192,Knowledge of Windows/Unix ports and services.
+Knowledge,K0318,Knowledge of operating system command-line tools.
+Knowledge,K0281,Knowledge of information technology (IT) service catalogues.
+Knowledge,K0320,Knowledge of organization's evaluation and validation criteria.
+Knowledge,K0258,"Knowledge of test procedures, principles, and methodologies (e.g., Capabilities and Maturity Model Integration (CMMI))."
+Knowledge,K0121,Knowledge of information security program management and project management principles and techniques.
+Knowledge,K0084,Knowledge of structured analysis principles and methods.
+Knowledge,K0149,Knowledge of organization's risk tolerance and/or risk management approach.
+Knowledge,K0263,"Knowledge of information technology (IT) risk management policies, requirements, and procedures."
+Knowledge,K0214,Knowledge of the Risk Management Framework Assessment Methodology. 
+Knowledge,K0264,"Knowledge of program protection planning (e.g. information technology (IT) supply chain security/risk management policies, anti-tampering techniques, and requirements)."
+Knowledge,K0081,"Knowledge of software development models (e.g., Waterfall Model, Spiral Model)."
+Knowledge,K0082,Knowledge of software engineering.
+Knowledge,K0039,Knowledge of cybersecurity and privacy principles and methods that apply to software development.
+Knowledge,K0079,Knowledge of software debugging principles.
+Knowledge,K0080,"Knowledge of software design tools, methods, and techniques."
+Knowledge,K0153,Knowledge of software quality assurance process.
+Knowledge,K0178,"Knowledge of secure software deployment methodologies, tools, and practices."
+Knowledge,K0286,Knowledge of N-tiered typologies (e.g. including server and client operating systems).
+Knowledge,K0205,"Knowledge of basic system, network, and OS hardening techniques."
+Knowledge,K0073,"Knowledge of secure configuration management techniques. (e.g., Security Technical Implementation Guides (STIGs), cybersecurity best practices on cisecurity.org)."
+Knowledge,K0227,Knowledge of various types of computer architectures.
+Knowledge,K0275,Knowledge of configuration management techniques.
+Knowledge,K0323,Knowledge of system fault tolerance methodologies.
+Knowledge,K0284,Knowledge of developing and applying user credential management system.
+Knowledge,K0035,"Knowledge of installation, integration, and optimization of system components."
+Knowledge,K0086,"Knowledge of system design tools, methods, and techniques, including automated systems analysis and design tools."
+Knowledge,K0087,"Knowledge of system software and organizational design standards, policies, and authorized approaches (e.g., International Organization for Standardization [ISO] guidelines) relating to system design."
+Knowledge,K0102,Knowledge of the systems engineering process.
+Knowledge,K0076,"Knowledge of server administration and systems engineering theories, concepts, and methods."
+Knowledge,K0092,Knowledge of technology integration processes.
+Knowledge,K0028,Knowledge of organization's evaluation and validation requirements.
+Knowledge,K0089,Knowledge of systems diagnostic tools and fault identification techniques.
+Knowledge,K0290,Knowledge of systems security testing and evaluation methods.
+Knowledge,K0091,Knowledge of systems testing and evaluation methods.
+Knowledge,K0071,Knowledge of remote access technology concepts.
+Knowledge,K0212,Knowledge of cybersecurity-enabled software products.
+Knowledge,K0093,"Knowledge of telecommunications concepts (e.g., Communications channel, Systems Link Budgeting, Spectral efficiency, Multiplexing)."
+Knowledge,K0274,"Knowledge of transmission records (e.g., Bluetooth, Radio Frequency Identification (RFID), Infrared Networking (IR), Wireless Fidelity (Wi-Fi). paging, cellular, satellite dishes, Voice over Internet Protocol (VoIP)), and jamming techniques that enable transmission of undesirable information, or prevent installed systems from operating correctly. "
+Knowledge,K0010,"Knowledge of communication methods, principles, and concepts that support the network infrastructure."
+Knowledge,K0374,"WITHDRAWN: Knowledge of basic structure, architecture, and design of modern digital and telephony networks. (See K0599)"
+Knowledge,K0266,Knowledge of how to evaluate the trustworthiness of the supplier and/or product.
+Knowledge,K0161,"Knowledge of different classes of attacks (e.g., passive, active, insider, close-in, distribution attacks)."
+Knowledge,K0162,"Knowledge of cyber attackers (e.g., script kiddies, insider threat, non-nation state sponsored, and nation sponsored)."
+Knowledge,K0297,Knowledge of countermeasure design for identified security risks.
+Knowledge,K0254,Knowledge of binary analysis.
+Knowledge,K0259,Knowledge of malware analysis concepts and methodologies.
+Knowledge,K0151,Knowledge of current and emerging threats/threat vectors.
+Knowledge,K0344,Knowledge of an organization’s threat environment.
+Knowledge,K0013,Knowledge of cyber defense and vulnerability assessment tools and their capabilities.
+Knowledge,K0040,"Knowledge of vulnerability information dissemination sources (e.g., alerts, advisories, errata, and bulletins)."
+Knowledge,K0342,"Knowledge of penetration testing principles, tools, and techniques."
+Knowledge,K0301,"Knowledge of packet-level analysis using appropriate tools (e.g., Wireshark, tcpdump)."
+Knowledge,K0339,Knowledge of how to use network analysis tools to identify vulnerabilities.
+Knowledge,K0062,Knowledge of packet-level analysis.
+Knowledge,K0206,Knowledge of ethical hacking principles and techniques.
+Knowledge,K0135,Knowledge of web filtering technologies.
+Knowledge,K0105,"Knowledge of web services (e.g., service-oriented architecture, Simple Object Access Protocol, and web service description language)."
+Knowledge,K0268,Knowledge of forensic footprint identification.
+Knowledge,K0236,"Knowledge of how to utilize Hadoop, Java, Python, SQL, Hive, and Pig to explore data."
+Knowledge,K0302,Knowledge of the basic operation of computers.
+Knowledge,K0020,Knowledge of data administration and data standardization policies.
+Knowledge,K0022,Knowledge of data mining and data warehousing principles.
+Knowledge,K0083,"Knowledge of sources, characteristics, and uses of the organization’s data assets."
+Knowledge,K0095,"Knowledge of the capabilities and functionality associated with various technologies for organizing and managing information (e.g., databases, bookmarking engines)."
+Knowledge,K0097,Knowledge of the characteristics of physical and virtual data storage media.
+Knowledge,K0195,Knowledge of data classification standards and methodologies based on sensitivity and other risk factors.
+Knowledge,K0338,Knowledge of data mining techniques.
+Knowledge,K0193,Knowledge of advanced data remediation security features in databases.
+Knowledge,K0278,Knowledge of current and emerging data remediation security features in databases.
+Knowledge,K0023,"Knowledge of database management systems, query languages, table relationships, and views."
+Knowledge,K0069,Knowledge of query languages such as SQL (structured query language).
+Knowledge,K0197,"Knowledge of database access application programming interfaces (e.g., Java Database Connectivity [JDBC])."
+Knowledge,K0025,Knowledge of digital rights management.
+Knowledge,K0201,Knowledge of symmetric key rotation techniques and concepts.
+Knowledge,K0031,Knowledge of enterprise messaging systems and associated software.
+Knowledge,K0321,Knowledge of engineering concepts as applied to computer architecture and associated computer hardware/software.
+Knowledge,K0288,Knowledge of industry standard security models.
+Knowledge,K0158,"Knowledge of organizational information technology (IT) user security policies (e.g., account creation, password rules, access control)."
+Knowledge,K0292,"Knowledge of the operations and processes for incident, problem, and event management."
+Knowledge,K0317,"Knowledge of procedures used for documenting and querying reported incidents, problems, and events."
+Knowledge,K0247,"Knowledge of remote access processes, tools, and capabilities related to customer support."
+Knowledge,K0315,"Knowledge of the principal methods, procedures, and techniques of gathering information and producing, reporting, and sharing information."
+Knowledge,K0064,Knowledge of performance tuning tools and techniques.
+Knowledge,K0137,"Knowledge of the range of existing networks (e.g., PBX, LANs, WANs, WIFI, SCADA)."
+Knowledge,K0174,Knowledge of networking protocols.
+Knowledge,K0228,Knowledge of taxonomy and semantic ontology theory.
+Knowledge,K0283,"Knowledge of use cases related to collaboration and content synchronization across platforms (e.g., Mobile, PC, Cloud)."
+Knowledge,K0238,Knowledge of machine learning theory and principles.
+Knowledge,K0207,Knowledge of circuit analysis.
+Knowledge,K0103,Knowledge of the type and frequency of routine hardware maintenance.
+Knowledge,K0129,"Knowledge of command-line tools (e.g., mkdir, mv, ls, passwd, grep)."
+Knowledge,K0271,"Knowledge of operating system structures and internals (e.g., process management, directory structure, installed applications)."
+Knowledge,K0242,Knowledge of organizational security policies.
+Knowledge,K0330,Knowledge of successful capabilities to identify the solutions to less common and more complex system problems.
+Knowledge,K0172,"Knowledge of middleware (e.g., enterprise service bus and message queuing)."
+Knowledge,K0229,"Knowledge of applications that can log errors, exceptions, and application faults and logging."
+Knowledge,K0299,"Knowledge in determining how a security system should work (including its resilience and dependability capabilities) and how changes in conditions, operations, or the environment will affect these outcomes."
+Knowledge,K0088,Knowledge of systems administration concepts.
+Knowledge,K0294,"Knowledge of IT system operation, maintenance, and security needed to keep equipment functioning properly."
+Knowledge,K0237,Knowledge of industry best practices for service desk.
+Knowledge,K0280,"Knowledge of systems engineering theories, concepts, and methods."
+Knowledge,K0346,Knowledge of principles and methods for integrating system components.
+Knowledge,K0289,Knowledge of system/server diagnostic tools and fault identification techniques.
+Knowledge,K0094,"Knowledge of the capabilities and functionality associated with content creation technologies (e.g., wikis, social networking, content management systems, blogs)."
+Knowledge,K0096,"Knowledge of the capabilities and functionality of various collaborative technologies (e.g., groupware, SharePoint)."
+Knowledge,K0136,"Knowledge of the capabilities of different electronic communication systems and methods (e.g., e-mail, VOIP, IM, web forums, Direct Video Broadcasts)."
+Knowledge,K0138,Knowledge of Wi-Fi.
+Knowledge,K0159,Knowledge of Voice over IP (VoIP).
+Knowledge,K0269,Knowledge of mobile communications architecture.
+Knowledge,K0171,Knowledge of hardware reverse engineering techniques.
+Knowledge,K0175,Knowledge of software reverse engineering techniques.
+Knowledge,K0272,Knowledge of network analysis tools used to identify software communications vulnerabilities.
+Knowledge,K0310,Knowledge of hacking methodologies.
+Knowledge,K0176,Knowledge of Extensible Markup Language (XML) schemas.
+Knowledge,K0361,"Knowledge of asset availability, capabilities and limitations."
+Knowledge,K0353,Knowledge of possible circumstances that would result in changing collection management authorities.
+Knowledge,K0584,Knowledge of the organizational policies/procedures for temporary transfer of collection authority.
+Knowledge,K0448,Knowledge of how to establish priorities for resources.
+Knowledge,K0601,Knowledge of the systems/architecture/communications used for coordination.
+Knowledge,K0605,"Knowledge of tipping, cueing, mixing, and redundancy."
+Knowledge,K0568,Knowledge of the definition of collection management and collection management authority.
+Knowledge,K0412,Knowledge of cyber lexicon/terminology
+Knowledge,K0587,"Knowledge of the POC’s, databases, tools and applications necessary to establish environment preparation and surveillance products."
+Knowledge,K0493,"Knowledge of obfuscation techniques (e.g., TOR/Onion/anonymizers, VPN/VPS, encryption)."
+Knowledge,K0356,"Knowledge of analytic tools and techniques for language, voice and/or graphic material."
+Knowledge,K0382,Knowledge of collection capabilities and limitations.
+Knowledge,K0383,"Knowledge of collection capabilities, accesses, performance specifications, and constraints utilized to satisfy collection plan."
+Knowledge,K0386,Knowledge of collection management tools.
+Knowledge,K0387,Knowledge of collection planning process and collection plan.
+Knowledge,K0390,Knowledge of collection strategies.
+Knowledge,K0401,Knowledge of criteria for evaluating collection products.
+Knowledge,K0404,Knowledge of current collection requirements.
+Knowledge,K0467,"Knowledge of internal and external partner organization capabilities and limitations (those with tasking, collection, processing, exploitation and dissemination responsibilities)."
+Knowledge,K0482,Knowledge of methods for ascertaining collection asset posture and availability.
+Knowledge,K0492,Knowledge of non-traditional collection methodologies.
+Knowledge,K0505,Knowledge of organization objectives and associated demand on collection management.
+Knowledge,K0522,Knowledge of production exploitation and dissemination needs and architectures. 
+Knowledge,K0558,Knowledge of the available tools and applications associated with collection requirements and collection management.
+Knowledge,K0562,"Knowledge of the capabilities and limitations of new and emerging collection capabilities, accesses and/or processes."
+Knowledge,K0569,"Knowledge of the existent tasking, collection, processing, exploitation and dissemination architecture."
+Knowledge,K0421,"Knowledge of databases, portals and associated dissemination vehicles."
+Knowledge,K0602,Knowledge of collection disciplines and capabilities.
+Knowledge,K0391,"Knowledge of collection systems, capabilities, and processes. "
+Knowledge,K0364,Knowledge of available databases and tools necessary to assess appropriate collection tasking.
+Knowledge,K0419,Knowledge of database administration and maintenance.
+Knowledge,K0454,Knowledge of information needs.
+Knowledge,K0503,"Knowledge of organization formats of resource and asset readiness reporting, its operational relevance and intelligence collection impact."
+Knowledge,K0384,"Knowledge of collection management functionality (e.g., positions, functions, responsibilities, products, reporting requirements)."
+Knowledge,K0355,Knowledge of all-source reporting and dissemination procedures.
+Knowledge,K0488,"Knowledge of network security implementations (e.g., host-based IDS, IPS, access control lists), including their function and placement in a network."
+Knowledge,K0491,"Knowledge of networking and Internet communications fundamentals (i.e. devices, device configuration, hardware, software, applications, ports/protocols, addressing, network architecture and infrastructure, routing, operating systems, etc.). "
+Knowledge,K0552,Knowledge of tasking mechanisms.
+Knowledge,K0553,Knowledge of tasking processes for organic and subordinate collection assets.
+Knowledge,K0580,Knowledge of the organization’s established format for collection plan.
+Knowledge,K0577,"Knowledge of the intelligence frameworks, processes, and related systems."
+Knowledge,K0358,Knowledge of analytical standards and the purpose of intelligence confidence levels.
+Knowledge,K0456,Knowledge of intelligence capabilities and limitations.
+Knowledge,K0459,"Knowledge of intelligence employment requirements (i.e., logistical, communications support, maneuverability, legal restrictions, etc.)."
+Knowledge,K0463,Knowledge of intelligence requirements tasking systems.
+Knowledge,K0595,"Knowledge of the relationships of operational objectives, intelligence requirements, and intelligence production tasks."
+Knowledge,K0359,Knowledge of approved intelligence dissemination processes.
+Knowledge,K0532,"Knowledge of specialized target language (e.g., acronyms, jargon, technical terminology, code words)."
+Knowledge,K0571,Knowledge of the feedback cycle in collection processes.
+Knowledge,K0521,"Knowledge of priority information, how it is derived, where it is published, how to access, etc."
+Knowledge,K0526,Knowledge of research strategies and knowledge management.
+Knowledge,K0554,"Knowledge of tasking, collection, processing, exploitation and dissemination."
+Knowledge,K0588,"Knowledge of the priority information requirements from subordinate, lateral and higher levels of the organization."
+Knowledge,K0524,"Knowledge of relevant laws, regulations, and policies."
+Knowledge,K0564,"Knowledge of the characteristics of targeted communication networks (e.g., capacity, functionality, paths, critical nodes)."
+Knowledge,K0495,Knowledge of ongoing and future operations.
+Knowledge,K0496,Knowledge of operational asset constraints.
+Knowledge,K0498,Knowledge of operational planning processes.
+Knowledge,K0563,"Knowledge of the capabilities, limitations and tasking methodologies of internal and external collections as they apply to planned cyber activities."
+Knowledge,K0591,Knowledge of the production responsibilities and organic analysis and production capabilities.
+Knowledge,K0416,Knowledge of cyber operations.
+Knowledge,K0425,"Knowledge of different organization objectives at all levels, including subordinate, lateral and higher."
+Knowledge,K0477,Knowledge of leadership's Intent and objectives.
+Knowledge,K0513,"Knowledge of organizational priorities, legal authorities and requirements submission processes."
+Knowledge,K0579,"Knowledge of the organization, roles and responsibilities of higher, lower and adjacent sub-elements."
+Knowledge,K0581,"Knowledge of the organization’s planning, operations and targeting cycles."
+Knowledge,K0583,Knowledge of the organizational plans/directives/guidance that describe objectives.
+Knowledge,K0517,Knowledge of post implementation review (PIR) approval process.
+Knowledge,K0578,Knowledge of the intelligence requirements development and request for information processes.
+Knowledge,K0407,Knowledge of customer information needs.
+Knowledge,K0527,Knowledge of risk management and mitigation strategies.
+Knowledge,K0396,"Knowledge of computer programming concepts, including computer languages, programming, testing, debugging, and file types. "
+Knowledge,K0575,Knowledge of the impacts of internal and external partner staffing estimates.
+Knowledge,K0539,"Knowledge of target communication profiles and their key elements (e.g., target associations, activities, communication infrastructure)."
+Knowledge,K0540,Knowledge of target communication tools and techniques.
+Knowledge,K0541,"Knowledge of target cultural references, dialects, expressions, idioms, and abbreviations."
+Knowledge,K0545,Knowledge of target language(s).
+Knowledge,K0380,Knowledge of collaborative tools and environments.
+Knowledge,K0476,Knowledge of language processing tools and techniques.
+Knowledge,K0596,Knowledge of the request for information process. 
+Knowledge,K0453,Knowledge of indications and warning.
+Knowledge,K0474,Knowledge of key cyber threat actors and their equities.
+Knowledge,K0475,Knowledge of key factors of the operational environment and threat.
+Knowledge,K0570,Knowledge of the factors of threat that could impact collection operations.
+Knowledge,K0548,Knowledge of target or threat cyber actors and procedures.
+Knowledge,K0607,Knowledge of translation processes and techniques.
+Knowledge,K0574,Knowledge of the impact of language analysis on on-net operator functions.
+Knowledge,K0398,"Knowledge of concepts related to websites (e.g., web servers/pages, hosting, DNS, registration, web languages such as HTML)."
+Knowledge,K0606,"Knowledge of transcript development processes and techniques (e.g., verbatim, gist, summaries)."
+Skill,S0032,"Skill in developing, testing, and implementing network infrastructure contingency and recovery plans."
+Skill,S0047,Skill in preserving evidence integrity according to standard operating procedures or national standards.
+Skill,S0068,"Skill in collecting, processing, packaging, transporting, and storing electronic evidence to avoid alteration, loss, physical damage, or destruction of data."
+Skill,S0075,"Skill in conducting forensic analyses in multiple operating system environments (e.g., mobile device systems)."
+Skill,S0065,"Skill in identifying and extracting data of forensic interest in diverse media (i.e., media forensics)."
+Skill,S0069,Skill in setting up a forensic workstation.
+Skill,S0071,"Skill in using forensic tool suites (e.g., EnCase, Sleuthkit, FTK)."
+Skill,S0090,Skill in analyzing anomalous code as malicious or benign.
+Skill,S0091,Skill in analyzing volatile data.
+Skill,S0060,"Skill in writing code in a currently supported programming language (e.g., Java, C++)."
+Skill,S0053,Skill in tuning sensors.
+Skill,S0098,WITHDRAWN: Skill in detecting host and network based intrusions via intrusion detection technologies. (See S0025)
+Skill,S0092,Skill in identifying obfuscation techniques.
+Skill,S0093,"Skill in interpreting results of debugger to ascertain tactics, techniques, and procedures."
+Skill,S0074,Skill in physically disassembling PCs.
+Skill,S0359,Skill to use critical thinking to analyze organizational patterns and relationships.
+Skill,S0072,Skill in using scientific rules and methods to solve problems.
+Skill,S0354,Skill in creating policies that reflect the business’s core privacy objectives.
+Skill,S0089,"Skill in one-way hash functions (e.g., Secure Hash Algorithm [SHA], Message Digest Algorithm [MD5])."
+Skill,S0006,"Skill in applying confidentiality, integrity, and availability principles."
+Skill,S0372,"Skill to translate, track, and prioritize information needs and intelligence collection requirements across the extended enterprise."
+Skill,S0076,"Skill in configuring and utilizing software-based computer protection tools (e.g., software firewalls, antivirus software, anti-spyware)."
+Skill,S0097,Skill in applying security controls.
+Skill,S0066,Skill in identifying gaps in technical capabilities.
+Skill,S0166,Skill in identifying gaps in technical delivery capabilities.
+Skill,S0271,Skill in reviewing and editing assessment products.
+Skill,S0038,"Skill in identifying measures or indicators of system performance and the actions needed to improve or correct performance, relative to the goals of the system."
+Skill,S0085,Skill in conducting audits or reviews of technical systems.
+Skill,S0356,"Skill in communicating with all levels of management including Board members (e.g., interpersonal skills, approachability, effective listening skills, appropriate use of style and language for the audience). "
+Skill,S0055,Skill in using knowledge management technologies.
+Skill,S0004,Skill in analyzing network traffic capacity and performance characteristics.
+Skill,S0056,"Skill in using network management tools to analyze network traffic patterns (e.g., simple network management protocol)."
+Skill,S0084,"Skill in configuring and utilizing network protection components (e.g., Firewalls, VPNs, network intrusion detection systems)."
+Skill,S0184,Skill in analyzing traffic to identify network devices.
+Skill,S0067,"Skill in identifying, modifying, and manipulating applicable system components within Windows, Unix, or Linux (e.g., passwords, user accounts, files)."
+Skill,S0070,Skill in talking to others to convey information effectively.
+Skill,S0018,Skill in creating policies that reflect system security objectives.
+Skill,S0296,"Skill in utilizing feedback to improve processes, products, and services."
+Skill,S0073,"Skill in using virtual machines. (e.g., Microsoft Hyper-V, VMWare vSphere, Citrix XenDesktop/Server, Amazon Elastic Compute Cloud, etc.)."
+Skill,S0121,"Skill in system, network, and OS hardening techniques. (e.g., remove unnecessary services, password policies, network segmentation, enable logging, least privilege, etc.)."
+Skill,S0062,Skill in analyzing memory dumps to extract information.
+Skill,S0293,"Skill in using tools, techniques, and procedures to remotely exploit and establish persistence on a target."
+Skill,S0064,Skill in developing and executing technical training programs and curricula.
+Skill,S0102,Skill in applying technical delivery capabilities.
+Skill,S0100,"Skill in utilizing or developing learning activities (e.g., scenarios, instructional games, interactive exercises). "
+Skill,S0101,"Skill in utilizing technologies (e.g., SmartBoards, websites, computers, projectors) for instructional purposes. "
+Skill,S0358,Skill to remain aware of evolving technical infrastructures.
+Skill,S0086,Skill in evaluating the trustworthiness of the supplier and/or product.
+Skill,S0355,Skill in negotiating vendor agreements and evaluating vendor privacy practices.
+Skill,S0052,"Skill in the use of social engineering techniques. (e.g., phishing, baiting, tailgating, etc.)."
+Skill,S0131,Skill in analyzing malware.
+Skill,S0270,"Skill in reverse engineering (e.g., hex editing, binary packaging utilities, debugging, and strings analysis) to identify function and ownership of remote tools."
+Skill,S0357,Skill to anticipate new security threats.
+Skill,S0087,"Skill in deep analysis of captured malicious code (e.g., malware forensics)."
+Skill,S0088,"Skill in using binary analysis tools (e.g., Hexedit, command code xxd, hexdump)."
+Skill,S0001,Skill in conducting vulnerability scans and recognizing vulnerabilities in security systems.
+Skill,S0051,Skill in the use of penetration testing tools and techniques.
+Skill,S0057,Skill in using protocol analyzers.
+Skill,S0081,"Skill in using network analysis tools to identify vulnerabilities. (e.g., fuzzing, nmap, etc.)."
+Skill,S0156,Skill in performing packet-level analysis.
+Skill,S0046,"Skill in performing packet-level analysis using appropriate tools (e.g., Wireshark, tcpdump)."
+Skill,S0176,"Skill in administrative planning activities, to include preparation of functional and specific support plans, preparing and managing correspondence, and staffing procedures."
+Skill,S0108,Skill in developing workforce and position qualification standards.
+Skill,S0128,Skill in using manpower and personnel IT systems.
+Skill,S0281,Skill in technical writing.
+Skill,S0301,"Skill in writing about facts and ideas in a clear, convincing, and organized manner."
+Skill,S0250,Skill in preparing plans and related correspondence.
+Skill,S0186,Skill in applying crisis planning procedures.
+Skill,S0201,"Skill in creating plans in support of remote operations. (i.e., hot/warm/cold/alternative sites, disaster recovery)."
+Skill,S0244,"Skill in managing client relationships, including determining client needs/requirements, managing client expectations, and demonstrating commitment to delivering quality results."
+Skill,S0260,Skill in recognizing midpoint opportunities and essential information.
+Skill,S0257,"Skill in reading, interpreting, writing, modifying, and executing simple scripts (e.g., PERL, VBS) on Windows and Unix systems (e.g., those that perform tasks like parsing large data files, automating manual tasks, and fetching/processing remote data)."
+Skill,S0266,"Skill in relevant programming languages (e.g., C++, Python, etc.). "
+Skill,S0239,Skill in interpreting compiled and interpretive programming languages.
+Skill,S0258,Skill in recognizing and interpreting malicious network activity in traffic.
+Skill,S0309,Skill to anticipate key target or threat activities which are likely to prompt a leadership decision.
+Skill,S0183,Skill in analyzing terminal or environment collection data.
+Skill,S0252,Skill in processing collected data for follow-on analysis.
+Skill,S0363,Skill to analyze and assess internal and external partner reporting.
+Skill,S0218,"Skill in evaluating information for reliability, validity, and relevance."
+Skill,S0194,Skill in conducting non-attributable research.
+Skill,S0227,Skill in identifying alternative analytical interpretations to minimize unanticipated outcomes.
+Skill,S0288,"Skill in using multiple analytic tools, databases, and techniques (e.g., Analyst’s Notebook, A-Space, Anchory, M3, divergent/convergent thinking, link charts, matrices, etc.)."
+Skill,S0187,"Skill in applying various analytical methods, tools, and techniques (e.g., competing hypotheses; chain of reasoning; scenario methods; denial and deception detection; high impact-low probability; network/association or link analysis; Bayesian, Delphi, and Pattern analyses)."
+Skill,S0196,Skill in conducting research using deep web.
+Skill,S0181,Skill in analyzing midpoint collection data.
+Skill,S0197,"Skill in conducting social network analysis, buddy list analysis, and/or cookie analysis."
+Skill,S0261,Skill in recognizing relevance of information.
+Skill,S0263,Skill in recognizing technical information that may be used for leads for metadata analysis.
+Skill,S0268,Skill in researching essential information.
+Skill,S0277,"Skill in synthesizing, analyzing, and prioritizing meaning across data sets."
+Skill,S0202,"Skill in data mining techniques (e.g., searching file systems) and analysis."
+Skill,S0295,"Skill in using various open source data collection tools (online trade, DNS, mail, etc.)."
+Skill,S0200,Skill in creating collection requirements in support of data acquisition activities.
+Skill,S0240,Skill in interpreting metadata and content as applied by collection systems.
+Skill,S0287,Skill in using geospatial data and applying geospatial resources.
+Skill,S0217,"Skill in evaluating data sources for relevance, reliability, and objectivity."
+Skill,S0286,Skill in using databases to identify target-relevant information.
+Skill,S0292,Skill in using targeting databases and software packages.
+Skill,S0220,Skill in exploiting/querying organizational and/or partner collection databases.
+Skill,S0298,"Skill in verifying the integrity of all files. (e.g., checksums, Exclusive OR, secure hashes, check constraints, etc.)."
+Skill,S0278,"Skill in tailoring analysis to the necessary levels (e.g., classification and organizational)."
+Skill,S0219,"Skill in evaluating information to recognize relevance, priority, etc."
+Skill,S0190,Skill in assessing current tools to identify needed improvements.
+Skill,S0282,Skill in testing and evaluating tools for implementation.
+Skill,S0360,Skill to analyze and assess internal and external partner cyber operations capabilities and tools.
+Skill,S0191,Skill in assessing the applicability of available analytical tools to various situations.
+Skill,S0236,Skill in identifying the devices that work at each level of protocol models.
+Skill,S0214,Skill in evaluating accesses for intelligence value.
+Skill,S0247,Skill in performing data fusion from existing intelligence for enabling new and continued collection.
+Skill,S0264,"Skill in recognizing technical information that may be used for leads to enable remote operations (data includes users, passwords, email addresses, IP ranges of the target, frequency in DNI behavior, mail servers, domain servers, SMTP header information)."
+Skill,S0361,Skill to analyze and assess internal and external partner intelligence processes and the development of information requirements and essential information.
+Skill,S0243,"Skill in knowledge management, including technical documentation techniques (e.g., Wiki page)."
+Skill,S0285,Skill in using Boolean operators to construct simple and complex queries.
+Skill,S0246,Skill in number normalization.
+Skill,S0192,"Skill in auditing firewalls, perimeters, routers, and intrusion detection systems."
+Skill,S0204,Skill in depicting source or collateral data on a network map.
+Skill,S0207,Skill in determining the effect of various router and firewall configurations on traffic patterns and network performance in both LAN and WAN environments.
+Skill,S0245,Skill in navigating network visualization software.
+Skill,S0294,Skill in using trace route tools and interpreting the results as they apply to network analysis and reconstruction.
+Skill,S0208,Skill in determining the physical location of network devices.
+Skill,S0178,"Skill in analyzing essential network data (e.g., router configuration files, routing protocols)."
+Skill,S0267,Skill in remote command line and Graphic User Interface (GUI) tool usage.
+Skill,S0322,Skill to craft indicators of operational progress/success.
+Skill,S0209,Skill in developing and executing comprehensive cyber operations assessment programs for assessing and validating operational performance characteristics.
+Skill,S0223,Skill in generating operation plans in support of mission and target requirements.
+Skill,S0290,Skill in using non-attributable networks.
+Skill,S0189,Skill in assessing and/or estimating effects generated during and after cyber operations.
+Skill,S0203,Skill in defining and characterizing all pertinent aspects of the operational environment.
+Skill,S0249,Skill in preparing and presenting briefings.
+Skill,S0297,"Skill in utilizing virtual collaborative workspaces and/or tools (e.g., IWS, VTCs, chat rooms, SharePoint)."
+Skill,S0333,Skill to graphically depict decision support materials containing intelligence and partner capability estimates.
+Skill,S0211,Skill in developing or recommending analytic approaches or solutions to problems and situations for which information is incomplete or for which no precedent exists.
+Skill,S0312,Skill to apply the process used to assess the performance and impact of cyber operations.
+Skill,S0349,Skill to synchronize operational assessment procedures with the critical information requirement process.
+Skill,S0185,Skill in applying analytical methods typically employed to support planning and to justify recommended strategies and courses of action.
+Skill,S0273,Skill in reviewing and editing plans.
+Skill,S0326,Skill to distinguish between notional and actual resources and their applicability to the plan under development.
+Skill,S0216,Skill in evaluating available capabilities against desired effects to provide effective courses of action.
+Skill,S0206,Skill in determining installed patches on various operating systems and identifying patch signatures.
+Skill,S0275,Skill in server administration.
+Skill,S0182,Skill in analyzing target communications internals and externals collected from wireless LANs.
+Skill,S0255,"Skill in providing real-time, actionable geolocation information utilizing target infrastructures."
+Skill,S0299,"Skill in wireless network target analysis, templating, and geolocation."
+Skill,S0237,"Skill in identifying, locating, and tracking targets via geospatial analysis techniques"
+Skill,S0279,Skill in target development in direct support of collection operations.
+Skill,S0228,"Skill in identifying critical target elements, to include critical target elements for the cyber domain."
+Skill,S0256,"Skill in providing understanding of target or threat systems through the identification and link analysis of physical, functional, or behavioral relationships."
+Skill,S0205,Skill in determining appropriate targeting options through the evaluation of available capabilities against desired effects.
+Skill,S0222,Skill in fusion analysis 
+Skill,S0248,Skill in performing target system analysis.
+Skill,S0177,Skill in analyzing a target's communication networks.
+Skill,S0225,Skill in identifying a target’s communications networks.
+Skill,S0231,Skill in identifying how a target communicates.
+Skill,S0234,Skill in identifying leads for target development.
+Skill,S0259,Skill in recognizing denial and deception techniques of the target.
+Skill,S0262,Skill in recognizing significant changes in a target’s communication patterns.
+Skill,S0280,"Skill in target network anomaly identification (e.g., intrusions, dataflow or processing, target implementation of new technologies)."
+Skill,S0291,"Skill in using research methods including multiple, different sources to reconstruct a target network."
+Skill,S0276,"Skill in survey, collection, and analysis of wireless LAN metadata."
+Skill,S0229,Skill in identifying cyber threats which may jeopardize organization and/or partner interests.
+Skill,S0221,Skill in extracting information from packet captures.
+Skill,S0242,Skill in interpreting vulnerability scanner results to identify vulnerabilities.
+Skill,S0199,Skill in creating and extracting important information from packet captures.
+Skill,S0269,Skill in researching vulnerabilities and exploits utilized in traffic.
+Skill,S0289,"Skill in using multiple search engines (e.g., Google, Yahoo, LexisNexis, DataStar) and tools in conducting open-source searches."
+Skill,S0213,Skill in documenting and communicating complex technical and programmatic information.
+Skill,S0300,Skill in writing (and submitting) requirements to meet gaps in technical capabilities.
+Skill,S0254,Skill in providing analysis to aid writing phased after action reports.
+Skill,S0303,"Skill in writing, reviewing and editing cyber-related Intelligence/assessment products from multiple sources."
+Skill,S0274,Skill in reviewing and editing target materials.
+Skill,S0302,Skill in writing effectiveness reports.
+Skill,S0304,"Skill to access information on current assets available, usage."
+Skill,S0133,"Skill in processing digital evidence, to include protecting and making legally sound copies of evidence."
+Skill,S0120,Skill in reviewing logs to identify evidence of past intrusions.
+Skill,S0020,Skill in developing and deploying signatures.
+Skill,S0025,"Skill in detecting host and network based intrusions via intrusion detection technologies (e.g., Snort)."
+Skill,S0096,"Skill in reading and interpreting signatures (e.g., snort)."
+Skill,S0147,"Skill in assessing security controls based on cybersecurity principles and tenets. (e.g., CIS CSC, NIST SP 800-53, Cybersecurity Framework, etc.)."
+Skill,S0370,Skill to use cyber defense Service Provider reporting structure and processes within one’s own organization.
+Skill,S0079,"Skill in protecting a network against malware. (e.g., NIPS, anti-malware, restrict/prevent external devices, spam filters)."
+Skill,S0124,Skill in troubleshooting and diagnosing cyber defense infrastructure anomalies and work through resolution.
+Skill,S0023,Skill in designing security controls based on cybersecurity principles and tenets.
+Skill,S0169,Skill in conducting trend analysis.
+Skill,S0063,Skill in collecting data from a variety of cyber defense resources.
+Skill,S0305,Skill to access the databases where plans/directives/guidance are maintained.
+Skill,S0325,Skill to develop a collection plan that clearly shows the discipline that can be used to collect the information needed.
+Skill,S0374,Skill to identify cybersecurity and privacy issues that stem from connections with internal and external customers and partner organizations.
+Skill,S0059,Skill in using Virtual Private Network (VPN) devices and encryption.
+Skill,S0138,"Skill in using Public-Key Infrastructure (PKI) encryption and digital signature capabilities into applications (e.g., S/MIME email, SSL traffic)."
+Skill,S0005,Skill in applying and incorporating information technologies into proposed solutions.
+Skill,S0122,Skill in the use of design methods. 
+Skill,S0031,Skill in developing and applying security system access controls.
+Skill,S0054,Skill in using incident handling methodologies.
+Skill,S0080,Skill in performing damage assessments.
+Skill,S0365,Skill to design incident response for cloud service models.
+Skill,S0175,Skill in performing root cause analysis.
+Skill,S0367,"Skill to apply cybersecurity and privacy principles to organizational requirements (relevant to confidentiality, integrity, availability, authentication, non-repudiation)."
+Skill,S0116,Skill in designing multi-level security/cross domain solutions.
+Skill,S0139,"Skill in applying security models (e.g., Bell-LaPadula model, Biba integrity model, Clark-Wilson integrity model)."
+Skill,S0238,Skill in information prioritization as it relates to operations.
+Skill,S0332,Skill to extract information from available tools and applications associated with collection requirements and collection operations management.
+Skill,S0034,"Skill in discerning the protection needs (i.e., security controls) of information systems and networks."
+Skill,S0077,Skill in securing network communications.
+Skill,S0173,Skill in using security event correlation tools.
+Skill,S0007,"Skill in applying host/network access controls (e.g., access control list)."
+Skill,S0168,Skill in setting up physical or logical sub-networks that separate an internal local area network (LAN) from other untrusted networks.
+Skill,S0170,"Skill in configuring and utilizing computer protection components (e.g., hardware firewalls, servers, routers, as appropriate)."
+Skill,S0027,"Skill in determining how a security system should work (including its resilience and dependability capabilities) and how changes in conditions, operations, or the environment will affect these outcomes."
+Skill,S0232,Skill in identifying intelligence gaps and limitations.
+Skill,S0233,Skill in identifying language issues that may have an impact on organization objectives.
+Skill,S0111,Skill in interfacing with customers.
+Skill,S0160,"Skill in the use of design modeling (e.g., unified modeling language)."
+Skill,S0050,"Skill in design modeling and building use cases (e.g., unified modeling language)."
+Skill,S0136,"Skill in network systems management principles, models, methods (e.g., end-to-end systems performance monitoring), and tools."
+Skill,S0241,"Skill in interpreting traceroute results, as they apply to network analysis and reconstruction. "
+Skill,S0145,Skill in integrating and applying policies that meet system security objectives.
+Skill,S0152,"Skill in translating operational requirements into protection needs (i.e., security controls)."
+Skill,S0329,Skill to evaluate requests for information to determine if response information exists.
+Skill,S0171,Skill in performing impact/risk assessments.
+Skill,S0172,Skill in applying secure coding techniques. 
+Skill,S0132,Skill in conducting bit-level analysis.
+Skill,S0174,Skill in using code analysis tools.
+Skill,S0306,Skill to analyze strategic guidance for issues requiring clarification and/or additional guidance.
+Skill,S0024,Skill in designing the integration of hardware and software solutions.
+Skill,S0135,"Skill in secure test plan design (e. g. unit, integration, system, acceptance)."
+Skill,S0061,Skill in writing test plans.
+Skill,S0110,"Skill in identifying Test & Evaluation infrastructure (people, ranges, tools, instrumentation) requirements."
+Skill,S0112,"Skill in managing test assets, test resources, and test personnel to ensure effective completion of test events."
+Skill,S0115,Skill in preparing Test & Evaluation reports.
+Skill,S0134,Skill in conducting reviews of systems.
+Skill,S0235,Skill in identifying non-target regional languages and dialects
+Skill,S0251,Skill in prioritizing target language material.
+Skill,S0307,Skill to analyze target or threat sources of strength and morale.
+Skill,S0003,"Skill of identifying, capturing, containing, and reporting malware."
+Skill,S0022,Skill in designing countermeasures to identified security risks.
+Skill,S0044,Skill in mimicking threat behaviors.
+Skill,S0364,Skill to develop insights about the context of an organization’s threat environment
+Skill,S0036,Skill in evaluating the adequacy of security designs.
+Skill,S0078,Skill in recognizing and categorizing types of vulnerabilities and associated attacks.
+Skill,S0167,"Skill in recognizing vulnerabilities in security systems. (e.g., vulnerability and compliance scanning)."
+Skill,S0083,Skill in integrating black box security testing tools into quality assurance process of software releases.
+Skill,S0137,Skill in conducting application vulnerability assessments.
+Skill,S0141,Skill in assessing security systems designs.
+Skill,S0009,WITHDRAWN: Skill in assessing the robustness of security systems and designs. (See S0027)
+Skill,S0150,Skill in implementing and testing network infrastructure contingency and recovery plans.
+Skill,S0094,Skill in reading Hexadecimal data.
+Skill,S0095,"Skill in identifying common encoding techniques (e.g., Exclusive Disjunction [XOR], American Standard Code for Information Interchange [ASCII], Unicode, Base64, Uuencode, Uniform Resource Locator [URL] encode)."
+Skill,S0130,"Skill in writing scripts using R, Python, PIG, HIVE, SQL, etc."
+Skill,S0129,Skill in using outlier identification and removal techniques.
+Skill,S0058,"Skill in using the appropriate tools for repairing software, hardware, and peripheral equipment of a system."
+Skill,S0017,Skill in creating and utilizing mathematical or statistical models.
+Skill,S0109,Skill in identifying hidden patterns or relationships.
+Skill,S0114,Skill in performing sensitivity analysis.
+Skill,S0118,Skill in developing machine understandable semantic ontologies.
+Skill,S0119,"Skill in Regression Analysis (e.g., Hierarchical Stepwise, Generalized Linear Model, Ordinary Least Squares, Tree-Based Methods, Logistic)."
+Skill,S0123,"Skill in transformation analytics (e.g., aggregation, enrichment, processing)."
+Skill,S0125,"Skill in using basic descriptive statistics and techniques (e.g., normality, model distribution, scatter plots)."
+Skill,S0028,Skill in developing data dictionaries.
+Skill,S0106,"Skill in data pre-processing (e.g., imputation, dimensionality reduction, normalization, transformation, extraction, filtering, smoothing)."
+Skill,S0113,Skill in performing format conversions to create a standard representation of the data.
+Skill,S0126,"Skill in using data analysis tools (e.g., Excel, STATA SAS, SPSS)."
+Skill,S0127,Skill in using data mapping tools.
+Skill,S0369,"Skill to identify sources, characteristics, and uses of the organization’s data assets."
+Skill,S0002,Skill in allocating storage capacity in the design of data management systems.
+Skill,S0042,"Skill in maintaining databases. (i.e., backup, restore, delete data, transaction log files, etc.)."
+Skill,S0045,Skill in optimizing database performance.
+Skill,S0013,Skill in conducting queries and developing algorithms to analyze data structures.
+Skill,S0037,Skill in generating queries and reports.
+Skill,S0043,"Skill in maintaining directory services. (e.g., Microsoft Active Directory, LDAP, etc.)."
+Skill,S0011,Skill in conducting information searches.
+Skill,S0040,"Skill in implementing, maintaining, and improving established network security practices."
+Skill,S0153,"Skill in identifying and anticipating system/server performance, availability, capacity, or configuration problems."
+Skill,S0155,Skill in monitoring and optimizing system/server performance.
+Skill,S0146,"Skill in creating policies that enable systems to meet performance objectives (e.g. traffic routing, SLA's, CPU specifications)."
+Skill,S0035,Skill in establishing a routing schema.
+Skill,S0162,"Skill in applying various subnet techniques (e.g., CIDR)"
+Skill,S0012,"Skill in conducting knowledge mapping (e.g., map of knowledge repositories)."
+Skill,S0049,Skill in the measuring and reporting of intellectual capital.
+Skill,S0029,Skill in developing data models.
+Skill,S0103,Skill in assessing the predictive power and subsequent generalizability of a model.
+Skill,S0041,"Skill in installing, configuring, and troubleshooting LAN and WAN components such as routers, hubs, and switches."
+Skill,S0033,Skill in diagnosing connectivity problems.
+Skill,S0158,"Skill in operating system administration. (e.g., account maintenance, data backups, maintain system performance, install and configure new hardware/software)."
+Skill,S0010,Skill in conducting capabilities and requirements analysis.
+Skill,S0149,"Skill in developing applications that can log and handle errors, exceptions, and application faults and logging."
+Skill,S0016,Skill in configuring and optimizing software.
+Skill,S0014,Skill in conducting software debugging.
+Skill,S0143,"Skill in conducting system/server planning, management, and maintenance."
+Skill,S0144,Skill in correcting physical and technical problems that impact system/server performance.
+Skill,S0151,"Skill in troubleshooting failed system components (i.e., servers)"
+Skill,S0154,"Skill in installing system and component upgrades. (i.e., servers, appliances, network devices)."
+Skill,S0157,"Skill in recovering failed systems/servers. (e.g., recovery software, failover clusters, replication, etc.)."
+Skill,S0039,Skill in identifying possible causes of degradation of system performance or availability and initiating actions needed to mitigate this degradation.
+Skill,S0142,Skill in conducting research for troubleshooting novel client-level problems.
+Skill,S0140,Skill in applying the systems engineering process.
+Skill,S0148,"Skill in designing the integration of technology processes and solutions, including legacy systems and modern programming languages. "
+Skill,S0019,"Skill in creating programs that validate and process multiple inputs including command line arguments, environmental variables, and input streams."
+Skill,S0015,Skill in conducting test events.
+Skill,S0021,"Skill in designing a data analysis structure (i.e., the types of data a test must generate and how to analyze that data)."
+Skill,S0026,Skill in determining an appropriate level of test rigor for a given system.
+Skill,S0030,Skill in developing operations-based testing scenarios.
+Skill,S0048,Skill in systems integration testing.
+Skill,S0082,Skill in evaluating test plans for applicability and completeness.
+Skill,S0104,Skill in conducting Test Readiness Reviews.
+Skill,S0107,Skill in designing and documenting overall program Test & Evaluation strategies.
+Skill,S0117,Skill in providing Test & Evaluation resource estimate.
+Skill,S0008,Skill in applying organization-specific systems analysis principles and techniques.
+Skill,S0159,Skill in configuring and validating network workstations and peripherals in accordance with approved standards and/or specifications.
+Skill,S0343,"Skill to orchestrate intelligence planning teams, coordinate collection and production support, and monitor status."
+Skill,S0311,"Skill to apply the capabilities, limitations and tasking methodologies of available platforms, sensors, architectures and apparatus as they apply to organization objectives."
+Skill,S0313,"Skill to articulate a needs statement/requirement and integrate new and emerging collection capabilities, accesses and/or processes into collection operations."
+Skill,S0324,Skill to determine feasibility of collection.
+Skill,S0327,Skill to ensure that the collection strategy leverages all available resources. 
+Skill,S0330,"Skill to evaluate the capabilities, limitations and tasking methodologies of organic, theater, national, coalition and other collection capabilities. "
+Skill,S0334,"Skill to identify and apply tasking, collection, processing, exploitation and dissemination to associated collection disciplines. "
+Skill,S0336,Skill to identify when priority information requirements are satisfied.
+Skill,S0339,"Skill to interpret readiness reporting, its operational relevance and intelligence collection impact."
+Skill,S0347,Skill to review performance specifications and historical information about collection assets.
+Skill,S0351,"Skill to translate the capabilities, limitations and tasking methodologies of organic, theater, national, coalition and other collection capabilities."
+Skill,S0352,Skill to use collaborative tools and environments for collection operations.
+Skill,S0337,Skill to implement established procedures for evaluating collection management and operations activities.
+Skill,S0346,Skill to resolve conflicting collection requirements.
+Skill,S0348,Skill to specify collections and/or taskings that must be conducted in the near term.
+Skill,S0353,Skill to use systems and/or tools to track collection requirements and determine if they are satisfied.
+Skill,S0318,Skill to conceptualize the entirety of the intelligence process in the multiple domains and dimensions.
+Skill,S0195,Skill in conducting research using all available sources.
+Skill,S0198,Skill in conducting social network analysis.
+Skill,S0215,Skill in evaluating and interpreting metadata.
+Skill,S0362,"Skill to analyze and assess internal and external partner organization capabilities and limitations (those with tasking, collection, processing, exploitation and dissemination responsibilities)."
+Skill,S0179,Skill in analyzing language processing tools to provide feedback to enhance tool development.
+Skill,S0316,Skill to associate Intelligence gaps to priority information requirements and observables.
+Skill,S0335,Skill to identify Intelligence gaps.
+Skill,S0272,Skill in reviewing and editing intelligence products from various sources for cyber operations.
+Skill,S0310,Skill to apply analytical standards to evaluate intelligence products.
+Skill,S0320,Skill to coordinate the development of tailored intelligence products.
+Skill,S0321,Skill to correlate intelligence priorities to the allocation of intelligence resources/assets.
+Skill,S0210,Skill in developing intelligence reports.
+Skill,S0212,Skill in disseminating items of highest intelligence value in a timely manner.
+Skill,S0193,Skill in complying with the legal restrictions for targeted information.
+Skill,S0328,"Skill to evaluate factors of the operational environment to objectives, and information requirements."
+Skill,S0314,Skill to articulate intelligence capabilities available to support execution of the plan.
+Skill,S0315,Skill to articulate the needs of joint planners to all-source analysts.
+Skill,S0344,"Skill to prepare and deliver reports, presentations and briefings, to include using visual aids or presentation technology."
+Skill,S0331,Skill to express orally and in writing the relationship between intelligence capability limitations and decision-making risk and impacts on the overall operation.
+Skill,S0317,Skill to compare indicators/observables with requirements.
+Skill,S0308,Skill to anticipate intelligence capability employment requirements.
+Skill,S0319,Skill to convert intelligence requirements into intelligence production tasks.
+Skill,S0345,Skill to relate intelligence resources/assets to anticipated intelligence requirements.
+Skill,S0323,Skill to create and maintain up-to-date planning documents and tracking of services/production.
+Skill,S0338,Skill to interpret planning guidance to discern level of analytical support required.
+Skill,S0350,Skill to synchronize planning activities and required intelligence support.
+Skill,S0342,"Skill to optimize collection system performance through repeated adjustment, testing, and re-adjustment."
+Skill,S0340,Skill to monitor target or threat situation and environmental factors.
+Skill,S0188,"Skill in assessing a target's frame of reference (e.g., motivation, technical capability, organizational structure, sensitivities)."
+Skill,S0224,Skill in gisting target communications.
+Skill,S0226,Skill in identifying a target's network characteristics. 
+Skill,S0253,"Skill in providing analysis on target-related matters (e.g., language, cultural, communications)."
+Skill,S0265,Skill in recognizing technical information that may be used for target development including intelligence development. 
+Skill,S0283,Skill in transcribing target language communications.
+Skill,S0284,Skill in translating target graphic and/or voice language materials.
+Skill,S0341,Skill to monitor threat effects to partner capabilities and maintain a running estimate.

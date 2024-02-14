@@ -3,6 +3,7 @@
 Ongoing research ideas and products.
 
 1. [An ontology model for the NIST NICE Framework](nice2021/readme.md)
+2. [A lit review of identity federations](2309-usfederation/readme.md)
 
 Check out my ORCID for other information.
 

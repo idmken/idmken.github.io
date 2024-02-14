@@ -2,10 +2,17 @@
 
 Articles or blog posts where I'm the author or co-author. Reproduced here with source location.
 
+## 2023
+
+| Title | Topic | Date | Role | Published Link |
+| ----- | -------- | ---- | ----- | ------ |
+| [1. Digital Autopen Playbook pinpoints how agencies can leverage technology for digital signatures](2305-autopen.md) | Digital Signature | May 2023 | Co-Author | [Digital.gov Blog](https://digital.gov/2023/05/23/digital-autopen-playbook-pinpoints-how-agencies-can-leverage-technology-for-digital-signatures/){:target="_blank"}{:rel="noopener noreferrer"} |
+
 ## 2022
 
 | Title | Topic | Date | Role | Published Link |
 | ----- | -------- | ---- | ----- | ------ |
+| [3. The Privileged Identity Playbook Guides Management of Privileged User Accounts](2211-pam.md) | Privileged Identity | November 2022 | Author | [Digital.gov Blog](https://digital.gov/2022/11/10/the-privileged-identity-playbook-guides-management-of-privileged-user-accounts/){:target="_blank"}{:rel="noopener noreferrer"} |
 | [2. Modernize Your Identity Management Process Through ILM](2208-gsailm.md) | Identity Lifecycle Management | August 2022 | Co-Author | [GSA Blog](https://www.gsa.gov/blog/2022/08/12/modernize-your-identity-management-process-through-ilm){:target="_blank"}{:rel="noopener noreferrer"} |
 | [1. Achieve Zero Trust Capabilities Using These Cloud Identity Adoption Best Practices](2203-gsacloudblog.md) | Cloud Single Sign-On | March 2022 | Author | [GSA Blog](https://www.gsa.gov/blog/2022/03/09/achieve-zero-trust-capabilities-using-these-cloud-identity-adoption-best-practices){:target="_blank"}{:rel="noopener noreferrer"} | 
 

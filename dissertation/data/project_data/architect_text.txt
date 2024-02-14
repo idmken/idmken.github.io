@@ -1,0 +1,1216 @@
+Become a Part of the NIKE, Inc. Team
+
+NIKE, Inc. does more than outfit the world‚Äôs best athletes. It is a place to explore potential, obliterate boundaries and push out the edges of what can be. The company looks for people who can grow, think, dream and create. Its culture thrives by embracing diversity and rewarding imagination. The brand seeks achievers, leaders and visionaries. At NIKE, Inc. it‚Äôs about each person bringing skills and passion to a challenging and constantly evolving game.
+
+NIKE is a technology company. From our flagship website and five-star mobile apps to developing products, managing big data and providing leading edge engineering and systems support, our teams at NIKE Global Technology exist to revolutionize the future at the confluence of tech and sport. We invest and develop advances in technology and employ the most creative people in the world, and then give them the support to constantly innovate, iterate and serve consumers more directly and personally. Our teams are innovative, diverse, multidisciplinary and collaborative, taking technology into the future and bringing the world with it.
+
+If you‚Äôre ready to innovate and lead in the Platform Architecture space, join Nike‚Äôs Global Architecture organization! You will be part of a team that is revolutionizing Nike technology platforms and architecting a technology landscape that is simplified, modern, flexible and will ultimately enable Nike on its journey to 2030 and beyond.
+
+As a Principal Foundational Architect ‚Äì Identity & Access Management (IAM) Platforms you are responsible for defining the technology foundations for our IAM platforms, and the heart of our Security and Identity practices. You will work as part of an impactful and multi-functional team delivering enterprise scale platforms with focus on scalability, performance, security and availability. As a key player on this team you will provide hands on experience with identity providers, Access Management platforms, various internal and external security tools and systems, integrating those into a cohesive ecosystem. You‚Äôll be solving some of the most sophisticated and visible projects at Nike. Seriously‚Ä¶ the impact is global and reaches across all of Nike, Inc
+
+Love to still write code? Great we do to! We are not an ‚ÄúIvory Tower‚Äù organization. Not only do we define solutions and platform architectures, but you will also build deployable reference implementations.
+
+It‚Äôs in our nature to innovate, in addition to setting Nike‚Äôs technology direction, foundational architecture is tasked with coming up with pioneering and innovative ways to solve groundbreaking opportunities.
+
+Given the sheer number of people who will want to talk to you, you will need to have excellent written and verbal communication skills. You should be comfortable speaking to both technical and non-technical audiences up to C-level executives‚Ä¶ Hey, we said it was high visibility!
+
+Now that we have you interested, here is what we‚Äôre looking for:
+
+Demonstrated knowledge and expertise in Identity & Access Management technologies, token-based authentication technologies (including OAuth and OpenID Connect), information security standards, principles and practices.
+Experience with security governance frameworks such as NIST, ISO, and in implementing against the Cloud Security Alliance standard processes.
+Substantial familiarity and facility with data privacy laws (GDPR, CCPA, etc.)
+A passion for technology and solving exciting challenges.
+Proven problem solver and pragmatic demeanor.
+At least 10 years‚Äô experience in a lead development or architecture role(s).
+At least 5 years‚Äô experience with public cloud.
+Experience building world class (PAAS) platforms
+Hands on engineering experience dealing with problems of scale.
+You consider yourself or have been told you are a T-shaped or E-shaped individual.
+Can translate business requirements to end-to-end solutions.
+Collaborative mind, able to work with a team to deliver the strongest solution.
+Self starter and takes ownership in the quality of work being delivered.
+
+You have at least 5 years lead experience in 2 or more of the following areas:
+
+Application & Infrastructure Security
+Web applications & mobile applications including serverless and microservices-based application architectures
+PAAS, CDN and service mesh
+Continuous Delivery & DevOps
+Cloud Infrastructure (in HA AND multi-regional configurations)
+Data & Analytics
+Integration
+Remote Work Option ‚Äìopen to remote work except cannot work in the following locations: SD,VT, and WV. These candidates will be required to relocate.
+
+For employees based in Colorado, this position has an annual base salary range of $163,00 - $269,500.
+
+For employees based in NYC and Westchester County, NY, this position has an annual base salary range of $193,500 - $321,000
+
+Information about benefits
+
+NIKE, Inc. is a growth company that looks for team members to grow with it. Nike offers a generous total rewards package, casual work environment, a diverse and inclusive culture, and an electric atmosphere for professional development. No matter the location, or the role, every Nike employee shares one galvanizing mission: To bring inspiration and innovation to every athlete* in the world.
+
+NIKE, Inc. is committed to employing a diverse workforce. Qualified applicants will receive consideration without regard to race, color, religion, sex, national origin, age, sexual orientation, gender identity, gender expression, veteran status, or disability.
+
+To apply to this job, click Apply Now
+
+Show Less Cloud Security Services is currently looking for an experienced Workforce Identity and Access Management (IAM) Solution Architect & Engineer for our client. Our client requires an experienced Workforce Identity and Access Management (IAM) Solution Architect & Engineer to develop solution patterns to onboard / migrate / convert applications to the client’s target state workforce IAM architecture. The right candidate must have a strong background in designing IAM architecture for large, complex and global IAM environments that includes operational technology. This is a 3-month remote project.
+
+
+Responsibilities:
+
+Development of omni-channel (Digital, Voice, Paper) standard patterns based on the target state IAM solution architecture and eco-system for client workforce members
+Continue to drive workforce IAM solution architecture and scoping of engineering design and scoping to support the transformation initiative
+Create engineering diagrams to support the overall solution architecture
+Provide infrastructure-as-code examples to support the engineering diagrams
+Maintain and update the overall solution architecture
+Assist in building application consumption inventories and identify inventory and use cases for other IAM assets that are "unknown"
+Solution Architecture and Engineering Diagrams for technical discovery and integration with other systems (e.g., CMDB and ITSM)
+Support the development of basic use cases / role models for Day 1 (Birthright) access
+Create engineering diagrams for implementation into IDMS
+Solution Architecture Updates to Reflect Contractor Authoritative Decision
+Support the implementation for target state digital identity records for employees, contractors and robots
+Provide access management architecture and engineering services
+Support the architecture and engineering for IDMS compliance across business sectors
+Support architecture and engineering for enhancing access recertifications for better end user experience
+Support AD / AAD architecture and engineering requirements
+Covers the following pattern categories for IAM;
+Registration / Onboarding
+Authentication
+Authorization
+Third-party Service/API Access & Authorization
+Invitation-Based User Registration
+User Access Delegation
+User De-provisioning
+Helpdesk Processes
+Omnichannel Services "Overlay"
+Evaluation of current processes against the defined industry and leading practices including industry standards such as the National Institute for Standards and Technology (NIST) Special Publication (SP) 800-63; Digital Authentication, NIST Cybersecurity Framework (CSF) and NIST SP 800-53; Security and Privacy Controls
+
+Required Skills:
+
+Senior and experienced IAM Architect (5-7 years) in creating solution architecture and engineering (design pattern diagrams)
+Good understanding of IAM
+Intimately familiar with IAM related protocols such as SAML, SPML, XACML, SCIM, OpenID and OAuth
+Strong experience with Directories, SSO, Federation, Delegated administration, API gateways, SOA services
+Experience with App Gateways, App Proxies
+Good understanding of MFA, PAM and Risk Based Authentication
+Deep technical understanding of IAM solutions across multiple vendors. Like Microsoft, Okta and Quest
+Experience with NIST SP800-63 Digital Authentication Standard
+Ability to work across teams
+
+Preferred Skills:
+
+Business outcomes mindset
+Directory services design experience such as AD and AAD
+Excellent interpersonal communication skills with strong spoken and written English
+Scripting experience
+Implementation experience
+Collaborative team worker
+Flexibility to accommodate working across different time-zones
+
+Preferred Education:
+
+Bachelor’s in Computer Science
+
+
+TmPaR1A6Mb
+
+Show Less Comcast brings together the best in media and technology. We drive innovation to create the world's best entertainment and online experiences. As a Fortune 50 leader, we set the pace in a variety of innovative and fascinating businesses and create career opportunities across a wide range of locations and disciplines. We are at the forefront of change and move at an amazing pace, thanks to our remarkable people, who bring cutting-edge products and services to life for millions of customers every day. If you share in our passion for teamwork, our vision to revolutionize industries and our goal to lead the future in media and technology, we want you to fast-forward your career at Comcast.
+Job Summary Responsible for aspects of office automation and system administration support including systems software, system performance, security, and system network integration. Troubleshoots issues, provides solutions in a timely and cost-efficient manner. Provides expert technical advice and counsel in the design and maintenance of the Zendesk system. Works with moderate guidance in own area of knowledge. Acts as a resource for colleagues with less experience.
+Job Description
+Core Responsibilities
+Serve as a primary resource & consultant for technology matters for HR Service Delivery team
+Gather and prioritize change requirements for the CRM.
+Manage the development, internal testing and rollout of changes with internal teams.
+Utilize analytics to improve ticket deflection and agent productivity.
+Perform hands-on implementation of day-to-day changes in the areas of customizing fields, building and enhancing forms, knowledge base content and use of macros.
+Access, create and edit business rules (automations, SLA service targets, triggers and views).
+Review and tune workflows in Zendesk system to drive process improvement.
+Evaluate and document configuration details.
+Periodically audit agent permissions and ensure access is appropriate.
+Support the onboarding process for new employees and contractors.
+Support various systems such as the CRM, IVR, telephony and voice mail.
+Serve as project manager for various initiatives & projects from development to implementation
+Analyzes and revises existing system logic difficulties and documentation, as necessary.
+Prepares detailed specifications from which programs will be written.
+Includes analysis of business and user needs, documentation of requirements and translation into proper system requirement specifications.
+Identifies and assesses probable interactions of related computer systems and predicts impact of a change in assigned system.
+May review proposals, including gathering facts, analyzing data and preparing project overview which compares alternatives in terms of cost, time, availability of equipment and personnel etc. Recommends course of action.
+Functions as a liaison between the client, community and internal IT and/or external software vendors to develop system solutions to processing systems or business problems.
+Ensures data quality and integrity across data-specific application implementations.
+Supports the testing team and business users in validating that the programs meet the requirements.
+Consistent exercise of independent judgment and discretion in matters of significance.
+Regular, consistent and punctual attendance. Must be able to work nights and weekends, variable schedule(s) and overtime as necessary.
+Other duties and responsibilities as assigned.
+
+Skills
+Knowledge of customer support processes.
+Must be responsive, flexible, creative and open to change.
+Ability to work independently and demonstrate strong conceptual and problem solving skills.
+Able to work in a fast-past team environment where managing multiple priorities and deadlines.
+Highly organized, responsive and good at project management.
+Analytical with a keen desire to improve business processes and performance.
+Proficiency in Excel and Visio
+Vendor engagement
+Data management and governance
+Business process design and troubleshooting
+API Experience a plus
+Familiarity with json & xml file structure, JavaScript coding & HTML & CSS frontend development
+Experience of administering Zendesk or Software as a Service System.
+
+Employees at all levels are expected to:
+Understand our Operating Principles; make them the guidelines for how you do your job.
+Own the customer experience - think and act in ways that put our customers first, give them seamless digital options at every touchpoint, and make them promoters of our products and services.
+Know your stuff - be enthusiastic learners, users and advocates of our game-changing technology, products and services, especially our digital tools and experiences.
+Win as a team - make big things happen by working together and being open to new ideas.
+Be an active part of the Net Promoter System - a way of working that brings more employee and customer feedback into the company - by joining huddles, making call backs and helping us elevate opportunities to do better for our customers.
+Drive results and growth.
+Respect and promote inclusion & diversity.
+Do what's right for each other, our customers, investors and our communities.
+
+Salary Range: $58,524.88 to $131,680.97
+
+Disclaimer:
+This information has been designed to indicate the general nature and level of work performed by employees in this role. It is not designed to contain or be interpreted as a comprehensive inventory of all duties, responsibilities and qualifications.
+
+Comcast is an EOE/Veterans/Disabled/LGBT employer.
+
+Comcast is proud to be an equal opportunity workplace. We will consider all qualified applicants for employment without regard to race, color, religion, age, sex, sexual orientation, gender identity, national origin, disability, veteran status, or any other basis protected by applicable law.
+Education
+Bachelor's Degree
+While possessing the stated degree is preferred, Comcast also may consider applicants who hold some combination of coursework and experience, or who have extensive related professional experience.
+Relevant Work Experience
+5-7 Years
+
+Salary:
+Pay Range: $73,156.10 - $109,734.14
+Comcast intends to offer the selected candidate base pay dependent on job-related, non-discriminatory factors such as experience.
+Base pay is one part of the Total Rewards that Comcast provides to compensate and recognize employees for their work. Most sales positions are eligible for a Commission under the terms of an applicable plan, while most non-sales positions are eligible for a Bonus. Additionally, Comcast provides best-in-class Benefits. We believe that benefits should connect you to the support you need when it matters most, and should help you care for those who matter most. That’s why we provide an array of options, expert guidance and always-on tools, that are personalized to meet the needs of your reality – to help support you physically, financially and emotionally through the big milestones and in your everyday life. Please visit the compensation and benefits summary on our careers site for more details.
+Show Less 
+ReportCompany
+Federal Reserve Bank of Richmond
+The Richmond Fed is the proud home of the Federal Reserve‚Äôs National IT organization‚Äîa nationwide team delivering technology solutions and support across the Federal Reserve System. Many National IT employees are located in Richmond, while others are based across the U.S. at other Federal locations.
+
+When you join our team, you‚Äôll become part of a culture that welcomes differences, cares about our communities, and empowers each other to lead from where we are to make things better.
+
+Bring your passion and we‚Äôll provide challenging and purposeful careers in a variety of fields, opportunities to grow and a wide range of benefits and perks that support your health and wealth. It‚Äôs all part of what makes #MyRichmondFed a great place to work!
+About the Opportunity
+As an IAM and Security Architect, you will will be a technical expert supporting the design, implementation, and operationalization of Federal Reserve‚Äôs Identity Access Management program and solutions and will architect, build, and maintain infrastructure, security services, and system components in a hybrid cloud environment.
+What You Will Do:
+Lead architecture, technical design, implementation, and operation of Identity Access Management product line.
+Lead technology adoption, development and engineering activities, focusing on implementation of Identity Governance and Administration solutions.
+Provide IAM subject matter expertise for business and technical teams on architectural and procedural best practices for on-prem and cloud-based solutions.
+Be self-organizing and work collaboratively with cross-functional teams leveraging agile development practices.
+Lead automation efforts to minimize manual work, ensure compliance goals, and support continuous delivery frameworks and tools.
+Work with partners to obtain and translate requirements into technical implementations.
+Create as-is and to-be architecture blueprints and technical documentation.
+Engage with development and QA teams during SDLC phases to provide leadership and security design guidance.
+Assist with development of use cases and detailed testing plans that map to the documented business and technical requirements, complying with Federal Reserve security specifications and industry standard / generally accepted testing practices.
+Consult with internal (technical experts, information technology / IAM leadership) and external (departments, departments) partners on changing business, policy, and technical plans to ensure that information security issues are addressed early in the project lifecycle.
+Help implement monitoring tools to support operational and security incident response processes.
+Provide technical support both across departments and applications including rotational or on-call support.
+Responsible for understanding and applying risk management discipline in decision making and contributing to his or her function`s risk management.
+Qualifications:
+Bachelor's degree in Computer Science, Engineering, Information Systems, or equivalent background or experience.
+7+ years of information security experience.
+5+ years IAM engineering and operations experience in a team-based environment.
+3+ years working with cloud-based platforms (AWS, Azure, Google Cloud) in an enterprise environment.
+Strong experience with designing Lifecycle Manager and Access Certification modules in SailPoint IdentityIQ.
+Experience with common IAM tools (Okta, Centrify, CyberArk, Ping) preferred.
+Significant experience with Java/J2EE, Beanshell, Apache, Tomcat, HTML, JavaScript, XML, web services (REST/SOAP) and modern development and delivery techniques.
+Strong knowledge of authentication and authorization industry standards such as, SAML, OpenID, OAuth2.
+CISSP, Certified Cloud Security Professional (CCSP) and AWS Cloud certification desirable.
+Familiarity with infrastructure as code tools (CloudFormation, Azure Resource Manager, Terraform).
+Experience developing solutions in an iterative (Agile) approach.
+Experience deploying, managing, operating, and monitoring of applications in scalable, highly available and fault tolerant data centers (both on premise and hosted).
+Discover the Reason Why So Many People Love It Here!
+When you join Federal Reserve‚Äôs National IT organization, not only will you find a challenging and purposeful career, you‚Äôll also have access to a wide range of benefits and perks that support your health and wealth, including:
+Great medical benefits
+Pension and 401(k) with employer match
+Paid time off
+Tuition reimbursement
+Employee resource networks
+Paid volunteer leave
+Flexible work options
+Onsite amenities that make working here fun
+Other Requirements and Considerations:
+A requirement of this position is that the employee must be fully vaccinated against COVID-19; individuals who are unable to be vaccinated due to a medical condition or sincerely held religious belief may request an accommodation from the Bank.
+Candidates should review the
+Bank‚Äôs Employee Code of Conduct
+to ensure compliance with conflict of interest rules and personal investment restrictions.
+If you need assistance or an accommodation due to a disability, please notify rich.recruitment@rich.frb.org.
+Sponsorship is not available for this role. The selected candidate will be subject to a government security investigation and must meet eligibility requirements for access to classified information. Eligibility for this specific position requires U.S. Citizenship.
+The hiring range of the position is $120,600 ‚Äì $150,800 annually.
+For candidates outside Richmond, VA, listed hiring and salary ranges may be adjusted based on your geographic location.
+Salary offered will be based on the job responsibilities and the individual‚Äôs knowledge, skills, and experience as defined in the job qualifications.
+#FRB123
+#LI-Remote
+Full Time / Part Time
+Full time
+Regular / Temporary
+Regular
+Job Exempt (Yes / No)
+Yes
+Job Category
+Information Technology
+Work Shift
+First (United States of America)
+The Federal Reserve Banks believe that diversity and inclusion among our employees is critical to our success as an organization, and we seek to recruit, develop and retain the most talented people from a diverse candidate pool. The Federal Reserve Banks are committed to equal employment opportunity for employees and job applicants in compliance with applicable law and to an environment where employees are valued for their differences.
+Privacy Notice
+Show Less Company Overview
+Motorola Solutions is there for our customers when everything is on the line. In extreme moments when a hurricane lands or when a fire breaks out. And in everyday moments when a package arrives just in time for the holiday or when a child doesnt miss the school bus home.
+
+We unify voice, data, video and analytics in one integrated ecosystem to enable individuals, businesses and communities to work together in more powerful ways. To help people make better decisions, act confidently and be their best in the moments that matter. Bring your passion, potential and talents to Motorola Solutions and connect with a career that matters.
+
+Department Overview Our IT organization has a critical role in driving extraordinary business results. Through a strong partnership with other areas of our business, we bring innovative thinking to every conversation and deliver with integrity. Were looking for people who bring great ideas and who make our partners ideas better. Intellectually curious advisors not just order takers who focus on outcomes to creatively solve business problems. People who not only embrace change, but who accelerate it.
+Job Description
+As an Sr Cloud Architect with MSI, you will be accountable for setting the foundation and principles for operating within various cloud providers in conjunction with onprem services. This talented and innovative visionary will help lead and drive the changes that transform the status quo into a well defined strategy. The focus of this role will be to solve business challenges that modify the existing state of implementation to a measurable outcome of operational excellence and maturity. Your contributions will have a great impact on the future state of MSI and its customers by providing the ability to deliver top notch state of the art solutions and services.
+
+Scope of Responsibilities Expectations
+
+Responsible for hybrid cloud strategy & architecture, and adoption as well as guiding the development and support of complex enterprise initiatives.
+
+Ensure cloud solutionsdeployments are in line with the enterprise architecture strategies and standards across business, data, application, infrastructure, network, and security spaces.
+
+Coordinate activities with leadership acting as subject matter expert SME to develop reference architecture and guidelines for technology adoption and implementation.
+
+Focus on building sustainable, highly automated, efficient and cost effective enterprise level environments.
+
+Craft the architecture and design across a spectrum of technologies to move the backlog of legacy to cloud modernized solutions.
+
+Works with Executive Leadership teams, Business Stakeholders, ApplicationSystem Owners, Development Teams as well as internalexternal customers to provide success through innovation.
+
+Researches and evaluates new technologies and their potential benefit to the alignment of core IT strategies.
+
+Desired BackgroundKnowledgeSkills
+
+Experience architecting largescale solutions for a global audience
+
+Extensive InDepth knowledge in public, private, and multicloud hybrid environments AWS, Azure, GCP, or OCI
+
+Deploying and Operating cloud services as well as service designing from an infrastructure perspective
+
+Strong knowledge of Containers, MicroServices, CICD, ElasticAutoScaling Compute from an infrastructure perspective
+
+Developing reference architectures and guidelines for cloud operations, migrations, modernization, and integration.
+
+Strong working knowledge of LANWANSDWAN concepts as they relate to hybrid environments
+
+Ability to implement and follow security best practices and principles
+
+Understanding of development methodologies frameworks, ALMSDLC
+
+Understanding of Agile, ITIL, Governance and Compliance Standards
+
+Ability to communicate technical concepts to nontechnical audiences
+
+Strong curiosity of emerging technologies
+
+Focus on and delivery of cost optimized solutions
+
+Champion ideas and strategies that lead to adoption
+
+Excellent Analytical and interpersonal skills, highly professional, outstanding stewardship and relationship building skills
+
+Excellent written and verbal communication skills
+
+Strong working knowledge of Containers Kubernetes from an infrastructure perspective
+
+Strong working knowledge of Elastic Compute Autoscaling from an infrastructure perspective
+
+Working knowledge of IAM Identity Access Management
+
+Working knowledge of CICD pipelines, Github, and BitBucket from an infrastructure perspective
+
+Working knowledge of Networking LANWAN
+
+Working knowledge of Infrastructure both OnPremise and Cloud
+
+Working knowledge Terraform
+
+Cloud Migrations and Modernization
+
+Behavioral Characteristics
+
+Ability to think strategically and suggest creative solutions.
+
+Proactive approach and enthusiasm for problem identification and solving.
+
+Ability to communicate effectively across businesses and IT teams, lead conversations, declare and resolve breakdowns, and influence others.
+
+Detailoriented and efficiencyminded balancing strategy with operational requirement.
+
+Strong interpersonal skills and welldeveloped organizational skills.
+
+Ability to build partnerships and effectively establish and maintain relationships with internal and external clients and vendors.
+
+Comfortable interacting and collaborating with different levels of management and leading crossfunctional, crossregional teams.
+
+Maintain a thorough understanding of stakeholders business and industry.
+
+LIMP2
+LIREMOTE
+
+Basic Requirements
+
+643; years of relevant infrastructure experience, 3 43; years of cloud infrastructure services experience , and 143; year of Docker or Kubernetes Containers.
+
+Vaccine Requirement
+
+Motorola Solutions has implemented a voluntary COVID19 vaccination policy. We strongly encourage all employees to be fully vaccinated. Additionally, certain local governments or Motorola Solutions39; customers may have vaccine requirements that apply to some of our employees. These employees are required to submit proof of vaccination to Motorola Solutions and maintain compliance with these requirements.
+
+Travel Requirements None
+Relocation Provided None
+Position Type Experienced
+Referral Payment Plan Yes
+
+Our U.S.Benefitsinclude
+
+Incentive Bonus Plans
+
+Medical, Dental, VisionbenefitseffectiveDay 1
+
+401K with Company Match and Day 1 vesting
+
+9 Paid Holidays
+
+GenerousPaidTime Off Packages
+
+Employee Stock Purchase Plan
+
+PaidParental & Family Leave
+
+and more
+
+EEO Statement
+
+Motorola Solutions is an Equal Opportunity Employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran39;s status, or, any other protected characteristic.
+
+Start your job application: click Apply Now
+
+Show Less 
+ReportCyberArk IAM Architect (Identity Access Manager Architect)
+
+Arlington, VA
+12 Months Contract
+
+Qualifications Formal Education Required:
+
+Bachelor’s in Computer Science, Management Information Systems, Information Security, or related field. Experience And Certifications Required 15+ years of experience in architectural engineering with emphasis on Identity Lifecycle Management, designing complex systems for large enterprise-level organizations.
+15+ years of experience in implementing and supporting of at least one of the following Identity and Access Management Solutions: Microsoft Identity Manager Forefront Identity Manager 2010 Forefront Identity Manager 2010 R2 Experience with SSO domains realms, rules, responses, and policies.
+15 years of implementation experience with SSO and federation using SAML, OAuth, OIDC, Federation, APIs as well as experience with automating provisioning and de-provisioning access solutions.
+15+ years of experience and understanding of Active Directory, Azure AD, ADFS, including LDAP directories, OU structures, schemas, including experience updating schemas and attributes.
+10+ years of experience with Azure and Office 365, including deploying and/or migrating multiple environments to Azure. Integration experience with SAML, OpenID Connect, Oauth, Multifactor Authentication, password less authentication, and migrating multiple environments to Azure. Experience scripting in SQL, PowerShell, and/or Python.
+User directories: Understanding of LDAP, Virtual Directory Services, Directory Services, and Active Directory. Experience with PCI and SOX audits.
+Experience with Web Access Management Single Sign On tools: PingAccess, PingFederate, OKTA, Azure. Certifications (preferred) Information Systems Security Professional (CISSP)
+Certified Information Systems Auditor (CISA)
+Certified Identity Governance Expert (CIGE)
+Certified Identity and Security Technologist (CIST)
+Certified Identity and Access Manager (CIAM)
+Certified Identity Management Professional (CIMP)
+Knowledge, Skills and Abilities Required (as demonstrated by prior work experience): Knowledge and understanding of the key principles and processes of Identity and Access Management.
+Knowledge of access controls (i.e., RBAC, DAC, MAC) and usage of least privilege.
+Knowledge of Active Directory, LDAP, DB, UNIX/Linux, AWS IAM.
+Knowledge of ABAC methodologies and DevOps tools.
+Knowledge of security design and solution development related to Identity Lifecyle Management.
+Ability to manage competing deadlines and multiple projects at various stages of development using effective organization skills and attention to detail.
+Ability to define issues, establish facts and draw valid conclusions and apply to work environment.
+Ability to communicate, both verbally and in writing, with a diverse membership, employees and/or vendors in a clear and precise manner.
+Ability to use Microsoft Office tools (Excel, Word, Outlook, Power Point, MS Teams) in the day-to-day essential duties of the job.
+Ability to operate various office equipment such as personal computer, copier, printer, fax machine or other job-related equipment.
+Ability to provide service excellence by building relationships, being resourceful, responsive and respectful.
+Interpersonal skills, member service orientation and ability to work in a team environment.
+
+Job Type: Contract
+
+Pay: $65.00 - $70.00 per hour
+
+Schedule:
+
+8 hour shift
+Monday to Friday
+Night shift
+
+Experience:
+
+Information security: 10 years (Preferred)
+Network security: 10 years (Preferred)
+CyberArk: 4 years (Preferred)
+
+License/Certification:
+
+CISSP (Preferred)
+ITIL Certification (Preferred)
+
+Work Location: Remote
+
+Speak with the employer
++91 786-588-8848
+
+Show Less Desired Skills and Experience
+
+-12+ years of hands-on working experience in the Identity and Access Management area at an enterprise level
+
+-Experience with Saviynt or Sailpoint IAM products
+
+-Development experience for building POC and prototype
+
+-Experience integrating with different data stores (LDAP, SQL, REST, etc.) and business systems for provisioning & de-provisioning
+
+Plusses
+
+-Experience using Graph database and NoSQL
+
+-Azure and GCP cloud experience
+
+-CISSP holder
+
+-Development with Java and Powershell
+
+-Experience in PAM or Directory and Data Services
+
+-Working knowledge of some other IAM products: Hitachi ID, Omada, Oracle Identity Manager, CA Identity & Governance Manager,
+
+ForgeRock Identity Governance, etc
+
+-Experience building the RBAC model
+
+-Integration experience with cloud and on-premise systems including Azure AD, GCP, Salesforce, etc.
+
+Day-to-Day
+
+A large healthcare provider is looking for an Identity Governance & Administration (IGA) architect to implement a new next-generation Identity solution for enterprise users. This person will collect and document use cases from stakeholders, research new product solutions, make a recommendation for a new product, build a prototype and POC, and then assist in designing the architecture for building out the new solution, based on the use cases, and finally assist in testing the product.
+
+Job Type: Contract
+
+Pay: $60.00 - $70.00 per hour
+
+Schedule:
+
+8 hour shift
+Monday to Friday
+
+COVID-19 considerations:
+Must be vaccinated for Covid-19.
+
+Work Location: Remote
+
+Start your job application: click Easy Apply
+
+Show Less Dignari is a forward-thinking, human-centered, emerging technology and analytics company that builds solutions to transform business. We're a woman owned company where diversity is applauded and success is celebrated.
+Dignari is looking for an ICAM Enterprise Architect to provide engineering and technical support for the analysis and implementation of an ICAM solution for a federal Agency.
+Key Responsibilities:
+
+Responsible for ICAM technical leadership,solution architecture and engineering.
+Analyze all Government-identified identity and credential stores to include all types, attributes, processes, along with internal and external feeds.
+Analyze ICAM trends and latest requirements, assesses the impact of emerging security threats on the enterprise risk level, recommends technology direction and/or adjustments to incorporate in Federal Agency strategy, solutions, and business plans.
+Supportthe Federal Agency ICAM strategy by defining and updating the agency's ICAM architecture.
+ImplementICAM initiatives across the Federal Agency and provideuse cases for incorporating new ICAM solutions within the agency's existing eco-system.
+Definea repeatable set of standards and integration support as needed for onboarding applications or components onto the new ICAM solution.
+Leadtechnical reviews and gainrequired agency consensus/approval of assigned ICAM initiatives.
+
+Skillsets Needed:
+
+Interface specifications.
+Understanding identity data; how they are transferred to service providers (OBIM, HART, NGI).
+Setting up dev ops from scratch.
+
+Job Type: Full-time
+
+Show Less Equivalent Experience
+
+
+Location: 100% REMOTE
+
+Contract Length: 6 Months
+
+Description:
+
+The client's Security & Resiliency organization manages the security risk across all aspects of their business. We are currently experiencing incredible growth in order to meet the security needs of the world’s largest technology company. With team members located in over 15 countries, you will have an excellent opportunity to influence the security culture and further develop your career.
+
+Participate as a key Cloud Security Consultant on various programs, project & initiatives across the clients organization providing security guidance & direction while ensuring adherence to their security policies & standards
+Define security requirements while engaging directly with stakeholders within the clients Business Units and the Information Technology organizations to ensure products, services and solutions are designed to adhere to those requirements across the clients private, hybrid and public Cloud environments
+Support the development of Cloud solutions that meet regulatory requirements including, but not limited to EU GDPR, PCI, SOX, HIPAA, etc.
+Assist with the development, maintenance and communication of Cloud security policies and procedures as well as ensure adherence to the clients policies & standards
+Coordinate with security architects to provide guidance in creating and integrating secure Cloud-based designs & solutions
+
+Job Requirements:
+
+Mastery of Cloud service and deployment models (e.g. CaaS, SaaS, IaaS, and PaaS) and proven experience with migrating on-premise solutions to the Cloud.
+4-5 years of Advanced Management experience in Microsoft Office 365, including Hybrid EXO, Email Security, Power Platform, Conditional Access, and MDM.
+Advanced knowledge of Email Architecture including Hybrid Environments/DMARC/DCIM/SPF/Etc.
+Knowledge of Cloud-native/Cloud-friendly security controls
+Experience working with Cloud Access Security Brokers (CASBs) and other governance solutions designed to provide visibility into Cloud usage
+Detailed technical knowledge and experience with general network security, authentication, security protocols, access control, cryptography, application security and data protection
+Proven success with at least one of the following technologies: Microsoft Azure, Amazon Web Services (AWS), VMware virtualization solutions, Pivotal, Windows and Linux based platforms, etc.
+Working knowledge in relation to Cloud solutions with applicable laws, regulations, standards and best practices including, but not limited to, CSA CCM, NIST, ISO, PCI, Sarbanes Oxley, HIPAA, and EU GDPR.
+Experience building a security catalog of best practices, techniques and patterns to enable secure network implementations
+Hands-on experience with additional security technologies such as Firewalls, Intrusion Detection/Prevention Systems, Vulnerability Scanning, WAF, Wireless LAN, NAC, DLP, DDoS Mitigation, WAN security, SIEM, Content Filtering, Cloud Security gateways, Secure Proxies, SSL crypto solutions, etc.
+Solid understanding of concepts related to information systems audit, information security, general IT controls, application controls and assessing technology risks
+Advanced understanding of Cybersecurity concepts with expertise in performing security control assessments utilizing established industry frameworks
+Experience creating architectural artifacts such as Roadmaps, Reference Architects, Position Papers, Etc.
+
+Skills:
+
+Azure, O365, Cloud Security, CaaS, IaaS, SaaS, PaaS, EXO, Email Security, MDM, AWS, VMware, Pivotal, Roadmap, Reference Architecture, Consulting, solutions design, Solutions Architecture
+
+Top Skills Details:
+
+Azure,O365,Cloud Security, CaaS, IaaS, SaaS, PaaS, EXO, Email Security, MDM, AWS, VMware, Pivotal, Roadmap, Reference Architecture, Consulting, solutions design, Solutions Architecture
+
+Additional Skills & Qualifications:
+
+Basic Qualifications:
+
+Bachelor’s degree in Computer Science, Information Systems, or a related field
+Individuals with CISSP, CISM, or CCSP certifications preferred
+Knowledge of audit standards, as well as knowledge of regulatory requirements and frameworks such as NIST 800-53, NIST Cyber, ISO 27001, ISO 27002, EU GDPR, PCI and Cyber Essentials framework helpful
+10+ years Security experience
+
+Experience Level:
+
+Expert Level
+
+About TEKsystems:
+
+We're partners in transformation. We help clients activate ideas and solutions to take advantage of a new world of opportunity. We are a team of 80,000 strong, working with over 6,000 clients, including 80% of the Fortune 500, across North America, Europe and Asia. As an industry leader in Full-Stack Technology Services, Talent Services, and real-world application, we work with progressive leaders to drive change. That's the power of true partnership. TEKsystems is an Allegis Group company.
+
+The company is an equal opportunity employer and will consider all applications without regards to race, sex, age, color, religion, national origin, veteran status, disability, sexual orientation, gender identity, genetic information or any characteristic protected by law.
+
+Show Less 
+ReportIAM Architect
+
+Experience architecting IAM solutions within Cloud providers, as well as on premise
+Experience with well-known Identity Governance and Administration platforms, including architecting and implementing new feature functionality
+Intimately familiar with IAM related protocols such as SAML, XACML, SCIM, OAuth, OIDC, and REST APIs and other security interfaces
+Strong experience with Directories, SSO, Federation, MFA, API Gateways, SOA services, Privileged Access Management platforms
+Strong critical thinking and analytical skills, providing thought leadership and innovation
+Assisting peers within the IT organization with planning and implementing complex architecture solutions
+Ability to inform Information Security policies, standards and SOPs aligned with strategic IAM vision
+Can manage across multiple competing priorities and time-sensitive initiatives
+Has strong ability to motivate and lead team members in a remote/virtual environment
+12 years of experience in Oracle Identity Access Management and/or information architecture preferred.
+Any Team Lead Experience is a Plus
+Financial Domain knowledge is a Plus
+Agile Safe Experience
+Good Communication
+
+Job Type: Full-time
+
+Salary: $90,524.57 - $160,234.97 per year
+
+Benefits:
+
+401(k)
+Health insurance
+Paid time off
+
+Schedule:
+
+10 hour shift
+
+Supplemental pay types:
+
+Commission pay
+Signing bonus
+
+Ability to commute/relocate:
+
+New York, NY 10122: Reliably commute or planning to relocate before starting work (Required)
+
+Experience:
+
+Information security: 1 year (Preferred)
+Network security: 1 year (Preferred)
+Software deployment: 1 year (Preferred)
+
+License/Certification:
+
+CISSP (Preferred)
+ITIL Certification (Preferred)
+
+Work Location: One location
+
+Show Less IAM Architect Role
+
+HadenGrey LLC is looking for an IAM Architect for our rapidly growing business. HadenGrey is a young start-up company that's providing industry leading technologies to secure our most sensitive information. We need you to help us secure the new perimeter: Identity. If the challenge of moving toward Zero-trust and SASE for business in the midst of digital transformation excites you, read below.
+
+Areas of Responsibility and Performance
+
+Solution Development Activities and Responsibilities
+Provide pre-sales and presentation support for current and potential clients
+Gather business and technical identity requirements from the client
+Design IAM/IDM develop solutions for client
+Provide critical resource estimates for client engagements and projects
+Provide general subject matter expertise in PAM, IGA, SSO, and MFA for CIAM and internal identity solutions and architectures.
+Team Management Activities and Responsibilities
+Manage 6-8 Engineers, Architects, Developers, Analysts and Project Managers working across multiple clients
+Develop and monitor individual training plans for team members
+Manage team resourcing for multiple projects
+Monitor and manage status of active projects
+Practice Management Activities and Responsibilities
+Resource forecasting for the IAM/IDM projects
+Interview and hire team members with critical skills
+Define standards for operating and engagement processes
+Provide direct input into strategic partnership relationships and investment
+Identify emerging trends in the IAM market
+
+Skills and expertise
+
+Technical Knowledge
+
+Must have expertise in OKTA. Ability to quickly learn other IdM solutions.
+Development background with application authenication and authorization is preferred
+Must have knowledge around Microsoft AD and Azure AD.
+Architect-level skills in the Information Technology field
+Preferred knowledge in Access technologies e,g, Okta, Ping, Microsoft
+
+Soft Skills
+
+Must possess excellent oral presentation and written skills
+Ability to coach team members and be coached by executives
+Coordination and team dynamics for projects
+Well organized and detailed with communications
+Ability to draw design and detailed diagrams for client consumption
+
+Intangibles
+
+Must be prepared to learn and grow rapidly to keep up with a fast growing organization.
+Must be willing to take on broad array of technical training in the IAM/IDM areas.
+Fast learner
+
+Salary plus performance bonuses. We also provide 401k, Medical, and flexible work schedules.
+
+Job Types: Full-time, Contract
+
+Pay: $120,000.00 - $165,000.00 per year
+
+Benefits:
+
+401(k)
+401(k) matching
+Dental insurance
+Health insurance
+Paid time off
+Parental leave
+Retirement plan
+Vision insurance
+
+Compensation package:
+
+Bonus pay
+
+Schedule:
+
+8 hour shift
+Monday to Friday
+
+Application Question(s):
+
+Please describe the technologies and experience you have working on them for the following: IdP, IAM, PAM, IGA, etc...
+
+Education:
+
+High school or equivalent (Preferred)
+
+Experience:
+
+Identity & access management: 5 years (Preferred)
+Information Security: 6 years (Preferred)
+Computer networking: 3 years (Required)
+
+License/Certification:
+
+CISSP (Preferred)
+
+Work Location: Remote
+
+Show Less Identity & Access Management Architect (IAM) - 100% remote
+
+My client is seeking an IAM to join their team in a full-time permanent remote capacity. This person will ideally have 8+ years experience coupled with a Bachelors degree. The candidate will have experience with enterprise IAM technologies Like OpenID, OAuth, SAML, LDAP, etc. Okta experience is required for this role as well. This candidate should be familiar with Cloud technologies like Axure or AWS and have familiarity with API management and integration. Exposure to Microsoft Devops and programming is also desired. Agile environments like Scrum and Kanban are also desired for this position.
+
+Please send a resume to paul@libertyjobs.com to be considered for this role.
+
+Paul Yaeger
+
+www.linkedin.com/in/paulpjyaeger
+
+www.libertyjobs.com
+Show Less Job Description
+BAE Systems is seeking an Identity and Access Management (IAM) Architect, you will report directly to the Director of Identity Services. You will serve as strategic thought leader and technical expert to design & implement IAM services and solutions. As a member of the Identity Services team, you will be responsible for next generation IAM initiatives, collaborating with vendors and internal teams to design a comprehensive modern solution enabling BAE Systems to achieve their goals. Specifically, you will design and oversee the implementation of IAM solutions as well as be responsible for safeguarding information assets by identifying and solving potential and actual problems, creating complex security structures and ensuring their success.
+The position requires significant experience in any two or more IAM related architectures (IAM, Identity Governance, Federation Services, PAM, PKI, MFA, and directory services). Along with demonstrated technical expertise, the candidate should have excellent interpersonal communication skills and be able to exercise influence, mentor others, and identify/drive solutions to solve highly complex technical problems.
+
+Responsibilities:
+Serve as Subject Matter Expert (SMA) in development of IAM solutions
+Develops a working relationship with engineering staff to drive solution features and architectures
+Collaborates across BAE Systems to leverage discriminators and existing solutions where applicable
+Collaborate with business and technical teams to research, plan, and design a robust, ‘best in class’ IAM architecture that aligns and integrates with other Enterprise level IT efforts
+Regularly review existing IAM services to ensure those solutions are optimized for the highest level of service
+Provide architectural design, guidance and oversight on projects that require IAM services
+Work collaboratively to develop IAM requirements for enterprise level applications and networking
+Work with Governance and Compliance to develop standards and best practices for all aspects of IAM as well as identifying and communicating risks associated with IAM services from a compliance perspective
+Experience working on translating and organizing architectural design into specific work components for projects
+Possesses advanced listening skills and advanced problem solving, root cause analysis, and resolution skills
+
+Required Education, Experience, & Skills
+
+Associate’s Degree in Information Technology or Computer Science with 12+ years’ experience or Bachelor’s Degree in Information Technology or Computer Science with 10+ years’ experience
+Demonstrated experience in evaluating and architecting complex technical IAM solutions
+Experience supporting large-scale IAM environments
+Ability to think strategically and communicate effectively at the most senior levels of company to communicate the value and benefit of IAM solutions
+
+Preferred Education, Experience, & Skills
+
+Knowledge and experience of Agile project management methodologies
+Architectural knowledge in identity and access data correlation, normalization and building of cohesive identity and access data models for large enterprises
+Demonstrated experience with complex IAM integration and service delivery use cases and requirements
+
+About BAE Systems, Inc.
+BAE Systems, Inc. is the U.S. subsidiary of BAE Systems plc, an international defense, aerospace and security company which delivers a full range of products and services for air, land and naval forces, as well as advanced electronics, security, information technology solutions and customer support services. Improving the future and protecting lives is an ambitious mission, but it’s what we do at BAE Systems. Working here means using your passion and ingenuity where it counts – defending national security with breakthrough technology, superior products, and intelligence solutions. As you develop the latest technology and defend national security, you will continually hone your skills on a team—making a big impact on a global scale. At BAE Systems, you’ll find a rewarding career that truly makes a difference.
+
+Our Commitment to Diversity, Equity, and Inclusion:
+At BAE Systems, we work hard every day to nurture an inclusive culture where employees are valued and feel like they belong. We are conscious of the need for all employees to see themselves reflected at every level of the company and know that in order to unlock the full potential of our workforce, everyone must feel confident being their best, most sincere self and be equipped to thrive. We provide impactful professional development experiences to our employees and invest in social impact partnerships to uplift communities and drive purposeful change. Here you will find significant opportunities to do meaningful work in an environment intentionally designed to be one where you will learn, grow and belong.
+
+Apply Now: click Apply Now
+
+Show Less Location: LOC_CIRA-Cira Centre
+Req ID: 209772
+Shift: Days
+Employment Status: Regular - Full Time
+About Us
+We’re seeking breakthrough makers! Children’s Hospital of Philadelphia was built on the belief that we can change lives. Today, in every role throughout our hospital, research institute and care network, the 22,000 members of our workforce are finding new ways – big and small – to make a difference for the patients and families we serve.
+If you are ready to challenge yourself, be inspired and grow – no matter what your role – you just may be the kind of breakthrough maker who will thrive at CHOP.
+CHOP is proud to share that we are ranked No. 1 on Forbes' 2022 list of America's Best Large Employers!
+
+Job Summary
+
+The Identity and Access Management Solutions Architect will be responsible for advancing the Children’s Hospital of Philadelphia’s (CHOP) overall identity management strategy including implementing a privileged account management solution (CyberArk) and enhancing the identity claiming process. The Solutions Architect will design, enhance and implement Identity Access Management (IAM) solutions to enhance security and support business processes. Prior experience with identity management required, including a strong background in access management (federations, SSO, two-factor, self-service password reset), identity governance (account provisioning, managing identities, attestations, connectors and workflows), and privileged access management. Experience with Oracle Identity Manager, Microsoft Azure SSO & Active Directory or similar technologies is required. A person in this position will be required to work with teams throughout the organization to capture requirements and understand strategic business needs, as well as working alongside the IAM team to support advanced system configuration and maintenance required throughout the application lifecycle.
+
+Job Responsibilities
+
+1. Analysis
+Engage with stakeholders to understand requirements and the environment in which the development will occur or where the system currently resides. Perform needs and risk assessments. Help the business understand what the technical staff needs to interpret requirements properly, and identify high-value technologies to meet a broad range of business needs
+Analysis skills, but not limited to
+Analyze technology environment
+Analyze enterprise specifics
+Review RFP responses from 3rd party vendors
+
+Deliverables, where applicable:
+Definition of business problems/objectives/opportunities
+Current state and future state mappings
+Risk assessments
+Written project scope and high-level business requirements
+Use cases/User stories
+Cost/benefit analysis, including Cloud based run time costs analysis
+Build or buy recommendation
+Business case
+RFI/RFP
+
+2. Design
+Guide creation of high-level design or evaluate current state design based on CHOP standards and industry best practices. Gather the abstract elements of the problem space and communicate them so the development team can draft schematics of the system to be developed or remediated. Lead the careful mapping of requirements to select technologies to provide features in the resulting solution. During detailed design, vet the elements of particular modules against the imperatives of the system as a whole. Get the team to anticipate the implications of design decisions on the finished system. Communicate design to technical and nontechnical audiences.
+Deliverables, where applicable:
+Business/functional requirements
+Solution architectural technical requirements and architectural diagrams (both logical and physical)
+Proof of concept and prototypes
+Business cases
+Assist with development of RFPs, vendor/product evaluations and selections
+Risk analysis of the designed solution
+Setting the collaboration framework
+
+3. Implementation
+Communicate specifications, requirements and expected outcomes in a clear and understandable form (oral and written) to stakeholders, developers, analysts and implementation partners. Monitor implementation to ensure it is well-integrated with the enterprise systems architecture. Assess technical change requests and determine how the architecture can best be adapted to accommodate such requests. Monitor developers' progress and track the status of integration points between modules in the system. Assist project manager in assessing risks associated with changes and emerging issues. Act as liaison between developers and project manager.
+Deliverables, where applicable:
+Creating a solution prototype
+Participating in technology selection
+Controlling solution development
+Solution architectural diagrams
+Proof of concept and prototypes
+Job Responsibilities (Continued)
+
+4. Testing
+Assist in creating systems-integration, load/performance and user-acceptance testing. Develop failure modes analysis. Translate the results of test review into action plans.
+Deliverables, where applicable:
+Failure modes analysis document
+Acceptance test requirements
+
+5. Champion Standards and Align Infrastructure
+Lead discussions about SLDC and product development standards. Define standard solution design patterns. The Solutions Architect must understand the enterprise architecture completely, must quickly learn the architecture of a variety of applications, must understand and communicate integration points, opportunities, and risks effectively through application models, use cases and other industry methods (oral and written).
+
+Job Responsibilities (Continued)
+
+The department works 80% remotely, 20% on site in our Philadelphia offices.
+
+Required Education and Experience
+
+Required Education: Bachelor’s degree in computer science, software engineering or related field
+
+Required Experience:
+Ten (10) years of professional experience in software development, system integration, and/or system design with a progression toward leadership
+Ten (10) years of professional experience in researching, initiating and incorporating multiple complex, enterprise-level projects in the business environment
+Five (5) years of professional experience in cross-functional initiatives
+Three (3) years IT (cloud, infrastructure implementation, application development, information security, etc.) project management experience
+Preferred Education, Experience & Cert/Lic
+
+Preferred Education: Master’s degree.
+
+Preferred Experience: Five (5) years professional experience in healthcare information technology, healthcare-related environment, or designing software for healthcare providers.
+
+Additional Technical Requirements
+Working knowledge of multiple healthcare business processes, and/or demonstrated business knowledge in one or more departmental operation in CHOP.
+Ability to collaborate in teams and interact with all levels of management.
+Strong experience in working with multiple hardware and software applications and vendors.
+Knowledge of a variety of operating systems, programming languages, embedded systems, database management systems, application development tools, Internet protocols and software, middleware systems, client platforms, cloud
+Knowledge of integration concepts, practices and procedures, such as SOA, application integration and Web services
+Knowledge of a variety of information architecture and data architecture concepts, practices, procedures and tools.
+Demonstrated ability to perform complex, conceptual and logical data modeling and life-cycle design.
+Knowledge of software development concepts, practices and procedures, including Systems Development Life Cycle, testing and quality assurance, change management, and applications and performance monitoring.
+Excellent analytical, consultative, documentation, oral and written communication, facilitation and presentation skills.
+Proficiency with tools for collecting, transforming, managing and presenting user requirements and architectural models (e.g., Visio, UML)
+High level of initiative, motivation, flexibility and accountability.
+Demonstrated ability to prioritize and organize multiple projects simultaneously; excellent time management skills.
+Ability to efficiently assess technical possibilities and chart a course for development that addresses various interests and limitations without losing the essential value of the projects.
+Demonstrated ability to appreciate abstract concepts and to communicate them in concrete terms.
+Demonstrated ability to translate complex technical solutions into non-technical requirements documents.
+An "engineering mindset": strong technical problem-solving skills, but able to grasp the bigger picture of how the people involved interact with technology.
+Ability to work in a fast-paced environment.
+
+To carry out its mission, it is of critical importance for the Children’s Hospital of Philadelphia (CHOP) to keep our patients, families and workforce safe and healthy and to support the health of our global community. In keeping with this, CHOP has mandated all workforce members on site at any CHOP location for any portion of their time be vaccinated for COVID-19 as a condition of employment. This mandate also applies to workforce members performing work for CHOP at non-CHOP locations. Additionally, all workforce members based in or regularly scheduled to work at any New Jersey location are mandated to be both vaccinated and boosted for COVID-19, with booster timing consistent with applicable guidelines. The CHOP COVID-19 vaccine mandate is in alignment with applicable local, state and federal mandates. CHOP also requires all workforce members who work in patient care buildings or who provide patient care to receive an annual influenza vaccine. Employees may request exemption consideration for CHOP vaccine requirements for valid religious and medical reasons. Please note start dates may be delayed until candidates are fully immunized or valid exemption requests are reviewed. In addition, candidates other than those in positions with regularly scheduled hours in New Jersey, must attest to not using tobacco products.
+EEO / VEVRAA Federal ContractorShow Less  Our Fortune 500 client is looking for an experienced Identity and Access Management and Governance resource to design, deploy, configure, and implement a leading Identity Goverance (IGA) solution (Saviynt) based on customer requirements. The ideal candidate will have a background in systems engineering, previous experience deploying IAM/IGA products, prior experince designing IAM solutions in a Cloud environment, etc. This is a fully remote position but candidates must live and work in the contiguous 48 states, and be willing to work during core Eastern Standard business hours. Our client is an industry leader with a large IT organization. Interested in learning more! Apply today!
+
+Job Types: Full-time, Contract
+
+Benefits:
+
+401(k)
+Dental insurance
+Health insurance
+Health savings account
+Vision insurance
+
+Schedule:
+
+8 hour shift
+
+Work Location: Remote
+
+Show Less Overview:
+We are CONNECTING HEALTH AND WEALTH. Come be part of remarkable.
+
+How you can make a difference
+Are you an expert in Identity Access Management (IAM) with a passion for strategic planning, tactical implementation, and IAM architecture? HealthEquity is hiring an IAM Security Architect to assist in enhancing the implementation of our IAM program enterprise-wide. Bring your leadership to continue to scale and mature our IAM program with a team dedicated to enhancing processes and procedures supporting automated access, single sign-on (SSO), directory services, technical integrations, and supporting behavioral analytics.
+
+
+What you’ll be doing (Job Duties & Responsibilities)
+Develop detailed plans and thoughtful execution in security administration across large organizational networks with IAM and PAM tools such as BeyondTrust, SailPoint, and Okta.
+Defining, planning, and designing innovative, precedent-setting Identity Management infrastructure solutions, including integrated financial analysis of technical alternatives across technology disciplines to meet business requirements.
+Lead task force efforts between appropriate teams to proactively resolve technical issues with applications, infrastructure, performance, and code.
+Be a final escalation point for Identity and Access Management (IAM) tools.
+Build strong relationships and proactively engage the business and technology to ensure a strong understanding of IAM best practices and requirements to safely maintain and track access.
+Enable legacy and modern identity providers (AD, Okta, ADFS, Azure AD, certificates, and PKI,) for management by IAM tools.
+Oversee new development and life-cycle management of the services related to Identity Governance & Administration services and identify, implement, and improve current processes to support controls, data quality, security risk reduction, and regulatory compliance.
+Identify internal and external risks and opportunities for improvement and design mitigation plans for risks and issues related to project timeline, resources, or quality.
+Analyze root causes and recommend solutions for provisioning and de-provisioning activities in accordance with standards, policies, and procedures.
+Partner with application owners and leaders to address business and technical issues involved in deploying, governing, and extending identity services.
+Inventory and establish an understanding of the IAM tools within the environment (internal, B2B, and B2C) systems.
+What you will need to be successful (Skills, Knowledge, & Experience)
+Expert-level experience leading and implementing steady-state administration in IAM tools such as BeyondTrust, SailPoint, SecZetta, Oracle Identity Manager, Okta, and Ping
+Strong understanding of Active Directory
+Exposure to Cloud Security and Zero Trust security models
+CISSP, CISM, or similar security certification preferred
+Hands-on expertise in software technology design at a complex level for single-business unit multi-product solutions and/or cross-business unit multi-product integrated solutions
+Experience leading multiple highly visible projects and initiatives simultaneously in a fast-paced environment with changing priorities.
+Use of indirect leadership to influence the organization at all levels.
+Ability to present information and respond to questions from peers and leadership.
+Working knowledge in the policy and regulatory environment of information security preferred
+#LI-Remote
+This is a remote position.
+Benefits & Perks:
+Medical, Dental, Vision
+HSA contribution and match
+Dependent Care FSA match
+Unlimited Paid Time Off
+401(k) match
+Paid Parental Leave
+Ongoing Education & Tuition Assistance
+Gym/Fitness Reimbursement
+Award Winning Wellness Program
+Come be your authentic self:
+
+Why work for HealthEquity
+
+
+HealthEquity has a vision that by 2030 we will make HSAs as wide-spread and popular as retirement accounts. We are passionate about providing a solution that allows American families to connect health and wealth. Join us and discover a work experience where the person is valued more than the position. Click here to learn more.
+
+
+Come be your authentic self
+
+
+HealthEquity, Inc. is an equal opportunity employer that is committed to inclusion and diversity. We take affirmative action to ensure equal opportunity for all applicants without regard to race, age, color, religion, sex, sexual orientation, gender identity, national origin, status as a qualified individual with a disability, veteran status, or other legally protected characteristics. HealthEquity is a drug-free workplace. For more information about our EEO policy, or about HealthEquity’s applicant disability accommodation, drug-free-workplace, background check, and E-Verify policies, please visit our Careers page.
+
+Start your job application: click Apply Now
+
+Show Less Position Title: Computing Support Services: Identity and Access Management Architect
+
+Department: 6710|Computing Support Services
+
+Responsibilities:
+Position Summary
+The Identity and Access Management Architect will develop technical strategy and guide implementations of IT identity authentication and authorization related services that align to institutional priorities and enable research, academic, and administrative processes. This role aligns with the University’s cloud initiatives, specifically setting the direction for IAM as it relates to cloud.
+
+The individual in this role must be able to understand and interpret identity and access management strategies and direction. Further, the person must be able to bring together key tenets of Information Security to the IAM cloud strategies and develop technical security solutions that properly align. The Architect will contribute to the overall effort of the IAM direction of the university.
+
+Key Responsibilities:
+
+Subject-matter expertise across all IAM topics as it relates to both cloud and on-premises enterprise technology, and the relationship between the architectures.
+Leads discussions on IAM architecture, process, and governance development.
+Drives the adoption of Authentication and Authorization reference architectures for existing, new, and emerging IAM technologies.
+Provides advanced architecture and engineering support to automate and administrator identity and compliance requirements into all enterprise information systems.
+Drives planning and execution of identity management roadmaps and technology enhancements.
+Creates and maintains standards surrounding documentation related to identity processes, procedure, and infrastructure.
+Assesses current applications and architecture to ensure current implementations align with industry guidelines, best practices, and management approved standards.
+Defines and documents RBAC to enable access management for Azure/Active directory resources.
+Develops Azure IAM policies, Standardizes and automates IAM activities, implements best practices, automating processes and troubleshooting issues.
+Automates provisioning of IAM and network constructs such as user provisioning to roles and entitlements, access roles, Security groups, NATs, KMS VPC, NACLs etc.
+
+Knowledge, Skills, and Experience Requirements:
+
+Advanced knowledge of identity technologies and concepts.
+Strong understanding of Identity and Access Management functionalities, Authentication (Single Sign On, Federated Login, Multifactor, Biometric), Authorization, RBAC, Access and policy Governance and Compliance.
+Experience architecting IAM solutions within Microsoft Azure, Amazon Web Services (AWS) and, preferably, other cloud providers.
+Intimately familiar with IAM related protocols such as SAML, SPML, XACML, SCIM, OpenID and OAuth.
+Strong experience with Directories, SSO, Federation, Delegated administration, API gateways, SOA services.
+In-depth experience with Microsoft Azure, particularly Azure AD and architecture designs connecting Azure to enterprise infrastructure.
+Experience planning and implementing an Organizational Unit (OU) structure, as well as corresponding Group Policy configuration.
+Experience with ADFS and other Federation technologies.
+Experience with Azure Active Directory, O365 and Synchronization of entities between On-Premise and Cloud Directories.
+Hands on experience working with Windows server technologies, Linux servers with Bash and PowerShell scripting.
+Experience gained through college degree programs and/or certifications in the listed disciplines, information systems, computer science, system analysis with an emphasis in information technology or equivalent experience
+
+
+Qualifications:
+
+
+Required Qualifications:
+
+Undergraduate degree in information management, computer science, engineering or a related field.
+Eight years of experience as an information technology professional in one or many roles such as architect, systems engineer, network engineer, or systems analyst.
+A well-rounded infrastructure background with exposure to multiple, diverse technologies and processing environments with good experience in Virtualization, Operating Systems, Storage and Networking.
+Knowledge and understanding of networking technologies such as LAN, WAN, TCP/IP, DNS, DHCP, VPN, Load Balancers, Firewalls etc.
+Demonstrated expertise in leading technical design projects during all phases of development and deployment.
+Demonstrated progressive experience successfully designing, delivering and/or supporting IT business solutions for large-scale organizations across multiple hardware and software platforms.
+Experience with monitoring, managing, analyzing, reporting and alarming on infrastructure components across the enterprise.
+Experience with specific management and monitoring tools and systems.
+
+
+Preferred Qualifications
+
+Graduate degree in an Information Technology related field.
+Experience working in a higher education research University.
+2-4 years of Identity administration and governance experience.
+1 -3 years of designing and implementing identity solutions.
+Ability to effectively communicate technical issues.
+Ability to adjust to changes in priorities.
+Ability to work with minimal supervision with a high degree of accuracy.
+Ability to learn quickly and adapt to new circumstances.
+Good organizational skills.
+Must be flexible and willing to work extended hours as necessary.
+Excellent written, presentation, and oral communication skills.
+Ability to establish staff and departmental goals and objectives that are measurable.
+Ability to adjust to abrupt changes in priorities and strategy.
+Ability to interact comfortably with all levels of management.
+Excellent interpersonal and communication skills with the ability to build relationships, influence outcomes, and to deliver effective presentations to a variety of audiences.
+
+
+Job Ad# (req2063)
+
+Show Less 
+ReportResponsibilities
+
+UCLA Health IT is looking for an outstanding Security Architect to join the Solutions Architecture and Engineering (SAE) group. The goal for the SAE team is to keep our cloud and on-premises infrastructure ahead of our (rapid) customer growth, ensuring service reliability, performance, efficiency, and security. We are looking for a creative technical expert for supporting the transformation of various services from on-premises solutions to Cloud Technologies.
+
+The Security Architect will be part of the team that is responsible for designing, developing, and enhancing the security and competencies by planning the delivery of solutions and answering technical questions focused on the Analytics Platform (VDI, etc. on-premises and Cloud) technologies.
+
+In this role, you will:
+
+§ troubleshoot, diagnose and fix environment issues, and develop the monitoring solutions and tools that will automate daily operational activities from a security perspective
+
+§ work closely with clients, OHIA, and other external team members to understand the stakeholder requirements that drive the analysis and design of technical solutions in our Cloud environments
+
+§ collaborate with the UCLA IT Risk and Security teams and be responsible for the security aspects of design and implementation of infrastructure and applications’ build, release, deployment, and configuration activities; pipeline automation, optimization and management
+
+§ architect, orchestrate, and automate the Citrix Infrastructure and service deployment
+
+§ work independently and collaboratively with rest of the team and internal OHIA groups to gather requirements, prototyping, architecting, implementing/updating solutions, building and executing test plans, performing quality reviews, managing operations, and triaging and fixing operational issues.
+
+Qualifications
+
+§ Advanced knowledge of architecture-level information security and appropriate use enforcement technology solutions including advanced malware detection/prevention, mobile device virtualization/MDM, cloud security management, structured and unstructured database encryption, mobile application and remote API security, fine-grained application authorization and access control, security event visualization, big data user and entity behavior analytics, active adversary deception, and others.
+
+§ Advanced knowledge of Risk assessment and Compliance processes and required supporting artifacts
+
+§ Advanced understanding of contemporary security theory and application (including vulnerabilities, exploitation techniques and attack vectors).
+
+§ Cloud Services and Security expert in the major Platforms, AWS, Azure, GCP, etc.
+
+§ Expertise in advanced malware detection/prevention, mobile device virtualization/MDM, cloud security management, structured and unstructured database encryption, mobile application and remote API security, fine-grained application authorization and access control, security event visualization, big data user and entity behavior analytics, active adversary deception, etc.
+
+§ Identity and Access management
+
+§ Knowledge of laws, regulations, and standards relevant to the US Healthcare industry
+
+§ Knowledge of open security testing standards and projects, including OWASP.
+
+§ Proficiency in one or more of the following: C, C++, Java, Python, PowerShell, JavaScript or NodeJS.
+
+§ Relevant security certifications (CISSP, OSCP, OSCE, GPEN, GXPN, CEH).
+
+UCLA is an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or protected Veteran status.
+
+To apply to this job, click Apply Now
+
+Show More 
+ReportSummary
+
+The Office of Information Technology is offering a highly motivated and competent professional the opportunity to serve as Lead Architect on our Identity and Access Management team. Responsible for the design, deployment and management of identity and access management systems and end-user support.
+
+The Lead Identity and Access Management Architect serves as a thought leader in planning, deploying and supporting the Identity and Access Management eco-system at the College. The Lead Architect plays a key role in determining a road-map for enhancing IAM capabilities at the college as well as helps implement solutions on that road-map.
+
+Internal title: Lead, IT Security; working title: Lead Identity and Access Management Architect
+
+Job Duties
+
+Coordinates with governance, compliance and security staff in matters of identity and access security policies, procedures and guidelines.
+Researches, analyzes, and resolves complex and escalated identity and system or end-user incidents.
+Identifies technical debt and prioritizes resolution
+Leads the evaluation and deployment of new and existing Identity Management solutions that takes input from a source and controls life-cycle management and automation on target systems.
+Maintains the roadmap for identity and access architecture at the College
+Demonstrates thought leadership with Identity and Access Management concepts such as authentication, authorization, application security, privacy and consent management, regulatory compliance, multi-factor authentication, federation, and risk management.
+Provides expertise in cloud solutions and integration of IAM tools
+Serves as an expert resource in IAM related protocols such as SAML, OAuth, OIDC, and REST APIs and other security interfaces
+Provides expertise with Directories, SSO, Federation, MFA, API Gateways, SOA services, Privileged Access Management platforms
+Configures identity and access systems that enforce security policies.
+Leads the design, construction and implementation phases of large and complex Identity and Access projects.
+Maintains traceability relationships between user stories, personas, use cases, interactions, workflows, activities, functional and non-functional requirements, tests and realization.
+Provides training, escalation support, and guidance to other team members.
+Provides experience in representing technical viewpoints to diverse audiences and in making timely and prudent technical risk decision/recommendations.
+The position requires a person able to work well within a team environment and with a willingness to assist a team member when needed.
+Helps team maintain good relations with vendors.
+
+Job Type: Full-time
+
+Pay: $96,626.00 - $140,492.00 per year
+
+Benefits:
+
+401(k)
+401(k) matching
+Dental insurance
+Employee assistance program
+Employee discount
+Flexible schedule
+Flexible spending account
+Health insurance
+Health savings account
+Life insurance
+Paid time off
+Referral program
+Retirement plan
+Tuition reimbursement
+Vision insurance
+
+Schedule:
+
+8 hour shift
+
+COVID-19 considerations:
+Baylor College of Medicine requires employees to be fully vaccinated -subject to approved exemptions-against vaccine-preventable diseases including, but not limited to, COVID-19 and influenza.
+
+Application Question(s):
+
+what Identity Management products have you managed and/or deployed?
+
+Experience:
+
+Identity & access management: 5 years (Required)
+Project management: 4 years (Preferred)
+large enterprise: 5 years (Preferred)
+
+Work Location: Hybrid remote in Houston, TX 77030
+
+Show Less Team Name:
+
+Job Title:
+IAM Architect, Authentication and Access Management
+
+Requisition ID:
+R017833
+
+Job Description:
+
+Your Platform
+
+Activision Blizzard plays a centralized role in the creation of epic entertainment by supporting our interactive gaming brands and studios with a diverse range of career opportunities across corporate functions such as Marketing, Communications, Legal, Human Resources, Finance and Supply Chain. Located in our global headquarters in Santa Monica, we encompass equal parts agility, creativity and rigor to enhance the employee and player experience. To learn more, check us out at www.activisionblizzard.com or on Twitter at @ATVI_AB.
+
+Your Mission
+
+Activision, the publisher of the hit Call of Duty franchise, is looking for a skilled IAM/SSO engineer to join our Activision | Blizzard | King (ABK) Information Security team.
+
+At ABK we aim to deliver the best user experience and business driven processes to manage our identity data, and the authentication and authorization experience for our users. You‚Äôll be joining a highly technical team who are charged with a mission to design and build an IAM program that provides identity governance and provisioning services across the breadth of the enterprise via a single unified identity.
+
+You‚Äôll work closely with our Principal IAM Architect, contributing towards that effort by focusing on authentication and access management; working to transform and improve ABK‚Äôs authentication and authorization experience, using single-sign-on (SSO), multi-factor (MFA) and other novel authentication and access management technologies. Placing identity at the center of the security decision making process, you‚Äôll have the opportunity to work on critical pivotal initiatives for our enterprise and get to implement and work with innovative technologies in the space.
+
+The ideal candidate will already have extensive experience working with modern enterprise authentication and access management technologies in a fast paced technology environment.
+
+Priorities can often change in a fast-paced environment like ours, so this role includes, but is not limited to, the following responsibilities:
+
+Act as an SME relating to all aspects of authentication and access management, to include frontend systems/interfaces and backend providers
+Support technical integration needs that facilitate connectivity between SSO, MFA and other authentication mechanisms, enterprise directory and identity provisioning tool(s)
+Drive adoption of SSO for authentication, always looking for ways to encourage updates from legacy authentication schemes
+Generate and develop reports, rules, dashboards and policies to identify and alert on compliance issues
+Partner with IT, Security Architecture and Engineering teams to:
+Conduct a gap assessment of current Microsoft Active Directory/Azure AD security best practices, designing and implementing controls to enhance security posture and monitoring capabilities
+Design and implement an enterprise wide privileged access management (PAM) solution
+Design and implement an enterprise wide Zero Sign-On/Passwordless authentication solution
+Partner with our Security Operations team and other stakeholders to develop behavioral detections, alerting and response plans for anomalous authentication activities
+Partner with IT team to design, implement and migrate to a single unified authentication directory
+Continuously developing our capabilities to support modern connectivity, authentication and authorization requirements
+Helping our IT team solve user issues and providing accurate documentation
+Identify gaps in current processes, documentation, workflows and design solutions; recommending and/or delivering changes or enhancements as needed to improve clarity, efficiency and scalability of our offerings
+Collaborate with Principal IAM Architect, IT, and other Security teams to define IAM Standards and Specifications.
+
+Player Profile
+
+Minimum Requirements:
+
+Several years hands-on experience as an IAM/SSO engineer or Microsoft Active Directory administrator
+Experience securing, administering and integrating applications to enterprise SSO/authentication platforms, e.g. Microsoft Active Directory, Azure AD, Okta, Ping Identity, Duo etc..
+Intimate knowledge of authentication protocols such as LDAP, Kerberos, SAML, OpenID Connect, oAuth, MFA etc..
+Knowledge of IAM and authentication frameworks in cloud environments
+Experience working on systems integration projects
+Good understanding of information security and IAM best practices and principles
+Good interpersonal skills and ability to communicate effectively with both technical and non-technical collaborators
+Ability to solve problems independently and drive collaboration with the immediate team and external teams as needed to meet strategic goals
+Excellent English written and verbal communication skills
+Willing to travel occasionally
+
+Extra Points
+
+BSc in Computer Science, Cyber/Information Security or other related field or experience
+Experience with Sailpoint IdentityIQ or other identity governance solutions
+Knowledge of cloud computing architectures, technical designs and implementations, including Infrastructure as a Service (IaaS), Platform as a Service (PaaS) and Software as a Service (SaaS)
+Experience implementing or administering privileged access management (PAM) systems/solutions, e.g. CyberArk
+
+We love hearing from anyone who is enthusiastic about changing the games industry. Not sure you meet all qualifications? Let us decide! Research shows that women and members of other under-represented groups tend to not apply to jobs when they think they may not meet every qualification, when, in fact, they often do! At Activision Blizzard, we are committed to creating a diverse and inclusive environment and strongly encourage you to apply.
+
+Our World
+
+Activision Blizzard, Inc. (NASDAQ: ATVI), is one of the world's largest and most successful interactive entertainment companies and is at the intersection of media, technology and entertainment. We are home to some of the most beloved entertainment franchises including Call of Duty¬Æ, World of Warcraft¬Æ, Overwatch¬Æ, Diablo¬Æ, Candy Crush‚Ñ¢ and Bubble Witch‚Ñ¢. Our combined entertainment network delights hundreds of millions of monthly active users in 196 countries, making us the largest gaming network on the planet!
+
+Our ability to build immersive and innovate worlds is only enhanced by diverse teams working in an inclusive environment. We aspire to have a culture where everyone can thrive in order to connect and engage the world through epic entertainment. We provide a suite of benefits that promote physical, emotional and financial well-being for ‚ÄòEvery World‚Äô - we‚Äôve got our employees covered!
+
+The videogame industry and therefore our business is fast-paced and will continue to evolve. As such, the duties and responsibilities of this role may be changed as directed by the Company at any time to promote and support our business and relationships with industry partners.
+
+Activision Blizzard is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, gender expression, national origin, protected veteran status, or any other basis protected by applicable law and will not be discriminated against on the basis of disability.
+
+Apply Now: click Apply Now
+
+Show Less 

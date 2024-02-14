@@ -1,0 +1,836 @@
+AllSTEM Connections is looking for Infrastructure Engineer to work in Columbus, Ohio. This is a contract to direct hire opportunity with benefits. We currently have multiple openings all from Junior to Advanced levels of experience. Pay is depending on experience.
+
+As a Product Specialist, you will be responsible for the management of complex technology related tasks and action as related to programs and projects that require enablement of strategic solution across applications, accounts, and users. The Identity & Access Management Program supports GTI•s control requirements necessary to reduce Risk to the firm. This technical role requires the Product Specialist to have the ability to understand and manage enablement of access control measures across multiple teams, systems, accounts, and applications. You will be driving the delivery of Identity and Access Management; Privileged Access, actions in the portfolio across all services working closely with multiple GTI & LOB technology teams while interfacing with senior managers and stakeholders in the organization within a significant program. Strong leadership, excellent oral and written communications, and the ability to remain calm and perform under pressure are a must have.
+
+Responsibilities
+
+Privilege Access Management (PAM) experience and or knowledge thereof.
+Experience including solid knowledge of Identity & Access Management controls, principles, methods.
+Knowledge and or experience with commercially known PAM solutions such as BeyondTrust, ARCON, CyberArk, and others
+Familiarity and / or experience of the Identity & Access Management (IAM) Domain (min 2 / 5 years
+Experience in the Privilege Access with elevated authorization and identification requirements associated with applications, accounts, and systems.
+Working knowledge of different connector types with application architecture and design.
+Must be comfortable planning and driving application teams through integration of strategic solutions for users and systems for Privilege Access.
+Knowledge of Project / Program Management requirements and process.
+Excellent multitasking and prioritizing skills with ability to execute on multiple complex tasks.
+Excellent oral and written communication skills across functions and teams, up and down the chain of command
+Data Analysis - Understand, interpret, validate, manipulate, data using excel and other tools, and present conclusions to the key stakeholders.
+Analyze current access management model of applications, identify gaps, and suggest solutions for onboarding to strategic IAM tools including Sophia, Password Vaulting and other firmwide solutions
+Qualifications
+
+
+Bachelor's degree in technology or information security or other related area preferred
+2+ /5+ years of related technology experience working with multiple technologies and complex, large scale, cross-functional project management, preferably in the financial services industry.
+Security+, CISSP, CISA or other security related certification preferred
+AllSTEM Connections is an equal opportunity employer and does not discriminate against any person on the basis of race, religion, color, gender, gender identity, sexual orientation, age, national origin, disability, veteran status, or any other status or condition protected by law
+
+AllSTEM Connections is proud to be an Equal Opportunity Employer. Pursuant to applicable state and municipal Fair Chance Laws and Ordinances, we will consider for employment qualified applicants with arrest and conviction records.
+
+High School
+
+0-1 years
+
+Start your job application: click Easy Apply
+
+Show Less Company Overview
+
+At Hexagon US Federal we provide cutting-edge technologies and a wide range of professional services to enable our customers to make smarter and faster operational decisions and improve mission effectiveness.
+
+Hexagon US Federal is an independent subsidiary of Hexagon Corporation exclusively focused on bringing the broad range of Hexagon technologies to the US Federal government and its partners.
+
+Quick Hits
+
+Employees: 450
+
+
+IT SUPPORT SPECIALIST:
+
+As an IT Support Specialist on the Guam IT Customer Support Team, you will provide the organization with information technology support to optimize operational efficiency. Your duties will include resolving technical issues, maintaining hardware and software installations, and improving IT systems. You will provide technical support in Tier 1, Tier 2, and sometimes resolve problems that fall in the Tier 3 level.
+
+Your daily work tasks will include providing general network support for customer such as end device support such as VoIP, fax, printers, WYSE, and thick clients, web cameras, upgrade and re-image laptops; providing on-site customer support to fly-away teams such as setting up user accounts, logon process, setting up print queues, and accessing portals.
+
+You will also perform periodic security assessments and update equipment inventory system; assist customers in resolving access problems, printer problems, et; assist with procurement of IT equipment; and maintain Emergency Control Center (ECC) IT equipment.
+
+
+Experience Required:
+
+Must have at least 2 years’ experience in providing customer focused service with knowledge of Windows operating systems.
+Exceptional ability to provide technical support and resolve queries; in-depth knowledge of computer hardware, software, and networks; and the ability to determine IT needs and train end-users
+Experience in documenting processes and monitoring performance metrics
+Advanced knowledge of database maintenance and system security
+Ability to keep up with technical innovation and trends in IT support
+Exceptional interpersonal and communication skills
+CompTIA Security+ Certificate is highly desirable.
+
+
+Required Level of Security Clearance: Secret
+
+
+Security Clearance Statement: This position requires a government security clearance at a Secret Level and you must be a US Citizen for consideration.
+
+
+What we will provide in return:
+
+Competitive health care plans with savings accounts
+Dental and vision plans
+401k with 100% company match up to 6%, with immediate vesting on company match
+Life and disability insurance
+Learning Management System with robust offerings
+Tuition Reimbursement Program
+Flexible hybrid and remote working arrangements where possible
+12 paid holidays per year
+Thrive Wellness Program
+DE&I Committee with regular educational sessions and communications
+Leadership Development Program with multiple learning options
+
+Hexagon US Federal is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, sexual orientation, gender identity, national origin, age, protected veteran status, or disability status.
+
+Show Less 
+ReportEY GigNow has an immediate opening for an Identity and Access Management IC Identity Specialist - Contractor
+
+RESPONSIBILITIES
+
+Analyzing production contingency plans and their test status.
+Documenting recommendations for gaps and risks associated with production contingency plans and testing.
+Collaborating across global EY teams to develop a standard end-to-end process for production contingency planning and testing.
+Collaborating across global EY Identity teams to create and maintain production contingency plans.
+Identifying technology risks that have the potential to disrupt identity services.
+
+Skills
+
+disaster recovery software
+
+it disaster recovery management
+
+Qualifications
+
+QUALIFICATIONS
+
+Experience with disaster recovery
+3+ years experience working in a Business Continuity role
+Ability to bring clarity to questionable situations
+Problem solver with strong analytical and troubleshooting skills
+Must have an understanding of SailPoint, Microsoft Identity Manager (MIM) or other large scale commercial Identity Management solution (large scale Okta, Oracle Identity Manager (OIM), Saviynt)
+
+GigNowOpportunities
+
+#GigNowTechOpportunities
+
+Equal Employment Opportunity Information
+EY provides equal opportunities to applicants, employees, contractors, vendors, and stakeholders without regard to race, color, religion, age, sex, sexual orientation, gender identity/expression, national origin, protected veteran status, disability status, or any other legally protected basis, including arrest and conviction records.
+
+If you are a qualified individual with a disability and either need assistance applying online or need to request an accommodation during the interview process, please email gignow.recruiting@ey.com.
+Show Less Hi ,
+
+Hope you are doing Great!
+
+Further below is the job description for “ ( IAM ) Specialist ”
+
+Job Title : Cloud Identity and Access management ( IAM ) specialist .
+
+Job Location : Remote ( Work From Home )
+
+Job Duration: 4-6 month With Extension
+
+Job Description :
+
+Note : Should have experience in implementing IAM projects in any one or more of the following
+Azure, AWS, GCP,
+Forgerock
+CyberArk
+SailPoint
+Okta
+OIM
+OAM
+Experience in carrying out advanced application integration with the IAM solutions dealing with advanced provisioning (e.g., multilevel workflows), single sign-on (WIA, Forms, HTTP), and PKI concepts
+Experience in technologies, such as Active Directory(AD) LDAP, SSL and RBAC. Policy based management through security policy as code.
+
+if you are interested in this job or if you have references or friends looking for a job change then please share this mail with them and feel free to contact me.
+
+Thanks & Regards
+
+Rohit Justin . K
+
+Technical Recruiter
+
+Work: 949 608 7375
+
+Email: Rohit.justin(@)kaygen.com
+
+Job Type: Contract
+
+Salary: $60.00 - $65.00 per hour
+
+Schedule:
+
+8 hour shift
+
+Application Question(s):
+
+Do you have a LinkedIN ID ?
+Do you have Experience in implementing IAM projects in any one or more of the following
+
+Azure, AWS, GCP,
+Forgerock
+CyberArk
+SailPoint
+Okta
+OIM
+OAM
+
+Education:
+
+Bachelor's (Preferred)
+
+Experience:
+
+implementing IAM projects: 5 years (Required)
+
+Work Location: Remote
+
+Show Less Job reference: WD-0017131
+
+Logistics Data Management Specialist
+
+Tulsa
+
+What's the role?
+
+The role of the Logistics Data Management Specialist is a functional expert for all of Hilti North America‚Äôs SAP material master data. Responsibilities include, but are not limited to, ongoing business support by providing coaching and training on system functionality, providing ongoing system support by ensuring creation, updates, and maintenance to the material master is performed, and by partnering with the Process Manager to improve systems and processes.
+
+Who is Hilti?
+
+Hilti is where innovation is improving productivity, safety and sustainability in the global construction industry, and beyond. Where strong customer relationships are creating solutions that build a better future. Where there is pride and a sense of belonging across our 120 locations, carrying right into our lives and homes. Where people are exploring possibilities, leveraging their potential, owning their personal development and growing lasting careers.
+
+What does the role involve?
+
+Material master setup, maintenance, troubleshooting, and testing:
+Creation and maintenance of all standard material numbers within SAP (global and national
+Creation and maintenance of all fixed combo material numbers within SAP
+Creation and maintenance of all configurable materials within SAP
+Creation and maintenance of purchase info records (PIR‚Äôs) and source lists for national materials
+Set up and maintenance of internal customer ship-to partners (IST), vendor updates, and material copy control for all HNA plants
+Changes to existing material master settings as required by PM & MM teams
+Partner with Finance team to resolve any master data issues preventing completion of cost roll-up activities
+Assist with the management of the material phase-out process, quality issues, and regional sales via the SAP SS local functionality
+Conversion of materials from specials to standard materials and from standard materials to specials
+Responsible for material master functional acceptance testing and regression testing for all new SAP releases
+Manage sub-contractor physical inventory counts
+Define dates in which quarterly counts will take place at the sub-contractors each year
+Actively communicate requirements to all stakeholders (sub-contractors & material management team) on a timely manner
+Create count documents for each sub-contractor
+Monitor count activities and report on progress
+Report final count and variance details to management
+Train users on material master processes as required
+MM team on material master processes
+Data management team on the maintenance and creation of new materials
+Project management for processes directly impacting material data:
+Working with local and global team members to define requirements
+Testing and implementation of any new functionality within SAP
+Communication and change management for affected end users
+Remedy Incident remediation
+Troubleshoot all material master failures
+Escalate to higher level process experts, global business, and global IT as required
+Additional duties, as assigned
+
+Hilti has been ranked in the Top 10 among the 'World‚Äôs Best Workplaces' in 2022, coming in at #8!
+
+What do we offer?
+
+Throughout your career, you‚Äôll own your own development and find the right way to grow and leverage your strengths.
+
+Why should you apply?
+
+You will be working with a team of people striving for excellence, with an open, inclusive and supportive culture.
+
+What you need is:
+
+High School Diploma/GED, required; Bachelor‚Äôs degree preferred
+Minimum three (3) to five (5) years‚Äô experience in Logistics operational expertise resulting in a deep knowledge of material master and inventory processes including touch points with Customer Service, Distribution Centers, Hilti Stores, Fleet Management, Credit, Finance, Tax, Global Business and IT.
+SAP proficiency of Hilti‚Äôs material master, order entry processes, and Central Warehouses, Distribution Centers, Hilti Stores and Repair Center replenishment networks.
+Proficiency in Microsoft applications such as MS Word, Excel, Access and PowerPoint, required
+Ability to troubleshoot failures, determining a system setup or user issue
+High proficiency of customer order processing and knowledge of SAP applications including SAP queries
+Ability to adapt to new ideas and demands and to think ‚Äúoutside of the box‚Äù
+Demonstrated ability to provide self-leadership/initiative
+Demonstrated ability to manage multiple tasks simultaneously while meeting tight deadlines in a changing environment.
+Good communication (verbal, written, presentation) skill.
+Ability to work in a team environment with values of integrity, courage, teamwork and commitment.
+Ability to provide coaching to other teams as required
+Up to 10% domestic & international travel, required
+
+Hilti, Inc is committed to employing a diverse workforce. Qualified applicants will receive consideration without regard to race, color, religion, sex, national origin, age, sexual orientation, gender identity, gender expression, veteran status, or disability.
+
+To apply to this job, click Apply Now
+
+Show Less Job#: 1310324
+
+Job Description:
+Apex Systems is seeking a Quality Systems Management Specialist to work remotely within the United States to support a Fortune 100 company.
+
+**For immediate consideration, send your updated resume to Jailene at jblanco@apexsystems.com**
+
+Summary:
+Temperature Management is responsible for managing pharmaceutical and medical temperature excursions.
+
+Contacting medical and pharmaceutical manufacturers to obtain product stability information when a location experiences a temperature excursion
+Evaluating stability data for impact to the product to ensure patient safety.
+Assists facilities when completing temperature excursion documentation to ensure all required information is captured.
+
+Website Management is responsible for providing support for users, testing enhancements, and user provisioning.
+
+Demonstrates basic knowledge of website architecture and user functionality.
+Liaison between users (field and corporate), website owners, process subject matter experts, and QRA IT.
+Creating an alliance with website owners (QRA Pillar Directors) and QRA IT for prioritization of scheduling enhancement and fixes.
+
+Accountabilities
+
+Temperature Disposition Processing:
+Contacting medical and pharmaceutical manufacturers when a location experiences a temperature excursion and evaluating stability data for impact to the product to ensure patient safety.
+Escalating issues that may result in an internal initiated product recall.
+Maintains database of temperature excursions and stability data received from the manufacturers.
+Supports site personnel when temperature excursions occur.
+
+Supporting the implementation of eQMS for Pharmaceutical Distribution to include the following:
+
+Working with subject matter experts on various projects as assigned
+Miscellaneous duties as assigned by the Manager, Quality Management or Supervisor, Quality Management
+Daily utilization of Microsoft products (Word, Excel, PowerPoint)
+Prior experience with SharePoint required.
+
+Supporting the Pharmaceutical, Medical, and Canada Website Management
+
+Miscellaneous duties as assigned by the Manager, Quality Management or Principal Specialist, Quality Assurance.
+User provisioning for websites that provides appropriate access to each facility and role.
+
+Qualifications
+
+Bachelors in related field, or equivalent work experience, preferred
+2+ years’ experience in related field, preferred
+Attention to detail.
+Ability to manage timelines and priorities.
+Ability to work independently with minimum guidance.
+Ability to multi-task.
+
+EEO Employer
+
+Apex Systems is an equal opportunity employer. We do not discriminate or allow discrimination on the basis of race, color, religion, creed, sex (including pregnancy, childbirth, breastfeeding, or related medical conditions), age, sexual orientation, gender identity, national origin, ancestry, citizenship, genetic information, registered domestic partner status, marital status, disability, status as a crime victim, protected veteran status, political affiliation, union membership, or any other characteristic protected by law. Apex will consider qualified applicants with criminal histories in a manner consistent with the requirements of applicable law. If you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation in using our website for a search or application, please contact our Employee Services Department at employeeservices@apexsystems.com or 844-463-6178.
+
+Employee Type:
+Contract
+
+Remote:
+Yes
+
+Location:
+Columbus, OH, US
+
+Job Type:
+Date Posted:
+November 10, 2022
+Show Less Position Overview:
+
+In this position, you will be in charge of accepting all user problems via calls, voice mail and electronic forms while taking ownership of all IT issues through diagnosis investigation and resolution. You will respond to escalation requests and ensure client satisfaction in a highly client-focused and high-volume environment. Internal Service Levels require a high level of problem resolution on first contact, and accurate routing of trouble tickets to the next level of support.
+
+Responsibilities:
+
+Requests using the incident management and request fulfillment processes.Problems include password resets, computer hardware and software errors, usage queries, network connectivity issues, application outages, telephony problems, logical and physical access permissions, wireless network connectivity failures, malware problems, VDI issues, handheld problems, and other IT related issues.
+Interacts with call center agents, office staff, and remote and home workers via calls, chat, and electronic form, regarding IT issues and queries.
+Records interactions into the ticketing system ensuring accurate and complete ticket profiling, logs, and resolution details.
+Troubleshoots and identifies technical problems, diagnoses error messages, determines causes, and either provides resolution or escalates to the proper support team.
+Tracks and monitors the status of issues to ensure proper follow-up and resolution.
+Take ownership of user problems and follow up the status on behalf of the user and communicate progress in a timely manner.
+Responds to escalation requests and notify management as required. Informs Tier 2 and Tier 3 support of incidents affecting service interruption.
+Ensures problems are accepted within targeted levels. Escalates if the ticket is not accepted or resolved by support groups within targeted SLA’s.
+Maintains a high degree of customer service for all support queries and adheres to all service management principles.
+Contributes to the improvement of processes and knowledge base.
+
+Requirements:
+
+3 – 4 years of troubleshooting experience (hardware & software), demonstrated understanding of Service Desk and Service Delivery, and ability to learn and master new applications.
+Demonstrated problem management and solving skills.
+Ability to manage multiple tasks concurrently in a fast-paced environment.
+Ability to optimize tasks and processes.
+Proactivity
+Must be a team player
+A+ / N+ Certifications are highly desired
+Working Knowledge of Active Directory, MS Exchange, Office365, Azure
+Working knowledge of printer issue (remote support)
+Strong knowledge of end user devices: phones (android, IOS), Win10, MacOS, tablets
+Good knowledge of networks TCP/IP
+
+APPLY NOW!
+
+Send us your complete resume in English.
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or protected veteran status.
+
+Job Types: Full-time, Permanent
+
+Salary: $18.00 - $21.00 per hour
+
+Benefits:
+
+401(k)
+Dental insurance
+Health insurance
+Paid time off
+Vision insurance
+
+Experience level:
+
+3 years
+
+Schedule:
+
+8 hour shift
+Monday to Friday
+
+Application Question(s):
+
+Please provide us with your personal email address (mandatory)
+
+Experience:
+
+Help desk: 3 years (Required)
+Service Desk: 3 years (Required)
+
+Work Location: Remote
+
+Apply Now: click Easy Apply
+
+Show Less 
+ReportPosition Title: Payroll Implementation Specialist (1st Shift)
+Pay Rate: $44 -$48/hr
+Duration: 6 Months
+Work Location: Remote
+Work Schedule: Flexible 7am or 7:30am Start/4pm or 4:30pm End
+
+SUMMARY
+
+This position is responsible for performing a variety of payroll analyst duties relating to auditing of payroll transactions, developing and streamlining processes, and system implementations. This role will function as a project manager/analyst working with various stakeholders in the organization. They will collaborate with IT department, Finance, HR, and other business units as needed.
+
+ESSENTIAL DUTIES AND RESPONSIBILITIES
+
+Monitors project progress by identifying project milestones; tracking activity; resolving problems; publishing progress reports; and recommending actions.
+Technology product implementation (consulting, configuration, troubleshooting) experience
+Provide guidance, recommendations, and solutions throughout the entire implementation process.
+Create and maintain system documentation supporting all application patches and upgrades, creation of tests cases and performing full cycle testing
+Perform audits to identify gaps in employee information throughout various systems
+Reporting of all merge issues by clear documentation
+Assist with acquisitions and system conversions
+Maintain all department requests, records, databases, files, forms in an organized and secure manner
+Create, update and run accurate and timely system reports for business users, accounting and management
+Review and audit system processes and calculations based on SOX compliance to ensure accuracy of system data.
+Support in the development and management of payroll metrics
+Support administrators in analyzing data
+Assist with tax agency notices
+Other duties as assigned
+
+QUALIFICATIONS & EXPERIENCE:
+
+Minimum of 10 years of Payroll experience in similar industry
+Minimum of 3 years of experience working with Payroll systems.
+Proficiency in Microsoft Office Excel, Word, Vizio and Project
+ADP Workforce Now‚Äôs implementation experience is required
+Advanced in Microsoft Excel (Ability to perform, pivot tables, v-lookups & complex formulas)
+Ability to adapt to situations and make a fast analysis to solve problems
+Strong focus on customer-service including outstanding interpersonal skills.
+Strong attention to detail and follow through.
+Ability to work as a team member with the ability to flex with changing priorities based on business needs.
+Excellent organizational and communication skills.
+Excellent problem solving and analytical skills
+Ability to maintain strict confidentiality.
+Experience in Microsoft Access Preferred
+Bachelor‚Äôs degree is strongly preferred.
+FPC or CPP Certification strongly preferred.
+Accounting experience preferred
+Canadian payroll experience a plus.
+
+NOTE: Suna Solutions provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.
+
+This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.
+
+Applicants, with criminal histories, are considered in a manner that is consistent with local, state and federal laws.
+
+Job Type: Contract
+
+Pay: $44.00 - $48.00 per hour
+
+Schedule:
+
+8 hour shift
+Monday to Friday
+
+Education:
+
+Bachelor's (Preferred)
+
+Experience:
+
+Payroll systems: 3 years (Preferred)
+Payroll experience in similar industry: 10 years (Preferred)
+Canadian payroll (preferred): 1 year (Preferred)
+ADP Workforce Now‚Äôs implementation: 3 years (Preferred)
+
+License/Certification:
+
+FPC or CPP certification (Preferred)
+
+Work Location: Remote
+
+Show Less Responsibilities:
+
+Peraton is seeking an Information Security Identity and Access (IdAM) Management Specialist to join our team of qualified, diverse individuals. The Access Management leader is part of the Peraton DHS Cybersecurity team supporting the DCCO OBIM program. The ideal candidate will be responsible for performing access management duties by assisting functional teams with the processing and managing of privileged access requests. The ideal IdAM specialist will assist the Security Manager with identifying and managing program-specific security access management requirements. The position is also responsible for working with the ISSOs/ISSMs and other functional teams to manage, plan and monitor information systems access and provisioning.
+
+
+Day to Day Work Responsibilities will include:
+
+Works closely under the supervision of Security Manager and with other security personnel within Peraton CS&PSS Sector to ensure operational identity and access management processes and procedures are in place
+Document processes: Develops, updates, and maintains access management standard operating process & procedures
+Manage and tracks all privileged users for the program(s) throughout the lifecycle
+Will utilize experience and knowledge of PAM, SSO and MFA and Directory Services (AD/LDAP) concepts in the Identity and Access Management and related tools/application
+Utilize CyberArc and CA PAM privileged user management skills
+Utilize cloud native tools to manage IAM process
+Audit/Access review: Initiates the quarterly user recertification and validation process
+Maintains documents and approvals used for requesting access
+Supports audit requests pertaining to access management
+Acts as a liaison between requestors and approvers and technical resources
+Qualifications:
+Basic Qualifications:
+BS degree and 5-7 years’ experience or MS degree and 3-5 years’ experience or high school diploma/equivalent and minimum 9 years’ relevant experience
+Demonstrated understanding of IAM/IDM Security Practices.
+Must be knowledgeable of the DHS 4300A requirements as it pertains to access management.
+Familiarity for ITIL4 concepts.
+U.S. Citizenship required; active DHS Public Trust with EOD
+Preferred Qualifications:
+Certifications: CIAM, CIST
+At least one Cloud Security Certification: AWS Security Professional, CCSP; MS Azure Security Certification, CCSK
+Previous working experience with Federal Govt System(s); preferably within the DHS/DHS Components
+Experience of working with Federal Information Processing (FIPS), FISMA, FedRAMP and Other Cyber Security related laws, regulations and directives
+Experience of presenting at client meetings
+Experience of translating contractual IAM security requirements
+Understands federal security and regulations
+Understands DHS’ Security Policy and has in-depth knowledge of DHS’ Security Policy 4300a.
+Peraton Overview:
+Peraton drives missions of consequence spanning the globe and extending to the farthest reaches of the galaxy. As the world’s leading mission capability integrator and transformative enterprise IT provider, we deliver trusted and highly differentiated national security solutions and technologies that keep people safe and secure. Peraton serves as a valued partner to essential government agencies across the intelligence, space, cyber, defense, civilian, health, and state and local markets. Every day, our employees do the can’t be done, solving the most daunting challenges facing our customers.
+Salary Range: Salary Minimum: $57,500 Salary Mid: $115,000 Salary Maximum: $143,800 The estimate displayed represents the typical salary range for this position, and is just one component of Peraton's total compensation package for employees. Other rewards may include annual bonuses, short- and long-term incentives, and program-specific awards. In addition, Peraton provides a variety of benefits to employees. EEO Tagline (Text Only): An Equal Opportunity Employer including Disability/Veteran.
+
+Apply Now: click Apply Now
+
+Show Less 
+ReportSecure our Nation, Ignite your Future
+
+Become an integral part of a diverse team while working at an Industry Leading Organization, where our employees come first. At ManTech International Corporation, you’ll help protect our national security while working on innovative projects that offer opportunities for advancement.
+
+Currently, ManTech is seeking a motivated, career and customer-oriented Database Management Specialist – Oracle 19c to join our team working remotely.
+
+Responsibilities include, but are not limited to:
+
+ManTech is seeking a motivated, mission-oriented Oracle Database Management Specialist/Administrator, with focus on Oracle 19c, to work with an experienced project team performing key tasks for a suite of systems that are instrumental in supporting the management of Medical Logistics (MEDLOG) business processes in Military Treatment Facilities (MTFs), warehouses, and in-field environments. Job responsibilities will include performing database administration planning and deployment activities to support migration of MEDLOG systems to the Amazon Web Services (AWS) Cloud environment.
+
+As a Database Management Specialist, you will:
+
+Setup, administer, and manage Oracle databases for systems on an AWS-hosted platform
+
+Define and execute plans for migrating existing on-premise Oracle-based systems to AWS
+
+Provide database and systems administration support for software deployment operations, data migration and conversion, and other critical production operations support activities as required
+
+Provide expertise on database activities required to support deployment planning
+
+Evaluate and execute conversion routines/scripts and verify successful completion
+
+Review and apply Security Technical Implementation Guide (STIG) requirements to ensure Oracle-based systems maintain a strong security posture without impact to MEDLOG applications
+
+Support Risk Management Framework (RMF) activities to include documentation and resolving Oracle-related findings/vulnerabilities
+
+Work closely with the Cybersecurity team to complete review of systems and remediate findings/vulnerabilities to ensure Oracle database is approved for use in a Production environment
+
+Install and setup MEDLOG applications on an Oracle back-end to support migration to AWS
+
+Perform database administration and maintenance activities, to include patching and upgrades as needed
+
+Support decommissioning efforts of deployed systems and hardware
+
+Perform database administration and maintenance, to include monitoring database performance statistics and recommend improvements
+
+Database management with respect to performance tuning, capacity planning, and managing tables, indexes, constraints and views
+
+Manage users and security; stability, backup/recovery and database integrity
+
+Proactively identify and communicate issues, risks, and progress to customer, contractor team, and IT stakeholders, providing options and next steps
+
+Required Qualifications:
+
+A minimum of seven plus (7+) years of experience with setup and administration of Oracle 19c
+
+Experience with setup and administration of Oracle 19c; 7 to 10 years of experience preferred.
+
+Must possess at least one of the following: A+, CCNA Security, Network+, SSCP, CCNA Security, CySA+, GICSP, GSEC, Security+ CE, SSCP, CASP+, CCNP Security, CISA, CISSP (or Associate), GCED, or GCIH
+
+Preferred Qualifications:
+
+Professional AWS training (EC2 servers, cloud storage solutions, etc.)
+
+Provide superior customer service; possess strong communication (verbal and written) and interpersonal skills in a dynamic customer centric environment
+
+Bachelor's degree in systems engineering, computer science, management information systems, or related field
+
+Experience with Oracle Wallet
+
+Experience with Medical Logistics (especially DMLSS and/or LogiCole)
+
+Experience working with Defense Health Agency (DHA) customer
+
+Experience in DevSecOps practices
+
+Security Clearance Requirements:
+
+US Citizenship and the ability to obtain Public Trust clearance is required
+
+Physical Requirements:
+
+Must be able to remain in stationary position for up to 50% of the time.
+
+Must be able to deliver clear and effective communication both verbally and non-verbally to deliver updates; briefings; or interface with co-workers; leadership as well as customer.
+
+Must be able to work in an office environment and be able to freely move within this space to utilize office equipment as well as interface with co-workers and customer.
+
+Must be able to effectively use IT peripherals such as laptop, desktop, printer, fax machine, etc.
+
+Must be able to deliver presentations as needed.
+
+Must be able to review; decipher and understand program manuals; IT service requests; work orders; etc.
+
+The projected compensation range for this position is $93,500-$120,000. There are differentiating factors that can impact a final salary/hourly rate, including, but not limited to, Contract Wage Determination, relevant work experience, skills and competencies that align to the specified role, geographic location (For Remote Opportunities), education and certifications as well as Federal Government Contract Labor categories. In addition, ManTech invests in it’s employees beyond just compensation. ManTech’s benefits offerings include, dependent upon position, Health Insurance, Life Insurance, Paid Time Off, Holiday Pay, Short Term and Long Term Disability, Retirement and Savings, Learning and Development opportunities, wellness programs as well as other optional benefit elections.
+
+For all positions requiring access to technology/software source code that is subject to export control laws, employment with the company is contingent on either verifying U.S.-person status or obtaining any necessary license. The applicant will be required to answer certain questions for export control purposes, and that information will be reviewed by compliance personnel to ensure compliance with federal law. ManTech may choose not to apply for a license for such individuals whose access to export-controlled technology or software source code may require authorization and may decline to proceed with an applicant on that basis alone.
+
+ManTech International Corporation, as well as its subsidiaries proactively fulfills its role as an equal opportunity employer. We do not discriminate against any employee or applicant for employment because of race, color, sex, religion, age, sexual orientation, gender identity and expression, national origin, marital status, physical or mental disability, status as a Disabled Veteran, Recently Separated Veteran, Active Duty Wartime or Campaign Badge Veteran, Armed Forces Services Medal, or any other characteristic protected by law.
+
+If you require a reasonable accommodation to apply for a position with ManTech through its online applicant system, please contact ManTech's Corporate EEO Department at (703) 218-6000. ManTech is an affirmative action/equal opportunity employer - minorities, females, disabled and protected veterans are urged to apply. ManTech's utilization of any external recruitment or job placement agency is predicated upon its full compliance with our equal opportunity/affirmative action policies. ManTech does not accept resumes from unsolicited recruiting firms. We pay no fees for unsolicited services.
+
+If you are a qualified individual with a disability or a disabled veteran, you have the right to request an accommodation if you are unable or limited in your ability to use or access
+
+Apply Now: click Apply Now
+
+Show Less 
+ReportSecure our Nation, Ignite your Future
+
+Become an integral part of a diverse team while working at an Industry Leading Organization, where our employees come first. At ManTech, you’ll help protect our national security while working on innovative projects that offer opportunities for advancement.
+
+Currently, ManTech is seeking a motivated, career and customer-oriented Senior Helpdesk Specialist to join our team. This is a remote position from anywhere in the US.
+
+Responsibilities include but are not limited to:
+
+Responsible for providing support to end-user community on difficult hardware, software and network related problems, questions, and use
+
+May provide training and guidance to more junior help desk personnel
+
+Provides resolutions to out of the ordinary issues for users. If unable to diagnose problem, will work with Help Desk Management to diagnose and resolve problem
+
+Responds to tier two and higher trouble tickets. Ensures problem ownership and promotes end-user satisfaction. Closes activities of tickets assigned
+
+Responsible for providing in-depth and high level, support to end-user community on hardware, software and network related problems, questions, and use
+
+Provides problem resolution to users. Confers with user to determine problem. Ensures problem ownership and promotes end-user satisfaction
+
+Basic Qualifications:
+
+A minimum of five plus (5+) years of related experience in computer hardware, software, networking systems, and in the set-up, configuration, use, and troubleshooting of computer systems
+
+Bachelor's degree in Computer Science or related field
+
+Experience testing Legacy Systems undergoing modernization and eventually being replaced, such as VB6, .Net, Oracle, and Java
+
+Clearance Requirements:
+
+Must be a US Citizen and able to obtain and maintain a public trust clearance suitability
+
+Physical Requirements:
+
+Must be able to remain in stationary position for up to 50% of the time
+
+Must be able to deliver clear and effective communication both verbally and non-verbally to deliver updates; briefings; or interface with co-workers; leadership as well as customer
+
+Must be able to work in an office environment and be able to freely move within this space to utilize office equipment as well as interface with co-workers and customer
+
+Must be able to effectively use IT peripherals such as laptop, desktop, printer, fax machine, etc.
+
+Must be able to deliver presentations as needed
+
+Must be able to review; decipher and understand program manuals; IT service requests; work orders; etc.
+
+The projected compensation range for this position is $69,300-$69,493. There are differentiating factors that can impact a final salary/hourly rate, including, but not limited to, Contract Wage Determination, relevant work experience, skills and competencies that align to the specified role, geographic location (For Remote Opportunities), education and certifications as well as Federal Government Contract Labor categories. In addition, ManTech invests in it’s employees beyond just compensation. ManTech’s benefits offerings include, dependent upon position, Health Insurance, Life Insurance, Paid Time Off, Holiday Pay, Short Term and Long Term Disability, Retirement and Savings, Learning and Development opportunities, wellness programs as well as other optional benefit elections.
+
+For all positions requiring access to technology/software source code that is subject to export control laws, employment with the company is contingent on either verifying U.S.-person status or obtaining any necessary license. The applicant will be required to answer certain questions for export control purposes, and that information will be reviewed by compliance personnel to ensure compliance with federal law. ManTech may choose not to apply for a license for such individuals whose access to export-controlled technology or software source code may require authorization and may decline to proceed with an applicant on that basis alone.
+
+ManTech International Corporation, as well as its subsidiaries proactively fulfills its role as an equal opportunity employer. We do not discriminate against any employee or applicant for employment because of race, color, sex, religion, age, sexual orientation, gender identity and expression, national origin, marital status, physical or mental disability, status as a Disabled Veteran, Recently Separated Veteran, Active Duty Wartime or Campaign Badge Veteran, Armed Forces Services Medal, or any other characteristic protected by law.
+
+If you require a reasonable accommodation to apply for a position with ManTech through its online applicant system, please contact ManTech's Corporate EEO Department at (703) 218-6000. ManTech is an affirmative action/equal opportunity employer - minorities, females, disabled and protected veterans are urged to apply. ManTech's utilization of any external recruitment or job placement agency is predicated upon its full compliance with our equal opportunity/affirmative action policies. ManTech does not accept resumes from unsolicited recruiting firms. We pay no fees for unsolicited services.
+
+If you are a qualified individual with a disability or a disabled veteran, you have the right to request an accommodation if you are unable or limited in your ability to use or access
+
+Apply Now: click Apply Now
+
+Show Less Sr Info Sec Ops Specialist
+The Senior Information Security Operations Specialist primary function is to drive the direction of our IAM program to ensure applications and platforms within the TIAA environment adhere to security standards in accordance with industry best practices. In the event an application or platform does not meet these standards, the specialist's role is to assist a remediation plan in conjunction with various teams across the enterprise to achieve security compliance.
+
+Key Responsibilities and Duties
+Handle operational issues and drive key improvements to reduce manual workload.
+Participates in the development of hardware, software and network security procedures and guidelines that support information security policies.
+Coordinates information security assessments and internal audits to identify weaknesses and build upon the existing information security infrastructure.
+Reviews the assessment of vulnerabilities and provides recommendations and options regarding information technology (IT) infrastructure, data flows/processes and operating procedures.
+Conducts analyses of organizational needs and goals for the development and implementation of new information security technologies.
+Identifies and implements emerging data access control technologies, information systems security issues, safeguards and techniques.
+Oversees security awareness programs, educating and communicating to staff about information security policies, procedures and practices.
+Qualifications
+3 Years Required; 5 Years Preferred
+University (Degree), Preferred
+Physical Requirements
+Physical Requirements: Sedentary Work
+Preferred Education
+University (Degree)
+
+Career Level
+7IC
+Required Qualifications
+3 or more years of experience with identity and access management
+Preferred Qualifications
+1 or more years of experience with implementing RBAC, ABAC, or PBAC
+1 or more years of experience with SailPoint IdentityIQ or SailPoint IdentityNow
+Cloud experience (AWS, Azure)
+Knowledge of implementing a privileged access model for a platform or application
+Experience with Service Now, Tableau, Powershell and other scripting languages
+#LI-158487406_MB1
+Base Pay Range: $80,900/yr. - $134,800/yr.
+Actual base salary may vary based upon, but not limited to, relevant experience, time in role, base salary of internal peers, prior performance, business sector, and geographic location. In addition to base salary, the competitive compensation package may include, depending on the role, participation in an incentive program linked to performance (for example, annual discretionary incentive programs, non-annual sales incentive plans, or other non-annual incentive plans).
+_____________________________________________________________________________________________________
+Company Overview
+TIAA is the leading provider of financial services in the academic, research, medical, cultural and government fields. We offer a wide range of financial solutions, including investing, banking, advice and education, and retirement services.
+COVID-19 Vaccination
+TIAA requires all U.S. employees to be fully vaccinated against COVID-19 and provide documentation of full vaccination, unless you qualify for an accommodation as determined by TIAA consistent with applicable law.
+Benefits and Total Rewards
+The organization is committed to making financial well-being possible for its clients, and is equally committed to the well-being of our associates. That’s why we offer a comprehensive Total Rewards package designed to make a positive difference in the lives of our associates and their loved ones. Our benefits include a superior retirement program and highly competitive health, wellness and work life offerings that can help you achieve and maintain your best possible physical, emotional and financial well-being. To learn more about your benefits, please review our
+Benefits Summary
+.
+Equal Opportunity
+We are an Equal Opportunity/Affirmative Action Employer. We consider all qualified applicants for employment regardless of age, race, color, national origin, sex, religion, veteran status, disability, sexual orientation, gender identity, or any other protected status.
+Read more about the Equal Opportunity Law
+here
+.
+Accessibility Support
+TIAA offers support for those who need assistance with our online application process to provide an equal employment opportunity to all job seekers, including individuals with disabilities.
+If you are a U.S. applicant and desire a reasonable accommodation to complete a job application please use one of the below options to contact our accessibility support team:
+Phone: (800) 842-2755
+Email:
+accessibility.support@tiaa.org
+Privacy Notices
+For Applicants of TIAA, Nuveen and Affiliates residing in US (other than California), click
+here
+.
+For Applicants of TIAA, Nuveen and Affiliates residing in California, please click
+here
+.
+For Applicants of Nuveen residing in Europe and APAC, please click
+here
+.
+For Applicants of Greenwood residing in Brazil (English), click
+here
+.
+For Applicants of Greenwood residing in Brazil (Portuguese), click
+here
+.
+For Applicants of Westchester residing in Brazil (English), click
+here
+.
+For Applicants of Westchester residing in Brazil (Portuguese), click
+here
+.
+
+Start your job application: click Apply Now
+
+Show Less The Challenge:
+
+When a user tries a new system, they expect it to be intuitive and run smoothly. Functionality, reliability, and user experience are key to successful information systems–and that means rigorous testing. That’s why we need you, an aspiring quality assurance specialist who’s eager to help thoroughly test software and ensure that our team releases the best system possible.
+
+As a Salesforce quality assurance specialist, you’ll work with analysts, testers, developers, and engineers on a team that evaluates developed systems to support the Department of Veterans Affairs (VA). You’ll help develop and implement a test plan based on requirements, functional specifications, and design specifications. Using requirements analysis and software quality assurance, you’ll generate problem resolutions and track quality assurance standards to see how the system performs, then document the results and communicate system flaws to the development team so they can start improving the tool. You’ll build your experience in various types of testing, including manual, performance, accessibility, usability, user acceptance testing, and testing process improvement. This is an opportunity to broaden your skills in documenting and solving system deficiencies as well as leading and mentoring others and estimating testing efforts. Ready to make an impact by transforming and modernizing healthcare systems for our military Veterans? Work with us as we build systems to change Veterans Affairs for the better. This position is open to remote delivery anywhere within the U.S., to include the District of Columbia.
+
+Join us. The world can’t wait.
+
+You Have:
+
+2+ years of experience with quality assurance methodology
+Knowledge of Agile methodology and regression testing
+Knowledge of test management software, including qTest, Zephyr, LoadRunner, Rational, Xray, or SQL
+Knowledge of Jira
+Ability to document and troubleshoot errors to enhance software development
+Ability to obtain and maintain a Public Trust or Suitability/Fitness determination based on client requirements
+HS diploma or GED and 4+ years of experience with software development quality assurance or Bachelor’s degree and 2+ years of experience with software development quality assurance
+
+Nice If You Have:
+
+2+ years of experience with Salesforce
+Experience with Eggplant automation testing
+Experience with 508 Accessibility testing
+Possession of excellent verbal and written communication skills
+Possession of excellent organizational and troubleshooting skills
+Salesforce Certification
+
+Vetting:
+
+Applicants selected will be subject to a government investigation and may need to meet eligibility requirements of the U.S. government client.
+
+Compensation:
+
+At Booz Allen, we celebrate your contributions, provide you with opportunities and choices, and support your total well-being. Our offerings include health, life, disability, financial, and retirement benefits, as well as paid leave, professional development, tuition assistance, work-life programs, and dependent care. Our recognition awards program acknowledges employees for exceptional performance and superior demonstration of our values. Full time and part time employees working at least 20 hours a week on a regular basis are eligible to participate in Booz Allen’s benefit programs, individuals that do not meet the threshold are only eligible for select offerings, not inclusive of health benefits.
+
+Salary for this position is determined by various factors, including but not limited to, location, the candidate’s particular combination of knowledge, skills, competencies and experience, as well as contract specific affordability and organizational requirements. The proposed salary range for this position is outlined below.
+
+Colorado: $65,000 - $90,000 (annualized USD)
+
+New York (including New York City): $75,000 - $100,000 (annualized USD)
+
+Build Your Career:
+
+A challenging and dynamic work environment isn’t all we have to offer. When you join Booz Allen, you’ll have access to:
+
+experts in virtually every field
+a culture that focuses on supporting our employees
+opportunities that provide stability while offering variety
+
+You’ll also be exposed to a wealth of training resources through our Digital University, an online learning portal featuring more than 5000 functional and technical courses, certifications, and books. Build your technical skills through hands-on training on the latest tools and tech from our in-house experts. Pursuing certifications that directly impact your role? You may be able to take advantage of our tuition assistance, on-site boot camps, certification training, academic programs, vendor relationships, and a network of professionals who can give you helpful tips. We’ll help you develop the career you want as you chart your own course for success.
+
+We’re an equal employment opportunity/affirmative action employer that empowers our people to fearlessly drive change – no matter their race, color, ethnicity, religion, sex (including pregnancy, childbirth, lactation, or related medical conditions), national origin, ancestry, age, marital status, sexual orientation, gender identity and expression, disability, veteran status, military or uniformed service member status, genetic information, or any other status protected by applicable federal, state, local, or international law.
+
+ID17-C
+
+Start your job application: click Apply Now
+
+Show Less This position is a full time remote, work from home opportunity. You must reside within the state of Florida.
+
+
+
+POSITION SUMMARY\:
+
+
+
+
+The primary focus Identity and Access Management Specialist I is creating Identity and Access Management (IAM) tasks and assigning service requests (SRs) from within Health Firsts Information Managements Information Technology Service Management Tool (ITSM). This role aligns security management strategy with business goals for excellent user experience by managing who has access to resources and services, and enforcing business, privacy and security policies. In this role, you will assist all health first associates and vendors in gaining the appropriate level of access to resources and services in order to provide services to our customers.
+
+
+
+Qualification:
+
+QUALIFICATIONS REQUIRED\: Education\: High School Diploma or equivalent Licensure\: NA Certification\: NA Work Experience in Related Field\: 1-year technology support in related field Work Experience in Lieu of Degree\: NA Knowledge/Skills/Abilities\:
+
+o Demonstrates ability to interpret and communicate both verbally and in writing, complete information in a clear and concise mannero Working background in health care o Proficient with Outlook o Proficient with Excel
+
+QUALIFICATIONS PREFERRED\: Education\: Associates Degree Licensure\: NACertification\: Certified Access Manager Work Experience in Related Field\: 1 year’s technology support in Identity and Access Management Work Experience in Lieu of Degree\: NA Knowledge/Skills/Abilities\:
+
+o Proficient with SharePointo Proficient with WebEx o Proficient with Identity and Access Management Tools such as\:
+
+Identity Manager Identity Vault
+
+Show Less 

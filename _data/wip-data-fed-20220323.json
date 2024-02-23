@@ -1,6 +1,6 @@
 [
   {
-    "id":109,
+    "id":110,
     "source": "",
     "title": "IT Specialist (INFOSEC)",
     "org": "",
@@ -27,6 +27,35 @@
     "summary": "n/a",
     "duties": "",
     "specialized": ""
+  },
+  {
+    "id":109,
+    "source": "https://www.usajobs.gov/job/777756800",
+    "title": "IT Specialist (Cybersecurity)",
+    "org": "Department of Transportation",
+    "division": "Office of the Secretary (OST), Office of the Chief Information Officer (OCIO), Office of the Associate Chief Information Officer (ACIO) for Cybersecurity and Information Protection and Chief Information Security Officer (CISO)",
+    "openDate": "02/22/2024",
+    "closeDate": "05/22/2024",
+    "grade": "GS-15",
+    "city": "Washington",
+    "state": "DC",
+    "remoteJob": "no",
+    "telework": "yes",
+    "appointment": "permanent",
+    "service": "competitive",
+    "promotionPotential": "none",
+    "jobFamily": "2210",
+    "supervisory": "no",
+    "clearance": "other",
+    "positionRisk": "Special-Sensitive (SS)/High Risk",
+    "trustDetermination": "Suitability/Fitness",
+    "announcement": "OST.CIO-2024-0007",
+    "controlNumber": "777756800",
+    "ncwfCode": "n/a",
+    "authority": "direct hire",
+    "summary": "This position is in the Department of Transportation (DOT), Office of the Secretary (OST), Office of the Chief Information Officer (OCIO), Office of the Associate Chief Information Officer (ACIO) for Cybersecurity and Information Protection and Chief Information Security Officer (CISO). The incumbent reports directly to the ACIO/CISO, who has full responsibility for oversight and management of DOT’s cybersecurity program.",
+    "duties": "As an IT Specialist (Cybersecurity), you will Define strategic priorities in the areas of government-wide cybersecurity initiatives and identify new opportunities pertaining to privacy and security of DOT systems. Explain in writing, presentations and at briefings the strategic value of cybersecurity and privacy and its importance as a business enabler. Develop high level plans, techniques, and measurable objectives to improve the development of cybersecurity and privacy measures and practices in meeting goals and objectives of the agency and to protect sensitive information. Make decisions that are data driven and recommend solutions that measure cybersecurity and privacy protection performance. Works in collaboration with the CISO in developing a comprehensive cybersecurity strategy for the Department, including leveraging DOT’s cybersecurity and privacy program as a mission enabler, and creating performance measures for the DOT cybersecurity and privacy program. The incumbent oversees the implementation of higher-level security requirements, such as those resulting from legislative, regulatory, or Presidential directives. Ensures the confidentiality, availability, and integrity of IT systems through full compliance with the Federal Information Security Modernization Act, related NIST standards, and agency IT security policies and standards. Continually evaluates current system security posture, monitors activities, and assesses the security awareness knowledge of staff as it relates to assigned areas of responsibility. He/she oversees operations, maintenance and supports activities including, core services, common controls, and life cycle management of all DOT systems managed within the OCIO purview. Ideal Candidate: DOT OCIO is looking for a seasoned professional who can lead Departmental enterprise cybersecurity programs. These programs can vary but typically involve enterprise security architecture, federal requirements compliance programs, and the Department's High-Value Assets (HVAs) management. We are looking for someone who can lead a multidisciplinary program of cybersecurity research, engineering, technical services, and information management for the Department and is experienced in exercising responsibilities for the planning, engineering, and implementation of complex technical capabilities that include Identity Credential and Access Management (ICAM), management of the Department's Federal Information Security Modernization Act (FISMA) and High-Value Asset (HVA) program.",
+    "specialized": "Implementing, managing, maintaining, and coordinating activities (such as Network/IT Infrastructure Upgrades and Network/IT Resource deployment) both technical/non-technical, for short/long-term milestones to support an organization's office automation efforts. Integrating, maintaining, and enhancing information management and information technology programs to provide systems, tools, and analytical capabilities. Providing in-depth and independent information technology guidance, services, advice, and recommendations to leadership on information security matters. Performing network monitoring and intrusion detection ensuring sound security principles."
   },
   {
     "id":108,

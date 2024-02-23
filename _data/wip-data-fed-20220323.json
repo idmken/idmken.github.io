@@ -1,6 +1,6 @@
 [
   {
-    "id":106,
+    "id":107,
     "source": "",
     "title": "IT Specialist (INFOSEC)",
     "org": "",
@@ -27,6 +27,35 @@
     "summary": "n/a",
     "duties": "",
     "specialized": ""
+  },
+  {
+    "id":106,
+    "source": "https://www.usajobs.gov/job/777919200",
+    "title": "Supervisory IT Specialist (INFOSEC)",
+    "org": "Department of the Treasury",
+    "division": "Departmental Offices (DO), Assistant Secretary for Management/CFO, DAS Information Systems & CIO, ACIO Infrastructure & Operations (IO), Enterprise Networks",
+    "openDate": "02/22/2024",
+    "closeDate": "02/28/2024",
+    "grade": "GS-15",
+    "city": "Washington",
+    "state": "DC",
+    "remoteJob": "no",
+    "telework": "yes",
+    "appointment": "permanent",
+    "service": "competitive",
+    "promotionPotential": "15",
+    "jobFamily": "2210",
+    "supervisory": "Yes",
+    "clearance": "TS",
+    "positionRisk": "n/a",
+    "trustDetermination": "n/a",
+    "announcement": "24-DO-406-ICTAP",
+    "controlNumber": "777919200",
+    "ncwfCode": "n/a",
+    "authority": "n/a",
+    "summary": "This position is located at Departmental Offices, Assistant Secretary for Management/CFO, DAS Information Systems & CIO, ACIO Infrastructure & Operations (IO), Enterprise Networks. As a Supervisory IT Specialist (INFOSEC), you will be responsible for the policy, operations, and oversight of a wide range of IT infrastructure including telecommunications services for Treasury offices and Bureaus.",
+    "duties": "As a Supervisory IT Specialist (INFOSEC), you will Serve as a subject matter expert on information technology issues related to security for telecommunications, data, voice, and video, ICAM, and cloud technologies. Act as the primary liaison for the Director, Enterprise Infrastructure Cybersecurity with other entities in the information security community. Manage a staff of security specialists performing duties on multiple projects and programs within the Department. Express ideas and facts to individuals or groups effectively; make clear and convincing oral presentations; listen to others; facilitate an open exchange of ideas. Make sound and well-informed decisions; perceive the impact and implications of decisions; commit to action, even in uncertain situations, in order to accomplish organizational goals; cause change.",
+    "specialized": "Developing, defining, managing and documenting cyber projects; AND Using project management tools and skills to develop and manage in-depth cybersecurity projects plans; AND Applying Federal information systems security protocols to integrate information systems security with other security disciplines; AND eveloping, implementing and interpreting metrics for the evaluation of cybersecurity program effectiveness and efficiency"
   },
   {
     "id":105,

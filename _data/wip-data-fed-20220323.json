@@ -1,6 +1,6 @@
 [
   {
-    "id":107,
+    "id":108,
     "source": "",
     "title": "IT Specialist (INFOSEC)",
     "org": "",
@@ -27,6 +27,35 @@
     "summary": "n/a",
     "duties": "",
     "specialized": ""
+  },
+  {
+    "id":107,
+    "source": "https://www.usajobs.gov/job/777365900",
+    "title": "Cyber Security Specialist (ASA)",
+    "org": "Department of Education",
+    "division": "Office of the Chief Information Officer (OCIO), Information Assurance Services (IAS), Security Engineering and Architecture Branch",
+    "openDate": "02/20/2024",
+    "closeDate": "03/04/2024",
+    "grade": "GS-15",
+    "city": "Washington",
+    "state": "DC",
+    "remoteJob": "no",
+    "telework": "yes",
+    "appointment": "permanent",
+    "service": "competitive",
+    "promotionPotential": "15",
+    "jobFamily": "2210",
+    "supervisory": "no",
+    "clearance": "other",
+    "positionRisk": "Critical-Sensitive (CS) / High Risk",
+    "trustDetermination": "Suitability / Fitness",
+    "announcement": "OCIO-2024-0004",
+    "controlNumber": "777365900",
+    "ncwfCode": "n/a",
+    "authority": "direct hire",
+    "summary": "This position is located in the U.S. Department of Education, Office of the Chief Information Officer (OCIO), Information Assurance Services (IAS), Security Engineering and Architecture Branch in Washington, DC. This position ensures the development and implementation of Identity, Credential, and Access Management (ICAM) Program.",
+    "duties": "As a Cyber Security Specialist, GS-2210, you will be responsible for As Cybersecurity ICAM Program Manager (PM), analyzes complex, ambiguous, and often conflicting information, establishes and manages a successful implementation and operation of Identity, Credential, and Access Management (ICAM) Program and Service in the Department of Education. Serves as senior expert and consultant to top agency management officials to advise on integrating the Cybersecurity ICAM program with other programs of equivalent scope and complexity. Works with differing groups across multiple business units. Assures the consumption of enterprise OCIO ICAM services as part of portfolio of other Information Assurance Services (IAS) cybersecurity services such as, but not limited to, Zero Trust Architecture (ZTA), Information Security Continuous Monitoring (ISCM), Continuous Diagnostics and Mitigation (COM) and Cyber Data Lake (CDL). Establishes Cybersecurity ICAM practices, templates, policies, tools, and partnerships to expand and mature capabilities for the organization to increase Inspector General (IG) maturity metric scores and Federal Information Security Modernization Act (FISMA) scores to the highest scores possible. Supports the remediation of Cybersecurity FISMA ICAM audit findings by managing the timely completion of corrective action plans (CAPs). Manages risks and issues and takes corrective measurements. Contributes to process improvement as it relates to improving delivery of enterprise ICAM program services for Department consumption. Works creatively and analytically in a problem-solving environment demonstrating teamwork, innovation, and excellence. Reports on ICAM project success criteria results, metrics, tests, and deployment management activities. Manages ongoing quality control and participates in quality issue resolution. Determines the frequency and content of status reports from the ICAM project and program team, analyzes results and troubleshoots problem areas. Ensures progress towards achieving the adoption and execution of Project Management Body of Knowledge (PMBOK) Tier Ill program management office equivalent and service delivery functions for ICAM. Leads and defines the ICAM program governance (controls) and reporting of progress. Manages resources, schedules, financial operations and adheres to the goals set forth by the agency, with quality control guidelines throughout the ICAM program development life cycle. Ensures all ICAM budget, investment, reporting, contracts, lnteragency Agreement (IAA) and administrative functions are completed accurately, thoroughly, and timely. Defines the ICAM Statement of Work and Specifications for requested goods and services. Provides status reporting regarding ICAM project milestones, deliverables, dependencies, risks, and issues, communicating across leadership. Develops and manages all aspects of ICAM project and program engagement from planning, external vendor relationships, communications, resources, budget, changes, risks, and issues. Tasks contact personnel assigned to support assigned initiatives and works closely with management to ensure ICAM project deliverables are met while security and engineering operations continue to function. Leads, manages, and implements the ICAM initiatives at the Department of Education. Establishes ICAM working groups, committees, and tiger teams to ensure full engagement of Department stakeholders. Identifies and develops trusted adviser relationships with ICAM project and program stakeholders, sponsors, and the Department stakeholders.",
+    "specialized": "1. Experience leading implementation of Tier-Three Program Management Office (PMO) to develop and deliver organization-wide Identity, Credential, and Access Management (ICAM), Cybersecurity and Information Technology services. 2. Experience serving as a senior level expert and advisor on critical issues in the field of Cybersecurity, ICAM and Information Technology services. 3. Experience utilizing complex Cybersecurity theories, principles, concepts, standards, and practices to conceptualize and implement new initiatives across business and technology organizations."
   },
   {
     "id":106,

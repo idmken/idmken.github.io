@@ -5,6 +5,7 @@ Venue: International Spy Museum - Washington DC<br>
 Details: 
 - [Agenda](https://zerotrustsummit.upgather.com/agenda/){:target="_blank"}{:rel="noopener noreferrer"}
 - [Recording](https://zerotrustsummit.upgather.com/virtual/live/){:target="_blank"}{:rel="noopener noreferrer"}
+- [Interview](https://cyberscoop.com/video/ken-myers-on-gsas-approach-to-implementing-zero-trust-mandates/){:target="_blank"}{:rel="noopener noreferrer"}
 
 ## Zero Trust and the Cloud
 The panel will discuss the intersection of zero trust and the cloud.

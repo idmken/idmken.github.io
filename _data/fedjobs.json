@@ -1,6 +1,6 @@
 [
   {
-    "id":110,
+    "id":111,
     "source": "",
     "title": "IT Specialist (INFOSEC)",
     "org": "",
@@ -27,6 +27,35 @@
     "summary": "n/a",
     "duties": "",
     "specialized": ""
+  },
+  {
+    "id":110,
+    "source": "https://www.usajobs.gov/job/779678800",
+    "title": "SUPERVISORY IT SPECIALIST (ENTERPRISE ARCHITECTURE)",
+    "org": "Department of Defense",
+    "division": "Defense Counterintelligence and Security Agency (DCSA), Office of the Chief Information Officer (OCIO)",
+    "openDate": "03/04/2024",
+    "closeDate": "03/18/2024",
+    "grade": "GG-15",
+    "city": "Quantico",
+    "state": "VA",
+    "remoteJob": "no",
+    "telework": "yes",
+    "appointment": "permanent",
+    "service": "excepted",
+    "promotionPotential": "none",
+    "jobFamily": "2210",
+    "supervisory": "yes",
+    "clearance": "ts/sci",
+    "positionRisk": "Special-Sensitive (SS)/High Risk",
+    "trustDetermination": "National Security",
+    "announcement": "Special-Sensitive (SS)/High Risk",
+    "controlNumber": "779678800",
+    "ncwfCode": "n/a",
+    "authority": "n/a",
+    "summary": "This position is in the Office of the Chief Information Officer (OCIO) and serves as the Defense Counterintelligence and Security Agency's Chief Enterprise Architect (CEA). Participates in Digital Transformation as an innovative and enlightened thinker combining strategy, design, and technology to architect extraordinary experiences for DCSA's workforce and mission partners. CEA provides technical expertise to ensure efficient, streamlined end-to-end processes across the IT Digital Ecosystem.",
+    "duties": "As a SUPERVISORY IT SPECIALIST (ENTERPRISE ARCHITECTURE) you will be responsible for the following duties Defines, implements, and manages strategic technology roadmap and planning support leveraging various architecture models for various technology domains. Oversees all architecture development and provides recommendations to the CIO to shape the technical vision for the Enterprise. Leads digital transformation, multi-cloud initiatives, ICAM/Zero Trust and technology employment on all IM/IT/Digital/Data/Ai/ML issues and initiatives. Designs and directs the strategy for the service delivery and support models (governance, process, and procedures). Represents OCIO's vision and development plans to the DCSA staff principles, customers, and strategic partners. Provides digital project management support services. Makes recommendations that effect internal and external programs, policies, and long-range planning affecting all users on the DCSA domain.",
+    "specialized": "You must have specialized experience sufficient to demonstrate that you have acquired all the competencies necessary to perform at a level equivalent in difficulty, responsibility, and complexity to the next lower grade GS/GG- 14 in the Federal service and are prepared to take on greater responsibility. Generally, this would include one year or more of such specialized experience. Specialized experience for this position includes Mastery of enterprise architecture concepts, principles, methods, and practices sufficient to plan and carry out difficult and complex assignments and develop new methods, approaches, and procedures, and to provide advice and guidance on a wide range and variety of complex IT issues. Expert who understands enterprise digital capabilities and creates enlightened thoughts and transformation actions on the vision for DCSA Enterprise Digital Ecosystem that includes mission processes, mission models, and emerging domains. Extensive experience solving complex mission, workflow and technology problems ensuring IT infrastructure, platforms, and tools deliver mission capabilities. Skilled expert of IT infrastructure (networks), cloud and analytics platforms, data architecture, requirement analysis and methods to advise, coordinate and collaborate with internal and external stakeholders and senior leaders. Knowledge of Information Management/Information Technology statutes, laws, acts, regulations, policies, and directives in the Federal government, DoD, and Intelligence Community. Develop cloud computing technology planning, cloud policies, and application assessment for cloud suitability."
   },
   {
     "id":109,

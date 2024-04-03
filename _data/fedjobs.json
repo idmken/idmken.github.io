@@ -1,6 +1,6 @@
 [
   {
-    "id":112,
+    "id":113,
     "source": "",
     "title": "IT Specialist (INFOSEC)",
     "org": "",
@@ -27,6 +27,35 @@
     "summary": "n/a",
     "duties": "",
     "specialized": ""
+  },
+  {
+    "id":112,
+    "source": "https://www.usajobs.gov/job/781216400",
+    "title": "SUPERVISORY IT SPECIALIST (NETWORK SERVICES)",
+    "org": "Department of Defense",
+    "division": "Defense Counterintellgience and Security Agency (DCSA), Office of the Chief Information Officer (OCIO)",
+    "openDate": "03/12/2024",
+    "closeDate": "03/22/2024",
+    "grade": "GG-15",
+    "city": "Quantico",
+    "state": "VA",
+    "remoteJob": "no",
+    "telework": "yes",
+    "appointment": "permanent",
+    "service": "Excepted",
+    "promotionPotential": "none",
+    "jobFamily": "2210",
+    "supervisory": "yes",
+    "clearance": "ts/sci",
+    "positionRisk": "Special-Sensitive (SS)/High Risk",
+    "trustDetermination": "National security",
+    "announcement": "DCSA-24-12347179-P",
+    "controlNumber": "781216400",
+    "ncwfCode": "n/a",
+    "authority": "n/a",
+    "summary": "This position is in the Office of the Chief Information Officer (OCIO). The incumbent serves as the DCSA Chief Technology Officer (CTO) and the subject matter expert on mission processes, mission models, multi-cloud, analytics, and data environments, Zero Trust and ICAM technologies, Virtual Desktop Infrastructure (VDI), Unified Communication an Audio Visual (UC/AV), Artificial Intelligence (AI) and Machine Learning (ML).",
+    "duties": "As a SUPERVISORY IT SPECIALIST (NETWORK SERVICES) you will be responsible for the following duties Deliver critical mission support services by providing, protecting, and defending DCSA information systems, resources, and assets of the DCSA mission. This includes Architecting Joint Worldwide Intelligence Communications System (JWICS), Secret Internet Protocol Router Network (SIPRNET), Non- classified Internet Protocol Router Network (NIPRNET) and commercial communications networks and audio-visual capabilities and the continual development of the DCSA operational capability toolkit. The incumbent interacts on behalf of DCSA and the CIO with a variety of national agencies, state and local jurisdictions, DoD agencies, OSD, the Joint Staff, Military Departments, Unified Commands, and the Military Services. Key among these interactions is representing DCSA to the DoD CTO, IC CTO, and Department of Defense Intelligence Information Systems (DoDIIS) CTO. As the CTO, the incumbent leads, develops, participates, and chairs committees or matrix teams drawn from DCSA and partners at the federal, state, and local levels. In this capacity, the incumbent serves as the senior technical advisor and subject matter expert on concept and policy development, encompassing information technology and information management initiatives and issues, with special emphasis on integration, interoperability, information sharing and data management and sharing within DoD, the NISP and the IT community. Communicate complex IT technical concepts to non-technical personnel. Prepare and presents briefings to the CIO, Business Enterprise Director, Chief of Staff, DCSA Director and Deputy Director on complex and controversial issues involving DCSA IT activities and initiatives. Maintain current knowledge of commercial IT solutions to recommend Commercial Off the Shelf Software (COTS) and government Off the Shelf (GOTS) solution sets to DCSA and stakeholders. Lead internal IT functional process improvements employing advanced IM techniques. Ensure DCSA policies and procedures prevent and defend against unauthorized access to IT systems and IM programs.",
+    "specialized": "You must have specialized experience sufficient to demonstrate that you have acquired all the competencies necessary to perform at a level equivalent in difficulty, responsibility, and complexity to the next lower grade GS/GG-14 in the Federal service and are prepared to take on greater responsibility. Generally, this would include one year or more of such specialized experience. Specialized experience for this position includes: Utilizing IT capabilities in architecture, data management, system administration and enterprise operations. Analyzing and improving potential leading-edge information technologies to meet multiple, complex, evolving and highly technical customer user requirements and mission needs. Directing complex, highly visible information technology support functions for multiple user groups. Managing the IT and data management activities and tasks of an entire IT/IM organization or major components of the organization."
   },
   {
     "id":111,

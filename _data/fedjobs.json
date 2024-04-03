@@ -1,6 +1,6 @@
 [
   {
-    "id":111,
+    "id":112,
     "source": "",
     "title": "IT Specialist (INFOSEC)",
     "org": "",
@@ -27,6 +27,35 @@
     "summary": "n/a",
     "duties": "",
     "specialized": ""
+  },
+  {
+    "id":111,
+    "source": "https://www.usajobs.gov/job/776978400",
+    "title": "Program Analyst",
+    "org": "Department of Veterans Affairs",
+    "division": " Assistant Secretary for the Office of Operations, Security, and Preparedness (OSP), Identity, Credential, and Access Management (ICAM) Program Management Office (PMO)",
+    "openDate": "02/15/2024",
+    "closeDate": "02/22/2024",
+    "grade": "GS-13",
+    "city": "Washington",
+    "state": "DC",
+    "remoteJob": "no",
+    "telework": "yes",
+    "appointment": "permanent",
+    "service": "competitive",
+    "promotionPotential": "none",
+    "jobFamily": "0343",
+    "supervisory": "no",
+    "clearance": "other",
+    "positionRisk": "Non-sensitive (NS)/Low Risk",
+    "trustDetermination": "Suitability/Fitness",
+    "announcement": "CARX-24-12317625-JHu",
+    "controlNumber": "776978400",
+    "ncwfCode": "n/a",
+    "authority": "n/a",
+    "summary": "This position is located in the Identity, Credential, and Access Management (ICAM) Program Management Office (PMO) for the Assistant Secretary for the Office of Operations, Security, and Preparedness (OSP). The Program Analyst supports the initiatives of the ICAM PMO, addressing department-wide access and credentialing challenges, managing compliance with Federal guidance and VA mandates, and defining and promoting the consistent application of ICAM policies, processes, and technology across VA.",
+    "duties": "This position is located in the Identity, Credential, and Access Management (ICAM) Program Management Office (PMO). The incumbent is a Program Analyst and supports the initiatives of the ICAM PMO, including addressing department-wide digital identity and access management, managing compliance with applicable federal requirements, including OMB M-19-17, 'Enabling Mission delivery through Improved Identity, Credential, and Access Management,' National Institute of Standards and Technology Special Publication 800-63, 'Digital Identity Guidelines,' and OMB M-22-09, 'Moving the U.S. Government Toward Zero Trust Cybersecurity Principles,' and defining and promoting the consistent application of ICAM policies, processes, and technology across VA. Since the ICAM PMO implements and oversees new and emerging Federal mandates across the enterprise, it will develop new policies, procedures, guidance, and directives that affect all digital identity and access management programs VA-wide. The incumbent will be instrumental in change management and adoption activities, conduct research, gather requirements, formulate new program governance, policies, and procedures, and participate with all related Integrated Project Teams Department-wide. Specific duties include Appling federally mandated standards and industry best practices to independently analyze and develop recommendations for a Department-wide ICAM governance model built upon policies, processes, and technology guidance. Advising the ICAM Program Manager and the Senior Executive Service (SES) Director, Personnel Security and Identity Management, on new policies and procedures required to implement a department-wide ICAM program. Developing program requirements consistent with published standards and legislation; analyzing program data and results; and advising PMO Director on efficiencies and program improvements. Developing and deploying approaches for analyzing, categorizing, and managing ICAM requirements. Considering options for documenting and packaging requirements based on project type, priorities, and risks. Serving as a primary SME to establish and maintain methodologies to collect and analyze ICAM cost, schedule, and performance program data across the Department to analyze program effectiveness and efficiency.",
+    "specialized": "You must have one year of specialized experience equivalent to at least the next lower grade GS-12 in the normal line of progression for the occupation in the organization. Specialized experience is defined as experience implementing policy, processes, and guidance to improve compliance and effectively meet enterprise goals and objectives; managing change management and adoption activities to advance modernization and help meet varying requirements from multiple stakeholders; and managing risk and mitigation strategies, including preparing effective communications and briefing senior leaders on complex programs, projects, and issues to guide informed decision making in compliance activities."
   },
   {
     "id":110,

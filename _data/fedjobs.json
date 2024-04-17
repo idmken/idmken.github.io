@@ -1,6 +1,6 @@
 [
   {
-    "id":113,
+    "id":114,
     "source": "",
     "title": "IT Specialist (INFOSEC)",
     "org": "",
@@ -27,6 +27,35 @@
     "summary": "n/a",
     "duties": "",
     "specialized": ""
+  },
+  {
+    "id":113,
+    "source": "https://www.usajobs.gov/job/784522000",
+    "title": "IT Specialist (INFOSEC) (PLCYPLN)",
+    "org": "Department of the Treasury",
+    "division": "Departmental Offices, Management CFO",
+    "openDate": "04/01/2024",
+    "closeDate": "04/18/2024",
+    "grade": "GS-15",
+    "city": "Washington",
+    "state": "DC",
+    "remoteJob": "no",
+    "telework": "yes",
+    "appointment": "permanent",
+    "service": "competitive",
+    "promotionPotential": "None",
+    "jobFamily": "2210",
+    "supervisory": "no",
+    "clearance": "Top Secret",
+    "positionRisk": "n/a",
+    "trustDetermination": "n/a",
+    "announcement": "24-DO-504-DH",
+    "controlNumber": "784522000",
+    "ncwfCode": "n/a",
+    "authority": "n/a",
+    "summary": "This position is located at Departmental Offices,Management CFO- Info Systems and CIO. As a/an IT Specialist (INFOSEC) (PLCYPLN), you will serve as the Treasury Public Key Infrastructure (PKI) Policy Management Authority (PMA) and are a subject matter expert in the areas of digital services and PKI.",
+    "duties": "As an IT Specialist (INFOSEC) (PLCYPLN), you will Serve as a subject matter expert on digital services and PKI for the Department. Develop digital services and PKI policies, procedures, and technical documents. Review agency technology initiatives for technical and programmatic feasibility and adherence with organizational and federal standards. Establish and lead development-wide adoption of user experience and effectiveness measures for government digital services.",
+    "specialized": "For the GS-15, you must have one year of specialized experience at a level of difficulty and responsibility equivalent to the GS-14 grade level in the Federal service. Specialized Experience for this position includes Monitoring program compliance to requirements, regulations, or established performance levels; AND Experience with program analysis, including the experience guiding and structuring work and understanding large quantities of information and the production of a wide variety of written materials; AND Serving as a Public Key Infrastructure (PKI) Policy Management Authority (PMA) and experience with Identity, Credential and Access Management (ICAM), gained either in the public or private sector; AND Participating as a team leader on interdisciplinary project teams."
   },
   {
     "id":112,

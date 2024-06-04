@@ -1,6 +1,6 @@
 [
   {
-    "id":116,
+    "id":117,
     "source": "",
     "title": "IT Specialist (INFOSEC)",
     "org": "",
@@ -27,6 +27,35 @@
     "summary": "n/a",
     "duties": "",
     "specialized": ""
+  },
+  {
+    "id":116,
+    "source": "https://www.usajobs.gov/job/788771100",
+    "title": "IDENTITY AND ACCESS MANAGEMENT (IAM) SPECIALIST (CYBER)",
+    "org": "Department of Defense (DoD)",
+    "division": "Defense Technical Information Center (DTIC), User Services Directorate",
+    "openDate": "04/29/2024",
+    "closeDate": "05/08/2024",
+    "grade": "GS-14",
+    "city": "Fort Belvoir",
+    "state": "VA",
+    "remoteJob": "no",
+    "telework": "yes",
+    "appointment": "permanent",
+    "service": "competitive",
+    "promotionPotential": "none",
+    "jobFamily": "0301",
+    "supervisory": "no",
+    "clearance": "Secret",
+    "positionRisk": "Noncritical-Sensitive (NCS)/Moderate Risk",
+    "trustDetermination": "National Security",
+    "announcement": "D-DTIC-12347372-24",
+    "controlNumber": "788771100",
+    "ncwfCode": "n/a",
+    "authority": "n/a",
+    "summary": "The Defense Technical Information Center (DTIC) is the central facility for the acquisition, preservation, protection, retrieval, and dissemination of scientific and technical information supporting the Research and Engineering (R&E) needs of the Department of Defense, as well as federal and industry partners. DTIC ensures the innovation and knowledge stemming from DoD's past and current investment in science and technology (S&T) forms the building blocks for the next generation of discovery.",
+    "duties": "Engages in DoD enterprise Identity, Credential, and Access Management (ICAM) meetings, provides strategic- and policy-related input, and makes recommendations to directorate and Center leadership on all ICAM-related matters. Provides and coordination across the systems to ensure identity and access management technologies are integrated and meeting the appropriate policy requirements. Develops comprehensive recommendations for changes to policies, procedures, and governance that are necessary to make agency applications available to the supported user communities. Surveys the ICAM product marketplace, studies emerging ICAM technologies, and makes recommendations to directorate and Center leadership for integration into agency systems. Works with agency operational teams to prototype/pilot ICAM solutions, supports/leads ICAM integration meetings, and works with cloud SMEs to ensure that ICAM services are fully integrated. Conducts reviews and provides feedback on ICAM- Identity, Credential, and Access Management (ICAM) Strategy designs and implementations to ensure DTIC’s ICAM meets current and future user needs.",
+    "specialized": "One year of specialized experience equivalent in level of difficulty and responsibility to that of the next lower grade GS-13 within the federal service, which demonstrates the ability to perform the duties of the position, is required. Specialized experience is defined as. Experience with policies, principles, concepts, guidance, procedures, techniques, and methodologies pertaining to Identity, Credential, and Access Management (ICAM) and related information technology (IT) topics; AND S&T Distribution Statements for Access Management; AND Common service offerings within ICAM technologies; AND Experience setting policy for deployments of SailPoint, OKTA, ForgeRock, CyberArk, Azure/AWS, Active Directory, LDAP, SSO, Federations; AND Familiarity with data analytics, cloud, virtualization, remote access and mobile technologies."
   },
   {
     "id":115,

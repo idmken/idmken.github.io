@@ -1,1 +1,13 @@
+# List of IAM related things
+# event types: conference, webinar
 
+  - refid: siagovsummit
+    host: Security Industry Association
+    hostAcronym: SIA
+    eventName: Government Summit
+    type: conference
+    month: May
+    tagline: "Connecting Government, Security and Technology"
+    topics: access management
+    industry: "public sector"
+    url: "https://www.securityindustry.org/event/"

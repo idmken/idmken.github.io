@@ -1,6 +1,6 @@
 [
   {
-    "id":115,
+    "id":116,
     "source": "",
     "title": "IT Specialist (INFOSEC)",
     "org": "",
@@ -27,6 +27,35 @@
     "summary": "n/a",
     "duties": "",
     "specialized": ""
+  },
+  {
+    "id":115,
+    "source": "https://www.usajobs.gov/job/788336900",
+    "title": "IT Specialist (APPSW/SYSANALYSIS)",
+    "org": "Department of Defense (DoD)",
+    "division": "Defense Logistics Agency (DLA)",
+    "openDate": "04/24/2024",
+    "closeDate": "05/03/2024",
+    "grade": "GS-14",
+    "city": "various",
+    "state": "various",
+    "remoteJob": "no",
+    "telework": "yes",
+    "appointment": "permanent",
+    "service": "competitive",
+    "promotionPotential": "none",
+    "jobFamily": "2210",
+    "supervisory": "no",
+    "clearance": "Secret",
+    "positionRisk": "n/a",
+    "trustDetermination": "n/a",
+    "announcement": "DLAJ6-24-12395295-MP",
+    "controlNumber": "788336900",
+    "ncwfCode": "n/a",
+    "authority": "n/a",
+    "summary": "n/a",
+    "duties": "Responsible for providing support and services to the Program Executive Office (PEO) Office of the Chief Engineer, Portfolio and Program Managers, Information Operations (J6) Enterprise Service Areas (ESAs),DLA stakeholders, corporate information technology (IT) related acquisition program and technical management, enterprise, solution, technical architecture services to include technical oversight of DLA’s Defense Business Transformation (DBX) activities, current and emerging technologies, major Automated Information Management Systems (AIS) and other designated systems. Provides technical direction and guidance for the development, acquisition, testing, systems integration, product improvement, and fielding of assigned DLA IT programs. Provides technical direction and guidance for the development and implementation of enterprise priority program, such as Identity Credentialing and Access Management (ICAM), the DLA Application Programming Interface (API) Gateway, Enterprise Platform, DevSecOps, existing and emerging enterprise technical capabilities. Serves as a systems analyst and technical expert for mission-critical and/or migratory automated information systems and/or system components. Provides or perform program and technical management oversight for enterprise, solution and technical architecture, emerging systems, and contemporary systems development, systems engineering planning, analysis of alternatives, technology assessments and enhancements in support of DBX and OCE activities and services, to include control and evaluation activities to meet desired mission outcomes. Develops and recommends new policies, standards, guardrails, controls, approaches, strategies and techniques for use in addressing novel or obscure situations. Ensures technical efforts, oversight and direction provided follow DoD, DLA, J6 and project- defined software engineering practices, DoD Software Modernization Strategies, DoD Systems Engineering Framework, industry best practices, lessons learned, modern software delivery, other methodologies and are in support of industry-accepted Capability Maturity Model (CMM) software engineering principles. Advises teams of functional analysis and IT professionals in the planning, designing, training, initial fielding, operation, and maintenance of the specific applications supported and DoD business information technology systems in general. May serve as and/or perform Technical Point of Contact (TPOC) duties on behalf of as Contracting Officer Representative (COR) or Contracting Officer and serve as expert in the knowledge and procedures necessary for coordinating and evaluating timelines associated with acquisition process of IT services, software licensing, sole source justifications, and development of technical evaluation factors in support of assigned programs/projects outsourced to commercial activities. Develops and provide briefings to J6 ESA senior leaders and DLA stakeholders.",
+    "specialized": "One year of specialized experience that equipped you with the particular competencies to successfully perform the duties of the position, and is directly in or related to this position. To qualify at the GS-14 level, applicants must possess one year of specialized experience equivalent to the GS-13 level or equivalent under other pay systems in the Federal service, military or private sector. Applicants must meet eligibility requirements including time-in-grade (General Schedule (GS) positions only), time-after- competitive appointment, minimum qualifications, and any other regulatory requirements by the cut-off/closing date of the announcement. Creditable specialized experience includes. Knowledge and expertise in one or more of the following areas: cloud platforms, LowCode Platforms, DevSecOps, API's, ERP, Identity and Access Management, Digital Innovation and Modernization will be preferred. Experience in providing advice, recommendations, strategies, technical oversight, coordination, and conducts analysis, technology assessments, analysis of alternatives, architecture and design activities, project planning, roadmaps, justifications, and evaluations with emphasis upon Digital Business Transformation (DBX), Digital Innovation, COTS, ERPs, technology capabilities, requirements assessment, system/component design, development, systems engineering, software modernization strategies and methodologies, data engineering, and testing methodology. Experience in developing and performing briefs to senior leaders and providing expert guidance to Program and Portfolio Managers and technical personnel. Experience in ensuring rigorous application of systems engineering and architecture frameworks and methodologies, compliance with cybersecurity, DoD and DLA policies, principles, and knowledge in software modernization practices to the delivery of application software services. Experience in coordinating the efforts of a groups of technical personnel, management, and stakeholders who translate critical end user requirements into software system design specifications. Experience in identifying and writing requirements for any acquisitions needed for development and operation of services, hardware, software, and telecommunications environment."
   },
   {
     "id":114,

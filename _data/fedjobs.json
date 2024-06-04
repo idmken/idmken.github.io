@@ -1,6 +1,6 @@
 [
   {
-    "id":114,
+    "id":115,
     "source": "",
     "title": "IT Specialist (INFOSEC)",
     "org": "",
@@ -27,6 +27,35 @@
     "summary": "n/a",
     "duties": "",
     "specialized": ""
+  },
+  {
+    "id":114,
+    "source": "https://www.usajobs.gov/job/786751100",
+    "title": "IT Specialist (INFOSEC)",
+    "org": "Department of Commerce",
+    "division": "National Oceanic and Atmosphere Administration (NOAA), Northwest Fisheries Science Center (NWFSC); Operations, Management and Information (OMI)",
+    "openDate": "04/16/2024",
+    "closeDate": "04/22/2024",
+    "grade": "ZP-3",
+    "city": "Seattle",
+    "state": "WA",
+    "remoteJob": "no",
+    "telework": "yes",
+    "appointment": "term",
+    "service": "competitive",
+    "promotionPotential": "none",
+    "jobFamily": "2210",
+    "supervisory": "no",
+    "clearance": "n/a",
+    "positionRisk": "Moderate Risk (MR)",
+    "trustDetermination": "Suitability/Fitness",
+    "announcement": "NMFS NWFSC-24-12377696-DHA",
+    "controlNumber": "786751100",
+    "ncwfCode": "n/a",
+    "authority": "Direct Hire",
+    "summary": "This is a Direct Hire Public Notice. Please read this Public Notice in its entirety prior to submitting your application for consideration. This position is located in the Northwest Fisheries Science Center (NWFSC); Operations, Management and Information (OMI), with one vacancy in Seattle, WA.",
+    "duties": "As an IT Specialist, you will perform the following dutie. Assist team with all activities to ensure the confidentiality, integrity, and availability of systems, networks, and data through the full systems development lifecycle and the enhancement of information systems security programs, policies, procedures, and tools, in accordance with information security/assurance policies and the Federal Information Security Management Act (FISMA). Support all aspects of information technology infrastructure, from enterprise storage, virtualization, and other on-premises and cloud solutions, to authentication, technology services, and a variety of systems and applications, and coordinate solutions development, its installation, testing, and day to day operation and maintenance, monitoring, configuration, deployment, back up, restoration, security, documentation, and automation. Diagnose and resolve problems in response to customer reported incidents, and develop and manage customer service performance requirements, providing feedback on problematic trends and ensuring adherence to information security assurance policies and procedures. Manage accounts, system rights, and access to systems and equipment, and coordinate migration to new software applications through structured change management. Conduct assessments of planned and installed information systems to identify vulnerabilities, risks, and protection needs, and implement threat mitigating factors, contributing to systems contingency plans, disaster recovery procedures, updates, patches, backups and restoration.",
+    "specialized": "Applicants must possess one full year (52 weeks) of specialized experience equivalent to the ZP-2 (GS-9) in the Federal service. Specialized experience MUST include all of the following. Assisting with system administration throughout the life cycle process (e.g. Customer support, development of new security baseline configuration, or deploying patches); and Assisting with the implementation of information security policies and procedures (e.g. Identity, Credentialing, and Access Management (ICAM)). Experience with Apple MAC OS system environment. OR EDUCATION: Ph.D. or equivalent doctoral degree or 3 full years of progressively higher-level education leading to a Ph.D. or equivalent doctoral degree."
   },
   {
     "id":113,

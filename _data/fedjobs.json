@@ -1,6 +1,6 @@
 [
   {
-    "id":117,
+    "id":118,
     "source": "",
     "title": "IT Specialist (INFOSEC)",
     "org": "",
@@ -27,6 +27,35 @@
     "summary": "n/a",
     "duties": "",
     "specialized": ""
+  },
+  {
+    "id":117,
+    "source": "https://www.usajobs.gov/job/793057000",
+    "title": "General Engineer",
+    "org": "Department of Homeland Security (DHS)",
+    "division": "DHS Headquarters, Science and Technology Directorate (S&T)",
+    "openDate": "05/29/2024",
+    "closeDate": "06/03/2024",
+    "grade": "GS-15",
+    "city": "Washington",
+    "state": "DC",
+    "remoteJob": "no",
+    "telework": "yes",
+    "appointment": "permanent",
+    "service": "competitive",
+    "promotionPotential": "none",
+    "jobFamily": "0801",
+    "supervisory": "no",
+    "clearance": "Top Secret/Sensitive Compartmented Information (TS/SCI)",
+    "positionRisk": "Special-Sensitive (SS)/High Risk",
+    "trustDetermination": "National Security",
+    "announcement": "DH-12424928-24-S&T",
+    "controlNumber": "793057000",
+    "ncwfCode": "n/a",
+    "authority": "Direct Hire",
+    "summary": "This position is located in the Department of Homeland Security (DHS), Science and Technology Directorate (S&T). The primary purpose of this position is to provide expert scientific and engineering capabilities to support S&T's efforts in addressing operational challenges. Non-BU: This is a non-bargaining unit position.",
+    "duties": "As a General Engineer, GS-0801-15, your typical work assignments may include. Maintaining personal competence in assigned technical areas including Biometrics. Influencing the development of science and standards involving biometrics, focused upon modality (finger, face, iris, voice, DNA, gait, etc.), identification technology improvements, enhancements and risk mitigation technologies, and procedures for the identification and verification of individuals. All DHS-HQ announcements have a 5 business day open period due to the number of applications received.",
+    "specialized": "You qualify for the GS-15 grade level if you possess one year of specialized experience, equivalent to the GS-14 grade level in the Federal government, performing duties such as. 1) Monitoring the capability of existing and proposed biometric technology and systems to meet current and future homeland threats. 2) Resolving a broad range of critical or highly unusual scientific or engineering problems, develops innovative approaches, and determines the effectiveness and validity of proposed or current biometric policies and programs. 3) Advising leadership on concepts, technologies, requirements, and systems within area of biometrics."
   },
   {
     "id":116,

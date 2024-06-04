@@ -1,13 +1,29 @@
 # List of IAM related things
-# event types: conference, webinar
 
-  - refid: siagovsummit
-    host: Security Industry Association
-    hostAcronym: SIA
-    eventName: Government Summit
-    type: conference
-    month: May
+---
+# list of identity-focused conferences
+# event types: conference, webinar
+Events:
+  - key: siagovsummit
+    host: "Security Industry Association"
+    hostAcronym: "SIA"
+    eventName: "Government Summit"
+    eventAcronym: "SIA GovSummit"
+    type: "conference"
+    month: "May"
+    cost: "free to government"
     tagline: "Connecting Government, Security and Technology"
-    topics: access management
+    topics: "Usually physical access focused on PIV/smart cards."
+    location: "Washington, DC"
     industry: "public sector"
-    url: "https://www.securityindustry.org/event/"
+    url: "https://govsummit.securityindustry.org/"
+---
+Talks:
+#list of my talks.
+---
+Blogs:
+#list of my blog posts.
+---
+Papers:
+#list of papers published.
+...

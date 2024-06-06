@@ -17,6 +17,20 @@ Events:
     location: "Washington, DC"
     industry: "public sector"
     url: "https://govsummit.securityindustry.org/"
+
+  - key: dhssvipdemoweek
+    host: "U.S. Department of Homeland Security"
+    hostAcronym: "DHS"
+    eventName: "Silicon Valley Innovation Program Demo Week"
+    eventAcronym: "DHS SVIP Demo Week"
+    type: "conference"
+    month: "May"
+    cost: "free to everyone"
+    tagline: "Unlock amazing possibilities for homeland security and public safety!"
+    topics: "Sessions dedicated on government-focused emerging technology including specific emerging identity technology digital wallets, digital credentials, and decentralized identity."
+    location: "Washington, DC Metro Area"
+    industry: ["public sector","technology start-ups"]
+    url: "https://www.dhs.gov/science-and-technology/svip/"
 ---
 Talks:
 #list of my talks.

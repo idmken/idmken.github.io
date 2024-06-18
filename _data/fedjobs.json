@@ -1,6 +1,6 @@
 [
   {
-    "id":120,
+    "id":121,
     "source": "",
     "title": "IT Specialist (INFOSEC)",
     "org": "",
@@ -27,6 +27,35 @@
     "summary": "n/a",
     "duties": "",
     "specialized": ""
+  },
+  {
+    "id":120,
+    "source": "https://www.usajobs.gov/job/791893600",
+    "title": "Supervisory IT Specialist (INFOSEC)",
+    "org": "Department of the Treasury",
+    "division": "Departmental Offices (DO), Management CFO- Info Systems and CIO",
+    "openDate": "05/17/2024",
+    "closeDate": "05/23/2024",
+    "grade": "GS-15",
+    "city": "Washington,
+    "state": "DC",
+    "remoteJob": "no",
+    "telework": "yes",
+    "appointment": "permanent",
+    "service": "competitive",
+    "promotionPotential": "None",
+    "jobFamily": "2210",
+    "supervisory": "Yes",
+    "clearance": "Sensitive Compartmented Information",
+    "positionRisk": "n/a",
+    "trustDetermination": "n/a",
+    "announcement": "24-DO-584-DH",
+    "controlNumber": "791893600",
+    "ncwfCode": "n/a",
+    "authority": "Direct Hire",
+    "summary": "This position is located at Departmental Offices, Management CFO- Info Systems and CIO. As a Supervisory IT Specialist (INFOSEC), you will serve as a subject matter expert on matters pertaining to information systems security engineering, network security engineering, and telecommunications security engineering, ICAM security engineering, and cloud infrastructure security engineering.",
+    "duties": "As a Supervisory IT Specialist (INFOSEC), you will Manage a staff of security specialists performing duties on multiple projects and programs within the Department. Serve as advisor to the Director, Enterprise Infrastructure Cybersecurity on telecommunications, cloud, and ICAM security policy for the Department of the Treasury and its Bureaus and organizational units. Serve as subject matter expert for security engineering and architecture in enterprise implementations of wide area, local area, wireless, voice and video networks, as well as cloud infrastructure and ICAM systems. Serve as a subject matter expert on information technology issues related to security for telecommunications, data, voice, and video, ICAM, and cloud technologies. Develop new insights into situations and applies innovative solutions to make organizational improvements; designs and implements new or cutting-edge programs and processes.",
+    "specialized": "You must have one (1) year of specialized experience that has equipped you with the particular competencies/knowledge, skills and abilities to successfully perform the duties of the position. To be creditable, specialized experience must have been equivalent to at least the GS-14 level in the Federal service, public or other private sectors. Specialized experience for this position includes all of the following Developing, defining, managing and documenting cyber projects; AND Using project management tools and skills to develop and manage in-depth cybersecurity projects plans; AND Applying Federal information systems security protocols to integrate information systems security with other security disciplines; AND Developing, implementing and interpreting metrics for the evaluation of cybersecurity program effectiveness and efficiency"
   },
   {
     "id":119,

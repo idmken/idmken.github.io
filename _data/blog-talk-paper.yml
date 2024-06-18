@@ -31,6 +31,20 @@ Events:
     location: "Washington, DC Metro Area"
     industry: ["public sector","technology start-ups"]
     url: "https://www.dhs.gov/science-and-technology/svip/"
+
+  - key: euroidcloudconf
+    host: "KuppingerCole Analysts AG"
+    hostAcronym: "KuppingerCole"
+    eventName: "European Identity and Cloud Conference"
+    eventAcronym: "EIC"
+    type: "conference"
+    month: "June"
+    cost: "early bird 30% off - full price xxx"
+    tagline: "Europe’s Place to Be for the Digital ID Multiverse"
+    topics: "Anything and everything identity, with a European twist!"
+    location: "Berlin, Germany"
+    industry: "all"
+    url: "https://www.kuppingercole.com/events/eic2024"
 ---
 Talks:
 #list of my talks.

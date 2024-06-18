@@ -1,6 +1,6 @@
 [
   {
-    "id":118,
+    "id":119,
     "source": "",
     "title": "IT Specialist (INFOSEC)",
     "org": "",
@@ -27,6 +27,35 @@
     "summary": "n/a",
     "duties": "",
     "specialized": ""
+  },
+  {
+    "id":118,
+    "source": "https://www.usajobs.gov/job/781149500",
+    "title": "IT Specialist (Security)",
+    "org": "Department of the Army",
+    "division": "U.S. Army Acquisition Support Center, Program Executive Office Commaond Control Communications-Tactical Network (PEO C3T)",
+    "openDate": "03/12/2024",
+    "closeDate": "03/26/2024",
+    "grade": "NH 4",
+    "city": "Aberdeen Proving Ground",
+    "state": "MD",
+    "remoteJob": "no",
+    "telework": "yes",
+    "appointment": "permanent",
+    "service": "competitive",
+    "promotionPotential": "None",
+    "jobFamily": "2210",
+    "supervisory": "no",
+    "clearance": "Secret",
+    "positionRisk": "Noncritical-Sensitive (NCS)/Moderate Risk",
+    "trustDetermination": "National security",
+    "announcement": "MCAD249106115563HW",
+    "controlNumber": "781149500",
+    "ncwfCode": "n/a",
+    "authority": "Direct Hire",
+    "summary": "This is a Direct Hire Authority (DHA) solicitation utilizing the DHA for Certain Personnel of the DoD Workforce to recruit and appoint qualified candidates to positions in the competitive service. About the Position: This IT Specialist (Security) position is assigned to the Program Executive Office, Command Control Communications-Tactical Network (PEO C3T), PMO I2S This is a pay banded position. The NH-04 encompasses grades 14 and 15 on the General Schedule.",
+    "duties": "Serves as technical expert working with Identity, Credential and Access Management (ICAM) Stakeholders to enable the Army Zero Trust Architecture through planning, designing, requirements mapping and integration of hardware/software systems. Maintains knowledge of existing and new advancements in ICAM technology (e.g Multi-Factor Authentication (MFA), Identity Providers (IdPs), Privileged Access Management (PAM), Fast Identity Online (FIDO) and Client to Authenticator Protocols (CTAP). Leads a multi-disciplinary team of technical experts/engineers/scientists to plan, design, develop and test Army ICAM related projects. Assist Program Managers in aligning cybersecurity roadmaps and plans to Army ICAM requirements and delivery schedule. Documents and prepares factual and analytical reports WRT ICAM testing requirements. Monitor programs and acquisition documentation related to systems engineering for executability and compliance with established program decisions, ICAM Requirements, policies, cybersecurity, and Zero Trust Policies. Engages with product owners, cybersecurity staff and customer organizations concerning architecture, concepts, and developments of new or changed cybersecurity measures that pertain to ICAM.",
+    "specialized": "One year of specialized experience is defined as: 1) Analyzing new and existing security systems to verify they meet the security requirements; 2) Analyzing data to ensure issues are resolved for security systems; and 3) Preparing and presenting briefings for the organization."
   },
   {
     "id":117,

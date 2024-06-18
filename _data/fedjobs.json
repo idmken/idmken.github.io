@@ -1,6 +1,6 @@
 [
   {
-    "id":119,
+    "id":120,
     "source": "",
     "title": "IT Specialist (INFOSEC)",
     "org": "",
@@ -27,6 +27,35 @@
     "summary": "n/a",
     "duties": "",
     "specialized": ""
+  },
+  {
+    "id":119,
+    "source": "https://www.usajobs.gov/job/791168000",
+    "title": "Information Technology Spec (INFOSEC)",
+    "org": "Department of the Treasury",
+    "division": "Departmental Offices (DO), Management CFO- Info Systems and CIO",
+    "openDate": "05/14/2024",
+    "closeDate": "05/20/2024",
+    "grade": "GS-14",
+    "city": "Washington",
+    "state": "DC",
+    "remoteJob": "no",
+    "telework": "no",
+    "appointment": "permanent",
+    "service": "competitive",
+    "promotionPotential": "None",
+    "jobFamily": "2210",
+    "supervisory": "no",
+    "clearance": "Not Required",
+    "positionRisk": "n/a",
+    "trustDetermination": "n/a",
+    "announcement": "24-DO-438-DH",
+    "controlNumber": "791168000",
+    "ncwfCode": "n/a",
+    "authority": "Direct Hire",
+    "summary": "This position is located at Departmental Offices,Management CFO- Info Systems and CIO. As a/an Information Technology Spec (INFOSEC), you will be a subject matter expert in one or more computer areas. The employee provides direction and expert advice in a wide range of design activities.",
+    "duties": "As a/an Information Technology Spec (INFOSEC), you will Provide technical expertise in support of Zero Trust Architecture (ZTA) surrounding ICAM solutions to deliver cybersecurity tools, integration services and dashboards to help Treasury improve the security posture. Prioritize and schedule areas to be evaluated and develops assessment criteria. Analyze findings and develop long-range plans for security systems that minimize risks, mitigate vulnerabilities, prevent security incidents, and insure systems reliability. Consult with top management officials to develop strategies and policies that govern implementation of security and reliability procedures throughout the organization. Interpret and evaluate proposed legislation and broad-based policies concerning IT.",
+    "specialized": "For the GS-14, you must have one year of specialized experience at a level of difficulty and responsibility equivalent to the GS-13 grade level in the Federal service. Specialized Experience for this position includes  Experience monitoring program compliance to requirements, regulations, or established performance levels.; AND Experience providing technical expertise to the design, development, and implementation of ICAM policies and procedures to ensure compliance with the agency and federal guidelines; AND Experience with developing and delivering security standards, best practices, architecture and systems to ensure information system security across the enterprise; AND Experience with program analysis, including the experience guiding and structuring the work of staff and understanding large quantities of information and the production of a wide variety of written materials."
   },
   {
     "id":118,

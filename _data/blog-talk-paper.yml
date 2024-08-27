@@ -4,11 +4,26 @@
 # list of identity-focused conferences
 # event types: conference, webinar
 Events:
+  - key: iwtdi
+    host: "Fondazione Bruno Kessler"
+    hostAcronym: "FBK"
+    eventName: "International Workshop on Trends in Digital Identity"
+    eventAcronym: "TDI"
+    type: "workshop"
+    month: "April to June"
+    length: "3 days"
+    cost: "~$200"
+    tagline: "Foster collaboration to share knowledge, experiences, and best practices in the identity management field."
+    topics: "Identity management"
+    location: "Italy"
+    industry: "all"
+    url: "https://oauth.secworkshop.events/startseite"
+    
   - key: oauthsecworkshop
     host: "Varies"
     hostAcronym: "Varies"
     eventName: "OAuth Security Workshop"
-    eventAcronym: "OAuth Sec Workshop"
+    eventAcronym: "OSW"
     type: "workshop"
     month: "April to August"
     length: "3 days"

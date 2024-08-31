@@ -1,6 +1,6 @@
 [
   {
-    "id":121,
+    "id":122,
     "source": "",
     "title": "IT Specialist (INFOSEC)",
     "org": "",
@@ -27,6 +27,35 @@
     "summary": "n/a",
     "duties": "",
     "specialized": ""
+  },
+  {
+    "id":121,
+    "source": "",
+    "title": "IT Specialist (INFOSEC)",
+    "org": "",
+    "division": "",
+    "openDate": "12/19/2022",
+    "closeDate": "12/21/2022",
+    "grade": "GS-14",
+    "city": "remote",
+    "state": "remote",
+    "remoteJob": "yes",
+    "telework": "n/a",
+    "appointment": "permanent",
+    "service": "competitive",
+    "promotionPotential": "n/a",
+    "jobFamily": "2210",
+    "supervisory": "no",
+    "clearance": "n/a",
+    "positionRisk": "n/a",
+    "trustDetermination": "n/a",
+    "announcement": "22-DO-217-DH",
+    "controlNumber": "695575700",
+    "ncwfCode": "n/a",
+    "authority": "Direct Hire",
+    "summary": "This position is located at Departmental Offices,Management CFO. As an INFORMATION TECHNOLOGY SPECIALIST (INFOSEC), you will serve as a subject matter expert, providing direction and expert advice in a wide range of design activities, from requirements analysis through systems, application and or design specification and implementation, and the implementation and operation of Identity, Credential and Access Management (ICAM) Systems.",
+    "duties": "As a/an INFORMATION TECHNOLOGY SPECIALIST (INFOSEC), you will Provide technical expertise to the design, development, and implementation of ICAM policies and solutions to ensure information system security and to defend against unauthorized access to systems, networks, and data. Provide technical expertise in support of the Treasury Enterprise Continuous Diagnostics and Mitigation (CDM) Phase II implementation for Credential and Privileged Access Management Solutions to deliver cybersecurity tools, integration services and dashboards to help Treasury improve the security posture. Analyze findings and develops long-range plans for security systems that minimize risks, mitigate vulnerabilities, prevent security incidents, and insure systems reliability. Evaluate the effectiveness of existing programs. Identify opportunities to improve the enterprise-level systems that support the business processes and utilize emerging technological advances and enhance security protocols.",
+    "specialized": "Specialized experience for the GS 14 Specialized experience is one year of experience at the GS 13 level, or equivalent, that is directly related to the position, and which has equipped the candidate with the particular knowledge, skills, and abilities to successfully perform the duties of the position. Specialized experience for this position includes all of the following Experience monitoring program compliance to requirements, regulations, or established performance levels.; AND Experience providing technical expertise to the design, development, and implementation of ICAM policies and procedures to ensure compliance with the agency and federal guidelines; AND Experience with developing and delivering security standards, best practices, architecture and systems to ensure information system security across the enterprise; Experience with program analysis, including the experience guiding and structuring the work of staff and understanding large quantities of information and the production of a wide variety of written materials."
   },
   {
     "id":120,

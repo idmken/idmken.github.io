@@ -1,6 +1,6 @@
 [
   {
-    "id":123,
+    "id":124,
     "source": "",
     "title": "IT Specialist (INFOSEC)",
     "org": "",
@@ -27,6 +27,35 @@
     "summary": "n/a",
     "duties": "",
     "specialized": ""
+  },
+  {
+    "id":123,
+    "source": "https://www.usajobs.gov/job/804081400",
+    "title": "Financial Systems Analyst",
+    "org": "Department of Defense",
+    "division": "Office of the Secretary of Defense, Office of the Under Secretary of Defense for Comprtoller (OUSD(Comptroller))",
+    "openDate": "08/09/2024",
+    "closeDate": "08/15/2024",
+    "grade": "GS-13; GS-14-GS-15",
+    "city": "Pentagon, Arlington",
+    "state": "VA",
+    "remoteJob": "no",
+    "telework": "yes",
+    "appointment": "permanent",
+    "service": "competitive",
+    "promotionPotential": "15",
+    "jobFamily": "0501",
+    "supervisory": "no",
+    "clearance": "Secret",
+    "positionRisk": "Moderate Risk (MR)",
+    "trustDetermination": "Suitability/Fitness National security",
+    "announcement": "DHA-12487935-24-AMY",
+    "controlNumber": "804081400",
+    "ncwfCode": "n/a",
+    "authority": "Direct Hire",
+    "summary": "The Under Secretary of Defense (Comptroller) (USD(C))/Chief Financial Officer (CFO) of the Department of Defense (DoD) is responsible for carrying out the functions assigned by Title 10, United States Code, section 135, Public Law 81-126, PL 101-576, Chief Financial Officers Act of 1990. The USD(C) is also responsible for ensuring that the utmost economy and efficiency is applied to the programs of the Department through sound business management and effective fiscal planning and control.",
+    "duties": "Incumbents typical work assignments may include the following Directs, arranges, develops, monitors and presents analyses of financial management data and trends, and performs other in-depth professional analyses or special projects as required, to strengthen remediation oversight, accountability, and approaches for resolving material weaknesses preventing the department from obtaining a clean audit opinion. Areas may include - Entity Level Controls, Identity Credentialing Access Management (ICAM), Access Controls, Segregation of Duties, and Service Providers. Facilitate ICAM onboarding and FSD reconciliations by implementing ICAM solution/capabilities for ICOFR-relevant systems and managing and maintaining a comprehensive and accurate repository of all ICOFR-relevant applications within the DoD. Leads or supports the advocacy, oversight and program execution for the DoD Risk Management and Internal Control (RMIC) Program, including the strategic planning to integrate RMIC activities to accelerate audit remediation, evaluating complimentary user entity controls (CUECs), funds control weaknesses, and overseeing annual production of the Comptroller Level and DoD Statement of Assurance. This includes ensuring program compliance with requirements of the GAO Green Book and OMB Circular A-123, as it relates to internal control reporting responsibility for financial reporting and financial systems. Leads or supports the oversight of the Department's audit infrastructure and related Information Technology and SSAE18 audit liaison initiatives for the DoD during its consolidated audit, including monitoring PBC deliverables, maintaining the Notices of Findings and Recommendations and Corrective Action Plans database to track, monitor, and report remediation progress, including for material weaknesses, as it relates to financial systems areas of focus. Support the delivery of RMF workshops to Components and maintain the FM Overlay for the RMF program to strengthen the connection between the Federal Information Systems Control Audit Manual (FISCAM) and National Institute of Standards and Technology (NIST) guidance. Leads or supports the enhancement of service provider controls and auditor reliance on SSAE 18s by assessing audit performance, achieving favorable audit opinions and acceptable NFR closure rates, ensuring communication of examination status, updating control descriptions to address CUECs, and implementing or improving existing SSAE 18s. Expertly review and report on the status of IT Non-Financial Reports (NFRs), providing valuable insights for DoD-wide solutions, executive priorities, and remediation strategies, while effectively communicating to governance bodies for informed decision-making.",
+    "specialized": "In accordance with Department of Defense (DoD) Instruction 1300.26, DoD Financial Management Certification Program (DFMCP), this position requires a Level 2 Certification at the GS-12/13 grade level and a Level 3 Certification at the GS-14/15 grade level. If not already assigned certification at this level, the incumbent of this position must obtain this certification within two (2) years of entry on duty into this FM position. Once certified, the incumbent must meet the continuing education training requirement as outlined in DoDI 1300.26. FM workforce members may also present and maintain one of the following five professional certifications to meet any of the three DFMCP certification levels: (1) Certified Defense Financial Manager (CDFM) (Continuing education required: 80 hours every 2 years); (2) Certified Government Financial Manager (CGFM) (Continuing education required: 80 hours every 2 years); (3) Certified Information Systems Auditor (CISA) (Continuing education required: 120 hours every 3 years); (4) Certified Management Accountant (CMA) (Continuing education required: 30 hours every year); (5) Certified Public Accountant (CPA) (Continuing education required: 120 hours every 3 years). To satisfy the DFMCP certification requirement using one of the five professional certifications listed above, FM workforce members must be in an active and current status. To qualify at the GS-13, your resume must describe at least one year of experience that demonstrates the competencies necessary for immediate success in the position. Experience refers to any paid or unpaid experience, including volunteer work and Military service, that would be considered equivalent to work normally performed at the next lower grade level in the federal service. For this position, specialized experience is defined as: assisting with forecasting long-range funding needs (e.g., 3-5 years or more); and applying program assessment and process improvement methodologies. To qualify at the GS-14, your resume must describe at least one year of experience that demonstrates the competencies necessary for immediate success in the position. Experience refers to any paid or unpaid experience, including volunteer work and Military service, that would be considered equivalent to work normally performed at the next lower grade level in the federal service. For this position, specialized experience is defined as: applying operating principles and functional requirements of comptrollership, procurement, public accounting, and program management; and applying program assessment and process improvement methodologies to analyze program performance and effectiveness. To qualify at the GS-15, your resume must describe at least one year of experience that demonstrates the competencies necessary for immediate success in the position. Experience refers to any paid or unpaid experience, including volunteer work and Military service, that would be considered equivalent to work normally performed at the next lower grade level in the federal service. For this position, specialized experience is defined as: applying concepts, theories, principles, and practices of various finance and accounting functional areas necessary to address a broad range of business and financial issues; and facilitating improvements to financial management processes, systems, or organizations to improve financial management or auditability."
   },
   {
     "id":122,

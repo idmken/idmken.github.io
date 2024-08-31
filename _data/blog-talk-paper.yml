@@ -4,6 +4,36 @@
 # list of identity-focused conferences
 # event types: conference, webinar
 Events:
+  - key: iwtdi
+    host: "Fondazione Bruno Kessler"
+    hostAcronym: "FBK"
+    eventName: "International Workshop on Trends in Digital Identity"
+    eventAcronym: "TDI"
+    type: "workshop"
+    month: "April to June"
+    length: "3 days"
+    cost: "~$200"
+    tagline: "Foster collaboration to share knowledge, experiences, and best practices in the identity management field."
+    topics: "Identity management"
+    location: "Italy"
+    industry: "all"
+    url: "https://oauth.secworkshop.events/startseite"
+    
+  - key: oauthsecworkshop
+    host: "Varies"
+    hostAcronym: "Varies"
+    eventName: "OAuth Security Workshop"
+    eventAcronym: "OSW"
+    type: "workshop"
+    month: "April to August"
+    length: "3 days"
+    cost: "~$400"
+    tagline: "Venue for in-depth technical discussions on OAuth, OpenID Connect & Co."
+    topics: "OAuth, OpenID Connect, and related internet protocols."
+    location: "Varies worldwide"
+    industry: "all"
+    url: "https://oauth.secworkshop.events/startseite"
+    
   - key: siagovsummit
     host: "Security Industry Association"
     hostAcronym: "SIA"
@@ -11,6 +41,7 @@ Events:
     eventAcronym: "SIA GovSummit"
     type: "conference"
     month: "May"
+    length: "4 days"
     cost: "free to government"
     tagline: "Connecting Government, Security and Technology"
     topics: "Usually physical access focused on PIV/smart cards."
@@ -25,6 +56,7 @@ Events:
     eventAcronym: "DHS SVIP Demo Week"
     type: "conference"
     month: "May"
+    length: "3 days"
     cost: "free to everyone"
     tagline: "Unlock amazing possibilities for homeland security and public safety!"
     topics: "Sessions dedicated on government-focused emerging technology including specific emerging identity technology digital wallets, digital credentials, and decentralized identity."
@@ -39,6 +71,7 @@ Events:
     eventAcronym: "EIC"
     type: "conference"
     month: "June"
+    length: "5 days"
     cost: "early bird 30% off - full price xxx"
     tagline: "Europe’s Place to Be for the Digital ID Multiverse"
     topics: "Anything and everything identity, with a European twist!"

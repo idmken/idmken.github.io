@@ -5,7 +5,8 @@ Sources, articles or training to increase our digital identity knowledge. I've r
 ## In the Queue
 - [ABAC on AWS Tutorial By: AWS](https://docs.aws.amazon.com/IAM/latest/UserGuide/tutorial_attribute-based-access-control.html){:target="_blank"}{:rel="noopener noreferrer"} ***Want to try this out and see if you can do the same with tags on Azure.***
 - [Chesney on Cybersecurity Law, Policy, and Institutions v3.0 - March 2020](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3547103){:target="_blank"}{:rel="noopener noreferrer"} ***Comprehensive eCasebook on the interwined nature of the legal and policy questions associated with cybersecurity.***
-- [BloodHound: Six Degrees of Domain Admin Now in Azure](https://bloodhound.readthedocs.io/en/latest/index.html#bloodhound-six-degrees-of-domain-admin){:target="_blank"}{:rel="noopener noreferrer"} ***This is a cool tool to identify privilege attack paths in Active Directory and now in Azure too.***
+- [BloodHound: Six Degrees of Domain Admin Now in Azure](https://bloodhound.readthedocs.io/en/latest/index.html#bloodhound-six-degrees-of-domain-admin){:target="_blank"}{:rel="noopener noreferrer"} ***This is a cool tool to identify privilege attack paths in Active Directory and now in Entra too.***
+- [Cryptohack - A free, fun platform for learning modern cryptography](https://cryptohack.org){:target="_blank"}{:rel="noopener noreferrer"}  ***Hands-on lessons in how to use and break modern cryptogarphy.***
 
 ## Webinars and Videos
 - [Modern Phishing vs Common Phone and OTP Authentication via Yubico (9 min watch](https://www.youtube.com/watch?v=Ubpsledn4Tg){:target="_blank"}{:rel="noopener noreferrer"} ***Quick demonstration of how OTP and Push Notification authentications are not phishing-resistant.***

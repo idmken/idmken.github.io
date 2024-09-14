@@ -1,0 +1,16 @@
+# List of identity podcasts.
+
+---
+Podcasts:
+#list of popcasts.
+  - key: nonconformist2023a
+  - hosted: "NonConformist Innovation Podcast"
+  - guest: " Jeremy Grant, Managing Director, Venable"
+  - month: "12"
+  - year: "2023"
+  - title: "Digital Identity & Authentication Guidelines for State Agency Leaders with Jeremy Grant"
+  - description: "In this engaging podcast episode, Steve sits down with Jeremy Grant, a Managing Director at Venable, to discuss the evolving landscape of digital identity. The conversation initially focuses on Jeremy’s contributions through the Better Identity Coalition, highlighting its role in enhancing digital security, privacy, and convenience in collaboration with policymakers. Steve and Jeremy dive into the upcoming developments in the NIST Digital Identity Guidelines, drawing lessons from states who have successfully adopted biometrics to achieve NIST IAL2. Steve and Jeremy examine how these insights could inform future strategies for state agencies in the U.S. Looking ahead, the discussion shifts to public trust issues, particularly regarding biometric data and identity verification. Jeremy shares his insights on their impact on digital transformation and offers advice on how listeners can engage with or learn more about the initiatives of the Better Identity Coalition. Steve & Jeremy discuss highlights from the Better Identity in America: A Blueprint for State Policymakers report, and how the Better Identity Coalition collaborates with various stakeholders to promote best practices in identity management."
+  - length: "1:05:15"
+  - url: "https://www.nonconformistinnovation.com/jeremy-grant/"
+  
+---

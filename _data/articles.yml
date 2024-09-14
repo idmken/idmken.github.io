@@ -1,0 +1,15 @@
+# List of cool references
+
+---
+Articles:
+
+---
+Tutorials:
+  - tuKey: socfortress2023a
+    author: "SOCFortress"
+    title: "World's Best FREE SIEM Stack Series"
+    synopsis: "Collection of Walkthrough Videos in order to help you build your own SIEM stack using Open Source tools including Wazuh, Graylog, Grafana, Yara, and Greynoise." 
+    date: 2023-01-07
+    url: "https://socfortress.medium.com/worlds-best-free-siem-stack-series-compilation-75f12abff21e"
+---
+academicPapers:

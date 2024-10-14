@@ -1,3 +1,0 @@
-This is an IAM competency model that combines research from my dissertation with previous work and industry knowledge.
-
-Major gap in my dissertation research, which I found interested, was the lack of expertise requested around identity verification. It could be possible that IAM professionals are more focused on identity (directory management) and access (single sign-on) from an enterprise perspective.

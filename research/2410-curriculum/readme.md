@@ -1,6 +1,10 @@
 # Overview
 
-This is a proposed Identity and Access Management curriculum based on my dissertation and aligned to an IAM competency model
+This is a proposed Identity and Access Management curriculum based on my dissertation and aligned to an IAM competency model.
+
+Major gap in my dissertation research, which I found interested, was the lack of expertise requested around identity verification. It could be possible that IAM professionals are more focused on identity (directory management) and access (single sign-on) from an enterprise perspective.
+
+## Class Schedule - 16 weeks
 
 
 Week 1 - Digital identity and trust on a digital world

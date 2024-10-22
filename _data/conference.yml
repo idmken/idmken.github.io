@@ -2,6 +2,27 @@
 # event types: conference, webinar
 
 Events:
+  - key: eic2025
+    host: "KuppingerCole Analysts AG"
+    hostAcronym: "KuppingerCole"
+    eventName: "European Identity and Cloud Conference 2025"
+    eventAcronym: "EIC"
+    type: "conference"
+    month: "May"
+    length: "4 days"
+    dateStart: 2025-05-06
+    dateEnd: 2025-05-09
+    cost:
+      - Conference Early Bird - 1000 euro
+      - Conference Regular - 2500 euro
+      - Virtual Early Bird - 500 euro
+      - Virtual Regular - 1300 euro
+    tagline: "Europes Place to Be for the Digital ID Multiverse"
+    topics: "Anything and everything identity, with a European twist!"
+    location: "Berlin Conference Center (BCC) - Berlin, DE"
+    industry: "all"
+    url: "https://www.kuppingercole.com/events/eic2025"
+
   - key: iwtdi
     host: "Fondazione Bruno Kessler"
     hostAcronym: "FBK"
@@ -71,7 +92,7 @@ Events:
     month: "June"
     length: "5 days"
     cost: "early bird 30% off - full price xxx"
-    tagline: "Europe’s Place to Be for the Digital ID Multiverse"
+    tagline: "Europes Place to Be for the Digital ID Multiverse"
     topics: "Anything and everything identity, with a European twist!"
     location: "Berlin, Germany"
     industry: "all"

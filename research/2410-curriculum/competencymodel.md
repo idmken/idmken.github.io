@@ -63,19 +63,19 @@ Table 1. Identity management TKSs
 
 | Identifier | Statement | Resources |
 | ---- | ---- | ----- |
-| IK1 |	Knowledge of identity lifecycle management.	| ILM Playbook |
+| IK1 |	Knowledge of identity lifecycle management.	| 1. [U.S. Federal ILM Playbook](https://www.idmanagement.gov/playbooks/ilm/)<br>2. [IDPro Bok Overview of Digital Identity Lifecycle](https://bok.idpro.org/article/id/31/) |
 | IK2 | Knowledge of identity proofing methods, trust lengths, strengths and weaknesses. | - |	
-| IK3 | Knowledge of identity directory technology and services. | ILM Playbook |
+| IK3 | Knowledge of identity directory technology and services. | 1. [U.S. Federal ILM Playbook](https://www.idmanagement.gov/playbooks/ilm/)<br>2. [IDPro Bok Overview of Digital Identity Lifecycle](https://bok.idpro.org/article/id/31/)|
 | IK4 | Knowledge of identity resolution technology and techniques.	| - |
-| IK5 | Knowledge of privacy laws related to personal information data collection, aggregation, and maintenance. |	ICAM Policy Matrix |
-| IK6 | Knowledge of entitlements management and workflows. | ILM Playbook |
+| IK5 | Knowledge of privacy laws related to personal information data collection, aggregation, and maintenance. |	1. [ICAM Policy Matrix](https://www.idmanagement.gov/university/policymatrix/) |
+| IK6 | Knowledge of entitlements management and workflows. | 1. [U.S. Federal ILM Playbook](https://www.idmanagement.gov/playbooks/ilm/)<br>2. [IDPro Bok Overview of Digital Identity Lifecycle](https://bok.idpro.org/article/id/31/)|
 | IK7 | Knowledge of identity fraud tactics, techniques, and procedures. | - |
-| IS1 | Skill in performing identity lifecycle management. | ILM Playbook |
+| IS1 | Skill in performing identity lifecycle management. | 1. [U.S. Federal ILM Playbook](https://www.idmanagement.gov/playbooks/ilm/)<br>2. [IDPro Bok Overview of Digital Identity Lifecycle](https://bok.idpro.org/article/id/31/)|
 | IS2 | Skill in identifying the components required to complete an identity proofing process aligned to an Identity Assurance Level (IAL). | - |
 | IS3 | Skill in configuring and maintaining an identity directory service. | - |
 | IS4 | Skill in applying techniques to resolve the combination of identity attributes to a unique person. | - |
-| IS5 | Skill in preparing and executing access reviews and recertifications. | ILM Playbook |
-| IS6 | Skill in managing entitlements. | ILM Playbook |
+| IS5 | Skill in preparing and executing access reviews and recertifications. | 1. [U.S. Federal ILM Playbook](https://www.idmanagement.gov/playbooks/ilm/)<br>2. [IDPro Bok Overview of Digital Identity Lifecycle](https://bok.idpro.org/article/id/31/)|
+| IS6 | Skill in managing entitlements. | 1. [U.S. Federal ILM Playbook](https://www.idmanagement.gov/playbooks/ilm/)<br>2. [IDPro Bok Overview of Digital Identity Lifecycle](https://bok.idpro.org/article/id/31/)|
 | IS7 | Skill in identifying identity fraud TTPs given an identity proofing process. | - |	
 | IS8 | Skill in assessing identity proofing process for potential fraud. | - |
 | IT1 | Perform identity proofing activities at various IALs. | - |
@@ -83,7 +83,7 @@ Table 1. Identity management TKSs
 | IT3 | Implement a process to review identity information for currency and accuracy. | - |	
 | IT4 | Implement a redress process. | - |
 | IT5 | Conduct role and group modeling. | - |
-| IT6 | Create and automate identity lifecycle workflows (provisioning, entitlements management, identity records management, and end-user activity notifications (e.g., expiring credentials).	| ILM Playbook |
+| IT6 | Create and automate identity lifecycle workflows (provisioning, entitlements management, identity records management, and end-user activity notifications (e.g., expiring credentials)). | 1. [U.S. Federal ILM Playbook](https://www.idmanagement.gov/playbooks/ilm/)<br>2. [IDPro Bok Overview of Digital Identity Lifecycle](https://bok.idpro.org/article/id/31/)<br>3. [IdPro BoK User Provisioning](https://bok.idpro.org/article/id/84/)|
 | IT7 |	Identify identity fraud indicators given an identity proofing process. | - |
 
 ## Credential Management
@@ -94,10 +94,10 @@ Table 2. Credential management TKSs
 
 | Identifier | Statement | Resources |
 | --- | --- | ---
-| CK1 | Knowledge of credential lifecycle management. | FICAM Architecture |
+| CK1 | Knowledge of credential lifecycle management. | 1. [U.S. Federal ICAM Architecture](https://www.idmanagement.gov/arch/) |
 | CK2 | Knowledge of authenticator types, strengths, and weaknesses aligned with Authenticator Assurance Level (AAL). | - |
 | CK3 | Knowledge of authenticator binding techniques. | - |	
-| CK4 | Knowledge of Federal Public Key Infrastructure (FPKI) credential types. | FPKI Credential Types |
+| CK4 | Knowledge of Federal Public Key Infrastructure (FPKI) credential types. | 1. [U.S. Federal PKI 101](https://www.idmanagement.gov/university/fpki/#fpki-third-party-trust)<br>2. [IDPro Practical Implication of PKI](https://bok.idpro.org/article/id/80/) |
 | CK5 | Knowledge of Fast Identity Online (FIDO) standards and Web Authentication (WebAuthN). | - |	
 | CS1 | Skill in identifying an authenticator to an AAL. | - |
 | CS2 | Skill in binding various authenticators to directory records. | - |		
@@ -116,11 +116,11 @@ Table 3. Access management TSKs
 
 | Identifier | Statement | Resources | 
 | --- | --- | --- |
-| AK1 | Knowledge of the difference between authentication and authorization. | FICAM Architecture |
+| AK1 | Knowledge of the difference between authentication and authorization. | 1. [U.S. Federal ICAM Architecture](https://www.idmanagement.gov/arch/) |
 | AK2 | Knowledge of cloud authentication protocols aligned to Federation Assurance Level (FAL). | - |	
-| AK3 | Knowledge of authorization “access” models. | FICAM Architecture |
-| AK4 | Knowledge of privilege access management. | Privileged Identity Playbook |
-| AK5 | Knowledge of the two-step authentication process. | FICAM Architecture |
+| AK3 | Knowledge of authorization “access” models. | 1. [U.S. Federal ICAM Architecture](https://www.idmanagement.gov/arch/)  |
+| AK4 | Knowledge of privilege access management. | 1. [U.S. Federal Privileged Identity Playbook](https://www.idmanagement.gov/playbooks/pam/) |
+| AK5 | Knowledge of the two-step authentication process. | 1. [U.S. Federal ICAM Architecture](https://www.idmanagement.gov/arch/)  |
 | AK6 | Knowledge of secure sharing of validated attributes. | - |		
 | AS1 | Skill in identifying an appropriate authorization model based on the use case. | - |
 | AS2 | Skill in implementing authentication techniques. | - |
@@ -141,9 +141,9 @@ Table 4. Governance TKSs
 
 | Identifier | Statement | Resources |
 | --- | --- | --- |
-| GK1 | Knowledge of the digital identity risk assessment (DIRA) process. | DIRA Playbook |
+| GK1 | Knowledge of the digital identity risk assessment (DIRA) process. | 1. [Federal U.S. DIRA Playbook](https://www.idmanagement.gov/playbooks/dira/) |
 | GK2 | Knowledge of aligning IAM capabilities to DIRA results. | - |
-| GS1 | Skill in performing a DIRA. | DIRA Playbook |
+| GS1 | Skill in performing a DIRA. | 1. [Federal U.S. DIRA Playbook](https://www.idmanagement.gov/playbooks/dira/) |
 | GS2 | Skill in aligning DIRA results to IAM capabilities. | - | 		
-| GT1 | Review a DIRA conducted by a partner organization. | DIRA Playbook |
-| GT2 | Lead a DIRA with a partner organization. | DIRA Playbook |
+| GT1 | Review a DIRA conducted by a partner organization. | 1. [Federal U.S. DIRA Playbook](https://www.idmanagement.gov/playbooks/dira/) |
+| GT2 | Lead a DIRA with a partner organization. | 1. [Federal U.S. DIRA Playbook](https://www.idmanagement.gov/playbooks/dira/) |

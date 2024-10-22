@@ -2,10 +2,50 @@
 
 myTalks:
 #list of my talks.
+
+- key: identerati2024a
+  sessionTitle: Episode 51 - Digital Insanity NIST Identity Assurance Levels
+  event: Identerati Office Hours
+  host: Gluu
+  venue: Remote
+  format: Webinar
+  date: 2024-09-26
+  details:
+    - agenda:
+    - recording: <a href="https://www.youtube.com/watch?v=4aTyaaD6HKU">Recording</a>
+    - interview:
+  abstract: NIST Special Publication 800-63-3 base volume is all about digital identity risk management including conducting a risk assessment. How do you conduct a digital identity risk assessment? Tune into this episode of the identerati office hours to learn everything you need to know.
+  moderator: Mike Schwartz; Founder @ Gluu
+  panelists:
+     - "Tom Clancy; Principal ICAM Engineer @ MITRE" 
+     - "Dr. Kenneth Myers; Identity Professional"
+  press: 
+
+- key: cyberscoop2024a
+  sessionTitle: Zero Trust and the Cloud
+  event: Zero Trust Summit 2024
+  host: Cyberscoop
+  venue: International Spy Museum - Washington DC
+  format: Summit
+  date: 2022-02-15
+  details:
+    - agenda: <a href="https://zerotrustsummit.upgather.com/agenda/">Agenda</a>
+    - recording: <a href="https://zerotrustsummit.upgather.com/virtual/live/">Recording</a>
+    - interview: <a href="https://cyberscoop.com/video/ken-myers-on-gsas-approach-to-implementing-zero-trust-mandates/">Interview</a>
+  abstract: The panel will discuss the intersection of zero trust and the cloud.
+  moderator: Bill Mitchell; Senior Vice President & Executive Editor @ Scoop News Group
+  panelists:
+     - "Shane Barney; Chief Information Security Officer, U.S. Citizenship and Immigration Service @ Department of Homeland Security" 
+     - "Trevor Brenn; Manager of Engineering @ Varonis"
+     - "Dr. Kenneth Myers; Director, Identity Assurance and Trusted Access Division @ U.S. General Services Administration Office of Government-wide Policy"
+  press: 
+
 ---
 myBlogs:
 #list of my blog posts.
+
 ---
 myPapers:
 #list of papers published.
+
 ---
